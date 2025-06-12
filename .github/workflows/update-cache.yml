@@ -1,0 +1,37 @@
+name: Update MOD Cache
+
+on:
+  schedule:
+    # 毎日午前0時（UTC）に実行
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # 手動実行も可能
+
+jobs:
+  update-cache:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Install dependencies
+      run: npm install
+      
+    - name: Collect MOD information
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: node scripts/collect-mod-info.js
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add cache/mods.json
+        git diff --staged --quiet || git commit -m "Update MOD cache $(date)"
+        git push

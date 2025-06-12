@@ -1,0 +1,14 @@
+{
+  "name": "resonite-mod-cache",
+  "version": "1.0.0",
+  "description": "Cache for Resonite MOD information",
+  "main": "scripts/collect-mod-info.js",
+  "scripts": {
+    "update": "node scripts/collect-mod-info.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
