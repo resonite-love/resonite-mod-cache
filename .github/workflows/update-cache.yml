@@ -1,7 +1,6 @@
 name: Update MOD Cache
 
 on:
-  schedule:
   workflow_dispatch:
 
 jobs:
