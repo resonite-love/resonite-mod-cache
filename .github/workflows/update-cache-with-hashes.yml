@@ -1,0 +1,78 @@
+name: Update MOD Cache with Hashes
+
+on:
+  schedule:
+    # 毎月1日の午前2時（UTC）に実行
+    - cron: '0 2 1 * *'
+  workflow_dispatch:
+    # 手動実行も可能
+
+jobs:
+  update-cache:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+    
+    - name: Install dependencies
+      run: npm install
+    
+    - name: Update MOD cache with hashes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: npm run update-with-hashes
+    
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if git diff --quiet HEAD -- cache/; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add cache/
+        git commit -m "🤖 Update MOD cache with SHA256 hashes ($(date +'%Y-%m-%d'))"
+        git push
+    
+    - name: Create summary
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        echo "## 📦 MOD Cache Updated" >> $GITHUB_STEP_SUMMARY
+        echo "Successfully updated MOD cache with SHA256 hashes on $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### Files Updated:" >> $GITHUB_STEP_SUMMARY
+        echo "- \`cache/mods.json\` - MOD information with hash data" >> $GITHUB_STEP_SUMMARY
+        echo "- \`cache/hash-lookup.json\` - SHA256 hash lookup table" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f cache/mods.json ]; then
+          mod_count=$(cat cache/mods.json | jq length)
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Statistics:" >> $GITHUB_STEP_SUMMARY
+          echo "- Total MODs processed: $mod_count" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        if [ -f cache/hash-lookup.json ]; then
+          hash_count=$(cat cache/hash-lookup.json | jq 'keys | length')
+          echo "- Unique hashes collected: $hash_count" >> $GITHUB_STEP_SUMMARY
+        fi
+    
+    - name: No changes summary
+      if: steps.verify-changed-files.outputs.changed == 'false'
+      run: |
+        echo "## ℹ️ No Updates Required" >> $GITHUB_STEP_SUMMARY
+        echo "MOD cache is already up to date. No changes detected on $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
