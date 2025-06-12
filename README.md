@@ -36,9 +36,20 @@ npm run update
     "source_location": "GitHubリポジトリURL",
     "author": "作者名",
     "latest_version": "最新バージョン",
-    "latest_download_url": "ダウンロードURL",
-    "release_url": "リリースページURL",
-    "published_at": "公開日時",
+    "latest_download_url": "最新ダウンロードURL",
+    "releases": [
+      {
+        "version": "v1.2.0",
+        "download_url": "ダウンロードURL",
+        "release_url": "リリースページURL",
+        "published_at": "2024-01-15T10:30:00Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "変更ログ",
+        "file_name": "ModName.dll",
+        "file_size": 102400
+      }
+    ],
     "tags": ["タグ1", "タグ2"],
     "flags": ["フラグ1"],
     "last_updated": "最終更新日時"
@@ -46,11 +57,24 @@ npm run update
 ]
 ```
 
+## 新機能: バージョン管理
+
+### 全リリース情報の収集
+- 各MODのすべてのリリース情報を収集
+- プレリリース・ドラフト情報も含む
+- 変更ログ・ファイルサイズなど詳細情報
+
+### バージョン選択インストール
+- 特定のバージョンを選択してインストール可能
+- ダウングレード・アップグレード対応
+- プレリリース版の明示表示
+
 ## レート制限対策
 
 - GitHub Actionsの`GITHUB_TOKEN`を使用してAPI制限を緩和
-- 各API呼び出し間に100msの待機時間
+- 各API呼び出し間に200msの待機時間（全リリース取得のため延長）
 - 1日1回の更新頻度でレート制限を回避
+- ページネーション対応で大量リリースにも対応
 
 ## 利用方法
 

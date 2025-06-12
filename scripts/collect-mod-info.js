@@ -14,26 +14,40 @@ function parseGitHubUrl(url) {
   return { owner: match[1], repo: match[2] };
 }
 
-// リポジトリから最新リリース情報を取得
-async function getLatestRelease(owner, repo) {
+// リポジトリからすべてのリリース情報を取得
+async function getAllReleases(owner, repo) {
   try {
-    const { data } = await octokit.rest.repos.getLatestRelease({
+    // すべてのリリースを取得（ページネーション対応）
+    const releases = await octokit.paginate(octokit.rest.repos.listReleases, {
       owner,
       repo,
+      per_page: 100,
     });
     
-    // .dllファイルを探す
-    const dllAsset = data.assets.find(asset => asset.name.endsWith('.dll'));
+    const releaseData = releases.map(release => {
+      // .dllファイルを探す
+      const dllAsset = release.assets.find(asset => asset.name.endsWith('.dll'));
+      
+      return {
+        version: release.tag_name,
+        download_url: dllAsset?.browser_download_url || null,
+        release_url: release.html_url,
+        published_at: release.published_at,
+        prerelease: release.prerelease,
+        draft: release.draft,
+        changelog: release.body || null,
+        file_name: dllAsset?.name || null,
+        file_size: dllAsset?.size || null,
+      };
+    });
     
-    return {
-      version: data.tag_name,
-      download_url: dllAsset?.browser_download_url || null,
-      release_url: data.html_url,
-      published_at: data.published_at,
-    };
+    // 公開日時で新しい順にソート
+    releaseData.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
+    
+    return releaseData;
   } catch (error) {
-    console.warn(`Failed to get release for ${owner}/${repo}:`, error.message);
-    return null;
+    console.warn(`Failed to get releases for ${owner}/${repo}:`, error.message);
+    return [];
   }
 }
 
@@ -61,13 +75,16 @@ async function collectModInfo() {
       
       // GitHubリポジトリ情報を解析
       const repoInfo = parseGitHubUrl(modEntry.sourceLocation);
-      let releaseInfo = null;
+      let releases = [];
       
       if (repoInfo) {
-        releaseInfo = await getLatestRelease(repoInfo.owner, repoInfo.repo);
+        releases = await getAllReleases(repoInfo.owner, repoInfo.repo);
         // レート制限を避けるため少し待機
-        await new Promise(resolve => setTimeout(resolve, 100));
+        await new Promise(resolve => setTimeout(resolve, 200));
       }
+      
+      // 最新リリース情報を取得
+      const latestRelease = releases[0] || null;
       
       mods.push({
         name: modEntry.name,
@@ -75,10 +92,9 @@ async function collectModInfo() {
         category: modEntry.category,
         source_location: modEntry.sourceLocation,
         author: authorName,
-        latest_version: releaseInfo?.version || null,
-        latest_download_url: releaseInfo?.download_url || null,
-        release_url: releaseInfo?.release_url || null,
-        published_at: releaseInfo?.published_at || null,
+        latest_version: latestRelease?.version || null,
+        latest_download_url: latestRelease?.download_url || null,
+        releases: releases,
         tags: modEntry.tags || null,
         flags: modEntry.flags || null,
         last_updated: new Date().toISOString(),
@@ -106,8 +122,13 @@ async function main() {
     console.log(`Cache saved to ${cachePath}`);
     
     // 統計情報を表示
-    const withReleases = mods.filter(mod => mod.latest_version).length;
+    const withReleases = mods.filter(mod => mod.releases.length > 0).length;
+    const totalReleases = mods.reduce((sum, mod) => sum + mod.releases.length, 0);
+    const avgReleasesPerMod = withReleases > 0 ? (totalReleases / withReleases).toFixed(1) : 0;
+    
     console.log(`MODs with releases: ${withReleases}/${mods.length}`);
+    console.log(`Total releases collected: ${totalReleases}`);
+    console.log(`Average releases per MOD: ${avgReleasesPerMod}`);
     
   } catch (error) {
     console.error('Error collecting MOD information:', error);
