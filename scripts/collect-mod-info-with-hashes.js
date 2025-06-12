@@ -45,17 +45,33 @@ async function downloadAndHash(url, maxSize = 50 * 1024 * 1024) { // 50MB制限
   }
 }
 
+// APIレート制限検出とエラーハンドリング
+function isRateLimitError(error) {
+  return error.status === 403 && 
+         (error.message.includes('rate limit') || 
+          error.message.includes('API rate limit'));
+}
+
 // リポジトリからすべてのリリース情報を取得（ハッシュ情報付き）
-async function getAllReleasesWithHashes(owner, repo, calculateHashes = true) {
+async function getAllReleasesWithHashes(owner, repo, calculateHashes = true, existingReleases = []) {
   try {
     console.log(`Fetching releases for ${owner}/${repo}...`);
     
     // すべてのリリースを取得（ページネーション対応）
-    const releases = await octokit.paginate(octokit.rest.repos.listReleases, {
-      owner,
-      repo,
-      per_page: 100,
-    });
+    let releases;
+    try {
+      releases = await octokit.paginate(octokit.rest.repos.listReleases, {
+        owner,
+        repo,
+        per_page: 100,
+      });
+    } catch (error) {
+      if (isRateLimitError(error)) {
+        console.error(`Rate limit reached for ${owner}/${repo}. Using existing data if available.`);
+        return existingReleases;
+      }
+      throw error;
+    }
     
     const releaseData = [];
     
@@ -68,11 +84,50 @@ async function getAllReleasesWithHashes(owner, repo, calculateHashes = true) {
         continue;
       }
       
+      // 既存のリリース情報をチェック
+      const existingRelease = existingReleases.find(r => r.version === release.tag_name);
+      
       let hashInfo = null;
-      if (calculateHashes && dllAsset.browser_download_url) {
-        hashInfo = await downloadAndHash(dllAsset.browser_download_url);
-        // レート制限とサーバー負荷を避けるため待機
-        await new Promise(resolve => setTimeout(resolve, 1000));
+      let shouldCalculateHash = calculateHashes && dllAsset.browser_download_url;
+      
+      // force_hash_calculationがtrueの場合、ハッシュが無いリリースは強制計算
+      if (process.argv.includes('--force-hash') && existingRelease && !existingRelease.sha256) {
+        shouldCalculateHash = true;
+        console.log(`  Force calculating hash for ${release.tag_name} (missing hash)`);
+      }
+      
+      if (shouldCalculateHash) {
+        try {
+          hashInfo = await downloadAndHash(dllAsset.browser_download_url);
+          // レート制限とサーバー負荷を避けるため待機
+          await new Promise(resolve => setTimeout(resolve, 1000));
+        } catch (error) {
+          if (error.message.includes('429') || error.message.includes('rate limit')) {
+            console.warn(`Rate limit reached during hash calculation. Stopping hash calculation for ${owner}/${repo}.`);
+            // 既存のハッシュ情報を使用
+            if (existingRelease?.sha256) {
+              hashInfo = { 
+                sha256: existingRelease.sha256, 
+                file_size: existingRelease.file_size 
+              };
+            }
+          } else {
+            console.warn(`Failed to calculate hash for ${release.tag_name}:`, error.message);
+            // 既存のハッシュ情報を使用（あれば）
+            if (existingRelease?.sha256) {
+              hashInfo = { 
+                sha256: existingRelease.sha256, 
+                file_size: existingRelease.file_size 
+              };
+            }
+          }
+        }
+      } else if (existingRelease?.sha256) {
+        // キャッシュからハッシュ情報を取得
+        hashInfo = { 
+          sha256: existingRelease.sha256, 
+          file_size: existingRelease.file_size 
+        };
       }
       
       const releaseInfo = {
@@ -97,8 +152,12 @@ async function getAllReleasesWithHashes(owner, repo, calculateHashes = true) {
     console.log(`  Found ${releaseData.length} releases with DLL files`);
     return releaseData;
   } catch (error) {
+    if (isRateLimitError(error)) {
+      console.error(`API rate limit reached for ${owner}/${repo}. Using existing data.`);
+      return existingReleases;
+    }
     console.warn(`Failed to get releases for ${owner}/${repo}:`, error.message);
-    return [];
+    return existingReleases || [];
   }
 }
 
@@ -156,19 +215,52 @@ async function collectModInfoWithHashes() {
       let releases = [];
       
       if (repoInfo) {
-        // 既存キャッシュがある場合、最近更新されたもの以外はスキップ
+        // 既存キャッシュがある場合の処理
         const existingMod = existingModsMap.get(modEntry.sourceLocation);
-        const shouldCalculateHashes = !existingMod || 
+        const isOlderThan7Days = !existingMod || 
           !existingMod.last_updated || 
-          (new Date() - new Date(existingMod.last_updated)) > 7 * 24 * 60 * 60 * 1000; // 7日以上古い
+          (new Date() - new Date(existingMod.last_updated)) > 7 * 24 * 60 * 60 * 1000;
+        
+        // ハッシュを持っていないリリースがあるかチェック
+        const hasIncompleteHashes = existingMod?.releases?.some(release => 
+          release.download_url && !release.sha256
+        ) || false;
+        
+        // force_hash_calculationフラグをチェック
+        const forceHashCalculation = process.argv.includes('--force-hash');
+        
+        const shouldCalculateHashes = isOlderThan7Days || hasIncompleteHashes || forceHashCalculation;
         
         if (existingMod && !shouldCalculateHashes) {
-          console.log('  Using cached data (less than 7 days old)');
+          console.log('  Using cached data (less than 7 days old, all hashes complete)');
           releases = existingMod.releases || [];
         } else {
-          releases = await getAllReleasesWithHashes(repoInfo.owner, repoInfo.repo, shouldCalculateHashes);
-          // レート制限を避けるため少し待機
-          await new Promise(resolve => setTimeout(resolve, 500));
+          if (hasIncompleteHashes) {
+            console.log('  Updating due to incomplete hashes');
+          } else if (forceHashCalculation) {
+            console.log('  Force hash calculation enabled');
+          } else if (isOlderThan7Days) {
+            console.log('  Updating due to age (>7 days)');
+          }
+          
+          try {
+            releases = await getAllReleasesWithHashes(
+              repoInfo.owner, 
+              repoInfo.repo, 
+              shouldCalculateHashes,
+              existingMod?.releases || []
+            );
+            // レート制限を避けるため少し待機
+            await new Promise(resolve => setTimeout(resolve, 500));
+          } catch (error) {
+            if (isRateLimitError(error)) {
+              console.error(`API rate limit reached. Stopping processing.`);
+              // 現在までに処理したMODを保存して終了
+              break;
+            }
+            console.warn(`Failed to process ${modEntry.name}:`, error.message);
+            releases = existingMod?.releases || [];
+          }
         }
       }
       
@@ -254,13 +346,20 @@ async function main() {
     const totalReleases = mods.reduce((sum, mod) => sum + mod.releases.length, 0);
     const totalHashedReleases = mods.reduce((sum, mod) => 
       sum + mod.releases.filter(r => r.sha256).length, 0);
+    const releasesWithDownloadUrl = mods.reduce((sum, mod) => 
+      sum + mod.releases.filter(r => r.download_url).length, 0);
     const avgReleasesPerMod = withReleases > 0 ? (totalReleases / withReleases).toFixed(1) : 0;
-    const hashCoverage = totalReleases > 0 ? ((totalHashedReleases / totalReleases) * 100).toFixed(1) : 0;
+    const hashCoverage = releasesWithDownloadUrl > 0 ? ((totalHashedReleases / releasesWithDownloadUrl) * 100).toFixed(1) : 0;
+    const modsWithIncompleteHashes = mods.filter(mod => 
+      mod.releases.some(r => r.download_url && !r.sha256)
+    ).length;
     
     console.log(`\nStatistics:`);
     console.log(`MODs with releases: ${withReleases}/${mods.length}`);
     console.log(`Total releases collected: ${totalReleases}`);
+    console.log(`Releases with download URLs: ${releasesWithDownloadUrl}`);
     console.log(`Releases with SHA256 hash: ${totalHashedReleases} (${hashCoverage}%)`);
+    console.log(`MODs with incomplete hashes: ${modsWithIncompleteHashes}`);
     console.log(`Average releases per MOD: ${avgReleasesPerMod}`);
     console.log(`Unique hashes in lookup table: ${Object.keys(hashLookup).length}`);
     
@@ -277,13 +376,20 @@ if (args.includes('--help') || args.includes('-h')) {
 Usage: node collect-mod-info-with-hashes.js [options]
 
 Options:
-  --help, -h     Show this help message
+  --help, -h        Show this help message
+  --force-hash      Force hash calculation for all MODs, even if cached within 7 days
   
 Environment Variables:
-  GITHUB_TOKEN   GitHub personal access token (recommended for higher rate limits)
+  GITHUB_TOKEN      GitHub personal access token (recommended for higher rate limits)
 
 This script collects MOD information including SHA256 hashes of DLL files.
 It may take a significant amount of time due to file downloads and GitHub API rate limits.
+
+Smart Caching Behavior:
+- Skips hash calculation if data is less than 7 days old AND all hashes are present
+- Forces hash calculation if any releases are missing SHA256 hashes
+- Gracefully handles API rate limits by saving progress and using cached data
+- With --force-hash: calculates hashes for all MODs regardless of cache age
 
 The script generates two files:
 - cache/mods.json: Complete MOD information with release data and hashes

@@ -40,7 +40,7 @@ jobs:
       if: ${{ inputs.force_hash_calculation }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: npm run update-with-hashes
+      run: node scripts/collect-mod-info-with-hashes.js --force-hash
     
     - name: Check for changes
       id: verify-changed-files
