@@ -35,7 +35,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:07:25.477Z"
+    "last_updated": "2025-06-12T12:27:12.213Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.213Z"
+    }
   },
   {
     "name": "StopDisappearingLocomotionMenu",
@@ -60,7 +65,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:25.840Z"
+    "last_updated": "2025-06-12T12:27:12.213Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.213Z"
+    }
   },
   {
     "name": "EnableToolspawnInVR",
@@ -85,7 +95,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:26.258Z"
+    "last_updated": "2025-06-12T12:27:12.213Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.213Z"
+    }
   },
   {
     "name": "FixMirrorSteamVRIPDOffset",
@@ -110,7 +125,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:26.682Z"
+    "last_updated": "2025-06-12T12:27:12.214Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.214Z"
+    }
   },
   {
     "name": "IgnoreControllerAxis",
@@ -135,7 +155,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:27.042Z"
+    "last_updated": "2025-06-12T12:27:12.214Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.214Z"
+    }
   },
   {
     "name": "ArrayEditing",
@@ -173,7 +198,12 @@
       "list"
     ],
     "flags": null,
-    "last_updated": "2025-06-12T11:07:27.393Z"
+    "last_updated": "2025-06-12T12:27:12.214Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.214Z"
+    }
   },
   {
     "name": "NoTankControls",
@@ -209,7 +239,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:27.866Z"
+    "last_updated": "2025-06-12T12:27:12.214Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.214Z"
+    }
   },
   {
     "name": "DynBoneWrangler",
@@ -245,7 +280,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:28.243Z"
+    "last_updated": "2025-06-12T12:27:12.214Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.214Z"
+    }
   },
   {
     "name": "ResonitePlatformSpoof",
@@ -281,7 +321,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:28.694Z"
+    "last_updated": "2025-06-12T12:27:12.214Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.214Z"
+    }
   },
   {
     "name": "CloseConfirm",
@@ -317,7 +362,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:29.056Z"
+    "last_updated": "2025-06-12T12:27:12.214Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.214Z"
+    }
   },
   {
     "name": "ScalableMaterialOrbs",
@@ -353,7 +403,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:29.426Z"
+    "last_updated": "2025-06-12T12:27:12.214Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.214Z"
+    }
   },
   {
     "name": "CustomProtofluxBrowser",
@@ -455,7 +510,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:29.833Z"
+    "last_updated": "2025-06-12T12:27:12.214Z",
+    "hash_metadata": {
+      "total_releases": 8,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.214Z"
+    }
   },
   {
     "name": "Console",
@@ -491,7 +551,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:30.250Z"
+    "last_updated": "2025-06-12T12:27:12.214Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.214Z"
+    }
   },
   {
     "name": "ColourMyFiles",
@@ -527,7 +592,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:30.658Z"
+    "last_updated": "2025-06-12T12:27:12.214Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.214Z"
+    }
   },
   {
     "name": "QuestPro4Resonite",
@@ -664,7 +734,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:07:31.077Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 11,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "SlotInspectorHighlighter",
@@ -700,7 +775,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:31.459Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "libalxr-sharp",
@@ -725,7 +805,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:31.877Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "HandAligner",
@@ -761,7 +846,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:32.258Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "HostCrashGuard",
@@ -852,7 +942,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:32.652Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 7,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "ResoniteAprilFools",
@@ -888,7 +983,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:33.130Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "ResoniteMP3",
@@ -935,7 +1035,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:33.661Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "ExampleMod",
@@ -948,7 +1053,12 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:33.980Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 0,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "Thundagun",
@@ -1063,7 +1173,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:07:34.394Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 9,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "ResoniteModLoader",
@@ -1134,7 +1249,12 @@
     "flags": [
       "plugin"
     ],
-    "last_updated": "2025-06-12T11:07:34.860Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 5,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "BetterInventoryBrowser",
@@ -1302,7 +1422,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:35.259Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 14,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "NeosBetterIMESupport",
@@ -1349,7 +1474,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:35.615Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "ResoniteScreenshotExtensions",
@@ -1484,7 +1614,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:35.987Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 11,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "Discord.Net.Core",
@@ -2015,7 +2150,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:36.506Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 47,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.215Z"
+    }
   },
   {
     "name": "Discord.Net.Rest",
@@ -2546,7 +2686,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:36.986Z"
+    "last_updated": "2025-06-12T12:27:12.215Z",
+    "hash_metadata": {
+      "total_releases": 47,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "Discord.Net.Webhook",
@@ -3077,7 +3222,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:37.563Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 47,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ResonitePrivacyShield",
@@ -3139,7 +3289,12 @@
       "network"
     ],
     "flags": null,
-    "last_updated": "2025-06-12T11:07:37.988Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "VRCFTReceiver",
@@ -3224,7 +3379,12 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2025-06-12T11:07:38.550Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 6,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "BoundedUIX (djsime1's fork)",
@@ -3271,7 +3431,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:39.047Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "CopyHyperlink",
@@ -3307,7 +3472,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:39.436Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "GradientDriverEasing",
@@ -3354,7 +3524,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:39.833Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "Headless Prometheus Exporter",
@@ -3367,7 +3542,12 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:39.833Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 0,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "AlwaysResetLocalHome",
@@ -3392,7 +3572,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:40.213Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "CapturePrivateUI",
@@ -3439,7 +3624,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:40.616Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ColorDrop",
@@ -3519,7 +3709,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:41.019Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 6,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ConsistentDashboard",
@@ -3544,7 +3739,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:41.437Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "CreateWorldConfig",
@@ -3591,7 +3791,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:41.838Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "CustomInspectors",
@@ -3704,7 +3909,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:42.230Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 9,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "CustomJoinVerifierFix",
@@ -3729,7 +3939,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:42.595Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "CustomUILib",
@@ -3787,7 +4002,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:42.963Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "DefaultToolOverride",
@@ -3856,7 +4076,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:43.341Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 5,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "DisableLegacyInventory",
@@ -3894,7 +4119,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:07:43.732Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "DuplicateFix",
@@ -3963,7 +4193,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:44.110Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 5,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ExtrasButtonTweaks",
@@ -3999,7 +4234,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:44.484Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "FixGrabWorld",
@@ -4035,7 +4275,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:44.842Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "FixMigratedItemMessages",
@@ -4060,7 +4305,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:45.200Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "IKnowWhatImDoing",
@@ -4087,7 +4337,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:07:45.552Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ImGuiUnityInject",
@@ -4134,7 +4389,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:45.945Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ImportCompactor",
@@ -4170,7 +4430,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:46.319Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "InspectorScroll",
@@ -4228,7 +4493,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:46.663Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "JustBoundedUIX",
@@ -4286,7 +4556,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:47.016Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "KeyRepeatAdjust",
@@ -4311,7 +4586,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:47.374Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "LargerObjectMessagePreviews",
@@ -4347,7 +4627,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:47.769Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "LocalStorage",
@@ -4449,7 +4734,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:48.174Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 8,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "LogCleaner",
@@ -4485,7 +4775,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:48.536Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "MessageCopy",
@@ -4521,7 +4816,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:48.936Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "MyInspectors",
@@ -4601,7 +4901,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:49.345Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 6,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "NoHeadMenuDash",
@@ -4637,7 +4942,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:49.719Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "NotificationFixer",
@@ -4662,7 +4972,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:50.062Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "OutOfSightOverride",
@@ -4687,7 +5002,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:50.454Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ParentalIssues",
@@ -4734,7 +5054,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:50.822Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "PresenceToggle",
@@ -4783,7 +5108,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:07:51.251Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "QuickFolderOpener",
@@ -4841,7 +5171,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:51.637Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "RemoveComponentAttacherRestriction",
@@ -4866,7 +5201,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:52.027Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ResoniteImGuiLib",
@@ -4902,7 +5242,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:52.433Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "SessionItemModal",
@@ -4938,7 +5283,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:52.810Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ShadowDistanceChanger",
@@ -4976,7 +5326,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:07:53.287Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ShowComponentSlot",
@@ -5014,7 +5369,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:07:53.676Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ShowDelegates",
@@ -5226,7 +5586,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:54.072Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 18,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ShowDriveSource",
@@ -5306,7 +5671,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:54.469Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 6,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "SimpleInventorySearch",
@@ -5331,7 +5701,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:54.833Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "SpecialItemsLib",
@@ -5411,7 +5786,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:55.199Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 6,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ToolshelfAnarchy",
@@ -5447,7 +5827,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:55.566Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "TrackerModelSwapper",
@@ -5483,7 +5868,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:56.013Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "TransparentCameraEnabler",
@@ -5508,7 +5898,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:56.347Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "ValueProxyExtensions",
@@ -5621,7 +6016,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:56.783Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 9,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "🍀",
@@ -5657,7 +6057,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:57.122Z"
+    "last_updated": "2025-06-12T12:27:12.216Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.216Z"
+    }
   },
   {
     "name": "CherryPick",
@@ -5792,7 +6197,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:57.558Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 11,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "EffortlessEfficiency",
@@ -5817,7 +6227,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:57.926Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "Outflow",
@@ -5888,7 +6303,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:07:58.319Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 5,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ChangeJoinLeaveSound",
@@ -5913,7 +6333,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:58.708Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "FluxFinder",
@@ -5938,7 +6363,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:59.103Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ResoTabbed",
@@ -5963,7 +6393,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:59.519Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ResoniteFixContactIcons",
@@ -5999,7 +6434,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:07:59.885Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ResoniteSlotInspectorCounter",
@@ -6090,7 +6530,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:00.247Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 7,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ReArmature",
@@ -6181,7 +6626,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:00.643Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 7,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ContextMenuControl",
@@ -6206,7 +6656,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:01.011Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "DisableSRAnipal",
@@ -6253,7 +6708,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:01.388Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "Fish",
@@ -6289,7 +6749,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:01.834Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ImNotAsking",
@@ -6314,7 +6779,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:02.251Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "LogAutoFlush",
@@ -6339,7 +6809,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:02.625Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "NonPersistentInspectors",
@@ -6375,7 +6850,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:03.002Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "OpenInSteamOverlay",
@@ -6400,7 +6880,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:03.411Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "PermissionControl",
@@ -6436,7 +6921,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:03.771Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "PTTKeybinds",
@@ -6483,7 +6973,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:04.123Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ScalableWorldOrbs",
@@ -6519,7 +7014,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:04.483Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "SettingsRedux",
@@ -6579,7 +7079,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:08:04.824Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ShowSourceLocation",
@@ -6637,7 +7142,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:05.192Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "PimaxEyeTracking",
@@ -6728,7 +7238,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:05.592Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 7,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "CacheGetClapped",
@@ -6819,7 +7334,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:06.085Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 7,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "FuckMirrors",
@@ -6855,7 +7375,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:06.488Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "GTAV-Importer",
@@ -6891,7 +7416,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:06.882Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "MTLImporter",
@@ -6949,7 +7479,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:07.256Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "SVGImporter",
@@ -6985,7 +7520,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:07.647Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "SpeedyURLs",
@@ -7032,7 +7572,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:08.003Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "TarGZImporter",
@@ -7068,7 +7613,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:08.380Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "VRMLImporter",
@@ -7115,7 +7665,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:08.742Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ZipImporter",
@@ -7195,7 +7750,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:09.133Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 6,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "GetItemLink",
@@ -7314,7 +7874,12 @@
       "cheese"
     ],
     "flags": null,
-    "last_updated": "2025-06-12T11:08:09.585Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 9,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "HeadCullingMask",
@@ -7372,7 +7937,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:09.995Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "SaveItemTweaks",
@@ -7452,7 +8022,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:10.622Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 6,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "SessionTweaks",
@@ -7545,7 +8120,12 @@
       "world"
     ],
     "flags": null,
-    "last_updated": "2025-06-12T11:08:11.018Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 7,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "DisableGamepads",
@@ -7570,7 +8150,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:11.385Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "Harmony",
@@ -8189,7 +8774,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:11.952Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 55,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "HeadlessUserCulling",
@@ -8247,7 +8837,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:12.417Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "NoSteamScreenshots",
@@ -8285,7 +8880,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:08:12.784Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ResoniteIkCulling",
@@ -8431,7 +9031,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:13.164Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 12,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "StresslessHeadless",
@@ -8522,7 +9127,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:13.603Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 7,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "Lognt",
@@ -8547,7 +9157,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:13.988Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "yt-dlp Updater",
@@ -8605,7 +9220,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:14.374Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "3DDashOnScreenResonite",
@@ -8641,7 +9261,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:14.762Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "LocalAllowList",
@@ -8654,7 +9279,12 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:14.762Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 0,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "AvatarCreatorUtils",
@@ -8690,7 +9320,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:15.184Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "DeselectOwnGizmos",
@@ -8748,7 +9383,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:15.561Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "EnumDropdown",
@@ -8839,7 +9479,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:15.976Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 7,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "FixAltEnter",
@@ -8875,7 +9520,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:16.465Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "FriendlyInventoryAvatars",
@@ -8905,7 +9555,12 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2025-06-12T11:08:16.837Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ResoniteModSettings",
@@ -9073,7 +9728,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:17.249Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 14,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "Optizoom",
@@ -9175,7 +9835,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:17.655Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 8,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "OrbCartridgeAutoScoop",
@@ -9260,7 +9925,12 @@
       "orb"
     ],
     "flags": null,
-    "last_updated": "2025-06-12T11:08:18.050Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 6,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod",
@@ -9285,7 +9955,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:18.453Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "VDFaceTracking",
@@ -9365,7 +10040,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:18.866Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 6,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "HeadlessToolPermissionKickCrashFix",
@@ -9392,7 +10072,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:08:19.182Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "AccessibleFullBodyCalibrator",
@@ -9417,7 +10102,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:19.528Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ColorMyProtoFlux",
@@ -9486,7 +10176,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:19.940Z"
+    "last_updated": "2025-06-12T12:27:12.217Z",
+    "hash_metadata": {
+      "total_releases": 5,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.217Z"
+    }
   },
   {
     "name": "ComponentMemberReplicator",
@@ -9511,7 +10206,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:20.305Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   },
   {
     "name": "ComponentSearchWizard",
@@ -9591,7 +10291,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:20.681Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 6,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   },
   {
     "name": "FixSessionBrowser",
@@ -9695,7 +10400,12 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-06-12T11:08:21.125Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 8,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   },
   {
     "name": "HotReloadLib",
@@ -9775,7 +10485,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:21.520Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 6,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   },
   {
     "name": "InspectorDelegateCaller",
@@ -9844,7 +10559,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:21.921Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 5,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   },
   {
     "name": "LeftHandedProtoFlux",
@@ -9913,7 +10633,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:22.370Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 5,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   },
   {
     "name": "LogFlush",
@@ -9949,7 +10674,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:22.732Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   },
   {
     "name": "NoTankControls-InspectorScrollCompatible",
@@ -9985,7 +10715,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:23.150Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 2,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   },
   {
     "name": "ReferenceFinderWizard",
@@ -10032,7 +10767,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:23.726Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 3,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   },
   {
     "name": "ScrollableFieldEditors",
@@ -10057,7 +10797,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:24.120Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   },
   {
     "name": "WorldListSessionHider",
@@ -10115,7 +10860,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:24.478Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 4,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   },
   {
     "name": "HeadlessTweaks",
@@ -10283,7 +11033,12 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:24.856Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 14,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   },
   {
     "name": "NoDoubleTapSprint",
@@ -10308,6 +11063,11 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-06-12T11:08:25.222Z"
+    "last_updated": "2025-06-12T12:27:12.218Z",
+    "hash_metadata": {
+      "total_releases": 1,
+      "releases_with_hash": 0,
+      "last_hash_update": "2025-06-12T12:27:12.218Z"
+    }
   }
 ]
