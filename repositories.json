@@ -10,6 +10,15 @@
       "author": "Author Name",
       "tags": ["tag1", "tag2"],
       "enabled": false
+    },
+    {
+      "name": "AvatarModuleInjector",
+      "repository": "https://github.com/lill-la/AvatarModuleInjector",
+      "description": "Inject items to an avatar when equipping",
+      "category": "Avatar",
+      "author": "lill",
+      "tags": ["v0.1.0", "v0.2.0"],
+      "enabled": false
     }
   ]
 }
