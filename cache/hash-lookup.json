@@ -6270,5 +6270,27 @@
       "published_at": "2024-09-08T13:03:18Z",
       "download_url": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/download/v1.0.0/NoDoubleTapSprint.dll"
     }
+  ],
+  "eb0188dd1bcfe9b6fa77fdc4901e40d483be7c7739bb7ca307dfdd90e7986db5": [
+    {
+      "mod_name": "AvatarModuleInjector",
+      "mod_source": "https://github.com/lill-la/AvatarModuleInjector",
+      "version": "v0.2.0",
+      "file_name": "AvatarModuleInjector.dll",
+      "file_size": 14848,
+      "published_at": "2025-06-24T22:05:25Z",
+      "download_url": "https://github.com/lill-la/AvatarModuleInjector/releases/download/v0.2.0/AvatarModuleInjector.dll"
+    }
+  ],
+  "c96966a670286d8d41463fd514663fb19c644dee38c356cf612b56bcac7d4ff0": [
+    {
+      "mod_name": "AvatarModuleInjector",
+      "mod_source": "https://github.com/lill-la/AvatarModuleInjector",
+      "version": "v0.1.0",
+      "file_name": "AvatarModuleInjector.dll",
+      "file_size": 9216,
+      "published_at": "2025-06-24T11:32:04Z",
+      "download_url": "https://github.com/lill-la/AvatarModuleInjector/releases/download/v0.1.0/AvatarModuleInjector.dll"
+    }
   ]
 }
