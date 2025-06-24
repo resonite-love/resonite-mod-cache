@@ -1,0 +1,15 @@
+{
+  "description": "Additional Resonite mod repositories to monitor for releases",
+  "note": "Add your repository here via PR. Only GitHub repositories are supported.",
+  "repositories": [
+    {
+      "name": "Example Mod",
+      "repository": "https://github.com/username/repo-name",
+      "description": "Brief description of the mod",
+      "category": "Optimization",
+      "author": "Author Name",
+      "tags": ["tag1", "tag2"],
+      "enabled": false
+    }
+  ]
+}

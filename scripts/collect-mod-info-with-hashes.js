@@ -170,6 +170,19 @@ async function fetchModManifest() {
   return manifest;
 }
 
+// 追加リポジトリ設定を読み込み
+async function loadAdditionalRepositories() {
+  try {
+    const repoConfigPath = path.join(process.cwd(), 'repositories.json');
+    const data = await fs.readFile(repoConfigPath, 'utf-8');
+    const config = JSON.parse(data);
+    return config.repositories.filter(repo => repo.enabled !== false);
+  } catch (error) {
+    console.warn('No additional repositories config found or error reading it:', error.message);
+    return [];
+  }
+}
+
 // 既存のキャッシュを読み込み（ハッシュ情報を保持するため）
 async function loadExistingCache() {
   try {
@@ -185,6 +198,7 @@ async function loadExistingCache() {
 // MOD情報を収集（ハッシュ情報付き）
 async function collectModInfoWithHashes() {
   const manifest = await fetchModManifest();
+  const additionalRepos = await loadAdditionalRepositories();
   const existingCache = await loadExistingCache();
   
   // 既存キャッシュをマップに変換（高速検索用）
@@ -201,6 +215,7 @@ async function collectModInfoWithHashes() {
   for (const authorEntry of Object.values(manifest.objects)) {
     totalCount += Object.keys(authorEntry.entries).length;
   }
+  totalCount += additionalRepos.length;
   
   for (const [authorKey, authorEntry] of Object.entries(manifest.objects)) {
     // 作者名を取得
@@ -279,6 +294,7 @@ async function collectModInfoWithHashes() {
         tags: modEntry.tags || null,
         flags: modEntry.flags || null,
         last_updated: new Date().toISOString(),
+        source: 'manifest',
         hash_metadata: {
           total_releases: releases.length,
           releases_with_hash: releases.filter(r => r.sha256).length,
@@ -286,6 +302,87 @@ async function collectModInfoWithHashes() {
         }
       });
     }
+  }
+  
+  // 追加リポジトリの処理
+  console.log('\nProcessing additional repositories...');
+  for (const repo of additionalRepos) {
+    processedCount++;
+    console.log(`\n[${processedCount}/${totalCount}] Processing additional repository: ${repo.name}...`);
+    
+    const repoInfo = parseGitHubUrl(repo.repository);
+    if (!repoInfo) {
+      console.warn(`Invalid repository URL: ${repo.repository}`);
+      continue;
+    }
+    
+    // 既存キャッシュがある場合の処理
+    const existingMod = existingModsMap.get(repo.repository);
+    const isOlderThan7Days = !existingMod || 
+      !existingMod.last_updated || 
+      (new Date() - new Date(existingMod.last_updated)) > 7 * 24 * 60 * 60 * 1000;
+    
+    const hasIncompleteHashes = existingMod?.releases?.some(release => 
+      release.download_url && !release.sha256
+    ) || false;
+    
+    const forceHashCalculation = process.argv.includes('--force-hash');
+    const shouldCalculateHashes = isOlderThan7Days || hasIncompleteHashes || forceHashCalculation;
+    
+    let releases = [];
+    
+    if (existingMod && !shouldCalculateHashes) {
+      console.log('  Using cached data (less than 7 days old, all hashes complete)');
+      releases = existingMod.releases || [];
+    } else {
+      if (hasIncompleteHashes) {
+        console.log('  Updating due to incomplete hashes');
+      } else if (forceHashCalculation) {
+        console.log('  Force hash calculation enabled');
+      } else if (isOlderThan7Days) {
+        console.log('  Updating due to age (>7 days)');
+      }
+      
+      try {
+        releases = await getAllReleasesWithHashes(
+          repoInfo.owner, 
+          repoInfo.repo, 
+          shouldCalculateHashes,
+          existingMod?.releases || []
+        );
+        // レート制限を避けるため少し待機
+        await new Promise(resolve => setTimeout(resolve, 500));
+      } catch (error) {
+        if (isRateLimitError(error)) {
+          console.error(`API rate limit reached. Stopping processing.`);
+          break;
+        }
+        console.warn(`Failed to process ${repo.name}:`, error.message);
+        releases = existingMod?.releases || [];
+      }
+    }
+    
+    const latestRelease = releases[0] || null;
+    
+    mods.push({
+      name: repo.name,
+      description: repo.description,
+      category: repo.category,
+      source_location: repo.repository,
+      author: repo.author,
+      latest_version: latestRelease?.version || null,
+      latest_download_url: latestRelease?.download_url || null,
+      releases: releases,
+      tags: repo.tags || null,
+      flags: repo.flags || null,
+      last_updated: new Date().toISOString(),
+      source: 'additional',
+      hash_metadata: {
+        total_releases: releases.length,
+        releases_with_hash: releases.filter(r => r.sha256).length,
+        last_hash_update: new Date().toISOString()
+      }
+    });
   }
   
   return mods;

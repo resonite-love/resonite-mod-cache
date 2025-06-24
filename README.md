@@ -7,7 +7,10 @@
 1. **GitHub Actions**: 複数のスケジュールで自動実行
    - **週次更新**: 毎週日曜日午前1時（UTC）- 標準のMOD情報更新
    - **月次ハッシュ更新**: 毎月1日午前2時（UTC）- SHA256ハッシュ計算付き更新
-2. **データ収集**: 公式MODマニフェストを取得し、各MODのGitHubリリース情報を収集
+2. **データ収集**: 
+   - 公式MODマニフェストからMOD情報を取得
+   - `repositories.json`に追加されたリポジトリからもMOD情報を収集
+   - 各MODのGitHubリリース情報を収集
 3. **キャッシュ生成**: 収集した情報を`cache/mods.json`と`cache/hash-lookup.json`に保存
 4. **利用**: Resonite Toolsアプリケーションがこのキャッシュを使用
 
@@ -17,12 +20,15 @@
 .github/workflows/
 ├── update-cache-weekly.yml         # 週次更新ワークフロー
 └── update-cache-with-hashes.yml    # 月次ハッシュ更新ワークフロー
+.github/PULL_REQUEST_TEMPLATE/
+└── add_repository.md               # リポジトリ追加用PRテンプレート
 scripts/
 ├── collect-mod-info.js             # 標準MOD情報収集スクリプト
 └── collect-mod-info-with-hashes.js # ハッシュ計算付きスクリプト
 cache/
 ├── mods.json                       # キャッシュされたMOD情報
 └── hash-lookup.json               # SHA256ハッシュルックアップテーブル
+repositories.json                   # 追加リポジトリ設定ファイル
 package.json                        # Node.js依存関係
 ```
 
@@ -93,6 +99,34 @@ npm run update-with-hashes
   ]
 }
 ```
+
+## 追加リポジトリのサポート 🆕
+
+### 新しいMODリポジトリの追加方法
+
+公式マニフェストに含まれていないMODリポジトリを追加できるようになりました。
+
+1. **`repositories.json`を編集**: 以下の形式でリポジトリ情報を追加
+   ```json
+   {
+     "name": "Your Mod Name",
+     "repository": "https://github.com/username/repo-name",
+     "description": "Brief description of your mod",
+     "category": "Category (e.g., Optimization, UI, Gameplay)",
+     "author": "Your Name",
+     "tags": ["tag1", "tag2"],
+     "enabled": true
+   }
+   ```
+
+2. **Pull Requestを作成**: PRテンプレートに従って情報を記入
+
+3. **自動収集**: マージ後、次回の定期更新時に自動的にリリース情報が収集されます
+
+### 注意事項
+- GitHubリポジトリのみサポート
+- リリースには.dllファイルが添付されている必要があります
+- `source`フィールドで`manifest`（公式）と`additional`（追加）を区別
 
 ## 新機能: バージョン管理 & ハッシュベース検出
 

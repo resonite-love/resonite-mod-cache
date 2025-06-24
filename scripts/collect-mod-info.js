@@ -59,6 +59,19 @@ async function fetchModManifest() {
   return manifest;
 }
 
+// 追加リポジトリ設定を読み込み
+async function loadAdditionalRepositories() {
+  try {
+    const repoConfigPath = path.join(process.cwd(), 'repositories.json');
+    const data = await fs.readFile(repoConfigPath, 'utf-8');
+    const config = JSON.parse(data);
+    return config.repositories.filter(repo => repo.enabled !== false);
+  } catch (error) {
+    console.warn('No additional repositories config found or error reading it:', error.message);
+    return [];
+  }
+}
+
 // MOD情報を収集
 async function collectModInfo() {
   console.log('Fetching MOD manifest...');
@@ -66,6 +79,7 @@ async function collectModInfo() {
   
   const mods = [];
   
+  // マニフェストからMOD情報を収集
   for (const [authorKey, authorEntry] of Object.entries(manifest.objects)) {
     // 作者名を取得
     const authorName = Object.keys(authorEntry.author)[0] || authorKey;
@@ -98,8 +112,44 @@ async function collectModInfo() {
         tags: modEntry.tags || null,
         flags: modEntry.flags || null,
         last_updated: new Date().toISOString(),
+        source: 'manifest',
       });
     }
+  }
+  
+  // 追加リポジトリからMOD情報を収集
+  console.log('Loading additional repositories...');
+  const additionalRepos = await loadAdditionalRepositories();
+  
+  for (const repo of additionalRepos) {
+    console.log(`Processing additional repository: ${repo.name}...`);
+    
+    const repoInfo = parseGitHubUrl(repo.repository);
+    if (!repoInfo) {
+      console.warn(`Invalid repository URL: ${repo.repository}`);
+      continue;
+    }
+    
+    const releases = await getAllReleases(repoInfo.owner, repoInfo.repo);
+    // レート制限を避けるため少し待機
+    await new Promise(resolve => setTimeout(resolve, 200));
+    
+    const latestRelease = releases[0] || null;
+    
+    mods.push({
+      name: repo.name,
+      description: repo.description,
+      category: repo.category,
+      source_location: repo.repository,
+      author: repo.author,
+      latest_version: latestRelease?.version || null,
+      latest_download_url: latestRelease?.download_url || null,
+      releases: releases,
+      tags: repo.tags || null,
+      flags: repo.flags || null,
+      last_updated: new Date().toISOString(),
+      source: 'additional',
+    });
   }
   
   return mods;
