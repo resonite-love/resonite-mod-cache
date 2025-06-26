@@ -1,4 +1,15 @@
 {
+  "509f71ae352e8881dea221fb266f061455c85baa0eeaf09c4c331d605e4c0b32": [
+    {
+      "mod_name": "BoundedUIX",
+      "mod_source": "https://github.com/Banane9/ResoniteBoundedUIX",
+      "version": "v2.0.0",
+      "file_name": "BoundedUIX.nupkg",
+      "file_size": 67121,
+      "published_at": "2024-06-14T21:10:23Z",
+      "download_url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.0.0/BoundedUIX.nupkg"
+    }
+  ],
   "2878d3b4a61527489d0b778bb9f69e48631cf6b7e89e9d4edf2736aa1ef6efa3": [
     {
       "mod_name": "BoundedUIX",
@@ -4680,6 +4691,17 @@
       "file_size": 5120,
       "published_at": "2023-10-15T16:32:59Z",
       "download_url": "https://github.com/eai04191/ResoniteDisableGamepads/releases/download/v1.0.0/ResoniteDisableGamepads.dll"
+    }
+  ],
+  "ef73b9fe73532816908c85c6011fc6864d338929c0ec6bf04f776bd45b818aec": [
+    {
+      "mod_name": "Harmony",
+      "mod_source": "https://github.com/pardeike/Harmony",
+      "version": "v2.3.1.0",
+      "file_name": "Lib.Harmony.2.3.1.nupkg",
+      "file_size": 10746054,
+      "published_at": "2024-03-03T21:00:41Z",
+      "download_url": "https://github.com/pardeike/Harmony/releases/download/v2.3.1.0/Lib.Harmony.2.3.1.nupkg"
     }
   ],
   "bb632928114e2318d883ceb2a5e2b20734434d2ac83600791b803cac2ec59131": [
