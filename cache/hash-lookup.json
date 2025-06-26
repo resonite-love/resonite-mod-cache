@@ -840,6 +840,17 @@
       "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.0/QuestProModule.dll"
     }
   ],
+  "cfe80b912f859e31b16c8273c6585098c91d75b4dc5ce74d20a372fe5cda7675": [
+    {
+      "mod_name": "SlotInspectorHighlighter",
+      "mod_source": "https://github.com/sjsanjsrh/SlotInspectorHighlighter",
+      "version": "v1.0.2",
+      "file_name": "SlotInspectorHighlighter.dll",
+      "file_size": 7168,
+      "published_at": "2025-06-23T10:02:38Z",
+      "download_url": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/download/v1.0.2/SlotInspectorHighlighter.dll"
+    }
+  ],
   "a0a2f0cf0586adf224a94b20f4f9f8afd317990521db632d04ced4a22cd2b8d3": [
     {
       "mod_name": "SlotInspectorHighlighter",
@@ -1349,6 +1360,17 @@
       "file_size": 10240,
       "published_at": "2022-11-09T16:20:11Z",
       "download_url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/download/v1.0.0/NeosBetterIMESupport.dll"
+    }
+  ],
+  "07e640889e80b9686da52f43caf20222ac5683d0bc7104cd0740d4d7d3146511": [
+    {
+      "mod_name": "ResoniteScreenshotExtensions",
+      "mod_source": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions",
+      "version": "v2.0.3",
+      "file_name": "ResoniteScreenshotExtensions.dll",
+      "file_size": 53760,
+      "published_at": "2025-06-25T11:44:47Z",
+      "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.3/ResoniteScreenshotExtensions.dll"
     }
   ],
   "7353a9fca4c8d8ae773d4959981385505da7a002cc1db3423a59fb710986aa13": [
@@ -6269,6 +6291,72 @@
       "file_size": 5632,
       "published_at": "2024-09-08T13:03:18Z",
       "download_url": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/download/v1.0.0/NoDoubleTapSprint.dll"
+    }
+  ],
+  "381e6f8c088e516528a95ac9ba4b32c66535d56077e193425fbacb03652ead8a": [
+    {
+      "mod_name": "AvatarModuleInjector",
+      "mod_source": "https://github.com/lill-la/AvatarModuleInjector",
+      "version": "v0.7.1",
+      "file_name": "AvatarModuleInjector.dll",
+      "file_size": 24064,
+      "published_at": "2025-06-26T06:11:03Z",
+      "download_url": "https://github.com/lill-la/AvatarModuleInjector/releases/download/v0.7.1/AvatarModuleInjector.dll"
+    }
+  ],
+  "1102ae60cfa73a384588b9c47cc8b85616d4c22700813f418b3e5c32fc6396bb": [
+    {
+      "mod_name": "AvatarModuleInjector",
+      "mod_source": "https://github.com/lill-la/AvatarModuleInjector",
+      "version": "v0.7.0",
+      "file_name": "AvatarModuleInjector.dll",
+      "file_size": 24064,
+      "published_at": "2025-06-26T05:53:52Z",
+      "download_url": "https://github.com/lill-la/AvatarModuleInjector/releases/download/v0.7.0/AvatarModuleInjector.dll"
+    }
+  ],
+  "af50f0cd21ef5dbbd8c5930c363c470806a3421be62300055b7ba5758708ebab": [
+    {
+      "mod_name": "AvatarModuleInjector",
+      "mod_source": "https://github.com/lill-la/AvatarModuleInjector",
+      "version": "v0.6.0",
+      "file_name": "AvatarModuleInjector.dll",
+      "file_size": 22016,
+      "published_at": "2025-06-26T05:30:31Z",
+      "download_url": "https://github.com/lill-la/AvatarModuleInjector/releases/download/v0.6.0/AvatarModuleInjector.dll"
+    }
+  ],
+  "3557e282a6dd25b76cdd69fdf5415772da3e21048f24ae1419503f0d6595af4f": [
+    {
+      "mod_name": "AvatarModuleInjector",
+      "mod_source": "https://github.com/lill-la/AvatarModuleInjector",
+      "version": "v0.5.0",
+      "file_name": "AvatarModuleInjector.dll",
+      "file_size": 20992,
+      "published_at": "2025-06-26T03:33:54Z",
+      "download_url": "https://github.com/lill-la/AvatarModuleInjector/releases/download/v0.5.0/AvatarModuleInjector.dll"
+    }
+  ],
+  "c456c5a5609c77c0bb24a1ec75139d42d7f5a2fbdfd73ce6c0081705ef583dcc": [
+    {
+      "mod_name": "AvatarModuleInjector",
+      "mod_source": "https://github.com/lill-la/AvatarModuleInjector",
+      "version": "v0.4.0",
+      "file_name": "AvatarModuleInjector.dll",
+      "file_size": 18432,
+      "published_at": "2025-06-26T02:26:43Z",
+      "download_url": "https://github.com/lill-la/AvatarModuleInjector/releases/download/v0.4.0/AvatarModuleInjector.dll"
+    }
+  ],
+  "19c740a158444f8c54899b726b53f8cf7313c529443d8a01d3e6cd4e467da6e6": [
+    {
+      "mod_name": "AvatarModuleInjector",
+      "mod_source": "https://github.com/lill-la/AvatarModuleInjector",
+      "version": "v0.3.0",
+      "file_name": "AvatarModuleInjector.dll",
+      "file_size": 15872,
+      "published_at": "2025-06-25T00:34:30Z",
+      "download_url": "https://github.com/lill-la/AvatarModuleInjector/releases/download/v0.3.0/AvatarModuleInjector.dll"
     }
   ],
   "eb0188dd1bcfe9b6fa77fdc4901e40d483be7c7739bb7ca307dfdd90e7986db5": [
