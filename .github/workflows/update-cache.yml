@@ -1,6 +1,9 @@
-name: Update MOD Cache Weekly
+name: Update MOD Cache
 
 on:
+  schedule:
+    # 15分ごとに実行
+    - cron: '*/15 * * * *'
   workflow_dispatch:
     # 手動実行も可能
     inputs:
@@ -58,16 +61,16 @@ jobs:
         git config --local user.name "GitHub Action"
         git add cache/
         if [ "${{ inputs.force_hash_calculation }}" == "true" ]; then
-          git commit -m "🔄 Weekly MOD cache update with forced hash calculation ($(date +'%Y-%m-%d'))"
+          git commit -m "🔄 MOD cache update with forced hash calculation ($(date +'%Y-%m-%d %H:%M'))"
         else
-          git commit -m "🔄 Weekly MOD cache update ($(date +'%Y-%m-%d'))"
+          git commit -m "🔄 MOD cache update ($(date +'%Y-%m-%d %H:%M'))"
         fi
         git push
     
     - name: Create summary
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
-        echo "## 🔄 Weekly MOD Cache Update" >> $GITHUB_STEP_SUMMARY
+        echo "## 🔄 MOD Cache Update" >> $GITHUB_STEP_SUMMARY
         if [ "${{ inputs.force_hash_calculation }}" == "true" ]; then
           echo "Successfully updated MOD cache with **forced hash calculation** on $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
         else
