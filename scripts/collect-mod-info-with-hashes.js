@@ -76,11 +76,13 @@ async function getAllReleasesWithHashes(owner, repo, calculateHashes = true, exi
     const releaseData = [];
     
     for (const release of releases) {
-      // .dllファイルを探す
-      const dllAsset = release.assets.find(asset => asset.name.endsWith('.dll'));
+      // .dllファイルまたは.nupkgファイルを探す
+      const modAsset = release.assets.find(asset => 
+        asset.name.endsWith('.dll') || asset.name.endsWith('.nupkg')
+      );
       
-      if (!dllAsset) {
-        console.log(`  No DLL found in release ${release.tag_name}`);
+      if (!modAsset) {
+        console.log(`  No DLL or NUPKG found in release ${release.tag_name}`);
         continue;
       }
       
@@ -88,7 +90,7 @@ async function getAllReleasesWithHashes(owner, repo, calculateHashes = true, exi
       const existingRelease = existingReleases.find(r => r.version === release.tag_name);
       
       let hashInfo = null;
-      let shouldCalculateHash = calculateHashes && dllAsset.browser_download_url;
+      let shouldCalculateHash = calculateHashes && modAsset.browser_download_url;
       
       // force_hash_calculationがtrueの場合、ハッシュが無いリリースは強制計算
       if (process.argv.includes('--force-hash') && existingRelease && !existingRelease.sha256) {
@@ -98,7 +100,7 @@ async function getAllReleasesWithHashes(owner, repo, calculateHashes = true, exi
       
       if (shouldCalculateHash) {
         try {
-          hashInfo = await downloadAndHash(dllAsset.browser_download_url);
+          hashInfo = await downloadAndHash(modAsset.browser_download_url);
           // レート制限とサーバー負荷を避けるため待機
           await new Promise(resolve => setTimeout(resolve, 1000));
         } catch (error) {
@@ -132,14 +134,14 @@ async function getAllReleasesWithHashes(owner, repo, calculateHashes = true, exi
       
       const releaseInfo = {
         version: release.tag_name,
-        download_url: dllAsset.browser_download_url || null,
+        download_url: modAsset.browser_download_url || null,
         release_url: release.html_url,
         published_at: release.published_at,
         prerelease: release.prerelease,
         draft: release.draft,
         changelog: release.body || null,
-        file_name: dllAsset.name || null,
-        file_size: hashInfo?.file_size || dllAsset.size || null,
+        file_name: modAsset.name || null,
+        file_size: hashInfo?.file_size || modAsset.size || null,
         sha256: hashInfo?.sha256 || null,
       };
       
@@ -479,7 +481,7 @@ Options:
 Environment Variables:
   GITHUB_TOKEN      GitHub personal access token (recommended for higher rate limits)
 
-This script collects MOD information including SHA256 hashes of DLL files.
+This script collects MOD information including SHA256 hashes of DLL and NUPKG files.
 It may take a significant amount of time due to file downloads and GitHub API rate limits.
 
 Smart Caching Behavior:

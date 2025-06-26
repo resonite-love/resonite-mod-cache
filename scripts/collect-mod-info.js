@@ -25,19 +25,21 @@ async function getAllReleases(owner, repo) {
     });
     
     const releaseData = releases.map(release => {
-      // .dllファイルを探す
-      const dllAsset = release.assets.find(asset => asset.name.endsWith('.dll'));
+      // .dllファイルまたは.nupkgファイルを探す
+      const modAsset = release.assets.find(asset => 
+        asset.name.endsWith('.dll') || asset.name.endsWith('.nupkg')
+      );
       
       return {
         version: release.tag_name,
-        download_url: dllAsset?.browser_download_url || null,
+        download_url: modAsset?.browser_download_url || null,
         release_url: release.html_url,
         published_at: release.published_at,
         prerelease: release.prerelease,
         draft: release.draft,
         changelog: release.body || null,
-        file_name: dllAsset?.name || null,
-        file_size: dllAsset?.size || null,
+        file_name: modAsset?.name || null,
+        file_size: modAsset?.size || null,
       };
     });
     
