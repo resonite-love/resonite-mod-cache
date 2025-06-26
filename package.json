@@ -4,7 +4,8 @@
   "description": "Cache for Resonite MOD information",
   "main": "scripts/collect-mod-info.js",
   "scripts": {
-    "update": "node scripts/collect-mod-info.js",
+    "update": "node scripts/update-mod-cache.js",
+    "update-basic": "node scripts/collect-mod-info.js",
     "update-with-hashes": "node scripts/collect-mod-info-with-hashes.js"
   },
   "dependencies": {

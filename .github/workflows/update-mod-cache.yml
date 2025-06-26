@@ -1,4 +1,4 @@
-name: Update MOD Cache with Hashes
+name: Update MOD Cache
 
 on:
   schedule:
@@ -27,30 +27,10 @@ jobs:
     - name: Install dependencies
       run: npm install
     
-    - name: Check for MOD updates
-      id: check-updates
+    - name: Update MOD cache
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        # First run the standard update to check for new releases
-        npm run update
-        
-        # Check if there were any changes
-        if git diff --quiet HEAD -- cache/mods.json; then
-          echo "has_updates=false" >> $GITHUB_OUTPUT
-          echo "No new MOD releases detected"
-        else
-          echo "has_updates=true" >> $GITHUB_OUTPUT
-          echo "New MOD releases detected, will calculate hashes"
-          # Reset changes for hash calculation
-          git checkout -- cache/mods.json
-        fi
-    
-    - name: Update MOD cache with hashes
-      if: steps.check-updates.outputs.has_updates == 'true'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: npm run update-with-hashes
+      run: node scripts/update-mod-cache.js
     
     - name: Check for changes
       id: verify-changed-files
@@ -67,14 +47,14 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add cache/
-        git commit -m "🤖 Update MOD cache with SHA256 hashes ($(date +'%Y-%m-%d %H:%M'))"
+        git commit -m "🤖 Update MOD cache ($(date +'%Y-%m-%d %H:%M'))"
         git push
     
     - name: Create summary
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
         echo "## 📦 MOD Cache Updated" >> $GITHUB_STEP_SUMMARY
-        echo "Successfully updated MOD cache with SHA256 hashes on $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+        echo "Successfully updated MOD cache on $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "### Files Updated:" >> $GITHUB_STEP_SUMMARY
         echo "- \`cache/mods.json\` - MOD information with hash data" >> $GITHUB_STEP_SUMMARY
@@ -91,15 +71,24 @@ jobs:
           hash_count=$(cat cache/hash-lookup.json | jq 'keys | length')
           echo "- Unique hashes collected: $hash_count" >> $GITHUB_STEP_SUMMARY
         fi
-    
-    - name: No updates detected summary
-      if: steps.check-updates.outputs.has_updates == 'false'
-      run: |
-        echo "## ⏭️ No New MOD Releases" >> $GITHUB_STEP_SUMMARY
-        echo "No new MOD releases detected on $(date +'%Y-%m-%d %H:%M:%S UTC'). Hash calculation skipped." >> $GITHUB_STEP_SUMMARY
+        
+        # 新しくハッシュが計算されたリリースをカウント
+        if [ -f cache/mods.json ]; then
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Hash Calculation Summary:" >> $GITHUB_STEP_SUMMARY
+          total_releases=$(cat cache/mods.json | jq '[.[].releases | length] | add')
+          releases_with_hash=$(cat cache/mods.json | jq '[.[].releases[] | select(.sha256 != null)] | length')
+          echo "- Total releases: $total_releases" >> $GITHUB_STEP_SUMMARY
+          echo "- Releases with hash: $releases_with_hash" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "$total_releases" -gt 0 ]; then
+            percentage=$(echo "scale=1; $releases_with_hash * 100 / $total_releases" | bc)
+            echo "- Hash coverage: ${percentage}%" >> $GITHUB_STEP_SUMMARY
+          fi
+        fi
     
     - name: No changes summary
-      if: steps.check-updates.outputs.has_updates == 'true' && steps.verify-changed-files.outputs.changed == 'false'
+      if: steps.verify-changed-files.outputs.changed == 'false'
       run: |
         echo "## ℹ️ No Updates Required" >> $GITHUB_STEP_SUMMARY
         echo "MOD cache is already up to date. No changes detected on $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
