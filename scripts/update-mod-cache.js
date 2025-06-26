@@ -241,16 +241,16 @@ async function collectModInfo() {
   console.log('\n--- Processing additional repositories ---');
   for (const repo of additionalRepos) {
     processedCount++;
-    console.log(`\n[${processedCount}/${totalCount}] Processing ${repo.name || repo.url}...`);
+    console.log(`\n[${processedCount}/${totalCount}] Processing ${repo.name || repo.repository}...`);
     
-    const repoInfo = parseGitHubUrl(repo.url);
+    const repoInfo = parseGitHubUrl(repo.repository);
     if (!repoInfo) {
-      console.warn(`Invalid GitHub URL: ${repo.url}`);
+      console.warn(`Invalid GitHub URL: ${repo.repository}`);
       continue;
     }
     
     // 既存のリリース情報を取得
-    const existingMod = existingModsMap.get(repo.url);
+    const existingMod = existingModsMap.get(repo.repository);
     const existingReleases = existingMod?.releases || [];
     
     try {
@@ -261,7 +261,7 @@ async function collectModInfo() {
         name: repo.name || `${repoInfo.owner}/${repoInfo.repo}`,
         description: repo.description || null,
         category: repo.category || 'Other',
-        source_location: repo.url,
+        source_location: repo.repository,
         author: repo.author || repoInfo.owner,
         latest_version: latestRelease?.version || null,
         latest_download_url: latestRelease?.download_url || null,
