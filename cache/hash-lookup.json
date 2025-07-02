@@ -2260,12 +2260,26 @@
     "file_name": "Outflow.dll",
     "file_size": 12288
   },
+  "ec0ca26addc0c3bb8712ac2d0a1ab009d44109640f35b2d9bd1b42b24cdad8be": {
+    "mod_name": "ChangeJoinLeaveSound",
+    "version": "1.0.1",
+    "download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.1/ChangeJoinLeaveSound.dll",
+    "file_name": "ChangeJoinLeaveSound.dll",
+    "file_size": 10240
+  },
   "6c620e015c0d79fefb4f22c1c421cf60c31482dd3d5e3dda683d61e040ad56d4": {
     "mod_name": "ChangeJoinLeaveSound",
     "version": "1.0.0",
     "download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.0/ChangeJoinLeaveSound.dll",
     "file_name": "ChangeJoinLeaveSound.dll",
     "file_size": 11776
+  },
+  "7f274b03a7c55508b301a53add5529994557f342b8656df412a336cbf474f46d": {
+    "mod_name": "FluxFinder",
+    "version": "1.0.1",
+    "download_url": "https://github.com/NepuShiro/FluxFinder/releases/download/1.0.1/FluxFinder.dll",
+    "file_name": "FluxFinder.dll",
+    "file_size": 7680
   },
   "0cc60114c1d5027dcc662f6b9b6de56a51e4a66333e44bbc3c22860193b5c1ed": {
     "mod_name": "FluxFinder",
@@ -2274,12 +2288,26 @@
     "file_name": "FluxFinder.dll",
     "file_size": 7680
   },
+  "4cb0ec4aba5522f7fc529cec45bd39e4df9e1d3f611625a29f43218d27c512a8": {
+    "mod_name": "ResoTabbed",
+    "version": "1.1.0",
+    "download_url": "https://github.com/NepuShiro/ResoTabbed/releases/download/1.1.0/ResoTabbed.dll",
+    "file_name": "ResoTabbed.dll",
+    "file_size": 7680
+  },
   "f8ba58713e57f0a429b4665077950091e4f144d2f4a028b4a91c543536de4992": {
     "mod_name": "ResoTabbed",
     "version": "1.0.0",
     "download_url": "https://github.com/NepuShiro/ResoTabbed/releases/download/1.0.0/ResoTabbed.dll",
     "file_name": "ResoTabbed.dll",
     "file_size": 6656
+  },
+  "93c30ea4c388700559aa05d18e4ee08eb34a85eb4f8fa555593caf1f3291a329": {
+    "mod_name": "ResoniteFixContactIcons",
+    "version": "1.2.0",
+    "download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.2.0/ResoniteFixContactIcons.dll",
+    "file_name": "ResoniteFixContactIcons.dll",
+    "file_size": 10752
   },
   "57257b9cb9fd10cdeb05c265c2649f5896769d64ff05615140a811d9e37b30b9": {
     "mod_name": "ResoniteFixContactIcons",
@@ -2301,6 +2329,13 @@
     "download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.0.0/ResoniteFixContactIcons.dll",
     "file_name": "ResoniteFixContactIcons.dll",
     "file_size": 16896
+  },
+  "a6d2523a41ace4306ada10fafc854f8678d7388236b82834203d8569ba72b2ab": {
+    "mod_name": "ResoniteSlotInspectorCounter",
+    "version": "1.6.0",
+    "download_url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.6.0/ResoniteSlotInspectorCounter.dll",
+    "file_name": "ResoniteSlotInspectorCounter.dll",
+    "file_size": 14848
   },
   "67e229fa48d362a9a5ca717d554e3cd926c2feb9252d42e8045bebdc2f1340c2": {
     "mod_name": "ResoniteSlotInspectorCounter",
