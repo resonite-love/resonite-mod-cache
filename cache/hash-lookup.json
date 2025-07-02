@@ -2260,6 +2260,13 @@
     "file_name": "Outflow.dll",
     "file_size": 12288
   },
+  "8e67f454244a42f5765b6692916a03951788b4ff32be71326bd8ba09dee797a2": {
+    "mod_name": "ChangeJoinLeaveSound",
+    "version": "1.0.2",
+    "download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.2/ChangeJoinLeaveSound.dll",
+    "file_name": "ChangeJoinLeaveSound.dll",
+    "file_size": 10240
+  },
   "ec0ca26addc0c3bb8712ac2d0a1ab009d44109640f35b2d9bd1b42b24cdad8be": {
     "mod_name": "ChangeJoinLeaveSound",
     "version": "1.0.1",
