@@ -37,7 +37,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:57:41.921Z",
+    "last_updated": "2025-07-02T05:25:59.709Z",
     "source": "manifest"
   },
   {
@@ -64,7 +64,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:42.606Z",
+    "last_updated": "2025-07-02T05:26:00.387Z",
     "source": "manifest"
   },
   {
@@ -91,7 +91,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:43.267Z",
+    "last_updated": "2025-07-02T05:26:01.057Z",
     "source": "manifest"
   },
   {
@@ -118,7 +118,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:43.928Z",
+    "last_updated": "2025-07-02T05:26:01.713Z",
     "source": "manifest"
   },
   {
@@ -145,7 +145,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:44.574Z",
+    "last_updated": "2025-07-02T05:26:02.390Z",
     "source": "manifest"
   },
   {
@@ -604,7 +604,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:45.343Z",
+    "last_updated": "2025-07-02T05:26:03.183Z",
     "source": "manifest"
   },
   {
@@ -645,7 +645,7 @@
       "list"
     ],
     "flags": null,
-    "last_updated": "2025-07-02T04:57:46.025Z",
+    "last_updated": "2025-07-02T05:26:03.870Z",
     "source": "manifest"
   },
   {
@@ -684,7 +684,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:46.687Z",
+    "last_updated": "2025-07-02T05:26:04.545Z",
     "source": "manifest"
   },
   {
@@ -723,7 +723,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:47.637Z",
+    "last_updated": "2025-07-02T05:26:05.195Z",
     "source": "manifest"
   },
   {
@@ -762,7 +762,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:48.301Z",
+    "last_updated": "2025-07-02T05:26:05.880Z",
     "source": "manifest"
   },
   {
@@ -801,7 +801,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:48.977Z",
+    "last_updated": "2025-07-02T05:26:06.547Z",
     "source": "manifest"
   },
   {
@@ -840,7 +840,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:49.660Z",
+    "last_updated": "2025-07-02T05:26:07.230Z",
     "source": "manifest"
   },
   {
@@ -951,7 +951,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:50.295Z",
+    "last_updated": "2025-07-02T05:26:07.891Z",
     "source": "manifest"
   },
   {
@@ -990,7 +990,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:51.002Z",
+    "last_updated": "2025-07-02T05:26:08.597Z",
     "source": "manifest"
   },
   {
@@ -1029,7 +1029,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:51.679Z",
+    "last_updated": "2025-07-02T05:26:09.325Z",
     "source": "manifest"
   },
   {
@@ -1178,7 +1178,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:57:52.343Z",
+    "last_updated": "2025-07-02T05:26:10.112Z",
     "source": "manifest"
   },
   {
@@ -1229,7 +1229,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:52.977Z",
+    "last_updated": "2025-07-02T05:26:10.780Z",
     "source": "manifest"
   },
   {
@@ -1256,7 +1256,109 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:53.643Z",
+    "last_updated": "2025-07-02T05:26:11.465Z",
+    "source": "manifest"
+  },
+  {
+    "name": "CustomShaderLib",
+    "description": "Removes shader validation and verification, in order to allow custom shaders.",
+    "category": "Libraries",
+    "source_location": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib",
+    "author": "__Choco__",
+    "latest_version": "v1.0.1",
+    "latest_download_url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.1/CustomShaderLib.dll",
+    "releases": [
+      {
+        "version": "v1.0.1",
+        "download_url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.1/CustomShaderLib.dll",
+        "release_url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/tag/v1.0.1",
+        "published_at": "2025-06-26T00:05:28Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "changes:\r\nRemoved leftover mentions of ExampleMod\r\n\r\nThis mod removes shader verification from Resonite.\r\n\r\nIt is intended to be used in conjunction with other mods or tools, in order to be able to use custom shaders.\r\n\r\nhash:\r\n113263b286d5e84fa3330dfb0eb4b475ec28c9cf38f9e6b5267c8eaf2fc546d0",
+        "file_name": "CustomShaderLib.dll",
+        "file_size": 7168,
+        "sha256": "113263b286d5e84fa3330dfb0eb4b475ec28c9cf38f9e6b5267c8eaf2fc546d0"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.0/CustomShaderLib.dll",
+        "release_url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/tag/v1.0.0",
+        "published_at": "2025-06-19T20:22:12Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "This mod does not do anything on its own, and should be used in conjunction with other mods which list it as a dependency, or for development purposes.",
+        "file_name": "CustomShaderLib.dll",
+        "file_size": 11776,
+        "sha256": "706549c8d3b7cfe5391efcbd06a69604fe15812efd02514149f40a8c55e3b33a"
+      }
+    ],
+    "tags": null,
+    "flags": null,
+    "last_updated": "2025-07-02T05:26:14.705Z",
+    "source": "manifest"
+  },
+  {
+    "name": "DoublePrecision",
+    "description": "Fixes floating point rendering errors!",
+    "category": "Visual Tweaks",
+    "source_location": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML",
+    "author": "__Choco__",
+    "latest_version": "V1.6.1",
+    "latest_download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.1/DoublePrecision.dll",
+    "releases": [
+      {
+        "version": "V1.6.1",
+        "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.1/DoublePrecision.dll",
+        "release_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.1",
+        "published_at": "2025-06-28T03:42:15Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# DoublePrecision\r\nA Resonite mod which fixes graphical floating-point errors.\r\nThis mod intercepts the Unity-FrooxEngine connectors, and forces the Unity world to move around the player, instead of the player moving around the Unity world. This effectively removes floating point errors during rendering.\r\n\r\n## Changes:\r\n- Fixed Triplanars and VR mode\r\n\r\n**Full Changelog**: https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/compare/V1.6.0...V1.6.1\r\n\r\n## Important! \r\n - This mod requires [CustomShaderLib](https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/latest) as a dependency! Without this mod, Triplanar materials **will not render**.\r\n\r\n\r\nSHA256 Hash:\r\nf380b96ff4721e439d7eede80109223d76eb6436155962536c401a1b132dd6fb",
+        "file_name": "DoublePrecision.dll",
+        "file_size": 17920,
+        "sha256": "f380b96ff4721e439d7eede80109223d76eb6436155962536c401a1b132dd6fb"
+      },
+      {
+        "version": "V1.6.0",
+        "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.0/DoublePrecision.dll",
+        "release_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.0",
+        "published_at": "2025-06-26T02:33:25Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# DoublePrecision\r\nA Resonite mod which fixes graphical floating-point errors.\r\nThis mod intercepts the Unity-FrooxEngine connectors, and forces the Unity world to move around the player, instead of the player moving around the Unity world. This effectively removes floating point errors during rendering.\r\n\r\n## This is currently *very* broken in VR mode\r\n\r\nWhile my custom Triplanar shader works just fine in screen mode, I need to fix it in VR mode. Just putting this here so people know that VR is broken atm\r\n\r\n## Changes:\r\n- Unified Screen/Desktop code\r\n- Fixed Triplanar Materials (#1)\r\n- Fixed Camera Issues\r\n\r\n\r\n**Full Changelog**: https://github.com/AwesomeTornado/Resonite-DoublePrecision/compare/V1.5.0...V1.6.0\r\n\r\n## Important! \r\n - This mod now requires [CustomShaderLib](https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/latest) as a dependency! Without this mod, Triplanar materials **will not render**.\r\n\r\n\r\nSHA256 Hash:\r\n8e9a99cc9a583befcf408645bb98674a7ac2bd627f4b43f0f385e5d2d46d62be",
+        "file_name": "DoublePrecision.dll",
+        "file_size": 20992,
+        "sha256": "8e9a99cc9a583befcf408645bb98674a7ac2bd627f4b43f0f385e5d2d46d62be"
+      },
+      {
+        "version": "V1.4.0",
+        "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.4.0/DoublePrecision.dll",
+        "release_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.4.0",
+        "published_at": "2025-06-08T01:58:14Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# DoublePrecision\r\nA Resonite mod which fixes graphical floating-point errors.\r\nThis mod intercepts the Unity-FrooxEngine connectors, and forces the Unity world to move around the player, instead of the player moving around the Unity world. This effectively removes floating point errors during rendering.\r\n\r\n### First official release!\r\nI believe that I have worked out enough bugs at this point for it to be generally invisible to people using it.\r\n\r\n### Changed:\r\nMade camera offset variable world specific.\r\n\r\nSHA256 Hash:\r\n5d45539c2f7283fd1eddacdb0d7a9404bafbeb29eeddffd48cfd833324810178",
+        "file_name": "DoublePrecision.dll",
+        "file_size": 8192,
+        "sha256": "5d45539c2f7283fd1eddacdb0d7a9404bafbeb29eeddffd48cfd833324810178"
+      },
+      {
+        "version": "V1.3.0",
+        "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.3.0/DoublePrecision.dll",
+        "release_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.3.0",
+        "published_at": "2025-06-06T02:22:21Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "Welcome to the first release of DoublePrecision! This mod fixes graphical floating-point errors in Resonite.\r\nThis mod is currently still in development, and may have some issues, but it is complete enough to be of use to some people.\r\n\r\nKnown Issues:\r\nBreaks some uses of cameras.\r\n### Joining worlds breaks the camera offset in VR :(\r\nguess this is a local and screen mode only demo for now\r\n\r\nSHA256 Hash:\r\n9098b11dd54cde2e6c37294990a781c7ad366b792036a01ece33e591ee8522d4",
+        "file_name": "DoublePrecision.dll",
+        "file_size": 13312,
+        "sha256": "9098b11dd54cde2e6c37294990a781c7ad366b792036a01ece33e591ee8522d4"
+      }
+    ],
+    "tags": null,
+    "flags": null,
+    "last_updated": "2025-07-02T05:26:20.410Z",
     "source": "manifest"
   },
   {
@@ -1295,7 +1397,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:54.277Z",
+    "last_updated": "2025-07-02T05:26:21.185Z",
     "source": "manifest"
   },
   {
@@ -1394,7 +1496,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:54.937Z",
+    "last_updated": "2025-07-02T05:26:21.899Z",
     "source": "manifest"
   },
   {
@@ -1433,7 +1535,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:55.615Z",
+    "last_updated": "2025-07-02T05:26:22.578Z",
     "source": "manifest"
   },
   {
@@ -1484,7 +1586,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:56.367Z",
+    "last_updated": "2025-07-02T05:26:23.237Z",
     "source": "manifest"
   },
   {
@@ -1498,7 +1600,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:56.966Z",
+    "last_updated": "2025-07-02T05:26:23.869Z",
     "source": "manifest"
   },
   {
@@ -1623,7 +1725,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:57:57.624Z",
+    "last_updated": "2025-07-02T05:26:24.561Z",
     "source": "manifest"
   },
   {
@@ -1700,7 +1802,34 @@
     "flags": [
       "plugin"
     ],
-    "last_updated": "2025-07-02T04:57:58.342Z",
+    "last_updated": "2025-07-02T05:26:25.323Z",
+    "source": "manifest"
+  },
+  {
+    "name": "CustomTextureSettings",
+    "description": "Resonite mod that adds an option to the image importer to import images using your custom settings",
+    "category": "Asset Importing",
+    "source_location": "https://github.com/ultrawidegamer/CustomTextureSettings",
+    "author": "ultrawidegamer",
+    "latest_version": "1.0.0",
+    "latest_download_url": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/download/1.0.0/CustomTextureSettings.dll",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/download/1.0.0/CustomTextureSettings.dll",
+        "release_url": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/tag/1.0.0",
+        "published_at": "2025-07-01T08:53:23Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "CustomTextureSettings.dll",
+        "file_size": 15872,
+        "sha256": "73ef9d20b45193067056ec57b3b2fc29d7fe6d4ca1269f96f00c65d6ceb64b89"
+      }
+    ],
+    "tags": null,
+    "flags": null,
+    "last_updated": "2025-07-02T05:26:27.279Z",
     "source": "manifest"
   },
   {
@@ -1883,7 +2012,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:59.007Z",
+    "last_updated": "2025-07-02T05:26:28.024Z",
     "source": "manifest"
   },
   {
@@ -1934,7 +2063,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:57:59.751Z",
+    "last_updated": "2025-07-02T05:26:28.673Z",
     "source": "manifest"
   },
   {
@@ -2093,7 +2222,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:00.480Z",
+    "last_updated": "2025-07-02T05:26:29.374Z",
     "source": "manifest"
   },
   {
@@ -2107,7 +2236,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:01.236Z",
+    "last_updated": "2025-07-02T05:26:30.251Z",
     "source": "manifest"
   },
   {
@@ -2121,7 +2250,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:02.058Z",
+    "last_updated": "2025-07-02T05:26:30.979Z",
     "source": "manifest"
   },
   {
@@ -2135,7 +2264,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:02.886Z",
+    "last_updated": "2025-07-02T05:26:31.857Z",
     "source": "manifest"
   },
   {
@@ -2202,7 +2331,7 @@
       "network"
     ],
     "flags": null,
-    "last_updated": "2025-07-02T04:58:03.603Z",
+    "last_updated": "2025-07-02T05:26:32.551Z",
     "source": "manifest"
   },
   {
@@ -2294,7 +2423,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2025-07-02T04:58:04.271Z",
+    "last_updated": "2025-07-02T05:26:33.221Z",
     "source": "manifest"
   },
   {
@@ -2345,7 +2474,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:04.900Z",
+    "last_updated": "2025-07-02T05:26:33.892Z",
     "source": "manifest"
   },
   {
@@ -2384,7 +2513,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:05.598Z",
+    "last_updated": "2025-07-02T05:26:34.665Z",
     "source": "manifest"
   },
   {
@@ -2435,7 +2564,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:06.297Z",
+    "last_updated": "2025-07-02T05:26:35.388Z",
     "source": "manifest"
   },
   {
@@ -2449,7 +2578,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:06.297Z",
+    "last_updated": "2025-07-02T05:26:35.389Z",
     "source": "manifest"
   },
   {
@@ -2476,7 +2605,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:06.998Z",
+    "last_updated": "2025-07-02T05:26:36.032Z",
     "source": "manifest"
   },
   {
@@ -2527,7 +2656,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:07.670Z",
+    "last_updated": "2025-07-02T05:26:36.701Z",
     "source": "manifest"
   },
   {
@@ -2614,7 +2743,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:08.337Z",
+    "last_updated": "2025-07-02T05:26:37.410Z",
     "source": "manifest"
   },
   {
@@ -2641,7 +2770,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:09.002Z",
+    "last_updated": "2025-07-02T05:26:38.064Z",
     "source": "manifest"
   },
   {
@@ -2692,7 +2821,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:09.715Z",
+    "last_updated": "2025-07-02T05:26:38.757Z",
     "source": "manifest"
   },
   {
@@ -2815,7 +2944,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:10.379Z",
+    "last_updated": "2025-07-02T05:26:39.408Z",
     "source": "manifest"
   },
   {
@@ -2842,7 +2971,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:10.996Z",
+    "last_updated": "2025-07-02T05:26:40.101Z",
     "source": "manifest"
   },
   {
@@ -2905,7 +3034,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:11.692Z",
+    "last_updated": "2025-07-02T05:26:40.796Z",
     "source": "manifest"
   },
   {
@@ -2980,7 +3109,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:12.323Z",
+    "last_updated": "2025-07-02T05:26:41.460Z",
     "source": "manifest"
   },
   {
@@ -3021,7 +3150,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:58:13.081Z",
+    "last_updated": "2025-07-02T05:26:42.105Z",
     "source": "manifest"
   },
   {
@@ -3096,7 +3225,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:13.779Z",
+    "last_updated": "2025-07-02T05:26:42.765Z",
     "source": "manifest"
   },
   {
@@ -3135,7 +3264,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:14.493Z",
+    "last_updated": "2025-07-02T05:26:43.407Z",
     "source": "manifest"
   },
   {
@@ -3174,7 +3303,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:15.172Z",
+    "last_updated": "2025-07-02T05:26:44.039Z",
     "source": "manifest"
   },
   {
@@ -3201,7 +3330,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:15.815Z",
+    "last_updated": "2025-07-02T05:26:44.695Z",
     "source": "manifest"
   },
   {
@@ -3230,7 +3359,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:58:16.438Z",
+    "last_updated": "2025-07-02T05:26:45.389Z",
     "source": "manifest"
   },
   {
@@ -3281,7 +3410,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:17.120Z",
+    "last_updated": "2025-07-02T05:26:46.040Z",
     "source": "manifest"
   },
   {
@@ -3320,7 +3449,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:17.782Z",
+    "last_updated": "2025-07-02T05:26:46.702Z",
     "source": "manifest"
   },
   {
@@ -3383,7 +3512,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:18.426Z",
+    "last_updated": "2025-07-02T05:26:47.356Z",
     "source": "manifest"
   },
   {
@@ -3446,7 +3575,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:19.099Z",
+    "last_updated": "2025-07-02T05:26:48.027Z",
     "source": "manifest"
   },
   {
@@ -3473,7 +3602,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:19.762Z",
+    "last_updated": "2025-07-02T05:26:48.684Z",
     "source": "manifest"
   },
   {
@@ -3512,7 +3641,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:20.424Z",
+    "last_updated": "2025-07-02T05:26:49.394Z",
     "source": "manifest"
   },
   {
@@ -3623,7 +3752,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:21.117Z",
+    "last_updated": "2025-07-02T05:26:50.063Z",
     "source": "manifest"
   },
   {
@@ -3662,7 +3791,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:21.783Z",
+    "last_updated": "2025-07-02T05:26:50.846Z",
     "source": "manifest"
   },
   {
@@ -3701,7 +3830,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:22.425Z",
+    "last_updated": "2025-07-02T05:26:51.509Z",
     "source": "manifest"
   },
   {
@@ -3788,7 +3917,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:23.093Z",
+    "last_updated": "2025-07-02T05:26:52.186Z",
     "source": "manifest"
   },
   {
@@ -3827,7 +3956,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:23.786Z",
+    "last_updated": "2025-07-02T05:26:52.849Z",
     "source": "manifest"
   },
   {
@@ -3854,7 +3983,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:24.424Z",
+    "last_updated": "2025-07-02T05:26:53.555Z",
     "source": "manifest"
   },
   {
@@ -3881,7 +4010,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:25.083Z",
+    "last_updated": "2025-07-02T05:26:54.217Z",
     "source": "manifest"
   },
   {
@@ -3932,7 +4061,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:25.735Z",
+    "last_updated": "2025-07-02T05:26:54.924Z",
     "source": "manifest"
   },
   {
@@ -3985,7 +4114,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:58:26.398Z",
+    "last_updated": "2025-07-02T05:26:55.631Z",
     "source": "manifest"
   },
   {
@@ -4048,7 +4177,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:27.080Z",
+    "last_updated": "2025-07-02T05:26:56.329Z",
     "source": "manifest"
   },
   {
@@ -4075,7 +4204,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:27.764Z",
+    "last_updated": "2025-07-02T05:26:57.035Z",
     "source": "manifest"
   },
   {
@@ -4114,7 +4243,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:28.412Z",
+    "last_updated": "2025-07-02T05:26:57.681Z",
     "source": "manifest"
   },
   {
@@ -4153,7 +4282,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:29.069Z",
+    "last_updated": "2025-07-02T05:26:58.347Z",
     "source": "manifest"
   },
   {
@@ -4194,7 +4323,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:58:29.729Z",
+    "last_updated": "2025-07-02T05:26:59.033Z",
     "source": "manifest"
   },
   {
@@ -4235,7 +4364,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:58:30.351Z",
+    "last_updated": "2025-07-02T05:26:59.688Z",
     "source": "manifest"
   },
   {
@@ -4466,7 +4595,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:31.046Z",
+    "last_updated": "2025-07-02T05:27:00.388Z",
     "source": "manifest"
   },
   {
@@ -4553,7 +4682,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:31.713Z",
+    "last_updated": "2025-07-02T05:27:01.060Z",
     "source": "manifest"
   },
   {
@@ -4580,7 +4709,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:32.374Z",
+    "last_updated": "2025-07-02T05:27:01.699Z",
     "source": "manifest"
   },
   {
@@ -4667,7 +4796,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:33.060Z",
+    "last_updated": "2025-07-02T05:27:02.433Z",
     "source": "manifest"
   },
   {
@@ -4706,7 +4835,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:33.720Z",
+    "last_updated": "2025-07-02T05:27:03.091Z",
     "source": "manifest"
   },
   {
@@ -4745,7 +4874,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:34.347Z",
+    "last_updated": "2025-07-02T05:27:03.733Z",
     "source": "manifest"
   },
   {
@@ -4772,7 +4901,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:35.012Z",
+    "last_updated": "2025-07-02T05:27:04.419Z",
     "source": "manifest"
   },
   {
@@ -4895,7 +5024,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:35.809Z",
+    "last_updated": "2025-07-02T05:27:05.107Z",
     "source": "manifest"
   },
   {
@@ -4909,7 +5038,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:36.429Z",
+    "last_updated": "2025-07-02T05:27:05.748Z",
     "source": "manifest"
   },
   {
@@ -5056,7 +5185,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:37.094Z",
+    "last_updated": "2025-07-02T05:27:06.478Z",
     "source": "manifest"
   },
   {
@@ -5083,7 +5212,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:37.764Z",
+    "last_updated": "2025-07-02T05:27:07.147Z",
     "source": "manifest"
   },
   {
@@ -5160,7 +5289,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:58:38.399Z",
+    "last_updated": "2025-07-02T05:27:07.831Z",
     "source": "manifest"
   },
   {
@@ -5187,7 +5316,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:39.083Z",
+    "last_updated": "2025-07-02T05:27:08.497Z",
     "source": "manifest"
   },
   {
@@ -5214,7 +5343,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:39.784Z",
+    "last_updated": "2025-07-02T05:27:09.182Z",
     "source": "manifest"
   },
   {
@@ -5241,7 +5370,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:40.448Z",
+    "last_updated": "2025-07-02T05:27:09.884Z",
     "source": "manifest"
   },
   {
@@ -5292,7 +5421,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:41.111Z",
+    "last_updated": "2025-07-02T05:27:10.599Z",
     "source": "manifest"
   },
   {
@@ -5391,7 +5520,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:41.794Z",
+    "last_updated": "2025-07-02T05:27:11.242Z",
     "source": "manifest"
   },
   {
@@ -5490,7 +5619,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:42.499Z",
+    "last_updated": "2025-07-02T05:27:11.956Z",
     "source": "manifest"
   },
   {
@@ -5517,7 +5646,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:43.110Z",
+    "last_updated": "2025-07-02T05:27:12.631Z",
     "source": "manifest"
   },
   {
@@ -5568,7 +5697,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:43.775Z",
+    "last_updated": "2025-07-02T05:27:13.341Z",
     "source": "manifest"
   },
   {
@@ -5607,7 +5736,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:44.425Z",
+    "last_updated": "2025-07-02T05:27:14.015Z",
     "source": "manifest"
   },
   {
@@ -5634,7 +5763,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:45.073Z",
+    "last_updated": "2025-07-02T05:27:14.679Z",
     "source": "manifest"
   },
   {
@@ -5661,7 +5790,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:45.708Z",
+    "last_updated": "2025-07-02T05:27:15.389Z",
     "source": "manifest"
   },
   {
@@ -5700,7 +5829,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:46.407Z",
+    "last_updated": "2025-07-02T05:27:16.071Z",
     "source": "manifest"
   },
   {
@@ -5727,7 +5856,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:47.109Z",
+    "last_updated": "2025-07-02T05:27:16.720Z",
     "source": "manifest"
   },
   {
@@ -5766,7 +5895,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:47.760Z",
+    "last_updated": "2025-07-02T05:27:17.395Z",
     "source": "manifest"
   },
   {
@@ -5817,7 +5946,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:48.431Z",
+    "last_updated": "2025-07-02T05:27:18.068Z",
     "source": "manifest"
   },
   {
@@ -5856,7 +5985,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:49.091Z",
+    "last_updated": "2025-07-02T05:27:18.734Z",
     "source": "manifest"
   },
   {
@@ -5921,7 +6050,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:58:49.762Z",
+    "last_updated": "2025-07-02T05:27:19.500Z",
     "source": "manifest"
   },
   {
@@ -5984,7 +6113,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:50.466Z",
+    "last_updated": "2025-07-02T05:27:20.179Z",
     "source": "manifest"
   },
   {
@@ -6071,7 +6200,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:51.221Z",
+    "last_updated": "2025-07-02T05:27:20.875Z",
     "source": "manifest"
   },
   {
@@ -6170,7 +6299,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:51.881Z",
+    "last_updated": "2025-07-02T05:27:21.557Z",
     "source": "manifest"
   },
   {
@@ -6209,7 +6338,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:52.579Z",
+    "last_updated": "2025-07-02T05:27:22.260Z",
     "source": "manifest"
   },
   {
@@ -6248,7 +6377,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:53.239Z",
+    "last_updated": "2025-07-02T05:27:22.959Z",
     "source": "manifest"
   },
   {
@@ -6311,7 +6440,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:53.892Z",
+    "last_updated": "2025-07-02T05:27:23.631Z",
     "source": "manifest"
   },
   {
@@ -6350,7 +6479,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:54.534Z",
+    "last_updated": "2025-07-02T05:27:24.309Z",
     "source": "manifest"
   },
   {
@@ -6401,7 +6530,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:55.217Z",
+    "last_updated": "2025-07-02T05:27:24.961Z",
     "source": "manifest"
   },
   {
@@ -6440,7 +6569,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:55.834Z",
+    "last_updated": "2025-07-02T05:27:25.610Z",
     "source": "manifest"
   },
   {
@@ -6467,7 +6596,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:56.476Z",
+    "last_updated": "2025-07-02T05:27:26.250Z",
     "source": "manifest"
   },
   {
@@ -6554,7 +6683,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:57.135Z",
+    "last_updated": "2025-07-02T05:27:26.923Z",
     "source": "manifest"
   },
   {
@@ -6683,7 +6812,7 @@
       "cheese"
     ],
     "flags": null,
-    "last_updated": "2025-07-02T04:58:57.787Z",
+    "last_updated": "2025-07-02T05:27:27.685Z",
     "source": "manifest"
   },
   {
@@ -6746,7 +6875,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:58.447Z",
+    "last_updated": "2025-07-02T05:27:28.393Z",
     "source": "manifest"
   },
   {
@@ -6833,7 +6962,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:58:59.132Z",
+    "last_updated": "2025-07-02T05:27:29.061Z",
     "source": "manifest"
   },
   {
@@ -6934,7 +7063,7 @@
       "world"
     ],
     "flags": null,
-    "last_updated": "2025-07-02T04:58:59.842Z",
+    "last_updated": "2025-07-02T05:27:29.782Z",
     "source": "manifest"
   },
   {
@@ -6961,7 +7090,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:00.760Z",
+    "last_updated": "2025-07-02T05:27:30.467Z",
     "source": "manifest"
   },
   {
@@ -6988,7 +7117,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:01.520Z",
+    "last_updated": "2025-07-02T05:27:31.265Z",
     "source": "manifest"
   },
   {
@@ -7051,7 +7180,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:02.252Z",
+    "last_updated": "2025-07-02T05:27:31.956Z",
     "source": "manifest"
   },
   {
@@ -7092,7 +7221,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:59:02.905Z",
+    "last_updated": "2025-07-02T05:27:32.649Z",
     "source": "manifest"
   },
   {
@@ -7251,7 +7380,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:03.613Z",
+    "last_updated": "2025-07-02T05:27:33.325Z",
     "source": "manifest"
   },
   {
@@ -7350,7 +7479,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:04.373Z",
+    "last_updated": "2025-07-02T05:27:34.005Z",
     "source": "manifest"
   },
   {
@@ -7377,7 +7506,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:05.020Z",
+    "last_updated": "2025-07-02T05:27:34.654Z",
     "source": "manifest"
   },
   {
@@ -7442,7 +7571,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:59:05.657Z",
+    "last_updated": "2025-07-02T05:27:35.327Z",
     "source": "manifest"
   },
   {
@@ -7481,7 +7610,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:06.318Z",
+    "last_updated": "2025-07-02T05:27:36.013Z",
     "source": "manifest"
   },
   {
@@ -7495,7 +7624,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:06.318Z",
+    "last_updated": "2025-07-02T05:27:36.013Z",
     "source": "manifest"
   },
   {
@@ -7534,7 +7663,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:07.001Z",
+    "last_updated": "2025-07-02T05:27:36.684Z",
     "source": "manifest"
   },
   {
@@ -7597,7 +7726,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:07.675Z",
+    "last_updated": "2025-07-02T05:27:37.417Z",
     "source": "manifest"
   },
   {
@@ -7696,7 +7825,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:08.338Z",
+    "last_updated": "2025-07-02T05:27:38.120Z",
     "source": "manifest"
   },
   {
@@ -7735,7 +7864,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:08.977Z",
+    "last_updated": "2025-07-02T05:27:38.774Z",
     "source": "manifest"
   },
   {
@@ -7767,7 +7896,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2025-07-02T04:59:09.624Z",
+    "last_updated": "2025-07-02T05:27:39.454Z",
     "source": "manifest"
   },
   {
@@ -7950,7 +8079,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:10.361Z",
+    "last_updated": "2025-07-02T05:27:40.166Z",
     "source": "manifest"
   },
   {
@@ -8061,7 +8190,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:11.057Z",
+    "last_updated": "2025-07-02T05:27:40.852Z",
     "source": "manifest"
   },
   {
@@ -8153,7 +8282,7 @@
       "orb"
     ],
     "flags": null,
-    "last_updated": "2025-07-02T04:59:11.828Z",
+    "last_updated": "2025-07-02T05:27:41.509Z",
     "source": "manifest"
   },
   {
@@ -8180,7 +8309,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:12.499Z",
+    "last_updated": "2025-07-02T05:27:42.164Z",
     "source": "manifest"
   },
   {
@@ -8267,7 +8396,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:13.184Z",
+    "last_updated": "2025-07-02T05:27:42.866Z",
     "source": "manifest"
   },
   {
@@ -8296,7 +8425,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:59:13.832Z",
+    "last_updated": "2025-07-02T05:27:43.541Z",
     "source": "manifest"
   },
   {
@@ -8323,7 +8452,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:14.490Z",
+    "last_updated": "2025-07-02T05:27:44.206Z",
     "source": "manifest"
   },
   {
@@ -8398,7 +8527,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:15.166Z",
+    "last_updated": "2025-07-02T05:27:44.875Z",
     "source": "manifest"
   },
   {
@@ -8425,7 +8554,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:15.877Z",
+    "last_updated": "2025-07-02T05:27:45.529Z",
     "source": "manifest"
   },
   {
@@ -8512,7 +8641,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:16.582Z",
+    "last_updated": "2025-07-02T05:27:46.209Z",
     "source": "manifest"
   },
   {
@@ -8625,7 +8754,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-07-02T04:59:17.261Z",
+    "last_updated": "2025-07-02T05:27:46.879Z",
     "source": "manifest"
   },
   {
@@ -8700,7 +8829,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:17.937Z",
+    "last_updated": "2025-07-02T05:27:47.539Z",
     "source": "manifest"
   },
   {
@@ -8775,7 +8904,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:18.574Z",
+    "last_updated": "2025-07-02T05:27:48.198Z",
     "source": "manifest"
   },
   {
@@ -8850,7 +8979,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:19.281Z",
+    "last_updated": "2025-07-02T05:27:48.884Z",
     "source": "manifest"
   },
   {
@@ -8889,7 +9018,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:19.982Z",
+    "last_updated": "2025-07-02T05:27:49.524Z",
     "source": "manifest"
   },
   {
@@ -8928,7 +9057,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:20.606Z",
+    "last_updated": "2025-07-02T05:27:50.213Z",
     "source": "manifest"
   },
   {
@@ -8979,7 +9108,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:21.248Z",
+    "last_updated": "2025-07-02T05:27:50.889Z",
     "source": "manifest"
   },
   {
@@ -9006,7 +9135,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:21.926Z",
+    "last_updated": "2025-07-02T05:27:51.549Z",
     "source": "manifest"
   },
   {
@@ -9069,7 +9198,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:22.591Z",
+    "last_updated": "2025-07-02T05:27:52.195Z",
     "source": "manifest"
   },
   {
@@ -9252,7 +9381,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:23.285Z",
+    "last_updated": "2025-07-02T05:27:52.948Z",
     "source": "manifest"
   },
   {
@@ -9279,7 +9408,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-07-02T04:59:23.956Z",
+    "last_updated": "2025-07-02T05:27:53.610Z",
     "source": "manifest"
   },
   {
@@ -9417,7 +9546,7 @@
       "v0.2.0"
     ],
     "flags": null,
-    "last_updated": "2025-07-02T04:59:24.166Z",
+    "last_updated": "2025-07-02T05:27:53.814Z",
     "source": "additional"
   }
 ]

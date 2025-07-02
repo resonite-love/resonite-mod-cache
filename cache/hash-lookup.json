@@ -552,6 +552,48 @@
     "file_name": "SlotInspectorHighlighter.dll",
     "file_size": 7168
   },
+  "113263b286d5e84fa3330dfb0eb4b475ec28c9cf38f9e6b5267c8eaf2fc546d0": {
+    "mod_name": "CustomShaderLib",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.1/CustomShaderLib.dll",
+    "file_name": "CustomShaderLib.dll",
+    "file_size": 7168
+  },
+  "706549c8d3b7cfe5391efcbd06a69604fe15812efd02514149f40a8c55e3b33a": {
+    "mod_name": "CustomShaderLib",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.0/CustomShaderLib.dll",
+    "file_name": "CustomShaderLib.dll",
+    "file_size": 11776
+  },
+  "f380b96ff4721e439d7eede80109223d76eb6436155962536c401a1b132dd6fb": {
+    "mod_name": "DoublePrecision",
+    "version": "V1.6.1",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.1/DoublePrecision.dll",
+    "file_name": "DoublePrecision.dll",
+    "file_size": 17920
+  },
+  "8e9a99cc9a583befcf408645bb98674a7ac2bd627f4b43f0f385e5d2d46d62be": {
+    "mod_name": "DoublePrecision",
+    "version": "V1.6.0",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.0/DoublePrecision.dll",
+    "file_name": "DoublePrecision.dll",
+    "file_size": 20992
+  },
+  "5d45539c2f7283fd1eddacdb0d7a9404bafbeb29eeddffd48cfd833324810178": {
+    "mod_name": "DoublePrecision",
+    "version": "V1.4.0",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.4.0/DoublePrecision.dll",
+    "file_name": "DoublePrecision.dll",
+    "file_size": 8192
+  },
+  "9098b11dd54cde2e6c37294990a781c7ad366b792036a01ece33e591ee8522d4": {
+    "mod_name": "DoublePrecision",
+    "version": "V1.3.0",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.3.0/DoublePrecision.dll",
+    "file_name": "DoublePrecision.dll",
+    "file_size": 13312
+  },
   "ace4cd96f8e354ad077a7d118d19e2f3a355f39aeaaeda63976410986c36e8a1": {
     "mod_name": "HandAligner",
     "version": "V1.0.1",
@@ -726,6 +768,13 @@
     "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.4.0/0Harmony.dll",
     "file_name": "0Harmony.dll",
     "file_size": 911872
+  },
+  "73ef9d20b45193067056ec57b3b2fc29d7fe6d4ca1269f96f00c65d6ceb64b89": {
+    "mod_name": "CustomTextureSettings",
+    "version": "1.0.0",
+    "download_url": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/download/1.0.0/CustomTextureSettings.dll",
+    "file_name": "CustomTextureSettings.dll",
+    "file_size": 15872
   },
   "596dfdcc99ac283f458272db8ced2eff536bd9072cdd014b5343936072da34d2": {
     "mod_name": "BetterInventoryBrowser",
