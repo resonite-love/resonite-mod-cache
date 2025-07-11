@@ -762,6 +762,13 @@
     "file_name": "Thundagun.dll",
     "file_size": 143872
   },
+  "80690e753ee7350fbaf8fdcd1d0d742fc6753292f87bd41c71351746464d527e": {
+    "mod_name": "ResoniteModLoader",
+    "version": "prerelease",
+    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/prerelease/0Harmony-Net9.dll",
+    "file_name": "0Harmony-Net9.dll",
+    "file_size": 2085376
+  },
   "4b5f44764316c833a3b1d184ba6f1df275c86a181cc595ec403a01049d1d6fb5": {
     "mod_name": "ResoniteModLoader",
     "version": "3.0.0",
