@@ -1140,27 +1140,6 @@
     "file_name": "AlwaysResetLocalHome.dll",
     "file_size": 9216
   },
-  "ec717dbcc891922e517f2b879c4600605a8207d403b1bde82dcec5c3470717e6": {
-    "mod_name": "CapturePrivateUI",
-    "version": "2.0.0",
-    "download_url": "https://github.com/art0007i/CapturePrivateUI/releases/download/2.0.0/CapturePrivateUI.dll",
-    "file_name": "CapturePrivateUI.dll",
-    "file_size": 8704
-  },
-  "ad870e72ed7ec7a47272c22576341f0fd6d220855af56a8bdd3bcd379fea842c": {
-    "mod_name": "CapturePrivateUI",
-    "version": "1.1.0",
-    "download_url": "https://github.com/art0007i/CapturePrivateUI/releases/download/1.1.0/CapturePrivateUI.dll",
-    "file_name": "CapturePrivateUI.dll",
-    "file_size": 8704
-  },
-  "a3a66d961556e8c7a3386fd34ade1e4dbe4b191ad76af6103255f3fc186efc68": {
-    "mod_name": "CapturePrivateUI",
-    "version": "1.0.0.0",
-    "download_url": "https://github.com/art0007i/CapturePrivateUI/releases/download/1.0.0.0/CapturePrivateUI.dll",
-    "file_name": "CapturePrivateUI.dll",
-    "file_size": 6144
-  },
   "340dca1405464ca8d6b5b0a6ea00ffbf3ea64531905d854db7e4b8d2fa6d0837": {
     "mod_name": "ColorDrop",
     "version": "2.1.1",
@@ -2951,34 +2930,6 @@
     "version": "1.0.0.0",
     "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.0.0.0/GetItemLink.dll",
     "file_name": "GetItemLink.dll",
-    "file_size": 8192
-  },
-  "d621b87e4bec4806cfd164ee56f8b44f9c972adecba70561cb7a48e08b77ddc8": {
-    "mod_name": "HeadCullingMask",
-    "version": "v2.0.0",
-    "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v2.0.0/HeadCullingMask.dll",
-    "file_name": "HeadCullingMask.dll",
-    "file_size": 11264
-  },
-  "5998bbb56258b06dbb98574f74acb1bd31771fe17ea0a745a01fc5520f7b5bd6": {
-    "mod_name": "HeadCullingMask",
-    "version": "v1.2.0",
-    "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.2.0/HeadCullingMask.dll",
-    "file_name": "HeadCullingMask.dll",
-    "file_size": 11776
-  },
-  "67f2dc6104b7581876edc50a6fc2f33bf6461a2008313ff037891a0a302c824f": {
-    "mod_name": "HeadCullingMask",
-    "version": "v1.1.0",
-    "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.1.0/HeadCullingMask.dll",
-    "file_name": "HeadCullingMask.dll",
-    "file_size": 10240
-  },
-  "ab8d77975d02d23df11db5ae438474dca7cbbffddf7d210be81d828c7b772d4a": {
-    "mod_name": "HeadCullingMask",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.0.0/HeadCullingMask.dll",
-    "file_name": "HeadCullingMask.dll",
     "file_size": 8192
   },
   "5e439c9e2116d529def0dd3caefed103a65969a2c43f5ad8405be95aa55f6e94": {
