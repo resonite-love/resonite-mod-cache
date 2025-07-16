@@ -2519,6 +2519,13 @@
     "file_name": "ImNotAsking.dll",
     "file_size": 7680
   },
+  "06266d513836e77d285057fef4495e39107b08e4ec122bea068d16a7a5a7f8c0": {
+    "mod_name": "LogAutoFlush",
+    "version": "1.0.0",
+    "download_url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.0/LogAutoFlush.dll",
+    "file_name": "LogAutoFlush.dll",
+    "file_size": 6144
+  },
   "3d15180b8f3cc4fac717cc777248a96b50ec3ab02b17cd0cdf7f3b88628caaaf": {
     "mod_name": "NonPersistentInspectors",
     "version": "2.0.0",
