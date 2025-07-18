@@ -692,6 +692,20 @@
     "file_name": "ResoniteAprilFools.dll",
     "file_size": 10752
   },
+  "fcf493fc47a2f478a65303886b975fbdbf714cbb1f2d79f7fce97e4bb16b01a8": {
+    "mod_name": "ResoniteMP3",
+    "version": "V2.0.0",
+    "download_url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V2.0.0/NAudio.Core.dll",
+    "file_name": "NAudio.Core.dll",
+    "file_size": 187904
+  },
+  "ca03780217139b37f7f5b6921d59defb8d24988315b16b167a77fa88caa7d00f": {
+    "mod_name": "ResoniteMP3",
+    "version": "V1.0.0",
+    "download_url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V1.0.0/NAudio.Asio.dll",
+    "file_name": "NAudio.Asio.dll",
+    "file_size": 34304
+  },
   "dd5670ad7a1ed785fcc0f0399bc9b270a4713e149fb0f6afb542d4acbfb0aa1a": {
     "mod_name": "Thundagun",
     "version": "1.2.2-beta",
@@ -1776,13 +1790,6 @@
     "download_url": "https://github.com/art0007i/QuickFolderOpener/releases/download/1.0.0/QuickFolderOpener.dll",
     "file_name": "QuickFolderOpener.dll",
     "file_size": 11264
-  },
-  "3a5c1139cca746bafc78d91f8aa0c588bf9435c2f3389a0fc16ec01ae31c12d0": {
-    "mod_name": "RemoveComponentAttacherRestriction",
-    "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/RemoveComponentAttacherRestriction/releases/download/1.0.0/RemoveComponentAttacherRestriction.dll",
-    "file_name": "RemoveComponentAttacherRestriction.dll",
-    "file_size": 7680
   },
   "ef21b285d0f067eb365c17dbd37a1267ab185edcb8a70f43f08fa5ed06c8506d": {
     "mod_name": "ResoniteImGuiLib",
@@ -3897,41 +3904,6 @@
     "download_url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.2.0/InspectorDelegateCaller.dll",
     "file_name": "InspectorDelegateCaller.dll",
     "file_size": 11264
-  },
-  "440c8043b0fac216788231dfcc63b01cc6983d36ea2fc28963d10051cd98513d": {
-    "mod_name": "LeftHandedProtoFlux",
-    "version": "v1.2.1",
-    "download_url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.2.1/LeftHandedProtoFlux.dll",
-    "file_name": "LeftHandedProtoFlux.dll",
-    "file_size": 13312
-  },
-  "f6536d01c4faefdd693aae8005b6b106e2f9831ae7aa167df2fe1fadc38fb9d6": {
-    "mod_name": "LeftHandedProtoFlux",
-    "version": "v1.2.0",
-    "download_url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.2.0/LeftHandedProtoFlux.dll",
-    "file_name": "LeftHandedProtoFlux.dll",
-    "file_size": 11776
-  },
-  "34ccb270bd6b714a7f375722816d834b87d67978c7e600cd2b0cbca6fc894bff": {
-    "mod_name": "LeftHandedProtoFlux",
-    "version": "v1.1.1",
-    "download_url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.1.1/LeftHandedProtoFlux.dll",
-    "file_name": "LeftHandedProtoFlux.dll",
-    "file_size": 10240
-  },
-  "1b20135bf4d10db43d39524ad55f8ec20d864e032f59dbebcb8a8378e67ea59c": {
-    "mod_name": "LeftHandedProtoFlux",
-    "version": "v1.1.0",
-    "download_url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.1.0/LeftHandedProtoFlux.dll",
-    "file_name": "LeftHandedProtoFlux.dll",
-    "file_size": 9728
-  },
-  "903e57c2e9ebee360f6718dfa068dd9217755e72ed87673ce0d8f18623ee70af": {
-    "mod_name": "LeftHandedProtoFlux",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.0.0/LeftHandedProtoFlux.dll",
-    "file_name": "LeftHandedProtoFlux.dll",
-    "file_size": 9216
   },
   "2d1f074d8c02b26335ebcf5b348b27e03d59dc7dedaa968db69344b8069eb474": {
     "mod_name": "LogFlush",
