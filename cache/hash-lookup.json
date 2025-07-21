@@ -769,6 +769,146 @@
     "file_name": "Thundagun.dll",
     "file_size": 143872
   },
+  "dadc5cecfafaa476ca71b57e2d36484669a2787ede88be12b8e92a931a8de739": {
+    "mod_name": "EsnyaResoniteModTemplate",
+    "version": "v0.0.0-template.1",
+    "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0-template.1/EsnyaResoniteModTemplate.dll",
+    "file_name": "EsnyaResoniteModTemplate.dll",
+    "file_size": 7168
+  },
+  "3445e18516fa3285269f15f3504eec3f3b8dfbfe19da84cb713d068d19321eee": {
+    "mod_name": "EsnyaResoniteModTemplate",
+    "version": "v0.0.0-template.0",
+    "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0-template.0/EsnyaResoniteModTemplate.dll",
+    "file_name": "EsnyaResoniteModTemplate.dll",
+    "file_size": 7168
+  },
+  "fb34f9bdc105e247341f1fe6a0da1fdf4320629e58c5993a11cbdac5ce7bd688": {
+    "mod_name": "EsnyaResoniteModTemplate",
+    "version": "v0.0.0.0",
+    "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0.0/EsnyaResoniteModTemplate.dll",
+    "file_name": "EsnyaResoniteModTemplate.dll",
+    "file_size": 7168
+  },
+  "9089516dab5131f39e7fe19f03f3568822481ecec3ce7989caa151818bee5920": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v0.2.0",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_size": 11776
+  },
+  "a07493477c6138e880c2204401164b053b6deb86f240b7573c6812734fc2f709": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v0.1.1",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_size": 11264
+  },
+  "c40458969278de59e60645373ed3b26bea971259945b29e5a7294c8a80d88d1d": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v0.1.0",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0/EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_size": 11264
+  },
+  "54634a157f809dd1b690794e536adf8e4c9613b0d80bd580eaa844e17a0f2fa0": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v0.1.0.0",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0.0/EsnyaTweaks.dll",
+    "file_name": "EsnyaTweaks.dll",
+    "file_size": 33792
+  },
+  "2118994148863950294cae7b361496919b1819ddb8446fbffbc448033d0e1d7a": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v0.0.1.0",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.1.0/EsnyaTweaks.dll",
+    "file_name": "EsnyaTweaks.dll",
+    "file_size": 23552
+  },
+  "697ce764fafb8d5bea22cbab2b76e39f7292ed186f07530dbb39582c8c344875": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v0.0.0.2",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.0.2/EsnyaTweaks.dll",
+    "file_name": "EsnyaTweaks.dll",
+    "file_size": 21504
+  },
+  "26c5f0aec4bbde207cc4c23b2261eb6a6975fbeae28c939c61648215cb818511": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.7.0.0",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.7.0.0/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 60416
+  },
+  "354cb6ce04a1d41c607193752a8d7ad1059784ce120d80a8155af18ac40de956": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.6.0.0",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.6.0.0/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 60416
+  },
+  "68c36e7d9d33f7bd09e17628d812965d15f7be22bd4bf76ce699c9306f9b41f0": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.5.0.0",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.5.0.0/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 60416
+  },
+  "5553903399d66a6282a7c39fb360978b811605b82d2a8ce06a6fe2111e8b9642": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.4.0.0",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.4.0.0/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 49664
+  },
+  "d4a0f5ed38b98dfcfba99c8d75eea798948751384345b32aec66d796f9c90b77": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.3.1.1",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.3.1.1/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 49664
+  },
+  "2974ba4d0db1a3d97f4b80c74ef9554bece8db108903babf4462c7711fd94900": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.3.1.0",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.3.1.0/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 39424
+  },
+  "5fe79cf440d44cc7b60bada2e76f0f0688ea5e122211ca1ebbafe1ac77dbfbca": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.3.0.0",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.3.0.0/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 39936
+  },
+  "4058cec4dec6fb035b30962878681db8249aa21edfc1e7536d67c5d2c4efb56a": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.2.1.0",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.2.1.0/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 31232
+  },
+  "01413a8521ec9dc0d9b96e7fba8cda4e541e03b45ab0d5cf5c47596715547e94": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.2.0.0",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.2.0.0/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 31232
+  },
+  "f06893a678f00d193e16ab76f8d6c49e8fb6c952c86b8abb6829e2c240474aef": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.1.0.0",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.1.0.0/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 25088
+  },
+  "19729e71fcbb59c9b36b8ade17e0a2e862d613e69666b0b2f2d2c4db0d1fc663": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.0.0.0",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.0.0.0/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 25088
+  },
   "80690e753ee7350fbaf8fdcd1d0d742fc6753292f87bd41c71351746464d527e": {
     "mod_name": "ResoniteModLoader",
     "version": "prerelease",
