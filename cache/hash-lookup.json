@@ -1791,6 +1791,20 @@
     "file_name": "LogCleaner.dll",
     "file_size": 9216
   },
+  "8ed99837b36c9e3d8d62130701509be105516ef98e396832193bac92d484c850": {
+    "mod_name": "MessageCopy",
+    "version": "1.0.1",
+    "download_url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.1/MessageCopy.dll",
+    "file_name": "MessageCopy.dll",
+    "file_size": 7168
+  },
+  "dc74baff6a08083f4e493e0251c76ba09c88c57ce998c9908f2a401cb2413dc7": {
+    "mod_name": "MessageCopy",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.0/MessageCopy.dll",
+    "file_name": "MessageCopy.dll",
+    "file_size": 7168
+  },
   "048818e89f8a5b63d64047bb2fa717c4f3e16b7affdd96d2dc15dafda857fbcb": {
     "mod_name": "MyInspectors",
     "version": "2.0.2",
