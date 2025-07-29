@@ -475,6 +475,55 @@
     "file_name": "CustomLogixBrowser.dll",
     "file_size": 8704
   },
+  "a7e421e6fab8083aae68fbcfaa03a42ea02dbc20982cc9137cf6fb653eec7dc7": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "1.4.2",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.2/ProtoFluxOverhaul.dll",
+    "file_name": "ProtoFluxOverhaul.dll",
+    "file_size": 70656
+  },
+  "0b736c427c3e7f70f0fad32c7b99d8fc353131670a3c56a004015d13a3723c97": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "1.4.1",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.1/ProtoFluxVisualsOverhaul.dll",
+    "file_name": "ProtoFluxVisualsOverhaul.dll",
+    "file_size": 76800
+  },
+  "36d92dbfd6f15eb29e7503de45bf2fc6a23d6a166d61d46cd5c282cbf1fa6937": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "1.4",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4/ProtoFluxVisualsOverhaul.dll",
+    "file_name": "ProtoFluxVisualsOverhaul.dll",
+    "file_size": 81920
+  },
+  "95fc6abda39eadc038f7a8db65b5a7d3517c190a411d908c3cc4cb37a6619c94": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "1.3",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.3/ProtoFluxVisualsOverhaul.dll",
+    "file_name": "ProtoFluxVisualsOverhaul.dll",
+    "file_size": 48640
+  },
+  "b6b5e2b7044966dcc2d51a46dfd5e17106e428b23468c7563c3ca0c2ef322461": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "1.2",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.2/ProtoWireScroll.dll",
+    "file_name": "ProtoWireScroll.dll",
+    "file_size": 42496
+  },
+  "203a9eabf394e263bd83a83e89792ee03ed5fcbbfdca85fdc02609746149ee87": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "1.1",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.1/ProtoWireScroll.dll",
+    "file_name": "ProtoWireScroll.dll",
+    "file_size": 21504
+  },
+  "198a7ca7cc338028e052e1c70ad98b42532a278c3cfe2d87f607a7d25d13e314": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "Release",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/Release/ProtoWireScroll.dll",
+    "file_name": "ProtoWireScroll.dll",
+    "file_size": 21504
+  },
   "fd1404863eb6525ee3e5fca0fa467f24b6ffc51200e6c88c8d42022e675e1584": {
     "mod_name": "Console",
     "version": "1.0.1",
