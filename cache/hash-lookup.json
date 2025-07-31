@@ -3289,6 +3289,34 @@
     "file_name": "Lib.Harmony.2.3.1.nupkg",
     "file_size": 10746054
   },
+  "bb632928114e2318d883ceb2a5e2b20734434d2ac83600791b803cac2ec59131": {
+    "mod_name": "HeadlessUserCulling",
+    "version": "1.1.2",
+    "download_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.2/HeadlessUserCulling.dll",
+    "file_name": "HeadlessUserCulling.dll",
+    "file_size": 18944
+  },
+  "2ba6f640da9fe8d4451884838295a7a9e31c9de2bba2c7f33149f783f2114f15": {
+    "mod_name": "HeadlessUserCulling",
+    "version": "1.1.1",
+    "download_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.1/HeadlessUserCulling.dll",
+    "file_name": "HeadlessUserCulling.dll",
+    "file_size": 18432
+  },
+  "6d9975c69faea5144da623e6bada5bf18b9486654a24b71318279fc9a622195f": {
+    "mod_name": "HeadlessUserCulling",
+    "version": "1.1.0",
+    "download_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.0/HeadlessUserCulling.dll",
+    "file_name": "HeadlessUserCulling.dll",
+    "file_size": 18432
+  },
+  "e83890f75447e5496a7dab10453d7212c1756f3c91285f1184e6c57495964acd": {
+    "mod_name": "HeadlessUserCulling",
+    "version": "1.0.0",
+    "download_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.0.0/HeadlessUserCulling.dll",
+    "file_name": "HeadlessUserCulling.dll",
+    "file_size": 17920
+  },
   "8d9f335ecd39ad245838215b47334825e8f96a8a1464545a1404ffe5c8a345d7": {
     "mod_name": "NoSteamScreenshots",
     "version": "1.0.1",
@@ -3862,6 +3890,13 @@
     "download_url": "https://github.com/Nytra/ResoniteHeadlessToolPermissionKickCrashFix/releases/download/v1.0.0/HeadlessToolPermissionKickCrashFix.dll",
     "file_name": "HeadlessToolPermissionKickCrashFix.dll",
     "file_size": 6144
+  },
+  "48a85d0daeeed8f853d9183c4a498dc9161a9eaa1dd4f8319bfe77d3112c33be": {
+    "mod_name": "AccessibleFullBodyCalibrator",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Nytra/ResoniteAccessibleFullBodyCalibrator/releases/download/v1.0.0/AccessibleFullBodyCalibrator.dll",
+    "file_name": "AccessibleFullBodyCalibrator.dll",
+    "file_size": 7680
   },
   "8effa3fcce0e3913954c18875a9fc536603616266af33d9f103fbf63eca59f4c": {
     "mod_name": "ColorMyProtoFlux",
