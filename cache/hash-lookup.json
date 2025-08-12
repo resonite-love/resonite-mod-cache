@@ -559,6 +559,20 @@
     "file_name": "Console.dll",
     "file_size": 7168
   },
+  "9774cd4f834f85031c9192a3b5adffd3561a9d2f83c0a49defdb0670cba0d6d6": {
+    "mod_name": "ColourMyFiles",
+    "version": "1.0.1",
+    "download_url": "https://github.com/KannyaResonite/ColourMyFiles/releases/download/1.0.1/ColourMyFiles.dll",
+    "file_name": "ColourMyFiles.dll",
+    "file_size": 11264
+  },
+  "f9caefeb706eb7c8c370c001f00961dc76500d7b318e858be60f293a0482b4a4": {
+    "mod_name": "ColourMyFiles",
+    "version": "1.0.0",
+    "download_url": "https://github.com/KannyaResonite/ColourMyFiles/releases/download/1.0.0/ColourMyFiles.dll",
+    "file_name": "ColourMyFiles.dll",
+    "file_size": 10752
+  },
   "9989cf9702ba7016a566c96059a81f573c185f026d984063e78403ac50f8921d": {
     "mod_name": "libalxr-sharp",
     "version": "1.2.0",
