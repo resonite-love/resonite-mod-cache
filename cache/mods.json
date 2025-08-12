@@ -37,7 +37,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:43:45.935Z",
+    "last_updated": "2025-08-12T15:55:23.517Z",
     "source": "manifest"
   },
   {
@@ -64,7 +64,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:43:48.184Z",
+    "last_updated": "2025-08-12T15:55:24.719Z",
     "source": "manifest"
   },
   {
@@ -73,12 +73,25 @@
     "category": "Controls",
     "source_location": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR",
     "author": "ErrorJan",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.0.0",
+    "latest_download_url": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/download/1.0.0/EnableToolspawnInVR.dll",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/download/1.0.0/EnableToolspawnInVR.dll",
+        "release_url": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.0",
+        "published_at": "2025-01-28T14:25:52Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "The first release of this mod!\r\n\r\n**Full Changelog**: https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/commits/1.0.0",
+        "file_name": "EnableToolspawnInVR.dll",
+        "file_size": 14848,
+        "sha256": "f603d232216a8872b603356868c4cd81a1863358dcfc51c1a1c1e3e46c93e61f"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:43:49.500Z",
+    "last_updated": "2025-08-12T15:55:26.726Z",
     "source": "manifest"
   },
   {
@@ -105,7 +118,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:43:51.395Z",
+    "last_updated": "2025-08-12T15:55:27.608Z",
     "source": "manifest"
   },
   {
@@ -132,7 +145,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:43:52.120Z",
+    "last_updated": "2025-08-12T15:55:28.372Z",
     "source": "manifest"
   },
   {
@@ -687,7 +700,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:44:45.268Z",
+    "last_updated": "2025-08-12T15:55:29.285Z",
     "source": "manifest"
   },
   {
@@ -728,7 +741,7 @@
       "list"
     ],
     "flags": null,
-    "last_updated": "2025-08-12T15:44:48.452Z",
+    "last_updated": "2025-08-12T15:55:30.453Z",
     "source": "manifest"
   },
   {
@@ -737,37 +750,12 @@
     "category": "Controls",
     "source_location": "https://github.com/furrz/NoTankControls",
     "author": "Zyntaks",
-    "latest_version": "1.0.0-resonite",
-    "latest_download_url": "https://github.com/furrz/NoTankControls/releases/download/1.0.0-resonite/NoTankControls.dll",
-    "releases": [
-      {
-        "version": "1.0.0-resonite",
-        "download_url": "https://github.com/furrz/NoTankControls/releases/download/1.0.0-resonite/NoTankControls.dll",
-        "release_url": "https://github.com/furrz/NoTankControls/releases/tag/1.0.0-resonite",
-        "published_at": "2023-09-26T17:59:30Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Ported to Resonite, thanks to help from my partner who has the game! I did not access the game in any way in order to develop this port, and it is therefore untested.",
-        "file_name": "NoTankControls.dll",
-        "file_size": 5120,
-        "sha256": "f80b301222a8cf7c1529d114f28380f826005929d7f77a309125fd01f4f05117"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/furrz/NoTankControls/releases/download/1.0.0/NoTankControls.dll",
-        "release_url": "https://github.com/furrz/NoTankControls/releases/tag/1.0.0",
-        "published_at": "2022-01-18T06:07:15Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "See our README for installation details.",
-        "file_name": "NoTankControls.dll",
-        "file_size": 5120,
-        "sha256": "482e4951e0f7886a580add02c6443ef086239444216f86d6a7d1506e1d1fb984"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:44:51.454Z",
+    "last_updated": "2025-08-12T15:55:31.117Z",
     "source": "manifest"
   },
   {
@@ -806,7 +794,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:44:54.523Z",
+    "last_updated": "2025-08-12T15:55:31.843Z",
     "source": "manifest"
   },
   {
@@ -845,7 +833,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:44:57.503Z",
+    "last_updated": "2025-08-12T15:55:33.034Z",
     "source": "manifest"
   },
   {
@@ -884,7 +872,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:44:58.385Z",
+    "last_updated": "2025-08-12T15:55:33.763Z",
     "source": "manifest"
   },
   {
@@ -893,37 +881,12 @@
     "category": "Misc",
     "source_location": "https://github.com/AlexW-578/ScalableMaterialOrbs",
     "author": "AlexW-578",
-    "latest_version": "v2.0.0",
-    "latest_download_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v2.0.0/ScalableMaterialOrbs.dll",
-    "releases": [
-      {
-        "version": "v2.0.0",
-        "download_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v2.0.0/ScalableMaterialOrbs.dll",
-        "release_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/tag/v2.0.0",
-        "published_at": "2023-10-01T07:13:46Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Added support for Resonite\r\n\r\nVersions prior to this are for NeosVR!!!\r\n\r\nSHA256: 078FBA5D661C34CF0723798E2C70301854BC1A7B507E70F2C1BAA7D02DB298AA",
-        "file_name": "ScalableMaterialOrbs.dll",
-        "file_size": 6144,
-        "sha256": "078fba5d661c34cf0723798e2c70301854bc1a7b507e70f2c1baa7d02db298aa"
-      },
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v1.0.0/ScalableMaterialOrbs.dll",
-        "release_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/tag/v1.0.0",
-        "published_at": "2023-08-26T07:58:28Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "First Release\r\n\r\nA [NeosModLoader](https://github.com/neos-modding-group/NeosModLoader) mod for [Neos VR](https://neos.com/) that allws the user to scale material orbs by default\r\n\r\n\r\nSHA256: E5A30BC9E0CFA9C1254876AA18FA866007C3FFFEB5AB080A6F1FE5E59504B4FC",
-        "file_name": "ScalableMaterialOrbs.dll",
-        "file_size": 6144,
-        "sha256": "e5a30bc9e0cfa9c1254876aa18fa866007c3fffeb5ab080a6f1fe5e59504b4fc"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:01.483Z",
+    "last_updated": "2025-08-12T15:55:34.803Z",
     "source": "manifest"
   },
   {
@@ -1034,7 +997,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:11.687Z",
+    "last_updated": "2025-08-12T15:55:36.002Z",
     "source": "manifest"
   },
   {
@@ -1048,7 +1011,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:12.728Z",
+    "last_updated": "2025-08-12T15:55:37.011Z",
     "source": "manifest"
   },
   {
@@ -1057,12 +1020,37 @@
     "category": "Misc",
     "source_location": "https://github.com/KannyaResonite/Console",
     "author": "Kannya",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.0.1",
+    "latest_download_url": "https://github.com/KannyaResonite/Console/releases/download/1.0.1/Console.dll",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "download_url": "https://github.com/KannyaResonite/Console/releases/download/1.0.1/Console.dll",
+        "release_url": "https://github.com/KannyaResonite/Console/releases/tag/1.0.1",
+        "published_at": "2024-07-23T09:15:33Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Enjoy!\r\n\r\nNote: Add the ! prefix on the filename, as it ensures it loads before any other mods. This is important due to the nature of this mod being a console output. (!Console.dll)",
+        "file_name": "Console.dll",
+        "file_size": 10240,
+        "sha256": "fd1404863eb6525ee3e5fca0fa467f24b6ffc51200e6c88c8d42022e675e1584"
+      },
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/KannyaResonite/Console/releases/download/1.0.0/Console.dll",
+        "release_url": "https://github.com/KannyaResonite/Console/releases/tag/1.0.0",
+        "published_at": "2024-07-21T00:06:04Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Enjoy!\r\n\r\nNote: Add the ! prefix on the filename, as it ensures it loads before any other mods. This is important due to the nature of this mod being a console output. (!Console.dll)",
+        "file_name": "Console.dll",
+        "file_size": 7168,
+        "sha256": "f2ba3f0b61664cfb07eff6cfbc04e5f996094a40760f93c08fa6d1e55a305c53"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:13.730Z",
+    "last_updated": "2025-08-12T15:55:40.401Z",
     "source": "manifest"
   },
   {
@@ -1101,7 +1089,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:16.823Z",
+    "last_updated": "2025-08-12T15:55:41.585Z",
     "source": "manifest"
   },
   {
@@ -1110,14 +1098,147 @@
     "category": "Hardware Integration",
     "source_location": "https://github.com/sjsanjsrh/QuestPro4Resonite",
     "author": "Sinduy",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "2.1.4",
+    "latest_download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.4/libalxr-sharp.dll",
+    "releases": [
+      {
+        "version": "2.1.4",
+        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.4/libalxr-sharp.dll",
+        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.4",
+        "published_at": "2024-04-15T03:57:37Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "* Versioning-related fixes and recompilation for resonite-mod-manifest\r\n\r\n**Full Changelog**: https://github.com/sjsanjsrh/QuestPro4Resonite/compare/2.1.4...2.1.4",
+        "file_name": "libalxr-sharp.dll",
+        "file_size": 31232,
+        "sha256": "9989cf9702ba7016a566c96059a81f573c185f026d984063e78403ac50f8921d"
+      },
+      {
+        "version": "2.1.3",
+        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.3/libalxr-sharp.dll",
+        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.3",
+        "published_at": "2024-04-05T13:01:50Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "* remove localmode and replace reset_event to enabled at config\r\n* Use a loopback IP if the IP is invalid\r\n* Change harmony id to \"com.Sinduy.QuestPro4Resonite\"\r\n* Disable device at disconnected\r\n\r\n**Full Changelog**: https://github.com/sjsanjsrh/QuestPro4Resonite/compare/2.1.2...2.1.3",
+        "file_name": "libalxr-sharp.dll",
+        "file_size": 31232,
+        "sha256": "4ead590f291b6fb3b786626c6a57bcbb036e23c5fe633d0316b31b3b45f55669"
+      },
+      {
+        "version": "2.1.2",
+        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.2/libalxr-sharp.dll",
+        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.2",
+        "published_at": "2024-03-13T00:38:59Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* Make logs more readable,\r\n* Ensure Resonite client shuts down normally\r\n* Check if HMD is idle\r\n\r\n**Full Changelog**: https://github.com/sjsanjsrh/QuestPro4Resonite/compare/2.1.0...2.1.2",
+        "file_name": "libalxr-sharp.dll",
+        "file_size": 31232,
+        "sha256": "ca00400416983bcbab05e510d98ed9e45d8851cb8f1e7e254bb66abeee4d72d8"
+      },
+      {
+        "version": "2.1.0",
+        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.0/libalxr-sharp.dll",
+        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.0",
+        "published_at": "2024-02-12T07:57:17Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* V2 by @sjsanjsrh in https://github.com/sjsanjsrh/QuestPro4Resonite/pull/7\r\ncleaned up the source code to make it easier to read and removed unnecessary behavior to improve performance.\r\n\r\n**Full Changelog**: https://github.com/sjsanjsrh/QuestPro4Resonite/compare/2.0.1...2.1.0",
+        "file_name": "libalxr-sharp.dll",
+        "file_size": 31232,
+        "sha256": "4ead590f291b6fb3b786626c6a57bcbb036e23c5fe633d0316b31b3b45f55669"
+      },
+      {
+        "version": "2.0.1",
+        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.0.1/libalxr-sharp.dll",
+        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.0.1",
+        "published_at": "2023-12-25T15:17:59Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "* fix eye direction",
+        "file_name": "libalxr-sharp.dll",
+        "file_size": 31744,
+        "sha256": "f246c01ed38cf850d96a6327b40b1382869f244bfdb112809c7333fbfc2edff2"
+      },
+      {
+        "version": "2.0.0",
+        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.0.0/libalxr-sharp.dll",
+        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.0.0",
+        "published_at": "2023-12-25T08:08:38Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "* Apply FBExpression2 to enable tongue tracking.\r\n* ALXR Version Update (existing users will need to do a reinstall of ALXR)\r\n* Add the libalxr-sharp library to the ml_libs folder as it is added.\r\n* Do not enable local mode in the settings as it is incomplete.",
+        "file_name": "libalxr-sharp.dll",
+        "file_size": 31744,
+        "sha256": "f246c01ed38cf850d96a6327b40b1382869f244bfdb112809c7333fbfc2edff2"
+      },
+      {
+        "version": "1.0.4",
+        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.4/QuestProModule.dll",
+        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.4",
+        "published_at": "2023-10-25T01:07:57Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* Fixed exception when closing Resonite with no ALXR device connected causing the game to hang. by @ScarsTRF in https://github.com/sjsanjsrh/QuestPro4Resonite/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/sjsanjsrh/QuestPro4Resonite/compare/1.0.3...1.0.4",
+        "file_name": "QuestProModule.dll",
+        "file_size": 25088,
+        "sha256": "0ff7f186b009644d6af7c5810f9ae8f84c78b9f02aaeeafa4b4a70b1c9d03467"
+      },
+      {
+        "version": "1.0.3",
+        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.3/QuestProModule.dll",
+        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.3",
+        "published_at": "2023-10-24T22:45:22Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* Jaw inverting option (Useful if you're jaw Left/Right wasn't correct)\r\n* Pupil Size control\r\n* Fixed issue causing Resonite to hang when exiting #1 \r\n* Added a bool (Temporary for event input) to reconnect to ALXR\r\n\r\n## New Contributors\r\n* @ScarsTRF made their first contribution in https://github.com/sjsanjsrh/QuestPro4Resonite/pull/3\r\n\r\n**Full Changelog**: https://github.com/sjsanjsrh/QuestPro4Resonite/compare/1.0.2...1.0.3",
+        "file_name": "QuestProModule.dll",
+        "file_size": 26112,
+        "sha256": "3ec01abf25696032c47b5c03b797968fbc3bce41afe600e8e0cd4aee98b88ab3"
+      },
+      {
+        "version": "1.0.2",
+        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.2/QuestProModule.dll",
+        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.2",
+        "published_at": "2023-10-22T10:34:23Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* add config key *EyeMovementMultiplier* it can Multiplier to adjust the movement range of the user's eyes.\r\n\r\n## New Contributors\r\n* @DanteTucker made their first contribution in https://github.com/sjsanjsrh/QuestPro4Resonite/pull/2\r\n",
+        "file_name": "QuestProModule.dll",
+        "file_size": 24576,
+        "sha256": "4040c0bcfeaadff823755da1f4afae9fba5f18ea52b95cd155e5be7eee1dc566"
+      },
+      {
+        "version": "1.0.1",
+        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.1/QuestProModule.dll",
+        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.1",
+        "published_at": "2023-10-18T09:25:42Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "[How to use](https://github.com/sjsanjsrh/QuestPro4Resonite/blob/main/README.md)\r\n* Fix an angry expression\r\n* Combined eye fix",
+        "file_name": "QuestProModule.dll",
+        "file_size": 24064,
+        "sha256": "f2995fc18cfdd9a4cfb28a28b701c3dac36e57e04368dd706019cd78cb828e6e"
+      },
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.0/QuestProModule.dll",
+        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.0",
+        "published_at": "2023-10-01T12:34:58Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "[How to use](https://github.com/sjsanjsrh/QuestPro4Resonite/blob/main/README.md)",
+        "file_name": "QuestProModule.dll",
+        "file_size": 23040,
+        "sha256": "8006e3a0c9c39b27803500405af1047fa709de7025a223abc4870bd6770c49ed"
+      }
+    ],
     "tags": null,
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:45:18.132Z",
+    "last_updated": "2025-08-12T15:55:55.912Z",
     "source": "manifest"
   },
   {
@@ -1168,7 +1289,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:22.726Z",
+    "last_updated": "2025-08-12T15:55:56.730Z",
     "source": "manifest"
   },
   {
@@ -1195,7 +1316,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:24.690Z",
+    "last_updated": "2025-08-12T15:55:57.464Z",
     "source": "manifest"
   },
   {
@@ -1234,7 +1355,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:29.753Z",
+    "last_updated": "2025-08-12T15:55:58.269Z",
     "source": "manifest"
   },
   {
@@ -1248,7 +1369,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:30.370Z",
+    "last_updated": "2025-08-12T15:55:59.568Z",
     "source": "manifest"
   },
   {
@@ -1262,7 +1383,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:33.362Z",
+    "last_updated": "2025-08-12T15:56:00.593Z",
     "source": "manifest"
   },
   {
@@ -1361,7 +1482,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:42.483Z",
+    "last_updated": "2025-08-12T15:56:01.520Z",
     "source": "manifest"
   },
   {
@@ -1400,7 +1521,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:43.279Z",
+    "last_updated": "2025-08-12T15:56:02.662Z",
     "source": "manifest"
   },
   {
@@ -1451,7 +1572,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:47.569Z",
+    "last_updated": "2025-08-12T15:56:03.434Z",
     "source": "manifest"
   },
   {
@@ -1465,7 +1586,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:45:48.293Z",
+    "last_updated": "2025-08-12T15:56:04.155Z",
     "source": "manifest"
   },
   {
@@ -1590,7 +1711,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:45:59.733Z",
+    "last_updated": "2025-08-12T15:56:04.917Z",
     "source": "manifest"
   },
   {
@@ -1599,49 +1720,12 @@
     "category": "Template",
     "source_location": "https://github.com/esnya/EsnyaResoniteModTemplate",
     "author": "esnya",
-    "latest_version": "v0.0.0-template.1",
-    "latest_download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0-template.1/EsnyaResoniteModTemplate.dll",
-    "releases": [
-      {
-        "version": "v0.0.0-template.1",
-        "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0-template.1/EsnyaResoniteModTemplate.dll",
-        "release_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/tag/v0.0.0-template.1",
-        "published_at": "2025-05-30T07:55:33Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "<!-- Release notes generated using configuration in .github/release.yml at v0.0.0-template.1 -->\n\n## What's Changed\n### 🗒️ Documentation\n* Fix grammar in README install section by @esnya in https://github.com/esnya/EsnyaResoniteModTemplate/pull/6\n* Update LangVersion and README grammar by @esnya in https://github.com/esnya/EsnyaResoniteModTemplate/pull/7\n### Other Changes\n* Next by @esnya in https://github.com/esnya/EsnyaResoniteModTemplate/pull/4\n* docs(release): fix typos in release categories by @esnya in https://github.com/esnya/EsnyaResoniteModTemplate/pull/5\n* Fix ResonitePath normalization and install copy by @esnya in https://github.com/esnya/EsnyaResoniteModTemplate/pull/8\n* Add Codex setup and static formatting check by @esnya in https://github.com/esnya/EsnyaResoniteModTemplate/pull/9\n* Refactor mod init code by @esnya in https://github.com/esnya/EsnyaResoniteModTemplate/pull/10\n* Fix formatting command by @esnya in https://github.com/esnya/EsnyaResoniteModTemplate/pull/11\n\n\n**Full Changelog**: https://github.com/esnya/EsnyaResoniteModTemplate/compare/v0.0.0-template.0...v0.0.0-template.1",
-        "file_name": "EsnyaResoniteModTemplate.dll",
-        "file_size": 7168,
-        "sha256": "dadc5cecfafaa476ca71b57e2d36484669a2787ede88be12b8e92a931a8de739"
-      },
-      {
-        "version": "v0.0.0-template.0",
-        "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0-template.0/EsnyaResoniteModTemplate.dll",
-        "release_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/tag/v0.0.0-template.0",
-        "published_at": "2025-05-29T13:40:47Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "<!-- Release notes generated using configuration in .github/release.yml at v0.0.0-template.0 -->\n\n\n\n**Full Changelog**: https://github.com/esnya/EsnyaResoniteModTemplate/compare/v...v0.0.0-template.0",
-        "file_name": "EsnyaResoniteModTemplate.dll",
-        "file_size": 7168,
-        "sha256": "3445e18516fa3285269f15f3504eec3f3b8dfbfe19da84cb713d068d19321eee"
-      },
-      {
-        "version": "v0.0.0.0",
-        "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0.0/EsnyaResoniteModTemplate.dll",
-        "release_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/tag/v0.0.0.0",
-        "published_at": "2024-12-12T22:54:29Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "**Full Changelog**: https://github.com/esnya/EsnyaResoniteModTemplate/commits",
-        "file_name": "EsnyaResoniteModTemplate.dll",
-        "file_size": 7168,
-        "sha256": "fb34f9bdc105e247341f1fe6a0da1fdf4320629e58c5993a11cbdac5ce7bd688"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:46:04.031Z",
+    "last_updated": "2025-08-12T15:56:05.909Z",
     "source": "manifest"
   },
   {
@@ -1732,7 +1816,7 @@
       "SystemHelper"
     ],
     "flags": null,
-    "last_updated": "2025-08-12T15:46:05.054Z",
+    "last_updated": "2025-08-12T15:56:07.155Z",
     "source": "manifest"
   },
   {
@@ -1884,7 +1968,7 @@
       "diagnostic"
     ],
     "flags": null,
-    "last_updated": "2025-08-12T15:46:18.712Z",
+    "last_updated": "2025-08-12T15:56:07.940Z",
     "source": "manifest"
   },
   {
@@ -1973,7 +2057,7 @@
     "flags": [
       "plugin"
     ],
-    "last_updated": "2025-08-12T15:46:19.823Z",
+    "last_updated": "2025-08-12T15:56:08.817Z",
     "source": "manifest"
   },
   {
@@ -2000,7 +2084,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:46:21.205Z",
+    "last_updated": "2025-08-12T15:56:09.609Z",
     "source": "manifest"
   },
   {
@@ -2183,7 +2267,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:46:38.455Z",
+    "last_updated": "2025-08-12T15:56:10.466Z",
     "source": "manifest"
   },
   {
@@ -2192,12 +2276,49 @@
     "category": "Misc",
     "source_location": "https://github.com/hantabaru1014/NeosBetterIMESupport",
     "author": "hantabaru1014",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v2.0.0",
+    "latest_download_url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/download/v2.0.0/NeosBetterIMESupport.dll",
+    "releases": [
+      {
+        "version": "v2.0.0",
+        "download_url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/download/v2.0.0/NeosBetterIMESupport.dll",
+        "release_url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v2.0.0",
+        "published_at": "2023-09-30T04:44:37Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "v2.x is for [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader). \r\n\r\nv2.x は[ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader)向けです。  \r\nこのModの名前にNeosとついてしまっていますが、直す気はないです。Resoniteがリリースされて要望を受け付けるようになったら、公式に対応してほしい内容なのでそれが叶うまでの繋ぎとしてこのModをお使いください。",
+        "file_name": "NeosBetterIMESupport.dll",
+        "file_size": 9728,
+        "sha256": "642b898c50103bbfc70560fe96ac476e5654bae1fd63adf7ae534272e19a6320"
+      },
+      {
+        "version": "v1.0.1",
+        "download_url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/download/v1.0.1/NeosBetterIMESupport.dll",
+        "release_url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v1.0.1",
+        "published_at": "2022-11-17T11:17:25Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Built in release mode.  \r\nThere is no change in functionality, so there is no need to update.\r\n\r\nSHA256: 2af3e2d0b69dc11598e40116742bfc62defd774b05562801a0bbb81b5478be33\r\n",
+        "file_name": "NeosBetterIMESupport.dll",
+        "file_size": 9728,
+        "sha256": "2af3e2d0b69dc11598e40116742bfc62defd774b05562801a0bbb81b5478be33"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/download/v1.0.0/NeosBetterIMESupport.dll",
+        "release_url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v1.0.0",
+        "published_at": "2022-11-09T16:20:11Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Initial release 🎉\r\n\r\nSHA256: db68c7dcab4dc668768542cd34f4f1710d07afcfbb9129bc3edc40ddd3370dde\r\n",
+        "file_name": "NeosBetterIMESupport.dll",
+        "file_size": 10240,
+        "sha256": "db68c7dcab4dc668768542cd34f4f1710d07afcfbb9129bc3edc40ddd3370dde"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:46:39.470Z",
+    "last_updated": "2025-08-12T15:56:15.418Z",
     "source": "manifest"
   },
   {
@@ -2206,12 +2327,157 @@
     "category": "Misc",
     "source_location": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions",
     "author": "hantabaru1014",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v2.0.3",
+    "latest_download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.3/ResoniteScreenshotExtensions.dll",
+    "releases": [
+      {
+        "version": "v2.0.3",
+        "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.3/ResoniteScreenshotExtensions.dll",
+        "release_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.3",
+        "published_at": "2025-06-25T11:44:47Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n- fix: discord integration by @hantabaru1014 in https://github.com/hantabaru1014/ResoniteScreenshotExtensions/pull/12\r\n  - Fixed discord posting failing when a backslash is in the session name #11 \r\n  - Remove decorative tags when posting to discord #10 \r\n  - Fixed the taken time sometimes being incorrect when posting to Discord\r\n\r\n\r\n**Full Changelog**: https://github.com/hantabaru1014/ResoniteScreenshotExtensions/compare/v2.0.2...v2.0.3",
+        "file_name": "ResoniteScreenshotExtensions.dll",
+        "file_size": 53760,
+        "sha256": "07e640889e80b9686da52f43caf20222ac5683d0bc7104cd0740d4d7d3146511"
+      },
+      {
+        "version": "v2.0.2",
+        "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.2/ResoniteScreenshotExtensions.dll",
+        "release_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.2",
+        "published_at": "2025-05-21T12:08:47Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Rebuild for resonite update\r\n\r\n**Full Changelog**: https://github.com/hantabaru1014/ResoniteScreenshotExtensions/compare/v2.0.1...v2.0.2",
+        "file_name": "ResoniteScreenshotExtensions.dll",
+        "file_size": 53760,
+        "sha256": "7353a9fca4c8d8ae773d4959981385505da7a002cc1db3423a59fb710986aa13"
+      },
+      {
+        "version": "v2.0.1",
+        "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.1/ResoniteScreenshotExtensions.dll",
+        "release_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.1",
+        "published_at": "2025-05-03T12:23:51Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* fix: Fixed issues with Discord integration by @hantabaru1014 in https://github.com/hantabaru1014/ResoniteScreenshotExtensions/pull/9\r\n  - Fixed a bug where posting to Discord fails when the target file has no extension\r\n    - https://github.com/hantabaru1014/ResoniteScreenshotExtensions/issues/5#issuecomment-2844097872\r\n  - Changed the Context Menu icon to Discord icon\r\n    - https://github.com/hantabaru1014/ResoniteScreenshotExtensions/issues/8\r\n\r\n\r\n**Full Changelog**: https://github.com/hantabaru1014/ResoniteScreenshotExtensions/compare/v2.0.0...v2.0.1",
+        "file_name": "ResoniteScreenshotExtensions.dll",
+        "file_size": 53760,
+        "sha256": "dbde70f2b09414ad4cd2fa54db6c0e21e5dbe148bc904094716662f320fa3fc3"
+      },
+      {
+        "version": "v2.0.0",
+        "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.0.0/ResoniteScreenshotExtensions.dll",
+        "release_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v2.0.0",
+        "published_at": "2025-04-30T14:23:26Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* feat: new clean XMP schema! by @hantabaru1014 in https://github.com/hantabaru1014/ResoniteScreenshotExtensions/pull/6\r\n  - We've made the XML schema more concise while maintaining the same amount of information. (See README.md for specific examples)\r\n  - Screenshots saved in v1 can still be loaded, of course.\r\n  - Added a web app where you can check metadata in a browser as a sample for loading metadata in external applications.\r\n    - [https://rse.baru.dev/](https://rse.baru.dev/)\r\n  - fix: Fixed an issue where characters outside ASCII range were corrupted.\r\n* feat: post to discord from context menu by @hantabaru1014 in https://github.com/hantabaru1014/ResoniteScreenshotExtensions/pull/7\r\n  - By enabling it in settings, \"Post to Discord\" will be added to the context menu when you have a screenshot with the PhotoMetadata component. This allows you to post photos other than ones you've taken yourself to Discord.\r\n\r\n\r\n**Full Changelog**: https://github.com/hantabaru1014/ResoniteScreenshotExtensions/compare/v1.2.0...v2.0.0",
+        "file_name": "ResoniteScreenshotExtensions.dll",
+        "file_size": 52736,
+        "sha256": "61f140514951c86a106f4a1f267af7f1ca5ff97bbdc0a492ecff9ff14b85fb5b"
+      },
+      {
+        "version": "v1.2.0",
+        "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.2.0/ResoniteScreenshotExtensions.dll",
+        "release_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.2.0",
+        "published_at": "2025-01-02T18:25:38Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# New features\r\n\r\nAdd Discord webhook integration (you can find in settings)",
+        "file_name": "ResoniteScreenshotExtensions.dll",
+        "file_size": 29696,
+        "sha256": "c152c33816f881dbf3fe3a564d82719c0dc1238c7a23e29ff7086afddb08a7d2"
+      },
+      {
+        "version": "v1.1.5",
+        "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.5/ResoniteScreenshotExtensions.dll",
+        "release_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.5",
+        "published_at": "2024-12-29T13:38:01Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Fixed an issue where saving was not possible due to an update to Resonite",
+        "file_name": "ResoniteScreenshotExtensions.dll",
+        "file_size": 23040,
+        "sha256": "76bcaa297860d6f1a81e8d7bc66aefa894adda63cfd43a7d0f32b989658cf6bb"
+      },
+      {
+        "version": "v1.1.4",
+        "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.4/ResoniteScreenshotExtensions.dll",
+        "release_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.4",
+        "published_at": "2024-07-13T01:44:22Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "fix for the new type management system\r\n\r\n**Full Changelog**: https://github.com/hantabaru1014/ResoniteScreenshotExtensions/compare/v1.1.3...v1.1.4",
+        "file_name": "ResoniteScreenshotExtensions.dll",
+        "file_size": 23040,
+        "sha256": "63b592ee2191cc8a2db0c21832b0d14fcca49c8740b4b7020a5a3e7e7a3094c9"
+      },
+      {
+        "version": "v1.1.3",
+        "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.3/ResoniteScreenshotExtensions.dll",
+        "release_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.3",
+        "published_at": "2024-06-14T13:50:54Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- fix for Resonite Beta 2024.6.10.1405 #3 \r\n- add error handling!\r\n  - If saving fails, an error message will appear. Mod Enabled will be automatically set to false, so save again! And let me know in the issue!\r\n![スクリーンショット 2024-06-14 224145](https://github.com/hantabaru1014/ResoniteScreenshotExtensions/assets/16133291/b27e794b-ddfc-4222-ac96-0c03ece89538)\r\n",
+        "file_name": "ResoniteScreenshotExtensions.dll",
+        "file_size": 23040,
+        "sha256": "520f11015cf6c319685ad3e5cee41428d71f705636963fd2b0d10a029c3a62fd"
+      },
+      {
+        "version": "v1.1.2",
+        "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.2/ResoniteScreenshotExtensions.dll",
+        "release_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.2",
+        "published_at": "2024-05-13T17:15:31Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Fixed an issue that did not work correctly when the keepOriginalScreenshotFormat setting is set.",
+        "file_name": "ResoniteScreenshotExtensions.dll",
+        "file_size": 22528,
+        "sha256": "451fc7f85c0e8e2bd60a255d7ecd28938eefaef82e875677a5c4230b2cab6a84"
+      },
+      {
+        "version": "v1.1.1",
+        "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.1/ResoniteScreenshotExtensions.dll",
+        "release_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.1",
+        "published_at": "2024-04-14T15:47:46Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "fix for new settings system",
+        "file_name": "ResoniteScreenshotExtensions.dll",
+        "file_size": 22528,
+        "sha256": "350cbd6cd33bc516a535c9474f0b33969b991557b4cccfba7066ab253db094ec"
+      },
+      {
+        "version": "v1.1.0",
+        "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.1.0/ResoniteScreenshotExtensions.dll",
+        "release_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.1.0",
+        "published_at": "2024-03-20T10:35:16Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Bugfix\r\n- #1 Fixed image quality saved differently from Vanilla\r\n\r\n# New features\r\n- Added mod enabled option\r\n- Added option to select image format (behavior is different from Keep original format setting)\r\n  - formats: JPEG, WEBP, PNG\r\n- Added option to save webp as lossy (default is lossless. By saving as lossy, you can get a smaller file size and alpha than jpeg with the same image quality)\r\n\r\n**Full Changelog**: https://github.com/hantabaru1014/ResoniteScreenshotExtensions/compare/v1.0.0...v1.1.0",
+        "file_name": "ResoniteScreenshotExtensions.dll",
+        "file_size": 23552,
+        "sha256": "9c8224af9119b835cb5c89ad40d09b4304f93c56eb35ecdd26589ffd83ad88a2"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v1.0.0/ResoniteScreenshotExtensions.dll",
+        "release_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/tag/v1.0.0",
+        "published_at": "2024-03-02T12:57:36Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## Current features\r\n- Save FrooxEngine.PhotoMetadata to screenshot files (XMP)\r\n- Restore FrooxEngine.PhotoMetadata from the screenshot file that saved by this mod\r\n    - It will be restored by importing it as an image/texture as usual\r\n- Dig the folder by month and date (yyyy-MM) when saving screenshot",
+        "file_name": "ResoniteScreenshotExtensions.dll",
+        "file_size": 20992,
+        "sha256": "fdfaee5ec4beac44f2a7e957a187461694f92bbe89b44fd553cf9233b5dacfb6"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:46:40.105Z",
+    "last_updated": "2025-08-12T15:56:31.520Z",
     "source": "manifest"
   },
   {
@@ -2225,7 +2491,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:46:41.083Z",
+    "last_updated": "2025-08-12T15:56:32.585Z",
     "source": "manifest"
   },
   {
@@ -2239,7 +2505,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:46:42.293Z",
+    "last_updated": "2025-08-12T15:56:33.457Z",
     "source": "manifest"
   },
   {
@@ -2253,7 +2519,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:46:43.624Z",
+    "last_updated": "2025-08-12T15:56:34.374Z",
     "source": "manifest"
   },
   {
@@ -2320,7 +2586,7 @@
       "network"
     ],
     "flags": null,
-    "last_updated": "2025-08-12T15:46:49.204Z",
+    "last_updated": "2025-08-12T15:56:35.128Z",
     "source": "manifest"
   },
   {
@@ -2412,7 +2678,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2025-08-12T15:46:49.951Z",
+    "last_updated": "2025-08-12T15:56:36.150Z",
     "source": "manifest"
   },
   {
@@ -2421,49 +2687,12 @@
     "category": "Inspectors",
     "source_location": "https://github.com/djsime1/BoundedUIX",
     "author": "djsime1",
-    "latest_version": "v1.1.2",
-    "latest_download_url": "https://github.com/djsime1/BoundedUIX/releases/download/v1.1.2/BoundedUIX.dll",
-    "releases": [
-      {
-        "version": "v1.1.2",
-        "download_url": "https://github.com/djsime1/BoundedUIX/releases/download/v1.1.2/BoundedUIX.dll",
-        "release_url": "https://github.com/djsime1/BoundedUIX/releases/tag/v1.1.2",
-        "published_at": "2025-03-31T03:22:33Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "**Added:**\r\n- A mod section header in RectTransform inspectors.\r\n\r\n**Updated:**\r\n- Changed the mod ID from `Banane9.BoundedUIX` to `je.dj.BoundedUIX` for the RML mod manifest.\r\n\r\n_Built against Resonite version 2025.3.28.1172._",
-        "file_name": "BoundedUIX.dll",
-        "file_size": 35840,
-        "sha256": "f47991ed6cea3b32da185b4ae71b97196e66c813fa34bc1d1969a2de7f1c839b"
-      },
-      {
-        "version": "1.1.1",
-        "download_url": "https://github.com/djsime1/BoundedUIX/releases/download/1.1.1/BoundedUIX.dll",
-        "release_url": "https://github.com/djsime1/BoundedUIX/releases/tag/1.1.1",
-        "published_at": "2024-07-12T15:20:36Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Version bump, no functional changes.\r\n\r\n_Built against Resonite version 2024.7.12.12._",
-        "file_name": "BoundedUIX.dll",
-        "file_size": 35328,
-        "sha256": "5c108a2e2bfe87498d14341c31dbabcbe90ea187611b73d7d7c71b1298ec99d6"
-      },
-      {
-        "version": "v1.1.0",
-        "download_url": "https://github.com/djsime1/BoundedUIX/releases/download/v1.1.0/BoundedUIX.dll",
-        "release_url": "https://github.com/djsime1/BoundedUIX/releases/tag/v1.1.0",
-        "published_at": "2024-06-12T17:24:25Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "**Added:**\r\n- Merged [FixUIXButton](https://github.com/djsime1/FixUIXButton/) directly into this mod, even though it probably isn't needed.\r\n- An option to disable the prioritization of Button components when selecting UIX elements.\r\n\r\n**Updated:**\r\n- Target .NET framework from 4.6.2 to 4.7.2\r\n- Automatic assembly publicization using [BepInEx.AssemblyPublicizer](https://github.com/BepInEx/BepInEx.AssemblyPublicizer)\r\n\r\n**Fixed:**\r\n- DevTip UIX selection gizmo with after Resonite's 2024.5.29.27 update.\r\n\r\n_Built against Resonite version 2024.6.11.74._",
-        "file_name": "BoundedUIX.dll",
-        "file_size": 34304,
-        "sha256": "2611da67850b7aeb32e27e9a838f55c07777e6575bfb5fea879d6b3e7448cbdb"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:46:54.131Z",
+    "last_updated": "2025-08-12T15:56:37.493Z",
     "source": "manifest"
   },
   {
@@ -2502,7 +2731,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:46:57.197Z",
+    "last_updated": "2025-08-12T15:56:38.702Z",
     "source": "manifest"
   },
   {
@@ -2553,7 +2782,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:01.617Z",
+    "last_updated": "2025-08-12T15:56:39.432Z",
     "source": "manifest"
   },
   {
@@ -2567,7 +2796,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:01.617Z",
+    "last_updated": "2025-08-12T15:56:39.432Z",
     "source": "manifest"
   },
   {
@@ -2594,7 +2823,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:03.701Z",
+    "last_updated": "2025-08-12T15:56:40.224Z",
     "source": "manifest"
   },
   {
@@ -2645,7 +2874,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:07.843Z",
+    "last_updated": "2025-08-12T15:56:40.964Z",
     "source": "manifest"
   },
   {
@@ -2654,12 +2883,85 @@
     "category": "Inspectors",
     "source_location": "https://github.com/art0007i/ColorDrop",
     "author": "art0007i",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "2.1.1",
+    "latest_download_url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.1/ColorDrop.dll",
+    "releases": [
+      {
+        "version": "2.1.1",
+        "download_url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.1/ColorDrop.dll",
+        "release_url": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.1",
+        "published_at": "2024-04-16T00:24:59Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# There's nothing new in this version\r\nThis is just a rebuild against Resonite Beta 2024.4.15.1407 for compatibility",
+        "file_name": "ColorDrop.dll",
+        "file_size": 9728,
+        "sha256": "340dca1405464ca8d6b5b0a6ea00ffbf3ea64531905d854db7e4b8d2fa6d0837"
+      },
+      {
+        "version": "2.1.0",
+        "download_url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.0/ColorDrop.dll",
+        "release_url": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.0",
+        "published_at": "2023-09-29T18:01:00Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "fix the color input flux nodes being broken",
+        "file_name": "ColorDrop.dll",
+        "file_size": 9728,
+        "sha256": "d4f0e4b7ded4056fbee7ab94819bbd8a2a5ea2e60eb6680817f5476cced6688d"
+      },
+      {
+        "version": "2.0.0",
+        "download_url": "https://github.com/art0007i/ColorDrop/releases/download/2.0.0/ColorDrop.dll",
+        "release_url": "https://github.com/art0007i/ColorDrop/releases/tag/2.0.0",
+        "published_at": "2023-09-27T21:46:36Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "The first release of this mod that is compatible with [Resonite](https://resonite.com).\r\n\r\n- ⚠ Any release prior to 2.0.0 is for [NeosVR](https://neos.com).",
+        "file_name": "ColorDrop.dll",
+        "file_size": 9216,
+        "sha256": "3a66b5db1d7c9e3f4f8ff3d6aaa76fb2eba8622b757ffde89cc6c4f1a1e6fb7a"
+      },
+      {
+        "version": "1.2.0",
+        "download_url": "https://github.com/art0007i/ColorDrop/releases/download/1.2.0/ColorDrop.dll",
+        "release_url": "https://github.com/art0007i/ColorDrop/releases/tag/1.2.0",
+        "published_at": "2022-12-14T18:35:39Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "ColorDrop.dll",
+        "file_size": 9216,
+        "sha256": "73632fb5d3af39530400ed044ee32fe84456c73f1d8e31f91a235ff6fb5bd0f9"
+      },
+      {
+        "version": "1.1.0.0",
+        "download_url": "https://github.com/art0007i/ColorDrop/releases/download/1.1.0.0/ColorDrop.dll",
+        "release_url": "https://github.com/art0007i/ColorDrop/releases/tag/1.1.0.0",
+        "published_at": "2022-03-03T22:33:25Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "ColorDrop.dll",
+        "file_size": 8704,
+        "sha256": "b473fb02e00925a23fabb8e04d8f11ceddc5583e613625011c2ec98e858793ec"
+      },
+      {
+        "version": "1.0.0.0",
+        "download_url": "https://github.com/art0007i/ColorDrop/releases/download/1.0.0.0/ColorDrop.dll",
+        "release_url": "https://github.com/art0007i/ColorDrop/releases/tag/1.0.0.0",
+        "published_at": "2021-09-11T01:56:16Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "ColorDrop.dll",
+        "file_size": 8704,
+        "sha256": "a1dfc108d1c0286c599e3fad243a73d6a484579cea718a74d532edce70ee966e"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:08.491Z",
+    "last_updated": "2025-08-12T15:56:51.421Z",
     "source": "manifest"
   },
   {
@@ -2668,12 +2970,25 @@
     "category": "Dashboard",
     "source_location": "https://github.com/art0007i/ConsistentDashboard",
     "author": "art0007i",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.0.0",
+    "latest_download_url": "https://github.com/art0007i/ConsistentDashboard/releases/download/1.0.0/ConsistentDashboard.dll",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/art0007i/ConsistentDashboard/releases/download/1.0.0/ConsistentDashboard.dll",
+        "release_url": "https://github.com/art0007i/ConsistentDashboard/releases/tag/1.0.0",
+        "published_at": "2023-10-08T07:14:27Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Initial release",
+        "file_name": "ConsistentDashboard.dll",
+        "file_size": 6656,
+        "sha256": "de5da20205cc93590398f2895888039f37fb6d47003c97930fb7ab7befaccc65"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:09.504Z",
+    "last_updated": "2025-08-12T15:56:54.015Z",
     "source": "manifest"
   },
   {
@@ -2724,7 +3039,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:14.123Z",
+    "last_updated": "2025-08-12T15:56:54.744Z",
     "source": "manifest"
   },
   {
@@ -2847,7 +3162,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:25.226Z",
+    "last_updated": "2025-08-12T15:56:55.515Z",
     "source": "manifest"
   },
   {
@@ -2874,7 +3189,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:27.114Z",
+    "last_updated": "2025-08-12T15:56:56.364Z",
     "source": "manifest"
   },
   {
@@ -2888,7 +3203,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:28.126Z",
+    "last_updated": "2025-08-12T15:56:57.399Z",
     "source": "manifest"
   },
   {
@@ -2897,73 +3212,12 @@
     "category": "Controls",
     "source_location": "https://github.com/art0007i/DefaultToolOverride",
     "author": "art0007i",
-    "latest_version": "1.0.4",
-    "latest_download_url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.4/DefaultToolOverride.dll",
-    "releases": [
-      {
-        "version": "1.0.4",
-        "download_url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.4/DefaultToolOverride.dll",
-        "release_url": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.4",
-        "published_at": "2024-05-11T14:05:45Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "add modifier key invert option",
-        "file_name": "DefaultToolOverride.dll",
-        "file_size": 14848,
-        "sha256": "d1931db626e12e7f0bac541da554fa85117d8fbe22684e724dbd0b5b7f5a07e3"
-      },
-      {
-        "version": "1.0.3",
-        "download_url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.3/DefaultToolOverride.dll",
-        "release_url": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.3",
-        "published_at": "2024-05-10T10:12:19Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Add config option to require a modifier key to be held.",
-        "file_name": "DefaultToolOverride.dll",
-        "file_size": 14336,
-        "sha256": "96f03a183e22e3f21bbee9f24643b8997f8275290e6910edf19fcb20a38f7cf3"
-      },
-      {
-        "version": "1.0.2",
-        "download_url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.2/DefaultToolOverride.dll",
-        "release_url": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.2",
-        "published_at": "2024-04-04T21:35:17Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Fix \"None\" override type not working how it should by @XDelta ",
-        "file_name": "DefaultToolOverride.dll",
-        "file_size": 13312,
-        "sha256": "4e5e2c1ac7a8676095599671228990abcda3718d006e0e0af05c2804234ff499"
-      },
-      {
-        "version": "1.0.1",
-        "download_url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.1/DefaultToolOverride.dll",
-        "release_url": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.1",
-        "published_at": "2023-10-20T09:55:07Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "- Fix issue where typing an invalid type would freeze the game for ~5 minutes\r\n",
-        "file_name": "DefaultToolOverride.dll",
-        "file_size": 13312,
-        "sha256": "9913af124aa5719b7ec8fcb339e7e192dae154213b64e1cc446ee98fb5aa6bcf"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.0/DefaultToolOverride.dll",
-        "release_url": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.0",
-        "published_at": "2023-10-16T19:36:07Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "DefaultToolOverride.dll",
-        "file_size": 13312,
-        "sha256": "5112007b7a052cedb851b6320b84d41ae799f536dc2655afaab8dd1cd3f755cf"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:28.966Z",
+    "last_updated": "2025-08-12T15:56:58.409Z",
     "source": "manifest"
   },
   {
@@ -3004,7 +3258,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:47:31.982Z",
+    "last_updated": "2025-08-12T15:56:59.157Z",
     "source": "manifest"
   },
   {
@@ -3079,7 +3333,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:38.680Z",
+    "last_updated": "2025-08-12T15:56:59.999Z",
     "source": "manifest"
   },
   {
@@ -3088,37 +3342,12 @@
     "category": "Inspectors",
     "source_location": "https://github.com/art0007i/ExtrasButtonTweaks",
     "author": "art0007i",
-    "latest_version": "1.1.0",
-    "latest_download_url": "https://github.com/art0007i/ExtrasButtonTweaks/releases/download/1.1.0/ExtrasButtonTweaks.dll",
-    "releases": [
-      {
-        "version": "1.1.0",
-        "download_url": "https://github.com/art0007i/ExtrasButtonTweaks/releases/download/1.1.0/ExtrasButtonTweaks.dll",
-        "release_url": "https://github.com/art0007i/ExtrasButtonTweaks/releases/tag/1.1.0",
-        "published_at": "2025-05-10T21:07:56Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "ExtrasButtonTweaks.dll",
-        "file_size": 15360,
-        "sha256": "a6a9b165c5d4305c20e53e2dc370952f89309bf5ccd7bbdf1f7be334499fc56e"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/art0007i/ExtrasButtonTweaks/releases/download/1.0.0/ExtrasButtonTweaks.dll",
-        "release_url": "https://github.com/art0007i/ExtrasButtonTweaks/releases/tag/1.0.0",
-        "published_at": "2023-11-12T13:57:18Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "initial release",
-        "file_name": "ExtrasButtonTweaks.dll",
-        "file_size": 12800,
-        "sha256": "85880e8504bddde3c3aa5b9e84a7f1f6e747e5698a0d80d081d1314575e25978"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:41.691Z",
+    "last_updated": "2025-08-12T15:57:01.291Z",
     "source": "manifest"
   },
   {
@@ -3157,7 +3386,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:44.806Z",
+    "last_updated": "2025-08-12T15:57:02.043Z",
     "source": "manifest"
   },
   {
@@ -3184,7 +3413,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:45.510Z",
+    "last_updated": "2025-08-12T15:57:02.754Z",
     "source": "manifest"
   },
   {
@@ -3213,7 +3442,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:47:46.248Z",
+    "last_updated": "2025-08-12T15:57:03.454Z",
     "source": "manifest"
   },
   {
@@ -3264,7 +3493,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:50.747Z",
+    "last_updated": "2025-08-12T15:57:04.180Z",
     "source": "manifest"
   },
   {
@@ -3273,37 +3502,12 @@
     "category": "Asset Importing",
     "source_location": "https://github.com/art0007i/ImportCompactor",
     "author": "art0007i",
-    "latest_version": "2.0.0",
-    "latest_download_url": "https://github.com/art0007i/ImportCompactor/releases/download/2.0.0/ImportCompactor.dll",
-    "releases": [
-      {
-        "version": "2.0.0",
-        "download_url": "https://github.com/art0007i/ImportCompactor/releases/download/2.0.0/ImportCompactor.dll",
-        "release_url": "https://github.com/art0007i/ImportCompactor/releases/tag/2.0.0",
-        "published_at": "2023-11-20T12:18:43Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "The first release of this mod that is compatible with [Resonite](https://resonite.com).\r\n\r\n- ⚠ Any release prior to 2.0.0 is for [NeosVR](https://neos.com).",
-        "file_name": "ImportCompactor.dll",
-        "file_size": 5632,
-        "sha256": "0154587705c1db03fe07ba866fc8c80af70fa72b2c3cacab96f03b854909570a"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/art0007i/ImportCompactor/releases/download/1.0.0/ImportCompactor.dll",
-        "release_url": "https://github.com/art0007i/ImportCompactor/releases/tag/1.0.0",
-        "published_at": "2023-05-20T15:47:27Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "ImportCompactor.dll",
-        "file_size": 5632,
-        "sha256": "6b03551a18732e582395324ce8a0f8ff11da0c79de8c96db67d9a3b42cad0208"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:53.769Z",
+    "last_updated": "2025-08-12T15:57:05.488Z",
     "source": "manifest"
   },
   {
@@ -3312,12 +3516,61 @@
     "category": "Controls",
     "source_location": "https://github.com/art0007i/InspectorScroll",
     "author": "art0007i",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "2.0.0",
+    "latest_download_url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.0/InspectorScroll.dll",
+    "releases": [
+      {
+        "version": "2.0.0",
+        "download_url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.0/InspectorScroll.dll",
+        "release_url": "https://github.com/art0007i/InspectorScroll/releases/tag/2.0.0",
+        "published_at": "2023-09-27T21:57:51Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "The first release of this mod that is compatible with [Resonite](https://resonite.com).\r\n\r\n- ⚠ Any release prior to 2.0.0 is for [NeosVR](https://neos.com).",
+        "file_name": "InspectorScroll.dll",
+        "file_size": 6656,
+        "sha256": "2dbcea4b00f4650c8b06a76d6dfd4636977329ab1e26239dd61187a03848eb24"
+      },
+      {
+        "version": "1.0.2.0",
+        "download_url": "https://github.com/art0007i/InspectorScroll/releases/download/1.0.2.0/InspectorScroll.dll",
+        "release_url": "https://github.com/art0007i/InspectorScroll/releases/tag/1.0.2.0",
+        "published_at": "2022-04-08T21:20:55Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "config update",
+        "file_name": "InspectorScroll.dll",
+        "file_size": 6656,
+        "sha256": "fe49fe81655692b458f1c1191048a1a1d61706023ed0a8366271460e059da5d8"
+      },
+      {
+        "version": "1.0.1.0",
+        "download_url": "https://github.com/art0007i/InspectorScroll/releases/download/1.0.1.0/InspectorScroll.dll",
+        "release_url": "https://github.com/art0007i/InspectorScroll/releases/tag/1.0.1.0",
+        "published_at": "2021-11-10T15:48:50Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "InspectorScroll.dll",
+        "file_size": 6144,
+        "sha256": "eba73f821094dbb762662ad3bc27a7b7dc6f4ed69e1414c078bdd591dae4c169"
+      },
+      {
+        "version": "1.0.0.0",
+        "download_url": "https://github.com/art0007i/InspectorScroll/releases/download/1.0.0.0/InspectorScroll.dll",
+        "release_url": "https://github.com/art0007i/InspectorScroll/releases/tag/1.0.0.0",
+        "published_at": "2021-09-16T15:55:57Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "InspectorScroll.dll",
+        "file_size": 6144,
+        "sha256": "3b399d5532ec94139a2ca850f299144245e9a6c048a9e0e91de55491ba8c7d16"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:47:54.747Z",
+    "last_updated": "2025-08-12T15:57:11.516Z",
     "source": "manifest"
   },
   {
@@ -3380,7 +3633,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:00.566Z",
+    "last_updated": "2025-08-12T15:57:12.319Z",
     "source": "manifest"
   },
   {
@@ -3407,7 +3660,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:02.731Z",
+    "last_updated": "2025-08-12T15:57:13.131Z",
     "source": "manifest"
   },
   {
@@ -3446,7 +3699,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:06.141Z",
+    "last_updated": "2025-08-12T15:57:13.900Z",
     "source": "manifest"
   },
   {
@@ -3557,7 +3810,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:16.027Z",
+    "last_updated": "2025-08-12T15:57:14.630Z",
     "source": "manifest"
   },
   {
@@ -3566,37 +3819,12 @@
     "category": "Technical Tweaks",
     "source_location": "https://github.com/art0007i/LogCleaner",
     "author": "art0007i",
-    "latest_version": "1.1.0",
-    "latest_download_url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.0/LogCleaner.dll",
-    "releases": [
-      {
-        "version": "1.1.0",
-        "download_url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.0/LogCleaner.dll",
-        "release_url": "https://github.com/art0007i/LogCleaner/releases/tag/1.1.0",
-        "published_at": "2024-04-28T16:22:46Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "LogCleaner.dll",
-        "file_size": 11264,
-        "sha256": "aece08d0beef41ed9c4ec6e1d759bb8f5fafcc0e00805d75b9d09db2f5915861"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/art0007i/LogCleaner/releases/download/1.0.0/LogCleaner.dll",
-        "release_url": "https://github.com/art0007i/LogCleaner/releases/tag/1.0.0",
-        "published_at": "2024-02-13T00:22:42Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "LogCleaner.dll",
-        "file_size": 9216,
-        "sha256": "b30743cb5074314aaa306a7b49e5c34b989d7e2613416f60bcf1a38fecfd2220"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:19.104Z",
+    "last_updated": "2025-08-12T15:57:15.960Z",
     "source": "manifest"
   },
   {
@@ -3635,7 +3863,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:22.208Z",
+    "last_updated": "2025-08-12T15:57:16.695Z",
     "source": "manifest"
   },
   {
@@ -3722,7 +3950,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:30.111Z",
+    "last_updated": "2025-08-12T15:57:17.450Z",
     "source": "manifest"
   },
   {
@@ -3761,7 +3989,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:33.157Z",
+    "last_updated": "2025-08-12T15:57:18.175Z",
     "source": "manifest"
   },
   {
@@ -3788,7 +4016,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:35.040Z",
+    "last_updated": "2025-08-12T15:57:19.019Z",
     "source": "manifest"
   },
   {
@@ -3797,12 +4025,25 @@
     "category": "Misc",
     "source_location": "https://github.com/art0007i/OutOfSightOverride",
     "author": "art0007i",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.0.0",
+    "latest_download_url": "https://github.com/art0007i/OutOfSightOverride/releases/download/1.0.0/OutOfSightOverride.dll",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/art0007i/OutOfSightOverride/releases/download/1.0.0/OutOfSightOverride.dll",
+        "release_url": "https://github.com/art0007i/OutOfSightOverride/releases/tag/1.0.0",
+        "published_at": "2024-10-08T09:46:18Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "OutOfSightOverride.dll",
+        "file_size": 8192,
+        "sha256": "c7fef55525aa9bbcb96c42aa4271707497fd3f0466cb17f1bc1c37e907544c75"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:36.066Z",
+    "last_updated": "2025-08-12T15:57:21.072Z",
     "source": "manifest"
   },
   {
@@ -3811,12 +4052,49 @@
     "category": "Memes",
     "source_location": "https://github.com/art0007i/ParentalIssues",
     "author": "art0007i",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "2.0.0",
+    "latest_download_url": "https://github.com/art0007i/ParentalIssues/releases/download/2.0.0/ParentalIssues.dll",
+    "releases": [
+      {
+        "version": "2.0.0",
+        "download_url": "https://github.com/art0007i/ParentalIssues/releases/download/2.0.0/ParentalIssues.dll",
+        "release_url": "https://github.com/art0007i/ParentalIssues/releases/tag/2.0.0",
+        "published_at": "2023-11-20T12:33:01Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "[Resonite](https://resonite.com)'s child.\r\n\r\n- ⚠ Any release prior to 2.0.0 is for [NeosVR](https://neos.com).",
+        "file_name": "ParentalIssues.dll",
+        "file_size": 8704,
+        "sha256": "2241fe6619880543be78d71894378250eba9b5a60147c9a95799869bbe7a129e"
+      },
+      {
+        "version": "1.1.0",
+        "download_url": "https://github.com/art0007i/ParentalIssues/releases/download/1.1.0/ParentalIssues.dll",
+        "release_url": "https://github.com/art0007i/ParentalIssues/releases/tag/1.1.0",
+        "published_at": "2023-04-11T09:48:29Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "issue #1's child",
+        "file_name": "ParentalIssues.dll",
+        "file_size": 8704,
+        "sha256": "8b1d61c5a054c8ce35f1911cbb68eba122f757305545ccecca11f4c6de754629"
+      },
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/art0007i/ParentalIssues/releases/download/1.0.0/ParentalIssues.dll",
+        "release_url": "https://github.com/art0007i/ParentalIssues/releases/tag/1.0.0",
+        "published_at": "2023-04-11T00:21:43Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "made by art0007i's child",
+        "file_name": "ParentalIssues.dll",
+        "file_size": 8704,
+        "sha256": "87d258a93bd0074ffaea7b43e0fcfdd75bd78c9414c3cc027bcee41d2d67fff2"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:37.098Z",
+    "last_updated": "2025-08-12T15:57:26.821Z",
     "source": "manifest"
   },
   {
@@ -3869,7 +4147,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:48:41.527Z",
+    "last_updated": "2025-08-12T15:57:27.609Z",
     "source": "manifest"
   },
   {
@@ -3932,7 +4210,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:47.248Z",
+    "last_updated": "2025-08-12T15:57:28.811Z",
     "source": "manifest"
   },
   {
@@ -3941,25 +4219,12 @@
     "category": "Inspectors",
     "source_location": "https://github.com/art0007i/RemoveComponentAttacherRestriction",
     "author": "art0007i",
-    "latest_version": "1.0.0",
-    "latest_download_url": "https://github.com/art0007i/RemoveComponentAttacherRestriction/releases/download/1.0.0/RemoveComponentAttacherRestriction.dll",
-    "releases": [
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/art0007i/RemoveComponentAttacherRestriction/releases/download/1.0.0/RemoveComponentAttacherRestriction.dll",
-        "release_url": "https://github.com/art0007i/RemoveComponentAttacherRestriction/releases/tag/1.0.0",
-        "published_at": "2023-10-16T19:45:36Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "RemoveComponentAttacherRestriction.dll",
-        "file_size": 7680,
-        "sha256": "3a5c1139cca746bafc78d91f8aa0c588bf9435c2f3389a0fc16ec01ae31c12d0"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:48.025Z",
+    "last_updated": "2025-08-12T15:57:30.151Z",
     "source": "manifest"
   },
   {
@@ -3998,7 +4263,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:48.758Z",
+    "last_updated": "2025-08-12T15:57:30.895Z",
     "source": "manifest"
   },
   {
@@ -4037,7 +4302,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:48:49.618Z",
+    "last_updated": "2025-08-12T15:57:31.635Z",
     "source": "manifest"
   },
   {
@@ -4078,7 +4343,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:48:52.865Z",
+    "last_updated": "2025-08-12T15:57:32.754Z",
     "source": "manifest"
   },
   {
@@ -4094,7 +4359,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:48:54.151Z",
+    "last_updated": "2025-08-12T15:57:34.030Z",
     "source": "manifest"
   },
   {
@@ -4325,7 +4590,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:16.124Z",
+    "last_updated": "2025-08-12T15:57:34.933Z",
     "source": "manifest"
   },
   {
@@ -4412,7 +4677,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:17.082Z",
+    "last_updated": "2025-08-12T15:57:35.649Z",
     "source": "manifest"
   },
   {
@@ -4439,7 +4704,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:19.004Z",
+    "last_updated": "2025-08-12T15:57:36.412Z",
     "source": "manifest"
   },
   {
@@ -4526,7 +4791,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:26.896Z",
+    "last_updated": "2025-08-12T15:57:37.222Z",
     "source": "manifest"
   },
   {
@@ -4565,7 +4830,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:29.909Z",
+    "last_updated": "2025-08-12T15:57:37.981Z",
     "source": "manifest"
   },
   {
@@ -4574,37 +4839,12 @@
     "category": "Visual Tweaks",
     "source_location": "https://github.com/art0007i/TrackerModelSwapper",
     "author": "art0007i",
-    "latest_version": "2.0.0",
-    "latest_download_url": "https://github.com/art0007i/TrackerModelSwapper/releases/download/2.0.0/TrackerModelSwapper.dll",
-    "releases": [
-      {
-        "version": "2.0.0",
-        "download_url": "https://github.com/art0007i/TrackerModelSwapper/releases/download/2.0.0/TrackerModelSwapper.dll",
-        "release_url": "https://github.com/art0007i/TrackerModelSwapper/releases/tag/2.0.0",
-        "published_at": "2023-10-18T15:33:40Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "TrackerModelSwapper.dll",
-        "file_size": 6656,
-        "sha256": "9768a0be3b54c5d79351cbf7e0e237091eeac48038f44d079ea8006b344486ba"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/art0007i/TrackerModelSwapper/releases/download/1.0.0/TrackerModelSwapper.dll",
-        "release_url": "https://github.com/art0007i/TrackerModelSwapper/releases/tag/1.0.0",
-        "published_at": "2023-05-27T15:12:36Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "TrackerModelSwapper.dll",
-        "file_size": 6656,
-        "sha256": "3f2866329cc76a51104e80476a18038fe9e31334a876bf7d65ccddb767fea720"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:30.940Z",
+    "last_updated": "2025-08-12T15:57:39.309Z",
     "source": "manifest"
   },
   {
@@ -4613,25 +4853,12 @@
     "category": "Bug Workaround",
     "source_location": "https://github.com/art0007i/TransparentCameraEnabler",
     "author": "art0007i",
-    "latest_version": "1.0.0",
-    "latest_download_url": "https://github.com/art0007i/TransparentCameraEnabler/releases/download/1.0.0/TransparentCameraEnabler.dll",
-    "releases": [
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/art0007i/TransparentCameraEnabler/releases/download/1.0.0/TransparentCameraEnabler.dll",
-        "release_url": "https://github.com/art0007i/TransparentCameraEnabler/releases/tag/1.0.0",
-        "published_at": "2023-11-14T18:58:10Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "TransparentCameraEnabler.dll",
-        "file_size": 7168,
-        "sha256": "ee9f60a8a9826a2a579c8c2fbd49346a55ffee089931f38bbb11dd90b899c052"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:33.356Z",
+    "last_updated": "2025-08-12T15:57:40.648Z",
     "source": "manifest"
   },
   {
@@ -4640,12 +4867,121 @@
     "category": "Technical Tweaks",
     "source_location": "https://github.com/art0007i/ValueProxyExtensions",
     "author": "art0007i",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "2.1.4",
+    "latest_download_url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.4/ValueProxyExtensions.dll",
+    "releases": [
+      {
+        "version": "2.1.4",
+        "download_url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.4/ValueProxyExtensions.dll",
+        "release_url": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.4",
+        "published_at": "2025-05-06T19:54:04Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "fix tool simulator secondary on protoflux tool not working",
+        "file_name": "ValueProxyExtensions.dll",
+        "file_size": 16896,
+        "sha256": "e8033714199409c8f1b0d3b29c386b56bf26e77b19e4e40876ae6de0d4c0745c"
+      },
+      {
+        "version": "2.1.3",
+        "download_url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.3/ValueProxyExtensions.dll",
+        "release_url": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.3",
+        "published_at": "2025-02-19T03:26:00Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "recompile bcs crashed otherwise",
+        "file_name": "ValueProxyExtensions.dll",
+        "file_size": 16384,
+        "sha256": "96b84d877fc28af68c043059f9ebfd74d4799d76e7c6dbdce3794b1d54b0d5a1"
+      },
+      {
+        "version": "2.1.2",
+        "download_url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.2/ValueProxyExtensions.dll",
+        "release_url": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.2",
+        "published_at": "2025-01-14T16:48:48Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Fix #7 ",
+        "file_name": "ValueProxyExtensions.dll",
+        "file_size": 16384,
+        "sha256": "46bce08c5e1798d77d13d922d7d385349addd5ffb1f22187ad67a1eaf6acbb3f"
+      },
+      {
+        "version": "2.1.1",
+        "download_url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.1/ValueProxyExtensions.dll",
+        "release_url": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.1",
+        "published_at": "2024-07-12T01:00:50Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "rebuilt for new type system",
+        "file_name": "ValueProxyExtensions.dll",
+        "file_size": 15872,
+        "sha256": "be0e8f5f2c75775ad55a6ffd0a1f744973be9fff985fa2699988042d43ecab0c"
+      },
+      {
+        "version": "2.1.0",
+        "download_url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.0/ValueProxyExtensions.dll",
+        "release_url": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.1.0",
+        "published_at": "2023-11-08T17:09:04Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- [use value proxies instead of prim members](https://github.com/art0007i/ValueProxyExtensions/commit/f19ede566bf37fe588a0cae87384b9df4f200497)\r\n- [fix protoflux input spawning](https://github.com/art0007i/ValueProxyExtensions/commit/00d6eef326add9d4bc980ff6e33adbb1c2640e0d)\r\n- [overhaul proxy receive order and userspace transfer](https://github.com/art0007i/ValueProxyExtensions/commit/0e1b69fd9f8944b9c3d6983556a990766e271f38)",
+        "file_name": "ValueProxyExtensions.dll",
+        "file_size": 15872,
+        "sha256": "0e1efac55d36be410e7b2fb49cb0135f249b5dba3019b3e41821d0ff9f7cb26b"
+      },
+      {
+        "version": "2.0.0",
+        "download_url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.0.0/ValueProxyExtensions.dll",
+        "release_url": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/2.0.0",
+        "published_at": "2023-09-28T07:27:09Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "The first release of this mod that is compatible with [Resonite](https://resonite.com).\r\nUnfortunately features a lot less functionality than it's neosvr equivalent, but I plan to add this back in the future.\r\n\r\n- ⚠ Any release prior to 2.0.0 is for [NeosVR](https://neos.com).\r\n",
+        "file_name": "ValueProxyExtensions.dll",
+        "file_size": 17408,
+        "sha256": "c2ed4961a98ae6b7108673517cc739764ac40d757bb247bfc8dae0e33c2ddd17"
+      },
+      {
+        "version": "1.1.1",
+        "download_url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/1.1.1/ValueProxyExtensions.dll",
+        "release_url": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/1.1.1",
+        "published_at": "2023-08-24T12:22:39Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "add a config option that determines if reference proxies will have value proxies with their type",
+        "file_name": "ValueProxyExtensions.dll",
+        "file_size": 24064,
+        "sha256": "8faf5572db48c5a3e4edcd9025b501d22492682ceb29d9cd59896f612ebbc3fd"
+      },
+      {
+        "version": "1.1.0",
+        "download_url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/1.1.0/ValueProxyExtensions.dll",
+        "release_url": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/1.1.0",
+        "published_at": "2022-08-09T16:40:12Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "fixed a few issues related to the proxy transfer option",
+        "file_name": "ValueProxyExtensions.dll",
+        "file_size": 25088,
+        "sha256": "71721659d7fa42e5629a35ca44de2d0ec3662050d86b390c7e42ffde50a96fd6"
+      },
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/1.0.0/ValueProxyExtensions.dll",
+        "release_url": "https://github.com/art0007i/ValueProxyExtensions/releases/tag/1.0.0",
+        "published_at": "2022-08-08T21:05:53Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Initial release",
+        "file_name": "ValueProxyExtensions.dll",
+        "file_size": 25088,
+        "sha256": "bbbfc9343d527e76f9c2ad5f8de4b1fb5c925578b103b18f8f0624bcf476be08"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:34.668Z",
+    "last_updated": "2025-08-12T15:57:53.145Z",
     "source": "manifest"
   },
   {
@@ -4659,7 +4995,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:35.415Z",
+    "last_updated": "2025-08-12T15:57:53.952Z",
     "source": "manifest"
   },
   {
@@ -4806,7 +5142,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:49.603Z",
+    "last_updated": "2025-08-12T15:57:54.728Z",
     "source": "manifest"
   },
   {
@@ -4833,7 +5169,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:51.656Z",
+    "last_updated": "2025-08-12T15:57:55.421Z",
     "source": "manifest"
   },
   {
@@ -4842,14 +5178,75 @@
     "category": "Optimization",
     "source_location": "https://github.com/BlueCyro/Outflow/",
     "author": "Cyro",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.0.1",
+    "latest_download_url": "https://github.com/BlueCyro/Outflow/releases/download/1.0.1/Outflow.dll",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "download_url": "https://github.com/BlueCyro/Outflow/releases/download/1.0.1/Outflow.dll",
+        "release_url": "https://github.com/BlueCyro/Outflow/releases/tag/1.0.1",
+        "published_at": "2024-05-01T07:09:49Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "This releases fixes an edge case on .NET 4.7.2 where the mod won't load the patches.\r\n\r\n- Fixed edge case on Windows .NET 4.7.2 where the Outflow patches won't load due to their classes never being constructed.\r\n\r\n\r\nEnjoy!",
+        "file_name": "Outflow.dll",
+        "file_size": 14848,
+        "sha256": "bf373d2a145e3ffb9683d3bf8395d86f90dceb1343521ba96f8001f8ceec07a4"
+      },
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/BlueCyro/Outflow/releases/download/1.0.0/Outflow.dll",
+        "release_url": "https://github.com/BlueCyro/Outflow/releases/tag/1.0.0",
+        "published_at": "2024-03-15T04:04:50Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "It's here, fellas! I've been waiting to do a full release until I've verified that A) Our networking libraries *are* infact thread-safe, and B) That the mod itself doesn't cause any subtle corruptions in the networking. This is functionally identical to 0.0.1.0 (aside from conditionally-compiled debug prints that don't exist in the release build)\r\n\r\nAs always, be sure to keep an eye out for issues but I'm quite certain this build should be safe to use on your client/headless equally. Keep in mind that only the host of the session requires the mod for everyone to benefit. This is **not** required by other clients, won't do anything in sessions you don't own.\r\n\r\nAlso we're going back to 3-place version numbers since 4 isn't compatible with the mod manifest - you'll find it on there soon™™\r\n\r\nAnyways,\r\n\r\nEnjoy!",
+        "file_name": "Outflow.dll",
+        "file_size": 14848,
+        "sha256": "c62b4148fb771c54abb25876516d3f9f56ff302ea9606f7463ae940329bef9bc"
+      },
+      {
+        "version": "0.0.1.0",
+        "download_url": "https://github.com/BlueCyro/Outflow/releases/download/0.0.1.0/Outflow.dll",
+        "release_url": "https://github.com/BlueCyro/Outflow/releases/tag/0.0.1.0",
+        "published_at": "2024-03-11T22:12:12Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "This release fixes some issues with packet ordering by completely re-doing the methodology behind how the mod works to be far more pragmatic.\r\n\r\n- Completely re-work to only process streams on a separate thread while leaving the normal packet queue alone\r\n    - This should fix issues with the packet order that arose from the previous method (invasive full function replacement)\r\n    - This ensures streams keep flowing while the normal packet queue remains untouched, should increase stability significantly\r\n- Added new graphs to and description to README\r\n\r\nAs always, keep an eye out for issues! This should hopefully be the last pre-release before slapping the big green sticker on it.\r\n\r\nEnjoy!",
+        "file_name": "Outflow.dll",
+        "file_size": 15360,
+        "sha256": "9a6853461fbbc41c56c254934fb7d751b2a140c9cee962a543a2dbbfef10199e"
+      },
+      {
+        "version": "0.0.0.2",
+        "download_url": "https://github.com/BlueCyro/Outflow/releases/download/0.0.0.2/Outflow.dll",
+        "release_url": "https://github.com/BlueCyro/Outflow/releases/tag/0.0.0.2",
+        "published_at": "2024-03-10T20:03:48Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "This release fixes compatibility with .NET 8 (Supported by Resonite Headless servers via [Cumulo Patcher](https://github.com/RileyGuy/Cumulo)) by using the correct compatible harmony version.\r\n\r\n- Fix .NET 8 compatibility\r\n- Use non-monomod methods to ensure full compatibility with regular Harmony\r\n\r\nEnjoy!",
+        "file_name": "Outflow.dll",
+        "file_size": 12288,
+        "sha256": "38082dc4b25cc8664921c62ff6c4390e829896b2dd06bcd072af0c1639cca0b4"
+      },
+      {
+        "version": "0.0.0.1",
+        "download_url": "https://github.com/BlueCyro/Outflow/releases/download/0.0.0.1/Outflow.dll",
+        "release_url": "https://github.com/BlueCyro/Outflow/releases/tag/0.0.0.1",
+        "published_at": "2024-03-10T05:16:13Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "This is an initial pre-release of Outflow! Please report any issues you have with this as I haven't tested this in a very large, populated sessions.\r\n\r\nThis very much shouldn't corrupt the state of the world, but do be aware that it's a distinct possibility! You have been warned!\r\n\r\nRegardless,\r\n\r\nEnjoy!",
+        "file_name": "Outflow.dll",
+        "file_size": 12288,
+        "sha256": "c9ada2ea91c3ca343248c8af8a037eb12de175bcf2596b642a7c99a58c97a1ee"
+      }
+    ],
     "tags": null,
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:49:52.263Z",
+    "last_updated": "2025-08-12T15:58:03.409Z",
     "source": "manifest"
   },
   {
@@ -4858,49 +5255,12 @@
     "category": "Dashboard",
     "source_location": "https://github.com/NepuShiro/ChangeJoinLeaveSound",
     "author": "NepuShiro",
-    "latest_version": "1.0.2",
-    "latest_download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.2/ChangeJoinLeaveSound.dll",
-    "releases": [
-      {
-        "version": "1.0.2",
-        "download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.2/ChangeJoinLeaveSound.dll",
-        "release_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.2",
-        "published_at": "2025-07-02T09:13:29Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Fixes a NullReference Exception due to missing UserID\r\n\r\n**Full Changelog**: https://github.com/NepuShiro/ChangeJoinLeaveSound/compare/1.0.1...1.0.2",
-        "file_name": "ChangeJoinLeaveSound.dll",
-        "file_size": 10240,
-        "sha256": "47d2b7e5781bf3d8133a34fbd1a52e9a5121b8d307ffd78dc95218a4d082ceb5"
-      },
-      {
-        "version": "1.0.1",
-        "download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.1/ChangeJoinLeaveSound.dll",
-        "release_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.1",
-        "published_at": "2025-07-02T06:37:31Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "**Full Changelog**: https://github.com/NepuShiro/ChangeJoinLeaveSound/compare/1.0.0...1.0.1",
-        "file_name": "ChangeJoinLeaveSound.dll",
-        "file_size": 10240,
-        "sha256": "ec0ca26addc0c3bb8712ac2d0a1ab009d44109640f35b2d9bd1b42b24cdad8be"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.0/ChangeJoinLeaveSound.dll",
-        "release_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/tag/1.0.0",
-        "published_at": "2024-08-06T05:22:31Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Initial Release\r\n\r\n**Full Changelog**: https://github.com/NepuShiro/ChangeJoinLeaveSound/commits/1.0.0",
-        "file_name": "ChangeJoinLeaveSound.dll",
-        "file_size": 11776,
-        "sha256": "6c620e015c0d79fefb4f22c1c421cf60c31482dd3d5e3dda683d61e040ad56d4"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:56.447Z",
+    "last_updated": "2025-08-12T15:58:04.502Z",
     "source": "manifest"
   },
   {
@@ -4914,7 +5274,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:49:57.813Z",
+    "last_updated": "2025-08-12T15:58:05.510Z",
     "source": "manifest"
   },
   {
@@ -4953,7 +5313,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:00.878Z",
+    "last_updated": "2025-08-12T15:58:06.693Z",
     "source": "manifest"
   },
   {
@@ -5016,7 +5376,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:06.268Z",
+    "last_updated": "2025-08-12T15:58:07.431Z",
     "source": "manifest"
   },
   {
@@ -5127,7 +5487,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:16.868Z",
+    "last_updated": "2025-08-12T15:58:08.216Z",
     "source": "manifest"
   },
   {
@@ -5226,7 +5586,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:25.721Z",
+    "last_updated": "2025-08-12T15:58:09.058Z",
     "source": "manifest"
   },
   {
@@ -5253,7 +5613,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:28.005Z",
+    "last_updated": "2025-08-12T15:58:09.861Z",
     "source": "manifest"
   },
   {
@@ -5304,7 +5664,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:32.559Z",
+    "last_updated": "2025-08-12T15:58:10.985Z",
     "source": "manifest"
   },
   {
@@ -5343,7 +5703,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:35.603Z",
+    "last_updated": "2025-08-12T15:58:11.808Z",
     "source": "manifest"
   },
   {
@@ -5370,7 +5730,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:37.502Z",
+    "last_updated": "2025-08-12T15:58:13.005Z",
     "source": "manifest"
   },
   {
@@ -5397,7 +5757,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:39.456Z",
+    "last_updated": "2025-08-12T15:58:13.785Z",
     "source": "manifest"
   },
   {
@@ -5436,7 +5796,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:42.546Z",
+    "last_updated": "2025-08-12T15:58:14.519Z",
     "source": "manifest"
   },
   {
@@ -5463,7 +5823,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:44.434Z",
+    "last_updated": "2025-08-12T15:58:15.323Z",
     "source": "manifest"
   },
   {
@@ -5502,7 +5862,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:47.414Z",
+    "last_updated": "2025-08-12T15:58:16.078Z",
     "source": "manifest"
   },
   {
@@ -5511,49 +5871,12 @@
     "category": "Controls",
     "source_location": "https://github.com/XDelta/ResonitePTTKeybinds",
     "author": "Delta",
-    "latest_version": "1.5.0",
-    "latest_download_url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.5.0/ResonitePTTKeybinds.dll",
-    "releases": [
-      {
-        "version": "1.5.0",
-        "download_url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.5.0/ResonitePTTKeybinds.dll",
-        "release_url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.5.0",
-        "published_at": "2024-04-16T13:11:06Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "- Fix for IsMuted moving to AudioSystem in 2024.4.15.1407",
-        "file_name": "ResonitePTTKeybinds.dll",
-        "file_size": 12288,
-        "sha256": "a55817ddeb7725c1c3d18d838f4133351dbfe634af500a01de641a52efefb618"
-      },
-      {
-        "version": "1.4.0",
-        "download_url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.4.0/ResonitePTTKeybinds.dll",
-        "release_url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.4.0",
-        "published_at": "2024-03-14T12:09:32Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Setup the VoiceModeProxy in UserspaceRadiantDash instead of Userspace",
-        "file_name": "ResonitePTTKeybinds.dll",
-        "file_size": 12288,
-        "sha256": "e6fe84872c599dbb8799ccc97ec49293b71c0141609d52c0113482bb3a2b6ec1"
-      },
-      {
-        "version": "1.3.0",
-        "download_url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.3.0/ResonitePTTKeybinds.dll",
-        "release_url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/tag/1.3.0",
-        "published_at": "2023-09-27T13:43:52Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "ResonitePTTKeybinds.dll",
-        "file_size": 12288,
-        "sha256": "6795e0bba010a58cda9a6383e09a973c8c4aa65a2aa1a77ba78604d30a794b48"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:51.564Z",
+    "last_updated": "2025-08-12T15:58:16.744Z",
     "source": "manifest"
   },
   {
@@ -5592,7 +5915,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:52.261Z",
+    "last_updated": "2025-08-12T15:58:17.489Z",
     "source": "manifest"
   },
   {
@@ -5657,7 +5980,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:50:57.881Z",
+    "last_updated": "2025-08-12T15:58:18.216Z",
     "source": "manifest"
   },
   {
@@ -5666,12 +5989,61 @@
     "category": "Inspectors",
     "source_location": "https://github.com/XDelta/ResoniteShowSourceLocation",
     "author": "Delta",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.2.1",
+    "latest_download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.1/ShowSourceLocation.dll",
+    "releases": [
+      {
+        "version": "1.2.1",
+        "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.1/ShowSourceLocation.dll",
+        "release_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.1",
+        "published_at": "2024-09-04T15:36:54Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Rebuild for Resonite 2024.9.4.357",
+        "file_name": "ShowSourceLocation.dll",
+        "file_size": 10240,
+        "sha256": "c4737956baa6dbc67e4d33f505af3018c20e30449c4ad1d7568e10b068e8732e"
+      },
+      {
+        "version": "1.2.0",
+        "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.0/ShowSourceLocation.dll",
+        "release_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.0",
+        "published_at": "2024-07-26T23:30:30Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## New Features\r\n* Added an option to change which side the open slot button is on a worker inspector\r\n* Added an option to remove the purple tinting on the button\r\n\r\n## Tweaks\r\n* Uses the vanilla button instead of adding a new button.\r\n* Some cleanup on the project files",
+        "file_name": "ShowSourceLocation.dll",
+        "file_size": 10240,
+        "sha256": "48c4f60b7728ce6624649866b28fca47a25ecb8acdeb9e748d8274d16be26e15"
+      },
+      {
+        "version": "1.1.2",
+        "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.2/ShowSourceLocation.dll",
+        "release_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.1.2",
+        "published_at": "2024-07-13T15:35:37Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Updated for `Beta 2024.7.12.1147`",
+        "file_name": "ShowSourceLocation.dll",
+        "file_size": 9728,
+        "sha256": "486375e5e13a75f776c0747b6f0c7436d69771e7b94e89244dcd971c74933c9d"
+      },
+      {
+        "version": "1.1.1",
+        "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.1/ResoniteShowSourceLocation.dll",
+        "release_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.1.1",
+        "published_at": "2023-09-27T12:29:54Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "ResoniteShowSourceLocation.dll",
+        "file_size": 10240,
+        "sha256": "362d18bc3e5c75865ed86fb5dbfc7959fbf152f4d8fe05e39e66859af9f219ff"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:50:59.266Z",
+    "last_updated": "2025-08-12T15:58:24.332Z",
     "source": "manifest"
   },
   {
@@ -5758,7 +6130,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:51:07.122Z",
+    "last_updated": "2025-08-12T15:58:25.221Z",
     "source": "manifest"
   },
   {
@@ -5767,97 +6139,12 @@
     "category": "Misc",
     "source_location": "https://github.com/dfgHiatus/CacheGetClapped",
     "author": "dfgHiatus",
-    "latest_version": "v2.0.1",
-    "latest_download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v2.0.1/CacheGetClapped.dll",
-    "releases": [
-      {
-        "version": "v2.0.1",
-        "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v2.0.1/CacheGetClapped.dll",
-        "release_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/tag/v2.0.1",
-        "published_at": "2023-11-08T18:19:57Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "- Added logic to handle an edge case where files in use would prevent Resonite from closing",
-        "file_name": "CacheGetClapped.dll",
-        "file_size": 10752,
-        "sha256": "d1ad34dce33461a2de36a2363dadaaec12b30604f2a6094b9cdc2177f1d16493"
-      },
-      {
-        "version": "v2.0.0",
-        "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v2.0.0/CacheGetClapped.dll",
-        "release_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/tag/v2.0.0",
-        "published_at": "2023-10-10T18:25:00Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "CacheGetClapped.dll",
-        "file_size": 10240,
-        "sha256": "6f01bfa6b100c20ff3fd36d89df734f94654ad75b034b9e776c617b7e020937c"
-      },
-      {
-        "version": "v1.0.4",
-        "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v1.0.4/CacheGetClapped.dll",
-        "release_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/tag/v1.0.4",
-        "published_at": "2022-09-22T21:33:04Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "- Parallelized the deletion process, making bulk cleanups substantially faster\r\n- Added a new  \"Max Cache Size\" feature by @DoubleStyx \r\n--- This effectively sets a maximum size of the Neos cache folder. \r\n--- If the size of the cache is still too large, this will option will trim the oldest files in the cache directory until the user-specified size is met.\r\n\r\nSHA256: 3a8fb4e0e89a7ece67d63975a90dd9c00c84914215655dee4acf8cffc6d0a234",
-        "file_name": "CacheGetClapped.dll",
-        "file_size": 10240,
-        "sha256": "3a8fb4e0e89a7ece67d63975a90dd9c00c84914215655dee4acf8cffc6d0a234"
-      },
-      {
-        "version": "v1.0.3",
-        "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v1.0.3/CacheGetClapped.dll",
-        "release_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/tag/v1.0.3",
-        "published_at": "2022-03-12T23:26:53Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Added an in game setting to toggle the mod on and off. Uses badhaloninja's NeosModSettings",
-        "file_name": "CacheGetClapped.dll",
-        "file_size": 9216,
-        "sha256": "db1fe6ef92979c0fddecec70375c6dabdb6df204f3577d6ef4bfc26d79df0b45"
-      },
-      {
-        "version": "v1.0.2",
-        "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v1.0.2/CacheGetClapped.dll",
-        "release_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/tag/v1.0.2",
-        "published_at": "2022-01-31T17:47:32Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Allows you to specify the maximum number of days to keep cached files in the NML config. Requires [NeosModLoader 1.8.0](https://github.com/zkxs/NeosModLoader/releases/tag/1.8.0)",
-        "file_name": "CacheGetClapped.dll",
-        "file_size": 9216,
-        "sha256": "a75c7f388bb6882a13eb1d1b8b83fd411ade778d51d8d7906a27f07750e69439"
-      },
-      {
-        "version": "v1.0.1",
-        "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v1.0.1/CacheGetClapped.dll",
-        "release_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/tag/v1.0.1",
-        "published_at": "2021-12-29T16:38:10Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Updated CGC to delete cached files relative to the newest cached file, instead of the current date. Settings UI planned",
-        "file_name": "CacheGetClapped.dll",
-        "file_size": 8192,
-        "sha256": "d116273af10320db04485f5760c73de90ae7e138281220464f04b20bd6f2a8fa"
-      },
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v1.0.0/CacheGetClapped.dll",
-        "release_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/tag/v1.0.0",
-        "published_at": "2021-12-13T19:20:17Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "The initial release. \r\n\r\nEdit: Removed DataPath from process\r\n\r\nPLEASE UNDERSTAND THAT ANY MOD, PROGRAM, OR APPLICATION THAT DELETES FILES HAS THE RISK OF REMOVING THE WRONG INFORMATION. THOUGH I HAVE TESTED THIS NUMEROUS TIMES, I CANNOT GUARANTEE ON DIFFERENT DEVICES THIS WILL WORK AS INTENDED. USE AT YOUR OWN RISK.",
-        "file_name": "CacheGetClapped.dll",
-        "file_size": 8192,
-        "sha256": "8e580fa56bd4740e81631d2b09aeb9e00fc8e5152d90ee7ad12e92a6f355adbb"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:51:16.213Z",
+    "last_updated": "2025-08-12T15:58:25.923Z",
     "source": "manifest"
   },
   {
@@ -5896,7 +6183,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:51:19.354Z",
+    "last_updated": "2025-08-12T15:58:26.684Z",
     "source": "manifest"
   },
   {
@@ -5935,7 +6222,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:51:20.469Z",
+    "last_updated": "2025-08-12T15:58:27.458Z",
     "source": "manifest"
   },
   {
@@ -5998,7 +6285,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:51:26.105Z",
+    "last_updated": "2025-08-12T15:58:28.254Z",
     "source": "manifest"
   },
   {
@@ -6037,7 +6324,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:51:27.080Z",
+    "last_updated": "2025-08-12T15:58:28.983Z",
     "source": "manifest"
   },
   {
@@ -6088,7 +6375,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:51:31.311Z",
+    "last_updated": "2025-08-12T15:58:29.761Z",
     "source": "manifest"
   },
   {
@@ -6097,12 +6384,37 @@
     "category": "Asset Importing",
     "source_location": "https://github.com/dfgHiatus/TarGZImporter",
     "author": "dfgHiatus",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v2.0.0",
+    "latest_download_url": "https://github.com/dfgHiatus/TarGZImporter/releases/download/v2.0.0/TarGZImporter.dll",
+    "releases": [
+      {
+        "version": "v2.0.0",
+        "download_url": "https://github.com/dfgHiatus/TarGZImporter/releases/download/v2.0.0/TarGZImporter.dll",
+        "release_url": "https://github.com/dfgHiatus/TarGZImporter/releases/tag/v2.0.0",
+        "published_at": "2024-01-05T16:15:31Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Same artifact, new build number",
+        "file_name": "TarGZImporter.dll",
+        "file_size": 12800,
+        "sha256": "3ac7b36adaf12ce35438eefeeaa40f6935c350f8d1031c0857b33186cbf1d8c5"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/dfgHiatus/TarGZImporter/releases/download/v1.0.0/TarGZImporter.dll",
+        "release_url": "https://github.com/dfgHiatus/TarGZImporter/releases/tag/v1.0.0",
+        "published_at": "2023-10-12T17:09:56Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "TarGZImporter.dll",
+        "file_size": 18432,
+        "sha256": "4c445adcbfc890959a9cffd767f04d113cba58409477ac3bacfed5aea70cc0e9"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:51:31.948Z",
+    "last_updated": "2025-08-12T15:58:33.402Z",
     "source": "manifest"
   },
   {
@@ -6129,7 +6441,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:51:34.195Z",
+    "last_updated": "2025-08-12T15:58:34.231Z",
     "source": "manifest"
   },
   {
@@ -6216,7 +6528,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:51:41.847Z",
+    "last_updated": "2025-08-12T15:58:35.004Z",
     "source": "manifest"
   },
   {
@@ -6225,118 +6537,9 @@
     "category": "Dashboard",
     "source_location": "https://github.com/EIA485/NeosGetItemLink",
     "author": "EIA485",
-    "latest_version": "1.4.5.0",
-    "latest_download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.5.0/GetItemLink.dll",
-    "releases": [
-      {
-        "version": "1.4.5.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.5.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.5.0",
-        "published_at": "2024-06-11T22:38:19Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "updated to work with version 2024.6.11.74 and beyond",
-        "file_name": "GetItemLink.dll",
-        "file_size": 11264,
-        "sha256": "61d6e5f9d1c4430bd77bd4293a94302546ff96c1480cdfb44ead4b9cd410c46d"
-      },
-      {
-        "version": "1.4.4.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.4.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.4.0",
-        "published_at": "2023-11-25T12:21:03Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "thanks to @stiefeljackal for pr #9 that fixed issue #10 ",
-        "file_name": "GetItemLink.dll",
-        "file_size": 11264,
-        "sha256": "0814959b898978b44bc0e1624dcef598a902259531568d3e3ebc0e6329d37e02"
-      },
-      {
-        "version": "1.4.3.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.3.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.3.0",
-        "published_at": "2023-10-31T04:08:09Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "made buttons compact to prevent issues with them overflowing. thankyou @art0007i for pr #8\r\nfixed button colors",
-        "file_name": "GetItemLink.dll",
-        "file_size": 10752,
-        "sha256": "3b2b5d7503f2a5f0a74ee313f18f6da891a9d2074adc9418f8bfe8743adb26c9"
-      },
-      {
-        "version": "1.4.2.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.2.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.2.0",
-        "published_at": "2023-10-23T23:07:03Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "ported mod to fix issues when used with resonite",
-        "file_name": "GetItemLink.dll",
-        "file_size": 10240,
-        "sha256": "fb03827a190f2e64480d63703acd8d71382951f4ac8adfffcbca51b2fc0aac94"
-      },
-      {
-        "version": "1.4.1.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.1.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.1.0",
-        "published_at": "2023-05-07T20:37:26Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "slightly optimized code",
-        "file_name": "GetItemLink.dll",
-        "file_size": 10240,
-        "sha256": "6e0573a6d3152c11f5392f0e4f7c0fcf464242ddea72d369b2acd54920f55a04"
-      },
-      {
-        "version": "1.4.0.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.0.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.0.0",
-        "published_at": "2023-05-07T17:48:26Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "thanks @art0007i for pr #5 \r\n\r\nchange log:\r\n - added a button to show a record metadata editor ",
-        "file_name": "GetItemLink.dll",
-        "file_size": 10240,
-        "sha256": "ba2a77a118449fa5268dc4603d06b660ab6a1e2af015307ec6bbc545b01af2f6"
-      },
-      {
-        "version": "1.3.0.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.3.0.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.3.0.0",
-        "published_at": "2022-10-08T07:55:52Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "added [Psychpsyo/Tooltippery](https://github.com/Psychpsyo/Tooltippery) Support, implemented based on the readme",
-        "file_name": "GetItemLink.dll",
-        "file_size": 9216,
-        "sha256": "ff0b5ef2594cdef61915f6933bb9d5fa01e3872a0a7506e7fcafae70c5dc90ac"
-      },
-      {
-        "version": "1.2.0.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.2.0.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.2.0.0",
-        "published_at": "2022-08-16T10:07:53Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "thanks @art0007i for pr #2 !\r\n\r\nchange log: \r\n- fixed issue where buttons would be grayed out even if a valid target is selected,\r\n- refactored code",
-        "file_name": "GetItemLink.dll",
-        "file_size": 8704,
-        "sha256": "55372a26e915a2dc5e4ba9a8afe93c79dc36704c3764eae10cdfe9d7bf78e217"
-      },
-      {
-        "version": "1.0.0.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.0.0.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.0.0.0",
-        "published_at": "2022-01-13T15:02:40Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Initial release",
-        "file_name": "GetItemLink.dll",
-        "file_size": 8192,
-        "sha256": "81cda00f41a2863fd10b943682e3a2c40b32501222aad4e6a1dadf4d36f2d445"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": [
       "url",
       "link",
@@ -6345,7 +6548,7 @@
       "cheese"
     ],
     "flags": null,
-    "last_updated": "2025-08-12T15:51:53.263Z",
+    "last_updated": "2025-08-12T15:58:35.639Z",
     "source": "manifest"
   },
   {
@@ -6408,7 +6611,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:51:58.640Z",
+    "last_updated": "2025-08-12T15:58:36.399Z",
     "source": "manifest"
   },
   {
@@ -6417,85 +6620,12 @@
     "category": "Misc",
     "source_location": "https://github.com/hantabaru1014/SaveItemTweaks",
     "author": "hantabaru1014",
-    "latest_version": "v2.1.0",
-    "latest_download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.1.0/SaveItemTweaks.dll",
-    "releases": [
-      {
-        "version": "v2.1.0",
-        "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.1.0/SaveItemTweaks.dll",
-        "release_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.1.0",
-        "published_at": "2025-03-10T13:23:58Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## What's Changed\r\n* #7 fix for 2025.3.4.1407 by @hantabaru1014 in https://github.com/hantabaru1014/SaveItemTweaks/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/hantabaru1014/SaveItemTweaks/compare/v2.0.2...v2.1.0",
-        "file_name": "SaveItemTweaks.dll",
-        "file_size": 13824,
-        "sha256": "5e439c9e2116d529def0dd3caefed103a65969a2c43f5ad8405be95aa55f6e94"
-      },
-      {
-        "version": "v2.0.2",
-        "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.2/SaveItemTweaks.dll",
-        "release_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.2",
-        "published_at": "2024-06-11T12:43:14Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## What's Changed\r\n* Fix compatibility with Resonite Beta 2024.6.10.1405 - 2024.6.11.74\r\n\r\n**Full Changelog**: https://github.com/hantabaru1014/SaveItemTweaks/compare/v2.0.1...v2.0.2",
-        "file_name": "SaveItemTweaks.dll",
-        "file_size": 15360,
-        "sha256": "c72cd3fd18f6d1563e00a3f3215506d50b6950ba0489fb0abb2b6f95074aaf93"
-      },
-      {
-        "version": "v2.0.1",
-        "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.1/SaveItemTweaks.dll",
-        "release_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.1",
-        "published_at": "2023-11-21T14:37:45Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Bug fixed. Fixed an issue where InventoryItem.Unpack was not called.\r\n\r\n## What's Changed\r\n* ImportTaskのTranspilerをResonite対応 by @lill-la in https://github.com/hantabaru1014/SaveItemTweaks/pull/1\r\n\r\n## New Contributors\r\n* @lill-la made their first contribution in https://github.com/hantabaru1014/SaveItemTweaks/pull/1\r\n\r\n**Full Changelog**: https://github.com/hantabaru1014/SaveItemTweaks/compare/v2.0.0...v2.0.1",
-        "file_name": "SaveItemTweaks.dll",
-        "file_size": 14848,
-        "sha256": "6e9d5f49a8be54ed641784a6068b21faf4c535314259d9847a3fffa06bd245a7"
-      },
-      {
-        "version": "v2.0.0",
-        "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.0/SaveItemTweaks.dll",
-        "release_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.0",
-        "published_at": "2023-11-14T14:10:55Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "ported to resonite\r\n\r\nSHA256: 83047883785752c860d87d299f39f016eae9f781c0503f8a3e3e0f6de67b82b4\r\n",
-        "file_name": "SaveItemTweaks.dll",
-        "file_size": 14848,
-        "sha256": "83047883785752c860d87d299f39f016eae9f781c0503f8a3e3e0f6de67b82b4"
-      },
-      {
-        "version": "v1.0.1",
-        "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v1.0.1/SaveItemTweaks.dll",
-        "release_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v1.0.1",
-        "published_at": "2022-11-17T11:15:14Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Built in release mode.  \r\nThere is no change in functionality, so there is no need to update.\r\n\r\nSHA256: 22db4b5a87fd1aa823b61d2c861af5d9201bedf6edd3802288688dc45a480143\r\n",
-        "file_name": "SaveItemTweaks.dll",
-        "file_size": 14848,
-        "sha256": "22db4b5a87fd1aa823b61d2c861af5d9201bedf6edd3802288688dc45a480143"
-      },
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v1.0.0/SaveItemTweaks.dll",
-        "release_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v1.0.0",
-        "published_at": "2022-11-04T14:35:20Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Initial release 🎉 \r\n\r\nSHA256: f4f11529a3556613e1e6e7b16c1fa06bf33acda1ecb56882f871e75813de800f\r\n",
-        "file_name": "SaveItemTweaks.dll",
-        "file_size": 15360,
-        "sha256": "f4f11529a3556613e1e6e7b16c1fa06bf33acda1ecb56882f871e75813de800f"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:06.343Z",
+    "last_updated": "2025-08-12T15:58:37.712Z",
     "source": "manifest"
   },
   {
@@ -6596,7 +6726,7 @@
       "world"
     ],
     "flags": null,
-    "last_updated": "2025-08-12T15:52:15.714Z",
+    "last_updated": "2025-08-12T15:58:38.452Z",
     "source": "manifest"
   },
   {
@@ -6605,25 +6735,12 @@
     "category": "Controls",
     "source_location": "https://github.com/eai04191/ResoniteDisableGamepads",
     "author": "Eai",
-    "latest_version": "v1.0.0",
-    "latest_download_url": "https://github.com/eai04191/ResoniteDisableGamepads/releases/download/v1.0.0/ResoniteDisableGamepads.dll",
-    "releases": [
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/eai04191/ResoniteDisableGamepads/releases/download/v1.0.0/ResoniteDisableGamepads.dll",
-        "release_url": "https://github.com/eai04191/ResoniteDisableGamepads/releases/tag/v1.0.0",
-        "published_at": "2023-10-15T16:32:59Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Initial Release",
-        "file_name": "ResoniteDisableGamepads.dll",
-        "file_size": 5120,
-        "sha256": "0cf13dd11fbc93021ce17b65a37172fd456f5475984728414fa0b639ba3d3116"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:17.635Z",
+    "last_updated": "2025-08-12T15:58:39.734Z",
     "source": "manifest"
   },
   {
@@ -6650,7 +6767,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:19.835Z",
+    "last_updated": "2025-08-12T15:58:40.635Z",
     "source": "manifest"
   },
   {
@@ -6713,7 +6830,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:25.333Z",
+    "last_updated": "2025-08-12T15:58:41.399Z",
     "source": "manifest"
   },
   {
@@ -6722,14 +6839,39 @@
     "category": "Technical Tweaks",
     "source_location": "https://github.com/Raidriar796/NoSteamScreenshots",
     "author": "Raidriar796",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.0.1",
+    "latest_download_url": "https://github.com/Raidriar796/NoSteamScreenshots/releases/download/1.0.1/NoSteamScreenshots.dll",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "download_url": "https://github.com/Raidriar796/NoSteamScreenshots/releases/download/1.0.1/NoSteamScreenshots.dll",
+        "release_url": "https://github.com/Raidriar796/NoSteamScreenshots/releases/tag/1.0.1",
+        "published_at": "2023-11-22T03:02:30Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## Changes\r\n- Updated assembly info",
+        "file_name": "NoSteamScreenshots.dll",
+        "file_size": 6144,
+        "sha256": "8d9f335ecd39ad245838215b47334825e8f96a8a1464545a1404ffe5c8a345d7"
+      },
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/Raidriar796/NoSteamScreenshots/releases/download/1.0.0/NoSteamScreenshots.dll",
+        "release_url": "https://github.com/Raidriar796/NoSteamScreenshots/releases/tag/1.0.0",
+        "published_at": "2023-11-16T09:17:09Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## Initial release",
+        "file_name": "NoSteamScreenshots.dll",
+        "file_size": 6144,
+        "sha256": "29f024ee7c3e7cae8946b38be1926fff784d194d478f1936e741658bde5d8b15"
+      }
+    ],
     "tags": null,
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:52:26.654Z",
+    "last_updated": "2025-08-12T15:58:44.745Z",
     "source": "manifest"
   },
   {
@@ -6888,7 +7030,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:27.429Z",
+    "last_updated": "2025-08-12T15:58:45.523Z",
     "source": "manifest"
   },
   {
@@ -6902,7 +7044,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:28.705Z",
+    "last_updated": "2025-08-12T15:58:46.592Z",
     "source": "manifest"
   },
   {
@@ -6929,7 +7071,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:30.857Z",
+    "last_updated": "2025-08-12T15:58:47.400Z",
     "source": "manifest"
   },
   {
@@ -6994,7 +7136,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:52:37.087Z",
+    "last_updated": "2025-08-12T15:58:48.181Z",
     "source": "manifest"
   },
   {
@@ -7003,12 +7145,37 @@
     "category": "Dashboard",
     "source_location": "https://github.com/rampa3/3DDashOnScreenResonite",
     "author": "rampa3",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "3.6.1.0",
+    "latest_download_url": "https://github.com/rampa3/3DDashOnScreenResonite/releases/download/3.6.1.0/3DDashOnScreenResonite.dll",
+    "releases": [
+      {
+        "version": "3.6.1.0",
+        "download_url": "https://github.com/rampa3/3DDashOnScreenResonite/releases/download/3.6.1.0/3DDashOnScreenResonite.dll",
+        "release_url": "https://github.com/rampa3/3DDashOnScreenResonite/releases/tag/3.6.1.0",
+        "published_at": "2024-10-09T19:45:41Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- merged update to SlotPositioning transpiler to fix the mod for latest Resonite release from [NepuShiro](https://github.com/NepuShiro) (a3a95a5)\r\n\r\nSHA256 Checksum:\r\n28346faa13547a8ce4c63d7d52011d5d32814173393c44e11829d237765f114f  3DDashOnScreenResonite.dll",
+        "file_name": "3DDashOnScreenResonite.dll",
+        "file_size": 14336,
+        "sha256": "28346faa13547a8ce4c63d7d52011d5d32814173393c44e11829d237765f114f"
+      },
+      {
+        "version": "3.6.0.0",
+        "download_url": "https://github.com/rampa3/3DDashOnScreenResonite/releases/download/3.6.0.0/3DDashOnScreenResonite.dll",
+        "release_url": "https://github.com/rampa3/3DDashOnScreenResonite/releases/tag/3.6.0.0",
+        "published_at": "2024-02-09T20:28:25Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- initial Resonite version of 3DDashOnScreen\r\n\r\nThanks to [art0007i](https://github.com/art0007i) for contributing fix for breaking notifications! This issue was what was blocking release all the time.\r\n\r\n(Re-release due to messed-up assembly versioning during build.)\r\n\r\nSHA256 Checksum:\r\nfe56959ff282e994aeff8b67fd0700916ba539a8f175faf377a999e899fc3284  3DDashOnScreenResonite.dll",
+        "file_name": "3DDashOnScreenResonite.dll",
+        "file_size": 14336,
+        "sha256": "fe56959ff282e994aeff8b67fd0700916ba539a8f175faf377a999e899fc3284"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:38.390Z",
+    "last_updated": "2025-08-12T15:58:51.469Z",
     "source": "manifest"
   },
   {
@@ -7022,7 +7189,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:38.390Z",
+    "last_updated": "2025-08-12T15:58:51.469Z",
     "source": "manifest"
   },
   {
@@ -7061,7 +7228,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:39.274Z",
+    "last_updated": "2025-08-12T15:58:52.276Z",
     "source": "manifest"
   },
   {
@@ -7124,7 +7291,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:40.001Z",
+    "last_updated": "2025-08-12T15:58:53.054Z",
     "source": "manifest"
   },
   {
@@ -7223,7 +7390,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:48.806Z",
+    "last_updated": "2025-08-12T15:58:53.885Z",
     "source": "manifest"
   },
   {
@@ -7232,12 +7399,37 @@
     "category": "Bug Workaround",
     "source_location": "https://github.com/badhaloninja/FixAltEnter",
     "author": "badhaloninja",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v2.0.0",
+    "latest_download_url": "https://github.com/badhaloninja/FixAltEnter/releases/download/v2.0.0/FixAltEnter.dll",
+    "releases": [
+      {
+        "version": "v2.0.0",
+        "download_url": "https://github.com/badhaloninja/FixAltEnter/releases/download/v2.0.0/FixAltEnter.dll",
+        "release_url": "https://github.com/badhaloninja/FixAltEnter/releases/tag/v2.0.0",
+        "published_at": "2024-02-09T03:44:09Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Initial release for the [Resonite Mod Manifest](https://github.com/resonite-modding-group/resonite-mod-manifest)\r\n- Updated harmony ID to `ninja.badhalo.FixAltEnter`\r\n- Ported to Resonite\r\n\r\n# ⚠ Any release prior to 2.0.0 is for [NeosVR](https://neos.com/).",
+        "file_name": "FixAltEnter.dll",
+        "file_size": 6144,
+        "sha256": "e2e2117f3c30f8a9fa5e7be8fe459fcd521beb3212be0897d1481c0d8d68e7fe"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/badhaloninja/FixAltEnter/releases/download/v1.0.0/FixAltEnter.dll",
+        "release_url": "https://github.com/badhaloninja/FixAltEnter/releases/tag/v1.0.0",
+        "published_at": "2022-04-26T22:27:51Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Initial Release",
+        "file_name": "FixAltEnter.dll",
+        "file_size": 6144,
+        "sha256": "b9c7c09ab6b0778b44f67686bb6b1fb7f36ed4ccedf6e3326e4ad2e82b3c189c"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:50.127Z",
+    "last_updated": "2025-08-12T15:58:57.543Z",
     "source": "manifest"
   },
   {
@@ -7269,7 +7461,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2025-08-12T15:52:51.984Z",
+    "last_updated": "2025-08-12T15:58:58.296Z",
     "source": "manifest"
   },
   {
@@ -7278,12 +7470,193 @@
     "category": "Dashboard",
     "source_location": "https://github.com/badhaloninja/ResoniteModSettings",
     "author": "badhaloninja",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v2.3.0-prerelease.1",
+    "latest_download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.3.0-prerelease.1/ResoniteModSettings.dll",
+    "releases": [
+      {
+        "version": "v2.3.0-prerelease.1",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.3.0-prerelease.1/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.3.0-prerelease.1",
+        "published_at": "2025-07-11T14:47:18Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "Update for the Splittening prerelease",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 47616,
+        "sha256": "9ce64c469cd6052e0414ac83b5bb9beaffffb7f8e5ba49367d5efcfe15335148"
+      },
+      {
+        "version": "v2.2.2",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.2.2/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.2.2",
+        "published_at": "2025-04-04T03:17:03Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Rebuild against 2025.2.18.3 due to `FrooxEngine.UIX.UIExtensions.EnsureOptionDescriptionDriver` changes\r\n- Closes #9 ",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 48128,
+        "sha256": "10010787db40e0eacfda441c18254f6988b6d1280bab2c2f898a94c39d26643a"
+      },
+      {
+        "version": "v2.2.1",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.2.1/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.2.1",
+        "published_at": "2025-02-18T20:53:56Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Rebuild against 2025.2.18.3 due to `ValueReceiver` being moved to `FrooxEngine.UIX.*` from `FrooxEngine.*` in 2025.2.17.1301",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 49664,
+        "sha256": "e56dbb3b8a64df9c75aeb5a779a1a0a5165bb8f171183bc8c32770aacd6f0e52"
+      },
+      {
+        "version": "v2.2.0",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.2.0/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.2.0",
+        "published_at": "2025-01-15T06:37:19Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- Implement custom UI by @art0007i in https://github.com/badhaloninja/ResoniteModSettings/pull/7\r\n- Changed `ConfigElement` slot names to the configuration key name, `{ModName}.{key.Name}`\r\n\r\n\r\n\r\nFrom @art0007i\r\nHow to use for people who want to add custom ui in their mod:\r\n1. Make your mod a partial class.\r\n1. Add ModSettingsStub.cs to your project, and change the namespace and classname to match your mod.\r\n1. Write code inside the ModSettings_BuildModUi function\r\n\r\n<details>\r\n<summary>ModSettingsStub.cs</summary>\r\n\r\n```cs\r\nusing Elements.Core;\r\nusing FrooxEngine;\r\nusing FrooxEngine.UIX;\r\nusing ResoniteModLoader;\r\nusing System;\r\n\r\nnamespace ExampleMod\r\n{\r\n    public partial class ExampleMod\r\n    {\r\n        /// <summary>\r\n        /// Gives you a UIBuilder which allows you to create custom ui within your page.<br/>\r\n        /// It's setup with default RadiantUI styles (<see cref=\\\"RadiantUI_Constants.SetupDefaultStyle\\\"/>)<br/>\r\n        /// The PreferredHeight is set to <see cref=\\\"ModSettings_GetHeight\\\"/>, please respect this value when building your UI.<br/>\r\n        /// The UI builder is located within a VerticalLayout with a spacing of 4 with ForceExpandWidth set to true.<br/>\r\n        /// The vertical layout also has a ContentSizeFitter with VerticalFit set to PreferredSize\r\n        /// </summary>\r\n        /// <param name=\\\"ui\\\"></param>\r\n        public void ModSettings_BuildModUi(UIBuilder ui)\r\n        {\r\n            ui.Button(\\\"hi\\\");\r\n            ModSettings_BuildDefaultFields(this, ui);\r\n            ui.Button(\\\"hello\\\");\r\n        }\r\n\r\n        /// <summary>\r\n        /// Gets the height that a single config item should be in your settings page.<br/>\r\n        /// This value can be changed on a per user basis in the ModSettings config.\r\n        /// </summary>\r\n        /// <returns></returns>\r\n        public static float ModSettings_GetHeight()\r\n        {\r\n            throw new NotImplementedException(\\\"It's a stub.\\\");\r\n        }\r\n        /// <summary>\r\n        /// Gets the color that every other item should have, null if items shouldn't be highlighted.\r\n        /// </summary>\r\n        public static colorX? ModSettings_GetHighlightColor()\r\n        {\r\n            throw new NotImplementedException(\\\"It's a stub.\\\");\r\n        }\r\n        /// <summary>\r\n        /// Builds all of the fields present in the config menu by default.<br/>\r\n        /// Use this method when you want to add something to the page before/after the default UI.\r\n        /// </summary>\r\n        public static void ModSettings_BuildDefaultFields(ResoniteModBase mod, UIBuilder ui)\r\n        {\r\n            throw new NotImplementedException(\\\"It's a stub.\\\");\r\n        }\r\n\r\n        /// <summary>\r\n        /// Builds a singular field using the provided <see cref=\\\"ModConfigurationKey\\\"/><br/>\r\n        /// When building multiple fields you are expected to add a highlight to every other field with the color obtained using <see cref=\\\"ModSettings_GetHighlightColor\\\"/><br/>\r\n        /// If the highlight color is null then you don't have to add highlighting\r\n        /// </summary>\r\n        public static Slot ModSettings_BuildDefaultField(ResoniteModBase mod, UIBuilder ui, ModConfigurationKey key)\r\n        {\r\n            throw new NotImplementedException(\\\"It's a stub.\\\");\r\n        }\r\n    }\r\n}\r\n```\r\n</details>\r\n\r\nYou can also refer to [ModSettingsCustomUITest](https://github.com/badhaloninja/ResoniteModSettings/tree/master/ModSettingsCustomUITest) to see an example of adding buttons to the config UI\r\n",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 48128,
+        "sha256": "9b1ee1585a04339de7096e3c3883e966f6071f5f53030e6fa77662e0d62f3a05"
+      },
+      {
+        "version": "v2.1.8",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.8/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.8",
+        "published_at": "2024-09-07T20:22:11Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- Rebuild for CommonToolExtensions being renamed to InteractionHandlerExtensions",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 45056,
+        "sha256": "80c05d2b36c3aa26f2e8d022e65e3f75083127a83ae7a2f224707d8d67e95fc4"
+      },
+      {
+        "version": "v2.1.7",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.7/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.7",
+        "published_at": "2024-09-04T14:11:50Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "2024.9.4.357\r\n\r\n- Resolve ambiguous match for `RadiantDashScreen.BuildBackground` method",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 45056,
+        "sha256": "2e7d470f0ea82a7822cf35bf2a85030ec13547eae258902c1625089f6385d4c4"
+      },
+      {
+        "version": "v2.1.6",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.6/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.6",
+        "published_at": "2024-07-11T23:19:18Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Hotfix for the new type update\r\n - Handle new `DynamicVariableWriteResult`\r\n - Fix new ambiguous method call when building\r\n - Rebuild for compatibility",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 45056,
+        "sha256": "084ae96a20438d2f3812b4d464878387d31c5400636f4665010b723228fbb6a8"
+      },
+      {
+        "version": "v2.1.5",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.5/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.5",
+        "published_at": "2024-05-29T13:39:02Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- Rebuild against Resonite Beta 2024.5.29.130 for compatibility\r\n- Added support for the inspector field action buttons when in VR\r\n    - I made the buttons disabled in desktop due to issues with the context menu locking the user's view in place",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 45056,
+        "sha256": "a92c0fe86246b55706e05fcc28eaa40b16a1d4793667af651e15e0e3a88a120f"
+      },
+      {
+        "version": "v2.1.4",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.4/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.4",
+        "published_at": "2024-04-16T00:06:15Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## There's nothing new in this version\r\nThis is just a rebuild against Resonite Beta 2024.4.15.1407 for compatibility",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 43520,
+        "sha256": "d0fbc993661c240b38a3f0d79eeb91ef2b22aae5aa064b278e0bfc5e01f25280"
+      },
+      {
+        "version": "v2.1.3",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.3/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.3",
+        "published_at": "2023-12-21T02:30:54Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Initial release for the [Resonite Mod Manifest](https://github.com/resonite-modding-group/resonite-mod-manifest)\r\n- Updated harmony ID to `ninja.badhalo.ModSettings`\r\n- Cleaned up build files",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 42496,
+        "sha256": "d9a1773951301cdad47fa5ed1b4afd5bea33f994e2f7d8834a26eaf738a5a933"
+      },
+      {
+        "version": "v2.1.2",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.2/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.2",
+        "published_at": "2023-10-29T20:30:41Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- Fixed config keys not showing if they were defined without using fields - Fixes #2 ",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 43520,
+        "sha256": "7df274adca8d9239764c28ee737f42fb22f72c2d964c14d0f285a9817dc80e4a"
+      },
+      {
+        "version": "v2.1.1",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.1/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.1",
+        "published_at": "2023-10-23T00:03:24Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- Add padding to the mod info footer\r\n- Fix alternating backdrops not showing properly",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 43520,
+        "sha256": "03257cbc96b84a5e1cda53ed90b3bcd36ec3148216b9eff53b0ee71fc5d52911"
+      },
+      {
+        "version": "v2.1.0",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.1.0/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.1.0",
+        "published_at": "2023-10-20T23:19:34Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- Added support for passing field attributes to `SyncMemberEditorBuilder`\r\n  - Most importantly are the Range and Format attributes, allowing for sliders and custom text formatting in your config fields\r\n  - Mod developers need to add the attributes to their `ModConfigurationKey`s ",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 42496,
+        "sha256": "d5790682597f8d7a5ac81e7794f9f0a06a5931b537f4c711ddffcdceea0f605a"
+      },
+      {
+        "version": "v2.0.2",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.0.2/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.0.2",
+        "published_at": "2023-09-28T05:03:51Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- Fix conditional logic that was overlooked causing #1 - Reported by @Raidriar796 @Nytra",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 39936,
+        "sha256": "8a9d43a2d0d41beb529e625ef0b7fd1a0ed47e941feb5c7dc39b9be618679279"
+      },
+      {
+        "version": "v2.0.1",
+        "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.0.1/ResoniteModSettings.dll",
+        "release_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/tag/v2.0.1",
+        "published_at": "2023-09-27T03:21:01Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- Generally cleaned up the project\r\n- Added an option to show all mods instead of only mods with supported configs\r\n- Added dash background\r\n- Added projects for test mods",
+        "file_name": "ResoniteModSettings.dll",
+        "file_size": 39936,
+        "sha256": "06b5dadcf264f4c7e072ead8c17d51fa7f07e5c94078e92404b7f1628fae4551"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:52:53.010Z",
+    "last_updated": "2025-08-12T15:59:18.617Z",
     "source": "manifest"
   },
   {
@@ -7406,7 +7779,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:53:04.313Z",
+    "last_updated": "2025-08-12T15:59:19.803Z",
     "source": "manifest"
   },
   {
@@ -7498,7 +7871,7 @@
       "orb"
     ],
     "flags": null,
-    "last_updated": "2025-08-12T15:53:12.537Z",
+    "last_updated": "2025-08-12T15:59:20.772Z",
     "source": "manifest"
   },
   {
@@ -7525,7 +7898,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:53:13.357Z",
+    "last_updated": "2025-08-12T15:59:21.452Z",
     "source": "manifest"
   },
   {
@@ -7539,7 +7912,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:53:13.357Z",
+    "last_updated": "2025-08-12T15:59:21.452Z",
     "source": "manifest"
   },
   {
@@ -7553,7 +7926,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:53:13.357Z",
+    "last_updated": "2025-08-12T15:59:21.452Z",
     "source": "manifest"
   },
   {
@@ -7640,7 +8013,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:53:21.157Z",
+    "last_updated": "2025-08-12T15:59:22.620Z",
     "source": "manifest"
   },
   {
@@ -7669,7 +8042,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:53:22.230Z",
+    "last_updated": "2025-08-12T15:59:23.341Z",
     "source": "manifest"
   },
   {
@@ -7678,25 +8051,12 @@
     "category": "Misc",
     "source_location": "https://github.com/Nytra/ResoniteAccessibleFullBodyCalibrator",
     "author": "Nytra",
-    "latest_version": "v1.0.0",
-    "latest_download_url": "https://github.com/Nytra/ResoniteAccessibleFullBodyCalibrator/releases/download/v1.0.0/AccessibleFullBodyCalibrator.dll",
-    "releases": [
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/Nytra/ResoniteAccessibleFullBodyCalibrator/releases/download/v1.0.0/AccessibleFullBodyCalibrator.dll",
-        "release_url": "https://github.com/Nytra/ResoniteAccessibleFullBodyCalibrator/releases/tag/v1.0.0",
-        "published_at": "2023-10-21T15:35:47Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Released the mod for Resonite.",
-        "file_name": "AccessibleFullBodyCalibrator.dll",
-        "file_size": 7680,
-        "sha256": "48a85d0daeeed8f853d9183c4a498dc9161a9eaa1dd4f8319bfe77d3112c33be"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:53:22.965Z",
+    "last_updated": "2025-08-12T15:59:24.655Z",
     "source": "manifest"
   },
   {
@@ -7783,7 +8143,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:53:30.835Z",
+    "last_updated": "2025-08-12T15:59:25.460Z",
     "source": "manifest"
   },
   {
@@ -7792,12 +8152,25 @@
     "category": "Wizards",
     "source_location": "https://github.com/Nytra/ResoniteComponentMemberReplicator",
     "author": "Nytra",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v1.0.0",
+    "latest_download_url": "https://github.com/Nytra/ResoniteComponentMemberReplicator/releases/download/v1.0.0/ComponentMemberReplicator.dll",
+    "releases": [
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/Nytra/ResoniteComponentMemberReplicator/releases/download/v1.0.0/ComponentMemberReplicator.dll",
+        "release_url": "https://github.com/Nytra/ResoniteComponentMemberReplicator/releases/tag/v1.0.0",
+        "published_at": "2024-10-15T04:54:56Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "First release real.\r\n\r\nsha256: b2431d95b4d5fef2a2d57326dc6d003e926e32b7c20f293db4e8a36340b55741",
+        "file_name": "ComponentMemberReplicator.dll",
+        "file_size": 36352,
+        "sha256": "b2431d95b4d5fef2a2d57326dc6d003e926e32b7c20f293db4e8a36340b55741"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:53:31.506Z",
+    "last_updated": "2025-08-12T15:59:27.584Z",
     "source": "manifest"
   },
   {
@@ -7806,85 +8179,12 @@
     "category": "Wizards",
     "source_location": "https://github.com/Nytra/ResoniteComponentSearchWizard",
     "author": "Nytra",
-    "latest_version": "v1.1.4",
-    "latest_download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.4/ComponentSearchWizard.dll",
-    "releases": [
-      {
-        "version": "v1.1.4",
-        "download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.4/ComponentSearchWizard.dll",
-        "release_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.1.4",
-        "published_at": "2024-07-12T06:49:44Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Recompile to fix for Resonite 2024.7.12.12\r\n\r\nNo other changes.\r\n\r\nsha256: 0dfaf67a825eab9ba98a76f8ba6deba2a91a3ec93c30393b78ceb335a66f0e63",
-        "file_name": "ComponentSearchWizard.dll",
-        "file_size": 14848,
-        "sha256": "0dfaf67a825eab9ba98a76f8ba6deba2a91a3ec93c30393b78ceb335a66f0e63"
-      },
-      {
-        "version": "v1.1.3",
-        "download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.3/ComponentSearchWizard.dll",
-        "release_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.1.3",
-        "published_at": "2024-05-29T11:43:04Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Recompile to fix for Resonite Beta 2024.5.29.130\r\n\r\nNo other changes.\r\n\r\nsha256: 19c156975490ddce08c146649e610c259f57da7eb27cb99a9bf2bc6c0e7745b3",
-        "file_name": "ComponentSearchWizard.dll",
-        "file_size": 14848,
-        "sha256": "19c156975490ddce08c146649e610c259f57da7eb27cb99a9bf2bc6c0e7745b3"
-      },
-      {
-        "version": "v1.1.2",
-        "download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.2/ComponentSearchWizard.dll",
-        "release_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.1.2",
-        "published_at": "2024-04-04T01:47:29Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Fix for new settings UI branch (Beta 2024.4.3.1385)\r\n\r\nsha256: 0831436b2a4110957253694004caca592bf1a08525b5a9b735a719daa7798b2b",
-        "file_name": "ComponentSearchWizard.dll",
-        "file_size": 14848,
-        "sha256": "0831436b2a4110957253694004caca592bf1a08525b5a9b735a719daa7798b2b"
-      },
-      {
-        "version": "v1.1.1",
-        "download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.1/ComponentSearchWizard.dll",
-        "release_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.1.1",
-        "published_at": "2024-03-12T17:51:30Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Fix for Beta 2024.3.12.87\r\n\r\nNo code changes, just a recompile.\r\n\r\nSha256: b3235d2f936152cf20757ea9cc968d5ad2b5d6932908137ae900e70c6523f591",
-        "file_name": "ComponentSearchWizard.dll",
-        "file_size": 14848,
-        "sha256": "b3235d2f936152cf20757ea9cc968d5ad2b5d6932908137ae900e70c6523f591"
-      },
-      {
-        "version": "v1.1.0",
-        "download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.0/ComponentSearchWizard.dll",
-        "release_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.1.0",
-        "published_at": "2023-10-04T21:02:08Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Updated to use new Resonite style UI instead of the legacy UI",
-        "file_name": "ComponentSearchWizard.dll",
-        "file_size": 14848,
-        "sha256": "ab12c58541abc87e8541f00955d0297feaa668454a69d39330dfcafc22338333"
-      },
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.0.0/ComponentSearchWizard.dll",
-        "release_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/tag/v1.0.0",
-        "published_at": "2023-09-28T05:39:51Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Resonite version.\r\n\r\nRemoved some features of the mod until further notice.",
-        "file_name": "ComponentSearchWizard.dll",
-        "file_size": 14848,
-        "sha256": "733d3f9df078eefad130e33c9e8f4c5078b91cfc5e07429e58bdf6086c6cade3"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:53:39.629Z",
+    "last_updated": "2025-08-12T15:59:28.229Z",
     "source": "manifest"
   },
   {
@@ -7997,7 +8297,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-12T15:53:49.995Z",
+    "last_updated": "2025-08-12T15:59:29.387Z",
     "source": "manifest"
   },
   {
@@ -8072,7 +8372,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:53:57.181Z",
+    "last_updated": "2025-08-12T15:59:30.186Z",
     "source": "manifest"
   },
   {
@@ -8147,7 +8447,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:54:03.707Z",
+    "last_updated": "2025-08-12T15:59:31.311Z",
     "source": "manifest"
   },
   {
@@ -8222,7 +8522,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:54:10.343Z",
+    "last_updated": "2025-08-12T15:59:32.030Z",
     "source": "manifest"
   },
   {
@@ -8231,49 +8531,12 @@
     "category": "Technical Tweaks",
     "source_location": "https://github.com/Nytra/ResoniteLogFlush",
     "author": "Nytra",
-    "latest_version": "v1.1.1",
-    "latest_download_url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.1.1/LogFlush.dll",
-    "releases": [
-      {
-        "version": "v1.1.1",
-        "download_url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.1.1/LogFlush.dll",
-        "release_url": "https://github.com/Nytra/ResoniteLogFlush/releases/tag/v1.1.1",
-        "published_at": "2025-07-12T20:20:11Z",
-        "prerelease": true,
-        "draft": false,
-        "changelog": ".NET9 / The Splittening update",
-        "file_name": "LogFlush.dll",
-        "file_size": 5120,
-        "sha256": "2d1f074d8c02b26335ebcf5b348b27e03d59dc7dedaa968db69344b8069eb474"
-      },
-      {
-        "version": "v1.1.0",
-        "download_url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.1.0/LogFlush.dll",
-        "release_url": "https://github.com/Nytra/ResoniteLogFlush/releases/tag/v1.1.0",
-        "published_at": "2023-11-16T12:37:49Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Changed keybind to F1",
-        "file_name": "LogFlush.dll",
-        "file_size": 5120,
-        "sha256": "4fb820f1d28b1f1b329519e51ed4be5438655d1cc05bcdd655e75607fc46ba79"
-      },
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.0.0/LogFlush.dll",
-        "release_url": "https://github.com/Nytra/ResoniteLogFlush/releases/tag/v1.0.0",
-        "published_at": "2023-11-03T18:00:07Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Released the mod.\r\n\r\nPress the F5 key to flush the log stream.",
-        "file_name": "LogFlush.dll",
-        "file_size": 5120,
-        "sha256": "58be3cbf95536c92bfbe4c653ec82a7aa2ae76b3744f064b0c822b5470497caa"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:54:14.963Z",
+    "last_updated": "2025-08-12T15:59:33.356Z",
     "source": "manifest"
   },
   {
@@ -8312,7 +8575,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:54:18.090Z",
+    "last_updated": "2025-08-12T15:59:34.482Z",
     "source": "manifest"
   },
   {
@@ -8363,7 +8626,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:54:22.378Z",
+    "last_updated": "2025-08-12T15:59:35.217Z",
     "source": "manifest"
   },
   {
@@ -8372,12 +8635,37 @@
     "category": "Inspectors",
     "source_location": "https://github.com/Nytra/ResoniteScrollableFieldEditors",
     "author": "Nytra",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v1.0.1",
+    "latest_download_url": "https://github.com/Nytra/ResoniteScrollableFieldEditors/releases/download/v1.0.1/ScrollableFieldEditors.dll",
+    "releases": [
+      {
+        "version": "v1.0.1",
+        "download_url": "https://github.com/Nytra/ResoniteScrollableFieldEditors/releases/download/v1.0.1/ScrollableFieldEditors.dll",
+        "release_url": "https://github.com/Nytra/ResoniteScrollableFieldEditors/releases/tag/v1.0.1",
+        "published_at": "2025-07-12T18:22:17Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": ".NET9 / The Splittening update",
+        "file_name": "ScrollableFieldEditors.dll",
+        "file_size": 17920,
+        "sha256": "f8b051d7c8cd5c55e48481438f93a1229097350075aacff9d97f51a98481d2c9"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/Nytra/ResoniteScrollableFieldEditors/releases/download/v1.0.0/ScrollableFieldEditors.dll",
+        "release_url": "https://github.com/Nytra/ResoniteScrollableFieldEditors/releases/tag/v1.0.0",
+        "published_at": "2024-08-28T21:55:31Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "First release. Check readme for info!\r\n\r\nsha256: 2a2c1ca9740f52f20210313553cd5c41043fa8e0826880a994cffaac47c7144d",
+        "file_name": "ScrollableFieldEditors.dll",
+        "file_size": 17408,
+        "sha256": "2a2c1ca9740f52f20210313553cd5c41043fa8e0826880a994cffaac47c7144d"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:54:23.673Z",
+    "last_updated": "2025-08-12T15:59:38.621Z",
     "source": "manifest"
   },
   {
@@ -8440,7 +8728,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:54:29.193Z",
+    "last_updated": "2025-08-12T15:59:39.400Z",
     "source": "manifest"
   },
   {
@@ -8623,7 +8911,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:54:46.895Z",
+    "last_updated": "2025-08-12T15:59:40.197Z",
     "source": "manifest"
   },
   {
@@ -8632,12 +8920,25 @@
     "category": "Controls",
     "source_location": "https://github.com/SemmieDev/NoDoubleTapSprint",
     "author": "SemmieDev",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v1.0.0",
+    "latest_download_url": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/download/v1.0.0/NoDoubleTapSprint.dll",
+    "releases": [
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/download/v1.0.0/NoDoubleTapSprint.dll",
+        "release_url": "https://github.com/SemmieDev/NoDoubleTapSprint/releases/tag/v1.0.0",
+        "published_at": "2024-09-08T13:03:18Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "NoDoubleTapSprint.dll",
+        "file_size": 5632,
+        "sha256": "b4410991d37bb2a6c675adaab18ea97c179b9b126dc5474ba3f1a64791931342"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-12T15:54:48.185Z",
+    "last_updated": "2025-08-12T15:59:42.196Z",
     "source": "manifest"
   },
   {
@@ -8775,7 +9076,7 @@
       "v0.2.0"
     ],
     "flags": null,
-    "last_updated": "2025-08-12T15:55:00.222Z",
+    "last_updated": "2025-08-12T15:59:42.455Z",
     "source": "additional"
   }
 ]
