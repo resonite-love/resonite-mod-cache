@@ -41,321 +41,6 @@
     "file_name": "IgnoreControllerAxis.dll",
     "file_size": 19456
   },
-  "8a15b4571216603553b1cc7bcd05d6f55b662e0cdb3844c6d34c58bcf58d07bc": {
-    "mod_name": "Restrainite",
-    "version": "v2.0.5",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.5/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 140288
-  },
-  "7cdd10f6070d0d90e7ba0b601703793f9bff01151c3a04839f22c81e46a21aa4": {
-    "mod_name": "Restrainite",
-    "version": "v2.0.4",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.4/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 140800
-  },
-  "5393e0a9c02c5e2041aeac572dbcc513eef929149131f15395c7fc49515a52a3": {
-    "mod_name": "Restrainite",
-    "version": "v1.3.6",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.3.6/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 140288
-  },
-  "8fc0f24ad55d25c97eedcfb502a7e9d9b16a3e6f15807746a628e2a47291e100": {
-    "mod_name": "Restrainite",
-    "version": "v2.0.3",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.3/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 140288
-  },
-  "4b9196b8e523706140ba0b02ea7a072467253d2d2e6f7af225e373ad38bdd33f": {
-    "mod_name": "Restrainite",
-    "version": "v1.3.5",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.3.5/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 139776
-  },
-  "ee1fd365da78025996d92772e8519036a02c2d00161f7a26f41714186c297440": {
-    "mod_name": "Restrainite",
-    "version": "v1.3.4",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.3.4/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 137216
-  },
-  "1de99ecdc3f8c2d0438a740eff863be494bd2b1a4b1f28951495781afefeb9b0": {
-    "mod_name": "Restrainite",
-    "version": "v2.0.1",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.1/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 128000
-  },
-  "bb5b8a0dc5add712531fbd58e784a724e66d5e403c7df6b74deebbe36505c5d9": {
-    "mod_name": "Restrainite",
-    "version": "v1.3.0",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.3.0/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 126464
-  },
-  "9de48bd8f991b30610d7fe8809393c0f4954aec8329e539d4ef0db4ecc55a9ad": {
-    "mod_name": "Restrainite",
-    "version": "v1.2.9",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.2.9/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 115200
-  },
-  "e74d360869734bb3c1e70a6cef284add863c5f5158c2a7b1016e1898bd779f12": {
-    "mod_name": "Restrainite",
-    "version": "v1.2.3",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.2.3/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 114176
-  },
-  "47028730eabec251a3969e2004996c0727ac9dedb7f47f075f311b61e28d4a08": {
-    "mod_name": "Restrainite",
-    "version": "v1.2.0",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.2.0/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 112640
-  },
-  "444ff99a6ecfdfd47bb70e835461b8d67df99422dc51159029b1666b4d24ec34": {
-    "mod_name": "Restrainite",
-    "version": "v1.1.8",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.8/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 87040
-  },
-  "6b87a6b66de43e93a9a1eb639998c92c1927762c0b6729eafcc65f40c2f0eca7": {
-    "mod_name": "Restrainite",
-    "version": "v1.1.7",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.7/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 87040
-  },
-  "90d53412f0973612e31193c158ef687a8cf4c5b7b3367e236d477a139cb54b18": {
-    "mod_name": "Restrainite",
-    "version": "v1.1.6",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.6/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 86528
-  },
-  "4800386457a01ebb977d98a33f5b57022fd9d0b53c234dc4742501a4ed158c79": {
-    "mod_name": "Restrainite",
-    "version": "v1.1.5",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.5/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 84992
-  },
-  "e5b99a914444dd871f2ebe48c44eb02008f3f06c18e8fa92e979647096772cae": {
-    "mod_name": "Restrainite",
-    "version": "v1.1.4",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.4/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 84480
-  },
-  "613c4d40e98c40219530cbc7c23ae95b26c8e8235afc1b744403aeee6f0a5bb3": {
-    "mod_name": "Restrainite",
-    "version": "v1.1.3",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.3/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 83456
-  },
-  "587a3a2efb769cded7820c284d2bb26e315ffaa1308fae9d5f6a43ddf779acbf": {
-    "mod_name": "Restrainite",
-    "version": "v1.1.2",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.2/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 83456
-  },
-  "17aa362ff98d9a91a7770fd19b0db089f2ee276e89725a1fe4411469d2c31820": {
-    "mod_name": "Restrainite",
-    "version": "v1.1.1",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.1/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 82944
-  },
-  "3189219117c5301145f30dd1778ca93935b631c9fdb121e536ce63a4bf115f81": {
-    "mod_name": "Restrainite",
-    "version": "v1.1.0",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.0/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 82432
-  },
-  "33ecaaf9a069bb026a1607fb1e1175a07f6bc9f77531d0ed12ed77df0f40c771": {
-    "mod_name": "Restrainite",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.0.0/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 72192
-  },
-  "786546f1b5a8cf7b6458037b575faae71e34bf7387b452b47cf680d9273d5231": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.14",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.14/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 72192
-  },
-  "69edc73d0edf886e7a0dfb7c70fe44d9206d5376671b87f6f97ac19cc1f5cbc1": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.13",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.13/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 71680
-  },
-  "4a81abcafae4083126898b37a6963c78d3f7b4cfbd2f4d760e40d28e8064556d": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.12",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.12/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 71168
-  },
-  "aadbe7276035e5079f681302f14b37142ca227c0e60ed82cd6c65017db7b399a": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.11",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.11/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 71168
-  },
-  "fdf273c5cb77e8fb30d72f516d59180e55466c363a193f98319873f8f2fd5efa": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.10",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.10/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 67584
-  },
-  "be8af9402936d7443caf400327cea2c81376b6584ed174caf2c87851b279d3b7": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.9",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.9/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 64512
-  },
-  "87550637c838f7ffb9d2b2e949694a2f10caad3e6f2f38a59676179520469bf8": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.8",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.8/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 62464
-  },
-  "dd83fd79a866650ff09da2b29c3c46223a74fb98233fb3af4cd321fd50376224": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.7",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.7/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 61952
-  },
-  "1cf329b3a0710e529e43e3d8604ca161a8fdafce3e2a4022ef0f44a46e170a86": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.6",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.6/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 61440
-  },
-  "fbda6754ffa2b8776d26581458931c5eb9e839617314c093c3f6f4c5dcfacf1d": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.5",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.5/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 60928
-  },
-  "6a28ac9dd4b75f247da2d278a934ebacbe5dc44e79866cd8add7cc2c4aa8bf52": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.4",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.4/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 60416
-  },
-  "b63f04368f7d4c48d2be04ffca8830f38c0350da511f70ce90a8fed49d5e2e6e": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.3",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.3/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 60416
-  },
-  "7918a8c2dcd6b735f25bcf3d68e895f5a00dc9fef5441ed3320371a6231dd11a": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.2",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.2/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 58880
-  },
-  "d7c03ba64dd71317db72b92c8138ff5b669256fbcc3709c619942b225d2bcd01": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.1",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.1/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 57344
-  },
-  "aab78d06471603c51fee140126a5fd6695d8489ee6eedaff1cc8d5db27f4983c": {
-    "mod_name": "Restrainite",
-    "version": "v0.4.0",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.0/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 55808
-  },
-  "b88236a99d4fdf0568fbd892a7745c00b2ccafb270d2b64b9cd90b36a0a858b7": {
-    "mod_name": "Restrainite",
-    "version": "v0.3.16",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.16/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 55296
-  },
-  "af28e75d6fce8ac1aacc9e0831f344083ec30f05f483dd7fc3fffddca6f42f6a": {
-    "mod_name": "Restrainite",
-    "version": "v0.3.15",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.15/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 54272
-  },
-  "df203ea1c1e0144c33a7133e764f0da5dc19e79f4f5006506671ce2017f52d8f": {
-    "mod_name": "Restrainite",
-    "version": "v0.3.14",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.14/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 53760
-  },
-  "f64e103fccb07612cc5edeb716d9ee9c904d728dade1b6ca22909721758dc4b0": {
-    "mod_name": "Restrainite",
-    "version": "v0.3.13",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.13/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 54272
-  },
-  "d5d22752c7aefef0730139c6faff3b2e876df933425e3119e452acab308d2c04": {
-    "mod_name": "Restrainite",
-    "version": "v0.3.12",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.12/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 53248
-  },
-  "3aeb9e32435ed9948258ea085f3d3560501a55c8a42013b19aceb9192e60da1e": {
-    "mod_name": "Restrainite",
-    "version": "v0.3.10",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.10/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 52224
-  },
-  "c25e46cef54cc0a2d18965208a17b5a6ea650eabf9b820eebfdb57ecfbe1c241": {
-    "mod_name": "Restrainite",
-    "version": "v0.3.9",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.9/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 51712
-  },
-  "ef3f1e606e516d29f1e829bc52ae14d59c8986a9fbfbc0d52aa5dcadb8f3559b": {
-    "mod_name": "Restrainite",
-    "version": "v0.3.8",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.8/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 50688
-  },
-  "63585ad92d6f1eddd79e12b33ab18d2287931f97ce1eda6ce9dfe6938493e821": {
-    "mod_name": "Restrainite",
-    "version": "v0.3.5",
-    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.5/Restrainite.dll",
-    "file_name": "Restrainite.dll",
-    "file_size": 49152
-  },
   "46d5a612c81e5bdcf1a728d71cea0d0c11945406a1839f5d142797f6225a04c8": {
     "mod_name": "ArrayEditing",
     "version": "1.0.1",
@@ -369,6 +54,20 @@
     "download_url": "https://github.com/RyanVittore/ArrayEditing/releases/download/1.0.0/ArrayEditing.dll",
     "file_name": "ArrayEditing.dll",
     "file_size": 30720
+  },
+  "f80b301222a8cf7c1529d114f28380f826005929d7f77a309125fd01f4f05117": {
+    "mod_name": "NoTankControls",
+    "version": "1.0.0-resonite",
+    "download_url": "https://github.com/furrz/NoTankControls/releases/download/1.0.0-resonite/NoTankControls.dll",
+    "file_name": "NoTankControls.dll",
+    "file_size": 5120
+  },
+  "482e4951e0f7886a580add02c6443ef086239444216f86d6a7d1506e1d1fb984": {
+    "mod_name": "NoTankControls",
+    "version": "1.0.0",
+    "download_url": "https://github.com/furrz/NoTankControls/releases/download/1.0.0/NoTankControls.dll",
+    "file_name": "NoTankControls.dll",
+    "file_size": 5120
   },
   "66e3df17d17d59ccae878950a9b0ddda7aac072737e5dc7628813c2868ec7385": {
     "mod_name": "DynBoneWrangler",
@@ -384,20 +83,6 @@
     "file_name": "DynBoneWrangler.dll",
     "file_size": 6656
   },
-  "082d9872ac50f915b8d06820af9b5e7d44d8941d6d2feb023818ee2c34376cf3": {
-    "mod_name": "ResonitePlatformSpoof",
-    "version": "v2.0.1",
-    "download_url": "https://github.com/isovel/ResonitePlatformSpoof/releases/download/v2.0.1/ResonitePlatformSpoof.dll",
-    "file_name": "ResonitePlatformSpoof.dll",
-    "file_size": 7680
-  },
-  "842299ddc43c196e611c6e83eea8678cf322924e1709d38511d66dbcfed2f443": {
-    "mod_name": "ResonitePlatformSpoof",
-    "version": "v2.0.0",
-    "download_url": "https://github.com/isovel/ResonitePlatformSpoof/releases/download/v2.0.0/ResonitePlatformSpoof.dll",
-    "file_name": "ResonitePlatformSpoof.dll",
-    "file_size": 7680
-  },
   "c188d02c48303254066cbcc9d34737ef9fb646d7599ed73f2679ba437d3f1abd": {
     "mod_name": "CloseConfirm",
     "version": "v1.1.0",
@@ -411,6 +96,20 @@
     "download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.0.0/CloseConfirm.dll",
     "file_name": "CloseConfirm.dll",
     "file_size": 8192
+  },
+  "078fba5d661c34cf0723798e2c70301854bc1a7b507e70f2c1baa7d02db298aa": {
+    "mod_name": "ScalableMaterialOrbs",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v2.0.0/ScalableMaterialOrbs.dll",
+    "file_name": "ScalableMaterialOrbs.dll",
+    "file_size": 6144
+  },
+  "e5a30bc9e0cfa9c1254876aa18fa866007c3fffeb5ab080a6f1fe5e59504b4fc": {
+    "mod_name": "ScalableMaterialOrbs",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v1.0.0/ScalableMaterialOrbs.dll",
+    "file_name": "ScalableMaterialOrbs.dll",
+    "file_size": 6144
   },
   "4eb4182f0468c79bb5fa80df755e44032162967b006748bcc509cb6210d81a97": {
     "mod_name": "CustomProtofluxBrowser",
@@ -468,33 +167,54 @@
     "file_name": "CustomLogixBrowser.dll",
     "file_size": 8704
   },
-  "fd1404863eb6525ee3e5fca0fa467f24b6ffc51200e6c88c8d42022e675e1584": {
-    "mod_name": "Console",
-    "version": "1.0.1",
-    "download_url": "https://github.com/KannyaResonite/Console/releases/download/1.0.1/Console.dll",
-    "file_name": "Console.dll",
-    "file_size": 10240
+  "a7e421e6fab8083aae68fbcfaa03a42ea02dbc20982cc9137cf6fb653eec7dc7": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "1.4.2",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.2/ProtoFluxOverhaul.dll",
+    "file_name": "ProtoFluxOverhaul.dll",
+    "file_size": 70656
   },
-  "f2ba3f0b61664cfb07eff6cfbc04e5f996094a40760f93c08fa6d1e55a305c53": {
-    "mod_name": "Console",
-    "version": "1.0.0",
-    "download_url": "https://github.com/KannyaResonite/Console/releases/download/1.0.0/Console.dll",
-    "file_name": "Console.dll",
-    "file_size": 7168
+  "0b736c427c3e7f70f0fad32c7b99d8fc353131670a3c56a004015d13a3723c97": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "1.4.1",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.1/ProtoFluxVisualsOverhaul.dll",
+    "file_name": "ProtoFluxVisualsOverhaul.dll",
+    "file_size": 76800
   },
-  "9774cd4f834f85031c9192a3b5adffd3561a9d2f83c0a49defdb0670cba0d6d6": {
-    "mod_name": "ColourMyFiles",
-    "version": "1.0.1",
-    "download_url": "https://github.com/KannyaResonite/ColourMyFiles/releases/download/1.0.1/ColourMyFiles.dll",
-    "file_name": "ColourMyFiles.dll",
-    "file_size": 11264
+  "36d92dbfd6f15eb29e7503de45bf2fc6a23d6a166d61d46cd5c282cbf1fa6937": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "1.4",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4/ProtoFluxVisualsOverhaul.dll",
+    "file_name": "ProtoFluxVisualsOverhaul.dll",
+    "file_size": 81920
   },
-  "f9caefeb706eb7c8c370c001f00961dc76500d7b318e858be60f293a0482b4a4": {
-    "mod_name": "ColourMyFiles",
-    "version": "1.0.0",
-    "download_url": "https://github.com/KannyaResonite/ColourMyFiles/releases/download/1.0.0/ColourMyFiles.dll",
-    "file_name": "ColourMyFiles.dll",
-    "file_size": 10752
+  "95fc6abda39eadc038f7a8db65b5a7d3517c190a411d908c3cc4cb37a6619c94": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "1.3",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.3/ProtoFluxVisualsOverhaul.dll",
+    "file_name": "ProtoFluxVisualsOverhaul.dll",
+    "file_size": 48640
+  },
+  "b6b5e2b7044966dcc2d51a46dfd5e17106e428b23468c7563c3ca0c2ef322461": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "1.2",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.2/ProtoWireScroll.dll",
+    "file_name": "ProtoWireScroll.dll",
+    "file_size": 42496
+  },
+  "203a9eabf394e263bd83a83e89792ee03ed5fcbbfdca85fdc02609746149ee87": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "1.1",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.1/ProtoWireScroll.dll",
+    "file_name": "ProtoWireScroll.dll",
+    "file_size": 21504
+  },
+  "198a7ca7cc338028e052e1c70ad98b42532a278c3cfe2d87f607a7d25d13e314": {
+    "mod_name": "ProtoFluxOverhaul",
+    "version": "Release",
+    "download_url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/Release/ProtoWireScroll.dll",
+    "file_name": "ProtoWireScroll.dll",
+    "file_size": 21504
   },
   "9989cf9702ba7016a566c96059a81f573c185f026d984063e78403ac50f8921d": {
     "mod_name": "libalxr-sharp",
@@ -594,6 +314,48 @@
     "file_name": "CustomShaderLib.dll",
     "file_size": 11776
   },
+  "f380b96ff4721e439d7eede80109223d76eb6436155962536c401a1b132dd6fb": {
+    "mod_name": "DoublePrecision",
+    "version": "V1.6.1",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.1/DoublePrecision.dll",
+    "file_name": "DoublePrecision.dll",
+    "file_size": 17920
+  },
+  "8e9a99cc9a583befcf408645bb98674a7ac2bd627f4b43f0f385e5d2d46d62be": {
+    "mod_name": "DoublePrecision",
+    "version": "V1.6.0",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.0/DoublePrecision.dll",
+    "file_name": "DoublePrecision.dll",
+    "file_size": 20992
+  },
+  "5d45539c2f7283fd1eddacdb0d7a9404bafbeb29eeddffd48cfd833324810178": {
+    "mod_name": "DoublePrecision",
+    "version": "V1.4.0",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.4.0/DoublePrecision.dll",
+    "file_name": "DoublePrecision.dll",
+    "file_size": 8192
+  },
+  "9098b11dd54cde2e6c37294990a781c7ad366b792036a01ece33e591ee8522d4": {
+    "mod_name": "DoublePrecision",
+    "version": "V1.3.0",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.3.0/DoublePrecision.dll",
+    "file_name": "DoublePrecision.dll",
+    "file_size": 13312
+  },
+  "ace4cd96f8e354ad077a7d118d19e2f3a355f39aeaaeda63976410986c36e8a1": {
+    "mod_name": "HandAligner",
+    "version": "V1.0.1",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V1.0.1/HandAligner.dll",
+    "file_name": "HandAligner.dll",
+    "file_size": 12800
+  },
+  "df7e40d21ee89e61ddec06557b5a2f1690bf7160f31ad11a16a02ff8e2225095": {
+    "mod_name": "HandAligner",
+    "version": "V1.0.0",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V1.0.0/HandAligner.dll",
+    "file_name": "HandAligner.dll",
+    "file_size": 19968
+  },
   "5db26c4b3144caac23190727e1571193507b42c42a72b5f33b4de87e9361811d": {
     "mod_name": "HostCrashGuard",
     "version": "V2.4.5",
@@ -671,68 +433,26 @@
     "file_name": "NAudio.Asio.dll",
     "file_size": 34304
   },
-  "dd5670ad7a1ed785fcc0f0399bc9b270a4713e149fb0f6afb542d4acbfb0aa1a": {
-    "mod_name": "Thundagun",
-    "version": "1.2.2-beta",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.2-beta/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 156672
+  "dadc5cecfafaa476ca71b57e2d36484669a2787ede88be12b8e92a931a8de739": {
+    "mod_name": "EsnyaResoniteModTemplate",
+    "version": "v0.0.0-template.1",
+    "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0-template.1/EsnyaResoniteModTemplate.dll",
+    "file_name": "EsnyaResoniteModTemplate.dll",
+    "file_size": 7168
   },
-  "747a0afb947ec914f6cbeeab92159ee51cb5d9d5b5579efa6074554092625256": {
-    "mod_name": "Thundagun",
-    "version": "1.2.1",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.1/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 171520
+  "3445e18516fa3285269f15f3504eec3f3b8dfbfe19da84cb713d068d19321eee": {
+    "mod_name": "EsnyaResoniteModTemplate",
+    "version": "v0.0.0-template.0",
+    "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0-template.0/EsnyaResoniteModTemplate.dll",
+    "file_name": "EsnyaResoniteModTemplate.dll",
+    "file_size": 7168
   },
-  "cbb9e58c98ca2096e7128df4ec57ca8c4afd25f8af2ab81c10572ee6ad930d83": {
-    "mod_name": "Thundagun",
-    "version": "1.2.0",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.0/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 171008
-  },
-  "e0de1e188d5c3114fd924e09753c733357910947ddab22a9f4777d928ad07eed": {
-    "mod_name": "Thundagun",
-    "version": "1.1.1",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.1.1/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 162304
-  },
-  "8111b695de019c4102effe3583956dd880c701c6fecbe2aa29852afe3c86e498": {
-    "mod_name": "Thundagun",
-    "version": "1.1.0-beta",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.1.0-beta/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 168960
-  },
-  "700aea43f5b2ae5ea24d7a336f7361a6fd438c44233fe39bb46c5c3b4517c41b": {
-    "mod_name": "Thundagun",
-    "version": "1.0.1-beta",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.0.1-beta/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 147456
-  },
-  "50ec29befca22cdf4f26a7321d0ba67b56207ab9d68cea5ab578ad0b05acb9d9": {
-    "mod_name": "Thundagun",
-    "version": "1.0.0-beta",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.0.0-beta/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 133632
-  },
-  "d98e55835599d0afc1c4f388b9cb77dcf34a9f25c32241d6e26f60306cd6ada3": {
-    "mod_name": "Thundagun",
-    "version": "1.1.0-alpha",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.1.0-alpha/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 144896
-  },
-  "a9a4591d6c4a1350879ab60f15881edfb813458e44d10e5298282c3d1a42a527": {
-    "mod_name": "Thundagun",
-    "version": "1.0.0-alpha",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.0.0-alpha/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 143872
+  "fb34f9bdc105e247341f1fe6a0da1fdf4320629e58c5993a11cbdac5ce7bd688": {
+    "mod_name": "EsnyaResoniteModTemplate",
+    "version": "v0.0.0.0",
+    "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0.0/EsnyaResoniteModTemplate.dll",
+    "file_name": "EsnyaResoniteModTemplate.dll",
+    "file_size": 7168
   },
   "9089516dab5131f39e7fe19f03f3568822481ecec3ce7989caa151818bee5920": {
     "mod_name": "EsnyaTweaks",
@@ -852,34 +572,6 @@
     "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.0.0.0/ResoniteMetricsCounter.dll",
     "file_name": "ResoniteMetricsCounter.dll",
     "file_size": 25088
-  },
-  "80690e753ee7350fbaf8fdcd1d0d742fc6753292f87bd41c71351746464d527e": {
-    "mod_name": "ResoniteModLoader",
-    "version": "prerelease",
-    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/prerelease/0Harmony-Net9.dll",
-    "file_name": "0Harmony-Net9.dll",
-    "file_size": 2085376
-  },
-  "4b5f44764316c833a3b1d184ba6f1df275c86a181cc595ec403a01049d1d6fb5": {
-    "mod_name": "ResoniteModLoader",
-    "version": "3.0.0",
-    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/3.0.0/0Harmony-Net8.dll",
-    "file_name": "0Harmony-Net8.dll",
-    "file_size": 2060800
-  },
-  "d04ec5b2590dd1bbb57f0f11dc417b1a5bebbb36b1f97006d35f2d87c3a2a69f": {
-    "mod_name": "ResoniteModLoader",
-    "version": "2.5.0",
-    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.5.0/0Harmony.dll",
-    "file_name": "0Harmony.dll",
-    "file_size": 931840
-  },
-  "6928f117d52c0683c44683c0656cd5a345d21aa45720b11c64dc72a35771cac5": {
-    "mod_name": "ResoniteModLoader",
-    "version": "2.4.0",
-    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.4.0/0Harmony.dll",
-    "file_name": "0Harmony.dll",
-    "file_size": 911872
   },
   "73ef9d20b45193067056ec57b3b2fc29d7fe6d4ca1269f96f00c65d6ceb64b89": {
     "mod_name": "CustomTextureSettings",
@@ -1119,47 +811,26 @@
     "file_name": "PrivacyShield.dll",
     "file_size": 11776
   },
-  "61b25544a12c182291155f46fd65351facf6828171fb14031bb5102621c0a697": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v2.0.0-rc.1",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v2.0.0-rc.1/MeaMod.DNS.dll",
-    "file_name": "MeaMod.DNS.dll",
-    "file_size": 126688
+  "f47991ed6cea3b32da185b4ae71b97196e66c813fa34bc1d1969a2de7f1c839b": {
+    "mod_name": "BoundedUIX (djsime1's fork)",
+    "version": "v1.1.2",
+    "download_url": "https://github.com/djsime1/BoundedUIX/releases/download/v1.1.2/BoundedUIX.dll",
+    "file_name": "BoundedUIX.dll",
+    "file_size": 35840
   },
-  "8b419a4fb64543d36ce7c02e1bfdcb9fa32039584f5462c3a6fbd067387f384f": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v1.0.4",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.4/VRCFTReceiver.dll",
-    "file_name": "VRCFTReceiver.dll",
-    "file_size": 16384
+  "5c108a2e2bfe87498d14341c31dbabcbe90ea187611b73d7d7c71b1298ec99d6": {
+    "mod_name": "BoundedUIX (djsime1's fork)",
+    "version": "1.1.1",
+    "download_url": "https://github.com/djsime1/BoundedUIX/releases/download/1.1.1/BoundedUIX.dll",
+    "file_name": "BoundedUIX.dll",
+    "file_size": 35328
   },
-  "5df909d68a4b057117a46dc682c83e8cf7504aea235587bbe81ee8c8cb8ba555": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v1.0.3",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.3/VRCFTReceiver.dll",
-    "file_name": "VRCFTReceiver.dll",
-    "file_size": 16384
-  },
-  "433296c704b62ac4a710e364faae7635d1deed12af8df3f86193ce289da45225": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v1.0.2",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.2/VRCFTReceiver.dll",
-    "file_name": "VRCFTReceiver.dll",
-    "file_size": 12288
-  },
-  "eba11b7ed9e094e57f0bfb75cc0b36a5d00803ba3897cc9df81dd10c6dea50cf": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v1.0.1",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.1/VRCFTReceiver.dll",
-    "file_name": "VRCFTReceiver.dll",
-    "file_size": 12288
-  },
-  "288a30011ad4263308211c898aad542e74a52b5ba5c5d59ad58a5480875f7e51": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.0/VRCFTReceiver.dll",
-    "file_name": "VRCFTReceiver.dll",
-    "file_size": 10752
+  "2611da67850b7aeb32e27e9a838f55c07777e6575bfb5fea879d6b3e7448cbdb": {
+    "mod_name": "BoundedUIX (djsime1's fork)",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/djsime1/BoundedUIX/releases/download/v1.1.0/BoundedUIX.dll",
+    "file_name": "BoundedUIX.dll",
+    "file_size": 34304
   },
   "41fc7bca29bf12b2b2ae8e677fcbdf1943ed9d35bd78052f47204b60239875b0": {
     "mod_name": "CopyHyperlink",
@@ -1357,12 +1028,40 @@
     "file_name": "CustomInspectors.dll",
     "file_size": 10752
   },
-  "abca5e97d9bae4ad50ebf2dfd25675072756022cf4295d9e0f0ee05f6208b0cd": {
-    "mod_name": "CustomJoinVerifierFix",
+  "d1931db626e12e7f0bac541da554fa85117d8fbe22684e724dbd0b5b7f5a07e3": {
+    "mod_name": "DefaultToolOverride",
+    "version": "1.0.4",
+    "download_url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.4/DefaultToolOverride.dll",
+    "file_name": "DefaultToolOverride.dll",
+    "file_size": 14848
+  },
+  "96f03a183e22e3f21bbee9f24643b8997f8275290e6910edf19fcb20a38f7cf3": {
+    "mod_name": "DefaultToolOverride",
+    "version": "1.0.3",
+    "download_url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.3/DefaultToolOverride.dll",
+    "file_name": "DefaultToolOverride.dll",
+    "file_size": 14336
+  },
+  "4e5e2c1ac7a8676095599671228990abcda3718d006e0e0af05c2804234ff499": {
+    "mod_name": "DefaultToolOverride",
+    "version": "1.0.2",
+    "download_url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.2/DefaultToolOverride.dll",
+    "file_name": "DefaultToolOverride.dll",
+    "file_size": 13312
+  },
+  "9913af124aa5719b7ec8fcb339e7e192dae154213b64e1cc446ee98fb5aa6bcf": {
+    "mod_name": "DefaultToolOverride",
+    "version": "1.0.1",
+    "download_url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.1/DefaultToolOverride.dll",
+    "file_name": "DefaultToolOverride.dll",
+    "file_size": 13312
+  },
+  "5112007b7a052cedb851b6320b84d41ae799f536dc2655afaab8dd1cd3f755cf": {
+    "mod_name": "DefaultToolOverride",
     "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/CustomJoinVerifierFix/releases/download/1.0.0/CustomJoinVerifierFix.dll",
-    "file_name": "CustomJoinVerifierFix.dll",
-    "file_size": 9216
+    "download_url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.0/DefaultToolOverride.dll",
+    "file_name": "DefaultToolOverride.dll",
+    "file_size": 13312
   },
   "84a5d0a9d5f031225f8cff9d7e18a3b12b196afb05b6c2b9f1fc0e2ddba45a87": {
     "mod_name": "DisableLegacyInventory",
@@ -1413,19 +1112,19 @@
     "file_name": "DuplicateFix.dll",
     "file_size": 13312
   },
-  "8822eb2ca3c0995deef692b92292a67485c27dd664bfd913bb83ba936504ff5d": {
-    "mod_name": "FixGrabWorld",
-    "version": "2.0.0",
-    "download_url": "https://github.com/art0007i/FixGrabWorld/releases/download/2.0.0/FixGrabWorld.dll",
-    "file_name": "FixGrabWorld.dll",
-    "file_size": 7168
+  "a6a9b165c5d4305c20e53e2dc370952f89309bf5ccd7bbdf1f7be334499fc56e": {
+    "mod_name": "ExtrasButtonTweaks",
+    "version": "1.1.0",
+    "download_url": "https://github.com/art0007i/ExtrasButtonTweaks/releases/download/1.1.0/ExtrasButtonTweaks.dll",
+    "file_name": "ExtrasButtonTweaks.dll",
+    "file_size": 15360
   },
-  "f877184063cf94407ec099e2bfad67353cfc9962e0313665150ff9da995995f2": {
-    "mod_name": "FixGrabWorld",
+  "85880e8504bddde3c3aa5b9e84a7f1f6e747e5698a0d80d081d1314575e25978": {
+    "mod_name": "ExtrasButtonTweaks",
     "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/FixGrabWorld/releases/download/1.0.0/FixGrabWorld.dll",
-    "file_name": "FixGrabWorld.dll",
-    "file_size": 7168
+    "download_url": "https://github.com/art0007i/ExtrasButtonTweaks/releases/download/1.0.0/ExtrasButtonTweaks.dll",
+    "file_name": "ExtrasButtonTweaks.dll",
+    "file_size": 12800
   },
   "a5af5714384e935f68163b53e9154aedf9ecbfd41579dfd5bd5ca4b137f0e881": {
     "mod_name": "FixMigratedItemMessages",
@@ -1461,6 +1160,20 @@
     "download_url": "https://github.com/art0007i/ImGuiUnityInject/releases/download/0.1.0/ImGuiUnityInject.dll",
     "file_name": "ImGuiUnityInject.dll",
     "file_size": 343552
+  },
+  "0154587705c1db03fe07ba866fc8c80af70fa72b2c3cacab96f03b854909570a": {
+    "mod_name": "ImportCompactor",
+    "version": "2.0.0",
+    "download_url": "https://github.com/art0007i/ImportCompactor/releases/download/2.0.0/ImportCompactor.dll",
+    "file_name": "ImportCompactor.dll",
+    "file_size": 5632
+  },
+  "6b03551a18732e582395324ce8a0f8ff11da0c79de8c96db67d9a3b42cad0208": {
+    "mod_name": "ImportCompactor",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/ImportCompactor/releases/download/1.0.0/ImportCompactor.dll",
+    "file_name": "ImportCompactor.dll",
+    "file_size": 5632
   },
   "2dbcea4b00f4650c8b06a76d6dfd4636977329ab1e26239dd61187a03848eb24": {
     "mod_name": "InspectorScroll",
@@ -1525,20 +1238,6 @@
     "file_name": "KeyRepeatAdjust.dll",
     "file_size": 6656
   },
-  "e8f6bb0dbde068bc53d01a0788f9ff8b21dfbec5320df88c9c81aa112633d5b4": {
-    "mod_name": "LargerObjectMessagePreviews",
-    "version": "2.0.0",
-    "download_url": "https://github.com/art0007i/LargerObjectMessagePreviews/releases/download/2.0.0/LargerObjectMessagePreviews.dll",
-    "file_name": "LargerObjectMessagePreviews.dll",
-    "file_size": 7680
-  },
-  "23c9bf7060c14f2f29b91f84d9f946b82dc5d52af592143407e8053139845d33": {
-    "mod_name": "LargerObjectMessagePreviews",
-    "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/LargerObjectMessagePreviews/releases/download/1.0.0/LargerObjectMessagePreviews.dll",
-    "file_name": "LargerObjectMessagePreviews.dll",
-    "file_size": 8192
-  },
   "1389ebb1daaf4d8ddede64eaf611505199d2118087282098485ff5788e2a3c33": {
     "mod_name": "LocalStorage",
     "version": "2.0.3",
@@ -1594,6 +1293,20 @@
     "download_url": "https://github.com/art0007i/LocalStorage/releases/download/1.0.0.0/LocalStorage.dll",
     "file_name": "LocalStorage.dll",
     "file_size": 19456
+  },
+  "aece08d0beef41ed9c4ec6e1d759bb8f5fafcc0e00805d75b9d09db2f5915861": {
+    "mod_name": "LogCleaner",
+    "version": "1.1.0",
+    "download_url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.0/LogCleaner.dll",
+    "file_name": "LogCleaner.dll",
+    "file_size": 11264
+  },
+  "b30743cb5074314aaa306a7b49e5c34b989d7e2613416f60bcf1a38fecfd2220": {
+    "mod_name": "LogCleaner",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/LogCleaner/releases/download/1.0.0/LogCleaner.dll",
+    "file_name": "LogCleaner.dll",
+    "file_size": 9216
   },
   "8ed99837b36c9e3d8d62130701509be105516ef98e396832193bac92d484c850": {
     "mod_name": "MessageCopy",
@@ -1651,33 +1364,12 @@
     "file_name": "MyInspectors.dll",
     "file_size": 8192
   },
-  "376e308a2c52c9d51c25f7ab39161a09cb0456059fe8eb389bd87e616ad8e83f": {
-    "mod_name": "NoHeadMenuDash",
-    "version": "2.0.0",
-    "download_url": "https://github.com/art0007i/NoHeadMenuDash/releases/download/2.0.0/NoHeadMenuDash.dll",
-    "file_name": "NoHeadMenuDash.dll",
-    "file_size": 5632
-  },
-  "2437ea23a79bea484874aa1daed8912cf86db536d917e6242e0d15b919f302da": {
-    "mod_name": "NoHeadMenuDash",
-    "version": "1.0.0.0",
-    "download_url": "https://github.com/art0007i/NoHeadMenuDash/releases/download/1.0.0.0/NoHeadMenuDash.dll",
-    "file_name": "NoHeadMenuDash.dll",
-    "file_size": 6144
-  },
   "8f3e56671a6b278c7036f72d2a97f3cd56afd6d72f6599259f8e580de88b4954": {
     "mod_name": "NotificationFixer",
     "version": "1.0.0",
     "download_url": "https://github.com/art0007i/NotificationFixer/releases/download/1.0.0/NotificationFixer.dll",
     "file_name": "NotificationFixer.dll",
     "file_size": 6656
-  },
-  "c7fef55525aa9bbcb96c42aa4271707497fd3f0466cb17f1bc1c37e907544c75": {
-    "mod_name": "OutOfSightOverride",
-    "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/OutOfSightOverride/releases/download/1.0.0/OutOfSightOverride.dll",
-    "file_name": "OutOfSightOverride.dll",
-    "file_size": 8192
   },
   "2241fe6619880543be78d71894378250eba9b5a60147c9a95799869bbe7a129e": {
     "mod_name": "ParentalIssues",
@@ -1721,33 +1413,12 @@
     "file_name": "PresenceToggle.dll",
     "file_size": 6656
   },
-  "821ceeeeecd1a9e56c117e15f457f517e1e821666464a4d169e27c0be979f3f5": {
-    "mod_name": "QuickFolderOpener",
-    "version": "2.0.1",
-    "download_url": "https://github.com/art0007i/QuickFolderOpener/releases/download/2.0.1/QuickFolderOpener.dll",
-    "file_name": "QuickFolderOpener.dll",
-    "file_size": 11776
-  },
-  "997a30fda6a8f312f0af3ec701d2c8cbdbf25c964def68121d8f27a3fcea28f0": {
-    "mod_name": "QuickFolderOpener",
-    "version": "2.0.0",
-    "download_url": "https://github.com/art0007i/QuickFolderOpener/releases/download/2.0.0/QuickFolderOpener.dll",
-    "file_name": "QuickFolderOpener.dll",
-    "file_size": 11776
-  },
-  "70033bfe442e83e8d25b1effb7b2105c21290fbcf53111308bc42a3d5d04dc16": {
-    "mod_name": "QuickFolderOpener",
-    "version": "1.0.1",
-    "download_url": "https://github.com/art0007i/QuickFolderOpener/releases/download/1.0.1/QuickFolderOpener.dll",
-    "file_name": "QuickFolderOpener.dll",
-    "file_size": 11776
-  },
-  "6035d414e8f2ddd058a11b549fd75a942b12f4d73eae6f4ea5aaa45b6debe06b": {
-    "mod_name": "QuickFolderOpener",
+  "3a5c1139cca746bafc78d91f8aa0c588bf9435c2f3389a0fc16ec01ae31c12d0": {
+    "mod_name": "RemoveComponentAttacherRestriction",
     "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/QuickFolderOpener/releases/download/1.0.0/QuickFolderOpener.dll",
-    "file_name": "QuickFolderOpener.dll",
-    "file_size": 11264
+    "download_url": "https://github.com/art0007i/RemoveComponentAttacherRestriction/releases/download/1.0.0/RemoveComponentAttacherRestriction.dll",
+    "file_name": "RemoveComponentAttacherRestriction.dll",
+    "file_size": 7680
   },
   "ef21b285d0f067eb365c17dbd37a1267ab185edcb8a70f43f08fa5ed06c8506d": {
     "mod_name": "ResoniteImGuiLib",
@@ -1790,6 +1461,20 @@
     "download_url": "https://github.com/art0007i/ShadowDistanceChanger/releases/download/1.0.0/ShadowDistanceChanger.dll",
     "file_name": "ShadowDistanceChanger.dll",
     "file_size": 6144
+  },
+  "3520caa2b3dffce36036371d25214f31da0516a9bd6061d0dec54734949738f2": {
+    "mod_name": "ShowComponentSlot",
+    "version": "2.0.0",
+    "download_url": "https://github.com/art0007i/ShowComponentSlot/releases/download/2.0.0/ShowComponentSlot.dll",
+    "file_name": "ShowComponentSlot.dll",
+    "file_size": 6656
+  },
+  "61d9e2beb55e8edc769e2158ca108423c76df8b5830bfddd014e545bc4f2534c": {
+    "mod_name": "ShowComponentSlot",
+    "version": "1.0.0.0",
+    "download_url": "https://github.com/art0007i/ShowComponentSlot/releases/download/1.0.0.0/ShowComponentSlot.dll",
+    "file_name": "ShowComponentSlot.dll",
+    "file_size": 6656
   },
   "420341da08088da831d17d48db53efaf988480820554e52914b69bc4001637d8": {
     "mod_name": "ShowDelegates",
@@ -2022,6 +1707,27 @@
     "file_name": "ToolshelfAnarchy.dll",
     "file_size": 5120
   },
+  "9768a0be3b54c5d79351cbf7e0e237091eeac48038f44d079ea8006b344486ba": {
+    "mod_name": "TrackerModelSwapper",
+    "version": "2.0.0",
+    "download_url": "https://github.com/art0007i/TrackerModelSwapper/releases/download/2.0.0/TrackerModelSwapper.dll",
+    "file_name": "TrackerModelSwapper.dll",
+    "file_size": 6656
+  },
+  "3f2866329cc76a51104e80476a18038fe9e31334a876bf7d65ccddb767fea720": {
+    "mod_name": "TrackerModelSwapper",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/TrackerModelSwapper/releases/download/1.0.0/TrackerModelSwapper.dll",
+    "file_name": "TrackerModelSwapper.dll",
+    "file_size": 6656
+  },
+  "ee9f60a8a9826a2a579c8c2fbd49346a55ffee089931f38bbb11dd90b899c052": {
+    "mod_name": "TransparentCameraEnabler",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/TransparentCameraEnabler/releases/download/1.0.0/TransparentCameraEnabler.dll",
+    "file_name": "TransparentCameraEnabler.dll",
+    "file_size": 7168
+  },
   "e8033714199409c8f1b0d3b29c386b56bf26e77b19e4e40876ae6de0d4c0745c": {
     "mod_name": "ValueProxyExtensions",
     "version": "2.1.4",
@@ -2204,19 +1910,40 @@
     "file_name": "Outflow.dll",
     "file_size": 12288
   },
-  "4cb0ec4aba5522f7fc529cec45bd39e4df9e1d3f611625a29f43218d27c512a8": {
-    "mod_name": "ResoTabbed",
-    "version": "1.1.0",
-    "download_url": "https://github.com/NepuShiro/ResoTabbed/releases/download/1.1.0/ResoTabbed.dll",
-    "file_name": "ResoTabbed.dll",
+  "47d2b7e5781bf3d8133a34fbd1a52e9a5121b8d307ffd78dc95218a4d082ceb5": {
+    "mod_name": "ChangeJoinLeaveSound",
+    "version": "1.0.2",
+    "download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.2/ChangeJoinLeaveSound.dll",
+    "file_name": "ChangeJoinLeaveSound.dll",
+    "file_size": 10240
+  },
+  "ec0ca26addc0c3bb8712ac2d0a1ab009d44109640f35b2d9bd1b42b24cdad8be": {
+    "mod_name": "ChangeJoinLeaveSound",
+    "version": "1.0.1",
+    "download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.1/ChangeJoinLeaveSound.dll",
+    "file_name": "ChangeJoinLeaveSound.dll",
+    "file_size": 10240
+  },
+  "6c620e015c0d79fefb4f22c1c421cf60c31482dd3d5e3dda683d61e040ad56d4": {
+    "mod_name": "ChangeJoinLeaveSound",
+    "version": "1.0.0",
+    "download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.0/ChangeJoinLeaveSound.dll",
+    "file_name": "ChangeJoinLeaveSound.dll",
+    "file_size": 11776
+  },
+  "7f274b03a7c55508b301a53add5529994557f342b8656df412a336cbf474f46d": {
+    "mod_name": "FluxFinder",
+    "version": "1.0.1",
+    "download_url": "https://github.com/NepuShiro/FluxFinder/releases/download/1.0.1/FluxFinder.dll",
+    "file_name": "FluxFinder.dll",
     "file_size": 7680
   },
-  "f8ba58713e57f0a429b4665077950091e4f144d2f4a028b4a91c543536de4992": {
-    "mod_name": "ResoTabbed",
+  "0cc60114c1d5027dcc662f6b9b6de56a51e4a66333e44bbc3c22860193b5c1ed": {
+    "mod_name": "FluxFinder",
     "version": "1.0.0",
-    "download_url": "https://github.com/NepuShiro/ResoTabbed/releases/download/1.0.0/ResoTabbed.dll",
-    "file_name": "ResoTabbed.dll",
-    "file_size": 6656
+    "download_url": "https://github.com/NepuShiro/FluxFinder/releases/download/1.0.0/FluxFinder.dll",
+    "file_name": "FluxFinder.dll",
+    "file_size": 7680
   },
   "93c30ea4c388700559aa05d18e4ee08eb34a85eb4f8fa555593caf1f3291a329": {
     "mod_name": "ResoniteFixContactIcons",
@@ -2245,62 +1972,6 @@
     "download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.0.0/ResoniteFixContactIcons.dll",
     "file_name": "ResoniteFixContactIcons.dll",
     "file_size": 16896
-  },
-  "a6d2523a41ace4306ada10fafc854f8678d7388236b82834203d8569ba72b2ab": {
-    "mod_name": "ResoniteSlotInspectorCounter",
-    "version": "1.6.0",
-    "download_url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.6.0/ResoniteSlotInspectorCounter.dll",
-    "file_name": "ResoniteSlotInspectorCounter.dll",
-    "file_size": 14848
-  },
-  "67e229fa48d362a9a5ca717d554e3cd926c2feb9252d42e8045bebdc2f1340c2": {
-    "mod_name": "ResoniteSlotInspectorCounter",
-    "version": "1.5.0",
-    "download_url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.5.0/ResoniteSlotInspectorCounter.dll",
-    "file_name": "ResoniteSlotInspectorCounter.dll",
-    "file_size": 15360
-  },
-  "108d0dc4be5a219751f741df5f74350929a1fd476915e20222a3dc5387996adf": {
-    "mod_name": "ResoniteSlotInspectorCounter",
-    "version": "1.3.0",
-    "download_url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.3.0/ResoniteSlotInspectorCounter.dll",
-    "file_name": "ResoniteSlotInspectorCounter.dll",
-    "file_size": 11264
-  },
-  "81390b03c3c37dbbf51d59136170c15a680cbaf19fce68471cc16280ac26311e": {
-    "mod_name": "ResoniteSlotInspectorCounter",
-    "version": "1.2.0",
-    "download_url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.2.0/ResoniteSlotInspectorCounter.dll",
-    "file_name": "ResoniteSlotInspectorCounter.dll",
-    "file_size": 10752
-  },
-  "5cb5c3c90faf1937052e0fc08b916310247a9682203ab2ab2fc0ef8407baf7bd": {
-    "mod_name": "ResoniteSlotInspectorCounter",
-    "version": "1.1.0",
-    "download_url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.1.0/ResoniteSlotInspectorCounter.dll",
-    "file_name": "ResoniteSlotInspectorCounter.dll",
-    "file_size": 9728
-  },
-  "41b2bdde9d53df72f76ce2a60e15162c4f426a96fe534cef1feb233f6aab73a8": {
-    "mod_name": "ResoniteSlotInspectorCounter",
-    "version": "1.0.5",
-    "download_url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.0.5/ResoniteSlotInspectorCounter.dll",
-    "file_name": "ResoniteSlotInspectorCounter.dll",
-    "file_size": 7680
-  },
-  "cb0d55f9e8303559977b0bbb03a862563e39767d4c9153ab9ec0585fa06e061b": {
-    "mod_name": "ResoniteSlotInspectorCounter",
-    "version": "1.0.1",
-    "download_url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.0.1/ResoniteSlotInspectorCounter.dll",
-    "file_name": "ResoniteSlotInspectorCounter.dll",
-    "file_size": 7168
-  },
-  "3c2a32a4f183fc69428def06440a413c74caffa9811d39c4ca98b2d0c93f1168": {
-    "mod_name": "ResoniteSlotInspectorCounter",
-    "version": "1.0.0",
-    "download_url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.0.0/ResoniteSlotInspectorCounter.dll",
-    "file_name": "ResoniteSlotInspectorCounter.dll",
-    "file_size": 7168
   },
   "26c2501f8424c7f8e4dab8baf85a6e53a19f1619dde7c34f02a49999bac67550": {
     "mod_name": "ReArmature",
@@ -2442,6 +2113,27 @@
     "file_name": "PermissionControl.dll",
     "file_size": 13824
   },
+  "a55817ddeb7725c1c3d18d838f4133351dbfe634af500a01de641a52efefb618": {
+    "mod_name": "PTTKeybinds",
+    "version": "1.5.0",
+    "download_url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.5.0/ResonitePTTKeybinds.dll",
+    "file_name": "ResonitePTTKeybinds.dll",
+    "file_size": 12288
+  },
+  "e6fe84872c599dbb8799ccc97ec49293b71c0141609d52c0113482bb3a2b6ec1": {
+    "mod_name": "PTTKeybinds",
+    "version": "1.4.0",
+    "download_url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.4.0/ResonitePTTKeybinds.dll",
+    "file_name": "ResonitePTTKeybinds.dll",
+    "file_size": 12288
+  },
+  "6795e0bba010a58cda9a6383e09a973c8c4aa65a2aa1a77ba78604d30a794b48": {
+    "mod_name": "PTTKeybinds",
+    "version": "1.3.0",
+    "download_url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.3.0/ResonitePTTKeybinds.dll",
+    "file_name": "ResonitePTTKeybinds.dll",
+    "file_size": 12288
+  },
   "41d55d41a3667d06b64631b01662de1cc0a95d16dfb7b5c895c6c63f0d509261": {
     "mod_name": "ScalableWorldOrbs",
     "version": "2.0.0",
@@ -2455,62 +2147,6 @@
     "download_url": "https://github.com/XDelta/ScalableWorldOrbs/releases/download/1.0.0/ScalableWorldOrbs.dll",
     "file_name": "ScalableWorldOrbs.dll",
     "file_size": 6656
-  },
-  "6e1daebc4c16908505044709727715b7b5d09b3e86f8e7e6d5e03a053fe6cc70": {
-    "mod_name": "SettingsRedux",
-    "version": "2.1.0",
-    "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/2.1.0/SettingsRedux.dll",
-    "file_name": "SettingsRedux.dll",
-    "file_size": 30208
-  },
-  "c41298c54a0ae16ac723d3e616f502fa025f3fec02235f1da47c2b892dfbec21": {
-    "mod_name": "SettingsRedux",
-    "version": "2.0.0",
-    "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/2.0.0/SettingsRedux.dll",
-    "file_name": "SettingsRedux.dll",
-    "file_size": 30208
-  },
-  "6f9f1aada682e18c3537b2e22303934785652ff7d32c6b06231795968050fb28": {
-    "mod_name": "SettingsRedux",
-    "version": "1.1.0",
-    "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/1.1.0/SettingsRedux.dll",
-    "file_name": "SettingsRedux.dll",
-    "file_size": 27648
-  },
-  "9fe70b9fc49e9179bcab5ac0a7fd8193d94e26c96e306b95d3d6d1d2a3f4ee3b": {
-    "mod_name": "SettingsRedux",
-    "version": "1.0.0",
-    "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/1.0.0/SettingsRedux.dll",
-    "file_name": "SettingsRedux.dll",
-    "file_size": 27136
-  },
-  "c4737956baa6dbc67e4d33f505af3018c20e30449c4ad1d7568e10b068e8732e": {
-    "mod_name": "ShowSourceLocation",
-    "version": "1.2.1",
-    "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.1/ShowSourceLocation.dll",
-    "file_name": "ShowSourceLocation.dll",
-    "file_size": 10240
-  },
-  "48c4f60b7728ce6624649866b28fca47a25ecb8acdeb9e748d8274d16be26e15": {
-    "mod_name": "ShowSourceLocation",
-    "version": "1.2.0",
-    "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.0/ShowSourceLocation.dll",
-    "file_name": "ShowSourceLocation.dll",
-    "file_size": 10240
-  },
-  "486375e5e13a75f776c0747b6f0c7436d69771e7b94e89244dcd971c74933c9d": {
-    "mod_name": "ShowSourceLocation",
-    "version": "1.1.2",
-    "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.2/ShowSourceLocation.dll",
-    "file_name": "ShowSourceLocation.dll",
-    "file_size": 9728
-  },
-  "362d18bc3e5c75865ed86fb5dbfc7959fbf152f4d8fe05e39e66859af9f219ff": {
-    "mod_name": "ShowSourceLocation",
-    "version": "1.1.1",
-    "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.1/ResoniteShowSourceLocation.dll",
-    "file_name": "ResoniteShowSourceLocation.dll",
-    "file_size": 10240
   },
   "a1a8e6da3c9c728d04df70c3733487ac466210778f51a1d5c4ed60ccba5c4759": {
     "mod_name": "PimaxEyeTracking",
@@ -2546,6 +2182,55 @@
     "download_url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v1.0.0/NeosPimaxIntegration.dll",
     "file_name": "NeosPimaxIntegration.dll",
     "file_size": 16896
+  },
+  "d1ad34dce33461a2de36a2363dadaaec12b30604f2a6094b9cdc2177f1d16493": {
+    "mod_name": "CacheGetClapped",
+    "version": "v2.0.1",
+    "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v2.0.1/CacheGetClapped.dll",
+    "file_name": "CacheGetClapped.dll",
+    "file_size": 10752
+  },
+  "6f01bfa6b100c20ff3fd36d89df734f94654ad75b034b9e776c617b7e020937c": {
+    "mod_name": "CacheGetClapped",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v2.0.0/CacheGetClapped.dll",
+    "file_name": "CacheGetClapped.dll",
+    "file_size": 10240
+  },
+  "3a8fb4e0e89a7ece67d63975a90dd9c00c84914215655dee4acf8cffc6d0a234": {
+    "mod_name": "CacheGetClapped",
+    "version": "v1.0.4",
+    "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v1.0.4/CacheGetClapped.dll",
+    "file_name": "CacheGetClapped.dll",
+    "file_size": 10240
+  },
+  "db1fe6ef92979c0fddecec70375c6dabdb6df204f3577d6ef4bfc26d79df0b45": {
+    "mod_name": "CacheGetClapped",
+    "version": "v1.0.3",
+    "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v1.0.3/CacheGetClapped.dll",
+    "file_name": "CacheGetClapped.dll",
+    "file_size": 9216
+  },
+  "a75c7f388bb6882a13eb1d1b8b83fd411ade778d51d8d7906a27f07750e69439": {
+    "mod_name": "CacheGetClapped",
+    "version": "v1.0.2",
+    "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v1.0.2/CacheGetClapped.dll",
+    "file_name": "CacheGetClapped.dll",
+    "file_size": 9216
+  },
+  "d116273af10320db04485f5760c73de90ae7e138281220464f04b20bd6f2a8fa": {
+    "mod_name": "CacheGetClapped",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v1.0.1/CacheGetClapped.dll",
+    "file_name": "CacheGetClapped.dll",
+    "file_size": 8192
+  },
+  "8e580fa56bd4740e81631d2b09aeb9e00fc8e5152d90ee7ad12e92a6f355adbb": {
+    "mod_name": "CacheGetClapped",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/dfgHiatus/CacheGetClapped/releases/download/v1.0.0/CacheGetClapped.dll",
+    "file_name": "CacheGetClapped.dll",
+    "file_size": 8192
   },
   "2d0d1dba29d963a7c5ebca43507b6b212736fe16a2db5e6025e3b196032eded4": {
     "mod_name": "FuckMirrors",
@@ -2701,6 +2386,69 @@
     "file_name": "Unzipper.dll",
     "file_size": 11776
   },
+  "61d6e5f9d1c4430bd77bd4293a94302546ff96c1480cdfb44ead4b9cd410c46d": {
+    "mod_name": "GetItemLink",
+    "version": "1.4.5.0",
+    "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.5.0/GetItemLink.dll",
+    "file_name": "GetItemLink.dll",
+    "file_size": 11264
+  },
+  "0814959b898978b44bc0e1624dcef598a902259531568d3e3ebc0e6329d37e02": {
+    "mod_name": "GetItemLink",
+    "version": "1.4.4.0",
+    "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.4.0/GetItemLink.dll",
+    "file_name": "GetItemLink.dll",
+    "file_size": 11264
+  },
+  "3b2b5d7503f2a5f0a74ee313f18f6da891a9d2074adc9418f8bfe8743adb26c9": {
+    "mod_name": "GetItemLink",
+    "version": "1.4.3.0",
+    "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.3.0/GetItemLink.dll",
+    "file_name": "GetItemLink.dll",
+    "file_size": 10752
+  },
+  "fb03827a190f2e64480d63703acd8d71382951f4ac8adfffcbca51b2fc0aac94": {
+    "mod_name": "GetItemLink",
+    "version": "1.4.2.0",
+    "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.2.0/GetItemLink.dll",
+    "file_name": "GetItemLink.dll",
+    "file_size": 10240
+  },
+  "6e0573a6d3152c11f5392f0e4f7c0fcf464242ddea72d369b2acd54920f55a04": {
+    "mod_name": "GetItemLink",
+    "version": "1.4.1.0",
+    "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.1.0/GetItemLink.dll",
+    "file_name": "GetItemLink.dll",
+    "file_size": 10240
+  },
+  "ba2a77a118449fa5268dc4603d06b660ab6a1e2af015307ec6bbc545b01af2f6": {
+    "mod_name": "GetItemLink",
+    "version": "1.4.0.0",
+    "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.0.0/GetItemLink.dll",
+    "file_name": "GetItemLink.dll",
+    "file_size": 10240
+  },
+  "ff0b5ef2594cdef61915f6933bb9d5fa01e3872a0a7506e7fcafae70c5dc90ac": {
+    "mod_name": "GetItemLink",
+    "version": "1.3.0.0",
+    "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.3.0.0/GetItemLink.dll",
+    "file_name": "GetItemLink.dll",
+    "file_size": 9216
+  },
+  "55372a26e915a2dc5e4ba9a8afe93c79dc36704c3764eae10cdfe9d7bf78e217": {
+    "mod_name": "GetItemLink",
+    "version": "1.2.0.0",
+    "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.2.0.0/GetItemLink.dll",
+    "file_name": "GetItemLink.dll",
+    "file_size": 8704
+  },
+  "81cda00f41a2863fd10b943682e3a2c40b32501222aad4e6a1dadf4d36f2d445": {
+    "mod_name": "GetItemLink",
+    "version": "1.0.0.0",
+    "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.0.0.0/GetItemLink.dll",
+    "file_name": "GetItemLink.dll",
+    "file_size": 8192
+  },
   "d621b87e4bec4806cfd164ee56f8b44f9c972adecba70561cb7a48e08b77ddc8": {
     "mod_name": "HeadCullingMask",
     "version": "v2.0.0",
@@ -2728,6 +2476,48 @@
     "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.0.0/HeadCullingMask.dll",
     "file_name": "HeadCullingMask.dll",
     "file_size": 8192
+  },
+  "5e439c9e2116d529def0dd3caefed103a65969a2c43f5ad8405be95aa55f6e94": {
+    "mod_name": "SaveItemTweaks",
+    "version": "v2.1.0",
+    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.1.0/SaveItemTweaks.dll",
+    "file_name": "SaveItemTweaks.dll",
+    "file_size": 13824
+  },
+  "c72cd3fd18f6d1563e00a3f3215506d50b6950ba0489fb0abb2b6f95074aaf93": {
+    "mod_name": "SaveItemTweaks",
+    "version": "v2.0.2",
+    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.2/SaveItemTweaks.dll",
+    "file_name": "SaveItemTweaks.dll",
+    "file_size": 15360
+  },
+  "6e9d5f49a8be54ed641784a6068b21faf4c535314259d9847a3fffa06bd245a7": {
+    "mod_name": "SaveItemTweaks",
+    "version": "v2.0.1",
+    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.1/SaveItemTweaks.dll",
+    "file_name": "SaveItemTweaks.dll",
+    "file_size": 14848
+  },
+  "83047883785752c860d87d299f39f016eae9f781c0503f8a3e3e0f6de67b82b4": {
+    "mod_name": "SaveItemTweaks",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.0/SaveItemTweaks.dll",
+    "file_name": "SaveItemTweaks.dll",
+    "file_size": 14848
+  },
+  "22db4b5a87fd1aa823b61d2c861af5d9201bedf6edd3802288688dc45a480143": {
+    "mod_name": "SaveItemTweaks",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v1.0.1/SaveItemTweaks.dll",
+    "file_name": "SaveItemTweaks.dll",
+    "file_size": 14848
+  },
+  "f4f11529a3556613e1e6e7b16c1fa06bf33acda1ecb56882f871e75813de800f": {
+    "mod_name": "SaveItemTweaks",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v1.0.0/SaveItemTweaks.dll",
+    "file_name": "SaveItemTweaks.dll",
+    "file_size": 15360
   },
   "c8aa69e270c2388c1b74a0a80c0739424ad12c2fabf50cacba7d603c143075ac": {
     "mod_name": "SessionTweaks",
@@ -2778,12 +2568,12 @@
     "file_name": "SessionTweaks.dll",
     "file_size": 8192
   },
-  "ef73b9fe73532816908c85c6011fc6864d338929c0ec6bf04f776bd45b818aec": {
-    "mod_name": "Harmony",
-    "version": "v2.3.1.0",
-    "download_url": "https://github.com/pardeike/Harmony/releases/download/v2.3.1.0/Lib.Harmony.2.3.1.nupkg",
-    "file_name": "Lib.Harmony.2.3.1.nupkg",
-    "file_size": 10746054
+  "0cf13dd11fbc93021ce17b65a37172fd456f5475984728414fa0b639ba3d3116": {
+    "mod_name": "DisableGamepads",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/eai04191/ResoniteDisableGamepads/releases/download/v1.0.0/ResoniteDisableGamepads.dll",
+    "file_name": "ResoniteDisableGamepads.dll",
+    "file_size": 5120
   },
   "bb632928114e2318d883ceb2a5e2b20734434d2ac83600791b803cac2ec59131": {
     "mod_name": "HeadlessUserCulling",
@@ -2911,12 +2701,54 @@
     "file_name": "ResoniteIKCulling.dll",
     "file_size": 9728
   },
-  "18eb0a0df95832b85a1569450eab749654e83a080afb30fa94beacf89fe7febc": {
-    "mod_name": "Lognt",
+  "0c9f9177a3712762d7a9194609aadf0ad5988deb8c3705cbfdbd4406388b656a": {
+    "mod_name": "StresslessHeadless",
+    "version": "2.0.0",
+    "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll",
+    "file_name": "StresslessHeadless.dll",
+    "file_size": 23040
+  },
+  "b91f9fb2bec01ea535f991548be8098d1a70380270948b76106c0c625baca0fe": {
+    "mod_name": "StresslessHeadless",
+    "version": "2.0.0-rc1",
+    "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.0-rc1/StresslessHeadless.dll",
+    "file_name": "StresslessHeadless.dll",
+    "file_size": 23040
+  },
+  "b3e2ddca4c745422b9ea43bfd2414ed9a2c1c7a7e091434e4548f17cbc1f6166": {
+    "mod_name": "StresslessHeadless",
+    "version": "1.3.1",
+    "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll",
+    "file_name": "StresslessHeadless.dll",
+    "file_size": 38400
+  },
+  "75e196b6f5ac9ce1ad2b8d3a8d4a92f993f6eda80ed461c7588786736b0c370a": {
+    "mod_name": "StresslessHeadless",
+    "version": "1.3.0",
+    "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.3.0/StresslessHeadless.dll",
+    "file_name": "StresslessHeadless.dll",
+    "file_size": 38400
+  },
+  "3a42c7169335f3f1d02eb4b352977e0082ea8a458bcbe129bc3d12a182b3ec15": {
+    "mod_name": "StresslessHeadless",
+    "version": "1.2.0",
+    "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.2.0/StresslessHeadless.dll",
+    "file_name": "StresslessHeadless.dll",
+    "file_size": 30720
+  },
+  "5f8c97cd506af6c788df03fe2cde174a379febc0570fabca3434172a38b3988d": {
+    "mod_name": "StresslessHeadless",
+    "version": "1.1.0",
+    "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll",
+    "file_name": "StresslessHeadless.dll",
+    "file_size": 12800
+  },
+  "6c86e6364ed603216c4ab842b399b4446a2a1ec3f5017e699124e3706fbd94dc": {
+    "mod_name": "StresslessHeadless",
     "version": "1.0.0",
-    "download_url": "https://github.com/Raidriar796/Lognt/releases/download/1.0.0/Lognt-Net8.dll",
-    "file_name": "Lognt-Net8.dll",
-    "file_size": 6656
+    "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.0.0/StresslessHeadless.dll",
+    "file_name": "StresslessHeadless.dll",
+    "file_size": 9728
   },
   "2c00777f29f88e0b032239a55029944938592823523ec05cb8459f2d6bd742fe": {
     "mod_name": "yt-dlp Updater",
@@ -3050,20 +2882,6 @@
     "download_url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v1.0.0/EnumDropdown.dll",
     "file_name": "EnumDropdown.dll",
     "file_size": 17920
-  },
-  "e2e2117f3c30f8a9fa5e7be8fe459fcd521beb3212be0897d1481c0d8d68e7fe": {
-    "mod_name": "FixAltEnter",
-    "version": "v2.0.0",
-    "download_url": "https://github.com/badhaloninja/FixAltEnter/releases/download/v2.0.0/FixAltEnter.dll",
-    "file_name": "FixAltEnter.dll",
-    "file_size": 6144
-  },
-  "b9c7c09ab6b0778b44f67686bb6b1fb7f36ed4ccedf6e3326e4ad2e82b3c189c": {
-    "mod_name": "FixAltEnter",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/badhaloninja/FixAltEnter/releases/download/v1.0.0/FixAltEnter.dll",
-    "file_name": "FixAltEnter.dll",
-    "file_size": 6144
   },
   "2c75b78f7bef200ea2dfcd747d43868717f6ebfcd4742985fc2bf13ab753563a": {
     "mod_name": "FriendlyInventoryAvatars",
@@ -3240,55 +3058,6 @@
     "file_name": "Optizoom.dll",
     "file_size": 7168
   },
-  "9b29ccaa19ef61092d7aad280d5dc9c9985d5e41610234ca4f1cb1f677af40c7": {
-    "mod_name": "OrbCartridgeAutoScoop",
-    "version": "v2.0.1",
-    "download_url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v2.0.1/OrbCartridgeAutoScoop.dll",
-    "file_name": "OrbCartridgeAutoScoop.dll",
-    "file_size": 15360
-  },
-  "1ccbf7f1e2e2400872d6a80f0741c3275ada534813785dda40b1f371bb9477c4": {
-    "mod_name": "OrbCartridgeAutoScoop",
-    "version": "v2.0.0",
-    "download_url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v2.0.0/OrbCartridgeAutoScoop.dll",
-    "file_name": "OrbCartridgeAutoScoop.dll",
-    "file_size": 14848
-  },
-  "7b1ebd2fb305e3171c0499a2034c3af44b22cb1df58fe0b63d5051becfd8a280": {
-    "mod_name": "OrbCartridgeAutoScoop",
-    "version": "v1.2.1",
-    "download_url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v1.2.1/MaterialTipAutoScoop.dll",
-    "file_name": "MaterialTipAutoScoop.dll",
-    "file_size": 12288
-  },
-  "29c85787a2a3e6ab40d9f71b89103f7c5437b2e1aad9571c88ec3c5c6abc8918": {
-    "mod_name": "OrbCartridgeAutoScoop",
-    "version": "v1.2.0",
-    "download_url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v1.2.0/MaterialTipAutoScoop.dll",
-    "file_name": "MaterialTipAutoScoop.dll",
-    "file_size": 11776
-  },
-  "f604b91d63d2f3d14419d772a74697ba2ddcc0a846709e201dff55b8147f08ce": {
-    "mod_name": "OrbCartridgeAutoScoop",
-    "version": "v1.1.0",
-    "download_url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v1.1.0/MaterialTipAutoScoop.dll",
-    "file_name": "MaterialTipAutoScoop.dll",
-    "file_size": 10240
-  },
-  "d75dd288d04340f4c22d65ac2ada51def260d5c258ffb8ba6ec402a16a3cdbbf": {
-    "mod_name": "OrbCartridgeAutoScoop",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v1.0.0/MaterialTipAutoScoop.dll",
-    "file_name": "MaterialTipAutoScoop.dll",
-    "file_size": 9216
-  },
-  "66c4a711daeeb4d1ed1f62e7e982fc46e78fdafa15e76e0bb82fa48c9b062a28": {
-    "mod_name": "ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod/releases/download/v1.0.0/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod.dll",
-    "file_name": "ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod.dll",
-    "file_size": 9216
-  },
   "689ed767913005c713ae2792cf129994adfdf52158d3c2d04562c293e60f1064": {
     "mod_name": "VDFaceTracking",
     "version": "1.1.1",
@@ -3386,6 +3155,48 @@
     "download_url": "https://github.com/Nytra/ResoniteComponentMemberReplicator/releases/download/v1.0.0/ComponentMemberReplicator.dll",
     "file_name": "ComponentMemberReplicator.dll",
     "file_size": 36352
+  },
+  "0dfaf67a825eab9ba98a76f8ba6deba2a91a3ec93c30393b78ceb335a66f0e63": {
+    "mod_name": "ComponentSearchWizard",
+    "version": "v1.1.4",
+    "download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.4/ComponentSearchWizard.dll",
+    "file_name": "ComponentSearchWizard.dll",
+    "file_size": 14848
+  },
+  "19c156975490ddce08c146649e610c259f57da7eb27cb99a9bf2bc6c0e7745b3": {
+    "mod_name": "ComponentSearchWizard",
+    "version": "v1.1.3",
+    "download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.3/ComponentSearchWizard.dll",
+    "file_name": "ComponentSearchWizard.dll",
+    "file_size": 14848
+  },
+  "0831436b2a4110957253694004caca592bf1a08525b5a9b735a719daa7798b2b": {
+    "mod_name": "ComponentSearchWizard",
+    "version": "v1.1.2",
+    "download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.2/ComponentSearchWizard.dll",
+    "file_name": "ComponentSearchWizard.dll",
+    "file_size": 14848
+  },
+  "b3235d2f936152cf20757ea9cc968d5ad2b5d6932908137ae900e70c6523f591": {
+    "mod_name": "ComponentSearchWizard",
+    "version": "v1.1.1",
+    "download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.1/ComponentSearchWizard.dll",
+    "file_name": "ComponentSearchWizard.dll",
+    "file_size": 14848
+  },
+  "ab12c58541abc87e8541f00955d0297feaa668454a69d39330dfcafc22338333": {
+    "mod_name": "ComponentSearchWizard",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.1.0/ComponentSearchWizard.dll",
+    "file_name": "ComponentSearchWizard.dll",
+    "file_size": 14848
+  },
+  "733d3f9df078eefad130e33c9e8f4c5078b91cfc5e07429e58bdf6086c6cade3": {
+    "mod_name": "ComponentSearchWizard",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Nytra/ResoniteComponentSearchWizard/releases/download/v1.0.0/ComponentSearchWizard.dll",
+    "file_name": "ComponentSearchWizard.dll",
+    "file_size": 14848
   },
   "d00605ec3083d53a0dfb37aa8148c0ebb598cb853e12b55571bcf19529de7145": {
     "mod_name": "FixSessionBrowser",
@@ -3547,6 +3358,27 @@
     "download_url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.0.0/LeftHandedProtoFlux.dll",
     "file_name": "LeftHandedProtoFlux.dll",
     "file_size": 9216
+  },
+  "2d1f074d8c02b26335ebcf5b348b27e03d59dc7dedaa968db69344b8069eb474": {
+    "mod_name": "LogFlush",
+    "version": "v1.1.1",
+    "download_url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.1.1/LogFlush.dll",
+    "file_name": "LogFlush.dll",
+    "file_size": 5120
+  },
+  "4fb820f1d28b1f1b329519e51ed4be5438655d1cc05bcdd655e75607fc46ba79": {
+    "mod_name": "LogFlush",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.1.0/LogFlush.dll",
+    "file_name": "LogFlush.dll",
+    "file_size": 5120
+  },
+  "58be3cbf95536c92bfbe4c653ec82a7aa2ae76b3744f064b0c822b5470497caa": {
+    "mod_name": "LogFlush",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.0.0/LogFlush.dll",
+    "file_name": "LogFlush.dll",
+    "file_size": 5120
   },
   "04cfe11bd0415f4fa62f00f39987b2b7667935995823ccede10f534238deb51d": {
     "mod_name": "NoTankControls-InspectorScrollCompatible",
