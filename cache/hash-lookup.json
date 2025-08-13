@@ -1651,20 +1651,6 @@
     "file_name": "ExtrasButtonTweaks.dll",
     "file_size": 12800
   },
-  "8822eb2ca3c0995deef692b92292a67485c27dd664bfd913bb83ba936504ff5d": {
-    "mod_name": "FixGrabWorld",
-    "version": "2.0.0",
-    "download_url": "https://github.com/art0007i/FixGrabWorld/releases/download/2.0.0/FixGrabWorld.dll",
-    "file_name": "FixGrabWorld.dll",
-    "file_size": 7168
-  },
-  "f877184063cf94407ec099e2bfad67353cfc9962e0313665150ff9da995995f2": {
-    "mod_name": "FixGrabWorld",
-    "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/FixGrabWorld/releases/download/1.0.0/FixGrabWorld.dll",
-    "file_name": "FixGrabWorld.dll",
-    "file_size": 7168
-  },
   "a5af5714384e935f68163b53e9154aedf9ecbfd41579dfd5bd5ca4b137f0e881": {
     "mod_name": "FixMigratedItemMessages",
     "version": "1.0.0",
@@ -1741,34 +1727,6 @@
     "download_url": "https://github.com/art0007i/InspectorScroll/releases/download/1.0.0.0/InspectorScroll.dll",
     "file_name": "InspectorScroll.dll",
     "file_size": 6144
-  },
-  "fbefcaf3d3b8735f34fcfffa0caf15ae529e3ee5f56eb89e9ff0118ca85618b6": {
-    "mod_name": "JustBoundedUIX",
-    "version": "2.0.1",
-    "download_url": "https://github.com/art0007i/JustBoundedUIX/releases/download/2.0.1/JustBoundedUIX.dll",
-    "file_name": "JustBoundedUIX.dll",
-    "file_size": 14848
-  },
-  "a2e4326bffc6342aa7f5c19712fc453782c2752c87e9bded2660a06c70a4bb92": {
-    "mod_name": "JustBoundedUIX",
-    "version": "2.0.0",
-    "download_url": "https://github.com/art0007i/JustBoundedUIX/releases/download/2.0.0/JustBoundedUIX.dll",
-    "file_name": "JustBoundedUIX.dll",
-    "file_size": 14848
-  },
-  "f088f3dd6cd60cd7682a6484811b3083257714bc134e5ac236ef501fd859b50c": {
-    "mod_name": "JustBoundedUIX",
-    "version": "1.0.1",
-    "download_url": "https://github.com/art0007i/JustBoundedUIX/releases/download/1.0.1/JustBoundedUIX.dll",
-    "file_name": "JustBoundedUIX.dll",
-    "file_size": 14336
-  },
-  "0962aebfd609b3a1d6de69e1ecf5afd739a0f683f23380691ebaaa86e8779576": {
-    "mod_name": "JustBoundedUIX",
-    "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/JustBoundedUIX/releases/download/1.0.0/JustBoundedUIX.dll",
-    "file_name": "JustBoundedUIX.dll",
-    "file_size": 14848
   },
   "d2798798f6cd185fbb782648190373b4b3ea986e06cf4ecbd67a8e19f808f41b": {
     "mod_name": "KeyRepeatAdjust",
@@ -2736,6 +2694,13 @@
     "file_name": "ResoniteFish.dll",
     "file_size": 6656
   },
+  "224a4690f4e204fd3f24dd4e5281fd9eea71fb408dd52834d0eb35b0e6719fe0": {
+    "mod_name": "ImNotAsking",
+    "version": "1.0.0",
+    "download_url": "https://github.com/XDelta/ImNotAsking/releases/download/1.0.0/ImNotAsking.dll",
+    "file_name": "ImNotAsking.dll",
+    "file_size": 7680
+  },
   "06266d513836e77d285057fef4495e39107b08e4ec122bea068d16a7a5a7f8c0": {
     "mod_name": "LogAutoFlush",
     "version": "1.0.0",
@@ -3288,6 +3253,13 @@
     "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/v1.0.0/SessionTweaks.dll",
     "file_name": "SessionTweaks.dll",
     "file_size": 8192
+  },
+  "0cf13dd11fbc93021ce17b65a37172fd456f5475984728414fa0b639ba3d3116": {
+    "mod_name": "DisableGamepads",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/eai04191/ResoniteDisableGamepads/releases/download/v1.0.0/ResoniteDisableGamepads.dll",
+    "file_name": "ResoniteDisableGamepads.dll",
+    "file_size": 5120
   },
   "ef73b9fe73532816908c85c6011fc6864d338929c0ec6bf04f776bd45b818aec": {
     "mod_name": "Harmony",
