@@ -1651,6 +1651,20 @@
     "file_name": "ExtrasButtonTweaks.dll",
     "file_size": 12800
   },
+  "8822eb2ca3c0995deef692b92292a67485c27dd664bfd913bb83ba936504ff5d": {
+    "mod_name": "FixGrabWorld",
+    "version": "2.0.0",
+    "download_url": "https://github.com/art0007i/FixGrabWorld/releases/download/2.0.0/FixGrabWorld.dll",
+    "file_name": "FixGrabWorld.dll",
+    "file_size": 7168
+  },
+  "f877184063cf94407ec099e2bfad67353cfc9962e0313665150ff9da995995f2": {
+    "mod_name": "FixGrabWorld",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/FixGrabWorld/releases/download/1.0.0/FixGrabWorld.dll",
+    "file_name": "FixGrabWorld.dll",
+    "file_size": 7168
+  },
   "a5af5714384e935f68163b53e9154aedf9ecbfd41579dfd5bd5ca4b137f0e881": {
     "mod_name": "FixMigratedItemMessages",
     "version": "1.0.0",
@@ -1727,6 +1741,34 @@
     "download_url": "https://github.com/art0007i/InspectorScroll/releases/download/1.0.0.0/InspectorScroll.dll",
     "file_name": "InspectorScroll.dll",
     "file_size": 6144
+  },
+  "fbefcaf3d3b8735f34fcfffa0caf15ae529e3ee5f56eb89e9ff0118ca85618b6": {
+    "mod_name": "JustBoundedUIX",
+    "version": "2.0.1",
+    "download_url": "https://github.com/art0007i/JustBoundedUIX/releases/download/2.0.1/JustBoundedUIX.dll",
+    "file_name": "JustBoundedUIX.dll",
+    "file_size": 14848
+  },
+  "a2e4326bffc6342aa7f5c19712fc453782c2752c87e9bded2660a06c70a4bb92": {
+    "mod_name": "JustBoundedUIX",
+    "version": "2.0.0",
+    "download_url": "https://github.com/art0007i/JustBoundedUIX/releases/download/2.0.0/JustBoundedUIX.dll",
+    "file_name": "JustBoundedUIX.dll",
+    "file_size": 14848
+  },
+  "f088f3dd6cd60cd7682a6484811b3083257714bc134e5ac236ef501fd859b50c": {
+    "mod_name": "JustBoundedUIX",
+    "version": "1.0.1",
+    "download_url": "https://github.com/art0007i/JustBoundedUIX/releases/download/1.0.1/JustBoundedUIX.dll",
+    "file_name": "JustBoundedUIX.dll",
+    "file_size": 14336
+  },
+  "0962aebfd609b3a1d6de69e1ecf5afd739a0f683f23380691ebaaa86e8779576": {
+    "mod_name": "JustBoundedUIX",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/JustBoundedUIX/releases/download/1.0.0/JustBoundedUIX.dll",
+    "file_name": "JustBoundedUIX.dll",
+    "file_size": 14848
   },
   "d2798798f6cd185fbb782648190373b4b3ea986e06cf4ecbd67a8e19f808f41b": {
     "mod_name": "KeyRepeatAdjust",
