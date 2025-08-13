@@ -2736,13 +2736,6 @@
     "file_name": "ResoniteFish.dll",
     "file_size": 6656
   },
-  "224a4690f4e204fd3f24dd4e5281fd9eea71fb408dd52834d0eb35b0e6719fe0": {
-    "mod_name": "ImNotAsking",
-    "version": "1.0.0",
-    "download_url": "https://github.com/XDelta/ImNotAsking/releases/download/1.0.0/ImNotAsking.dll",
-    "file_name": "ImNotAsking.dll",
-    "file_size": 7680
-  },
   "06266d513836e77d285057fef4495e39107b08e4ec122bea068d16a7a5a7f8c0": {
     "mod_name": "LogAutoFlush",
     "version": "1.0.0",
@@ -3295,13 +3288,6 @@
     "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/v1.0.0/SessionTweaks.dll",
     "file_name": "SessionTweaks.dll",
     "file_size": 8192
-  },
-  "0cf13dd11fbc93021ce17b65a37172fd456f5475984728414fa0b639ba3d3116": {
-    "mod_name": "DisableGamepads",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/eai04191/ResoniteDisableGamepads/releases/download/v1.0.0/ResoniteDisableGamepads.dll",
-    "file_name": "ResoniteDisableGamepads.dll",
-    "file_size": 5120
   },
   "ef73b9fe73532816908c85c6011fc6864d338929c0ec6bf04f776bd45b818aec": {
     "mod_name": "Harmony",
