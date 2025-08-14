@@ -2393,6 +2393,83 @@
     "file_name": "ValueProxyExtensions.dll",
     "file_size": 25088
   },
+  "d47fefb81bebbe120c93d5f7cdc6a7a9006bc8ffbab08b5d125c86eb6b298dc2": {
+    "mod_name": "CherryPick",
+    "version": "1.1.2",
+    "download_url": "https://github.com/BlueCyro/CherryPick/releases/download/1.1.2/CherryPick.dll",
+    "file_name": "CherryPick.dll",
+    "file_size": 22016
+  },
+  "5c82c0a8702d210067df68864ce8d06797c28d69e506ed3bc9b5ffe8f6ca9719": {
+    "mod_name": "CherryPick",
+    "version": "1.1.1",
+    "download_url": "https://github.com/BlueCyro/CherryPick/releases/download/1.1.1/CherryPick.dll",
+    "file_name": "CherryPick.dll",
+    "file_size": 21504
+  },
+  "dd58c2a43545b93799f25de3d086b5a39ebb2929c41e6ab9e6bcb3bf7e5f1f94": {
+    "mod_name": "CherryPick",
+    "version": "1.1.0",
+    "download_url": "https://github.com/BlueCyro/CherryPick/releases/download/1.1.0/CherryPick.dll",
+    "file_name": "CherryPick.dll",
+    "file_size": 20992
+  },
+  "9d5799a0561e0f24ae11cf7cf021fae6515537b93641a8ee0b90782c0fa73588": {
+    "mod_name": "CherryPick",
+    "version": "1.0.7",
+    "download_url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.7/CherryPick.dll",
+    "file_name": "CherryPick.dll",
+    "file_size": 23552
+  },
+  "6ccdf4ef20ad0327ba528ec2d2efdd9118de966d3904e253a76d0ec67e02e5d8": {
+    "mod_name": "CherryPick",
+    "version": "1.0.6",
+    "download_url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.6/CherryPick.dll",
+    "file_name": "CherryPick.dll",
+    "file_size": 23552
+  },
+  "c5929adec016a4a8b67d4bd75453f652e2ab0c13b038cdd00807bd239fa22394": {
+    "mod_name": "CherryPick",
+    "version": "1.0.5",
+    "download_url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.5/CherryPick.dll",
+    "file_name": "CherryPick.dll",
+    "file_size": 22016
+  },
+  "33f1aa95626e180a7d1cc100a020c37ab133c10765f31d690f6b4f9c386d4732": {
+    "mod_name": "CherryPick",
+    "version": "1.0.4",
+    "download_url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.4/CherryPick.dll",
+    "file_name": "CherryPick.dll",
+    "file_size": 21504
+  },
+  "e7474977124cf497da307e0da106453cde649d8820d8138888f66b2d561ff350": {
+    "mod_name": "CherryPick",
+    "version": "1.0.3",
+    "download_url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.3/CherryPick.dll",
+    "file_name": "CherryPick.dll",
+    "file_size": 19968
+  },
+  "3cdd638c000057428dcf47e5d62a19eddaa45f069cef0464bda70132ae9dbd83": {
+    "mod_name": "CherryPick",
+    "version": "1.0.2",
+    "download_url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.2/CherryPick.dll",
+    "file_name": "CherryPick.dll",
+    "file_size": 19968
+  },
+  "c74c645cb063592be3b1d5906eeaa0af9f726aec7c24c675a1b807639468363f": {
+    "mod_name": "CherryPick",
+    "version": "1.0.1",
+    "download_url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.1/CherryPick.dll",
+    "file_name": "CherryPick.dll",
+    "file_size": 19968
+  },
+  "d9a2c82eb4aa0045fa1cafc4b43638021951adb0fe081736b175dfd2a4ab145a": {
+    "mod_name": "CherryPick",
+    "version": "1.0.0",
+    "download_url": "https://github.com/BlueCyro/CherryPick/releases/download/1.0.0/CherryPick.dll",
+    "file_name": "CherryPick.dll",
+    "file_size": 18432
+  },
   "a5ea72df14ca79564c542e007dff93494b0fd4458fa05a349d0bf99bbfacc506": {
     "mod_name": "EffortlessEfficiency",
     "version": "1.0.0",
