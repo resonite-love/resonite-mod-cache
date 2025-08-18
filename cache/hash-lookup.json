@@ -1259,6 +1259,13 @@
     "file_name": "PrivacyShield.dll",
     "file_size": 11776
   },
+  "6fbea5a71994fe75cfd3aa34ec57a172fd9cbb5a873f1dfa2b398807f9db4cef": {
+    "mod_name": "VRCFTReceiver",
+    "version": "v2.0.0-rc.2",
+    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v2.0.0-rc.2/MeaMod.DNS.dll",
+    "file_name": "MeaMod.DNS.dll",
+    "file_size": 127200
+  },
   "61b25544a12c182291155f46fd65351facf6828171fb14031bb5102621c0a697": {
     "mod_name": "VRCFTReceiver",
     "version": "v2.0.0-rc.1",
