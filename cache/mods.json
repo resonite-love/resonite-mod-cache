@@ -37,7 +37,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:46:08.476Z",
+    "last_updated": "2025-08-19T14:16:44.818Z",
     "source": "manifest"
   },
   {
@@ -64,7 +64,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:09.721Z",
+    "last_updated": "2025-08-19T14:16:45.592Z",
     "source": "manifest"
   },
   {
@@ -91,7 +91,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:10.517Z",
+    "last_updated": "2025-08-19T14:16:46.395Z",
     "source": "manifest"
   },
   {
@@ -118,7 +118,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:11.355Z",
+    "last_updated": "2025-08-19T14:16:47.348Z",
     "source": "manifest"
   },
   {
@@ -145,7 +145,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:12.592Z",
+    "last_updated": "2025-08-19T14:16:48.156Z",
     "source": "manifest"
   },
   {
@@ -700,7 +700,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:13.625Z",
+    "last_updated": "2025-08-19T14:16:49.521Z",
     "source": "manifest"
   },
   {
@@ -741,7 +741,7 @@
       "list"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T13:46:14.404Z",
+    "last_updated": "2025-08-19T14:16:50.317Z",
     "source": "manifest"
   },
   {
@@ -780,7 +780,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:15.240Z",
+    "last_updated": "2025-08-19T14:16:51.175Z",
     "source": "manifest"
   },
   {
@@ -789,37 +789,12 @@
     "category": "Optimization",
     "source_location": "https://github.com/isovel/DynBoneWrangler",
     "author": "isotach",
-    "latest_version": "v1.0.1",
-    "latest_download_url": "https://github.com/isovel/DynBoneWrangler/releases/download/v1.0.1/DynBoneWrangler.dll",
-    "releases": [
-      {
-        "version": "v1.0.1",
-        "download_url": "https://github.com/isovel/DynBoneWrangler/releases/download/v1.0.1/DynBoneWrangler.dll",
-        "release_url": "https://github.com/isovel/DynBoneWrangler/releases/tag/v1.0.1",
-        "published_at": "2023-11-10T21:51:15Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## What's Changed\r\n- Updated the property used for accessing the local user's FPS (for compatibility with the PrivacyShield mod).\r\n  - Thanks @CyanTabby for the [pull request](#1)!",
-        "file_name": "DynBoneWrangler.dll",
-        "file_size": 6656,
-        "sha256": "66e3df17d17d59ccae878950a9b0ddda7aac072737e5dc7628813c2868ec7385"
-      },
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/isovel/DynBoneWrangler/releases/download/v1.0.0/DynBoneWrangler.dll",
-        "release_url": "https://github.com/isovel/DynBoneWrangler/releases/tag/v1.0.0",
-        "published_at": "2023-11-04T00:12:13Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# Initial Release",
-        "file_name": "DynBoneWrangler.dll",
-        "file_size": 6656,
-        "sha256": "7f11cf10b000ee91efe9a9992687b40e2d591286c055d9a4935aade2fc1b32a0"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:15.988Z",
+    "last_updated": "2025-08-19T14:16:52.536Z",
     "source": "manifest"
   },
   {
@@ -828,37 +803,12 @@
     "category": "Misc",
     "source_location": "https://github.com/isovel/ResonitePlatformSpoof",
     "author": "isotach",
-    "latest_version": "v2.0.1",
-    "latest_download_url": "https://github.com/isovel/ResonitePlatformSpoof/releases/download/v2.0.1/ResonitePlatformSpoof.dll",
-    "releases": [
-      {
-        "version": "v2.0.1",
-        "download_url": "https://github.com/isovel/ResonitePlatformSpoof/releases/download/v2.0.1/ResonitePlatformSpoof.dll",
-        "release_url": "https://github.com/isovel/ResonitePlatformSpoof/releases/tag/v2.0.1",
-        "published_at": "2024-02-12T07:24:56Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## What's Changed\r\n* Update harmony patch for new function arguments by @headassbtw in https://github.com/isovel/ResonitePlatformSpoof/pull/1\r\n\r\n## New Contributors\r\n* @headassbtw made their first contribution in https://github.com/isovel/ResonitePlatformSpoof/pull/1\r\n\r\n**Full Changelog**: https://github.com/isovel/ResonitePlatformSpoof/compare/v2.0.0...v2.0.1",
-        "file_name": "ResonitePlatformSpoof.dll",
-        "file_size": 7680,
-        "sha256": "082d9872ac50f915b8d06820af9b5e7d44d8941d6d2feb023818ee2c34376cf3"
-      },
-      {
-        "version": "v2.0.0",
-        "download_url": "https://github.com/isovel/ResonitePlatformSpoof/releases/download/v2.0.0/ResonitePlatformSpoof.dll",
-        "release_url": "https://github.com/isovel/ResonitePlatformSpoof/releases/tag/v2.0.0",
-        "published_at": "2023-11-06T01:38:07Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Port to Resonite",
-        "file_name": "ResonitePlatformSpoof.dll",
-        "file_size": 7680,
-        "sha256": "842299ddc43c196e611c6e83eea8678cf322924e1709d38511d66dbcfed2f443"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:16.885Z",
+    "last_updated": "2025-08-19T14:16:53.245Z",
     "source": "manifest"
   },
   {
@@ -867,37 +817,12 @@
     "category": "Misc",
     "source_location": "https://github.com/AlexW-578/CloseConfirm",
     "author": "AlexW-578",
-    "latest_version": "v1.1.0",
-    "latest_download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.1.0/CloseConfirm.dll",
-    "releases": [
-      {
-        "version": "v1.1.0",
-        "download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.1.0/CloseConfirm.dll",
-        "release_url": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.1.0",
-        "published_at": "2024-06-17T06:57:37Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Mod now fully supports [Resonite](https://resonite.com/)\r\n\r\n**ALL VERSIONS PREVIOUS TO THIS ARE FOR NeosVR**\r\n\r\nFile SHA256: C188D02C48303254066CBCC9D34737EF9FB646D7599ED73F2679BA437D3F1ABD\r\n\r\n## What's Changed\r\n* Update Mod to Resonite by @AlexW-578 in https://github.com/AlexW-578/CloseConfirm/pull/2\r\n   * Resolves #1\r\n\r\n**Full Changelog**: https://github.com/AlexW-578/CloseConfirm/compare/v1.0.0...v1.1.0",
-        "file_name": "CloseConfirm.dll",
-        "file_size": 8192,
-        "sha256": "c188d02c48303254066cbcc9d34737ef9fb646d7599ed73f2679ba437d3f1abd"
-      },
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.0.0/CloseConfirm.dll",
-        "release_url": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.0.0",
-        "published_at": "2023-08-12T18:54:19Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Initial Release\r\n\r\nSHA256: 498C38BDD9A81A34B95B1DECA9A24042CAAD0BB5E2D74249EB8EBE558DBFFDBB",
-        "file_name": "CloseConfirm.dll",
-        "file_size": 8192,
-        "sha256": "498c38bdd9a81a34b95b1deca9a24042caad0bb5e2d74249eb8ebe558dbffdbb"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:17.663Z",
+    "last_updated": "2025-08-19T14:16:54.322Z",
     "source": "manifest"
   },
   {
@@ -936,7 +861,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:18.497Z",
+    "last_updated": "2025-08-19T14:16:55.539Z",
     "source": "manifest"
   },
   {
@@ -1047,7 +972,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:19.306Z",
+    "last_updated": "2025-08-19T14:16:56.370Z",
     "source": "manifest"
   },
   {
@@ -1146,7 +1071,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:20.263Z",
+    "last_updated": "2025-08-19T14:16:57.285Z",
     "source": "manifest"
   },
   {
@@ -1185,7 +1110,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:21.108Z",
+    "last_updated": "2025-08-19T14:16:58.048Z",
     "source": "manifest"
   },
   {
@@ -1224,7 +1149,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:21.907Z",
+    "last_updated": "2025-08-19T14:16:58.840Z",
     "source": "manifest"
   },
   {
@@ -1373,7 +1298,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:46:22.754Z",
+    "last_updated": "2025-08-19T14:17:00.086Z",
     "source": "manifest"
   },
   {
@@ -1424,7 +1349,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:23.598Z",
+    "last_updated": "2025-08-19T14:17:00.859Z",
     "source": "manifest"
   },
   {
@@ -1451,7 +1376,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:24.425Z",
+    "last_updated": "2025-08-19T14:17:02.147Z",
     "source": "manifest"
   },
   {
@@ -1490,7 +1415,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:25.250Z",
+    "last_updated": "2025-08-19T14:17:02.921Z",
     "source": "manifest"
   },
   {
@@ -1553,7 +1478,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:26.153Z",
+    "last_updated": "2025-08-19T14:17:03.783Z",
     "source": "manifest"
   },
   {
@@ -1592,7 +1517,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:26.906Z",
+    "last_updated": "2025-08-19T14:17:04.577Z",
     "source": "manifest"
   },
   {
@@ -1691,7 +1616,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:27.863Z",
+    "last_updated": "2025-08-19T14:17:05.398Z",
     "source": "manifest"
   },
   {
@@ -1730,7 +1655,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:29.344Z",
+    "last_updated": "2025-08-19T14:17:06.641Z",
     "source": "manifest"
   },
   {
@@ -1781,7 +1706,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:30.190Z",
+    "last_updated": "2025-08-19T14:17:07.407Z",
     "source": "manifest"
   },
   {
@@ -1795,7 +1720,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:31.375Z",
+    "last_updated": "2025-08-19T14:17:08.131Z",
     "source": "manifest"
   },
   {
@@ -1920,7 +1845,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:46:32.235Z",
+    "last_updated": "2025-08-19T14:17:09.392Z",
     "source": "manifest"
   },
   {
@@ -1971,7 +1896,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:33.052Z",
+    "last_updated": "2025-08-19T14:17:10.577Z",
     "source": "manifest"
   },
   {
@@ -2062,7 +1987,7 @@
       "SystemHelper"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T13:46:33.897Z",
+    "last_updated": "2025-08-19T14:17:11.418Z",
     "source": "manifest"
   },
   {
@@ -2214,7 +2139,7 @@
       "diagnostic"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T13:46:34.731Z",
+    "last_updated": "2025-08-19T14:17:12.715Z",
     "source": "manifest"
   },
   {
@@ -2303,7 +2228,7 @@
     "flags": [
       "plugin"
     ],
-    "last_updated": "2025-08-19T13:46:35.575Z",
+    "last_updated": "2025-08-19T14:17:13.577Z",
     "source": "manifest"
   },
   {
@@ -2330,7 +2255,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:36.413Z",
+    "last_updated": "2025-08-19T14:17:14.405Z",
     "source": "manifest"
   },
   {
@@ -2513,7 +2438,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:37.250Z",
+    "last_updated": "2025-08-19T14:17:15.281Z",
     "source": "manifest"
   },
   {
@@ -2564,7 +2489,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:38.100Z",
+    "last_updated": "2025-08-19T14:17:16.071Z",
     "source": "manifest"
   },
   {
@@ -2723,7 +2648,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:38.863Z",
+    "last_updated": "2025-08-19T14:17:16.887Z",
     "source": "manifest"
   },
   {
@@ -2737,7 +2662,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:39.816Z",
+    "last_updated": "2025-08-19T14:17:17.915Z",
     "source": "manifest"
   },
   {
@@ -2751,7 +2676,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:40.776Z",
+    "last_updated": "2025-08-19T14:17:18.901Z",
     "source": "manifest"
   },
   {
@@ -2765,7 +2690,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:41.660Z",
+    "last_updated": "2025-08-19T14:17:19.854Z",
     "source": "manifest"
   },
   {
@@ -2832,7 +2757,7 @@
       "network"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T13:46:42.881Z",
+    "last_updated": "2025-08-19T14:17:20.674Z",
     "source": "manifest"
   },
   {
@@ -2936,7 +2861,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T13:46:43.688Z",
+    "last_updated": "2025-08-19T14:17:21.546Z",
     "source": "manifest"
   },
   {
@@ -2950,7 +2875,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:44.441Z",
+    "last_updated": "2025-08-19T14:17:22.649Z",
     "source": "manifest"
   },
   {
@@ -2989,7 +2914,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:45.284Z",
+    "last_updated": "2025-08-19T14:17:23.429Z",
     "source": "manifest"
   },
   {
@@ -3040,7 +2965,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:46.215Z",
+    "last_updated": "2025-08-19T14:17:24.214Z",
     "source": "manifest"
   },
   {
@@ -3054,7 +2979,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:46.215Z",
+    "last_updated": "2025-08-19T14:17:24.214Z",
     "source": "manifest"
   },
   {
@@ -3081,7 +3006,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:47.524Z",
+    "last_updated": "2025-08-19T14:17:25.043Z",
     "source": "manifest"
   },
   {
@@ -3132,7 +3057,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:48.301Z",
+    "last_updated": "2025-08-19T14:17:25.883Z",
     "source": "manifest"
   },
   {
@@ -3141,85 +3066,12 @@
     "category": "Inspectors",
     "source_location": "https://github.com/art0007i/ColorDrop",
     "author": "art0007i",
-    "latest_version": "2.1.1",
-    "latest_download_url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.1/ColorDrop.dll",
-    "releases": [
-      {
-        "version": "2.1.1",
-        "download_url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.1/ColorDrop.dll",
-        "release_url": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.1",
-        "published_at": "2024-04-16T00:24:59Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# There's nothing new in this version\r\nThis is just a rebuild against Resonite Beta 2024.4.15.1407 for compatibility",
-        "file_name": "ColorDrop.dll",
-        "file_size": 9728,
-        "sha256": "340dca1405464ca8d6b5b0a6ea00ffbf3ea64531905d854db7e4b8d2fa6d0837"
-      },
-      {
-        "version": "2.1.0",
-        "download_url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.0/ColorDrop.dll",
-        "release_url": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.0",
-        "published_at": "2023-09-29T18:01:00Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "fix the color input flux nodes being broken",
-        "file_name": "ColorDrop.dll",
-        "file_size": 9728,
-        "sha256": "d4f0e4b7ded4056fbee7ab94819bbd8a2a5ea2e60eb6680817f5476cced6688d"
-      },
-      {
-        "version": "2.0.0",
-        "download_url": "https://github.com/art0007i/ColorDrop/releases/download/2.0.0/ColorDrop.dll",
-        "release_url": "https://github.com/art0007i/ColorDrop/releases/tag/2.0.0",
-        "published_at": "2023-09-27T21:46:36Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "The first release of this mod that is compatible with [Resonite](https://resonite.com).\r\n\r\n- ⚠ Any release prior to 2.0.0 is for [NeosVR](https://neos.com).",
-        "file_name": "ColorDrop.dll",
-        "file_size": 9216,
-        "sha256": "3a66b5db1d7c9e3f4f8ff3d6aaa76fb2eba8622b757ffde89cc6c4f1a1e6fb7a"
-      },
-      {
-        "version": "1.2.0",
-        "download_url": "https://github.com/art0007i/ColorDrop/releases/download/1.2.0/ColorDrop.dll",
-        "release_url": "https://github.com/art0007i/ColorDrop/releases/tag/1.2.0",
-        "published_at": "2022-12-14T18:35:39Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "ColorDrop.dll",
-        "file_size": 9216,
-        "sha256": "73632fb5d3af39530400ed044ee32fe84456c73f1d8e31f91a235ff6fb5bd0f9"
-      },
-      {
-        "version": "1.1.0.0",
-        "download_url": "https://github.com/art0007i/ColorDrop/releases/download/1.1.0.0/ColorDrop.dll",
-        "release_url": "https://github.com/art0007i/ColorDrop/releases/tag/1.1.0.0",
-        "published_at": "2022-03-03T22:33:25Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "ColorDrop.dll",
-        "file_size": 8704,
-        "sha256": "b473fb02e00925a23fabb8e04d8f11ceddc5583e613625011c2ec98e858793ec"
-      },
-      {
-        "version": "1.0.0.0",
-        "download_url": "https://github.com/art0007i/ColorDrop/releases/download/1.0.0.0/ColorDrop.dll",
-        "release_url": "https://github.com/art0007i/ColorDrop/releases/tag/1.0.0.0",
-        "published_at": "2021-09-11T01:56:16Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "ColorDrop.dll",
-        "file_size": 8704,
-        "sha256": "a1dfc108d1c0286c599e3fad243a73d6a484579cea718a74d532edce70ee966e"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:49.132Z",
+    "last_updated": "2025-08-19T14:17:27.259Z",
     "source": "manifest"
   },
   {
@@ -3246,7 +3098,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:50.005Z",
+    "last_updated": "2025-08-19T14:17:28.049Z",
     "source": "manifest"
   },
   {
@@ -3297,7 +3149,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:50.804Z",
+    "last_updated": "2025-08-19T14:17:28.831Z",
     "source": "manifest"
   },
   {
@@ -3306,12 +3158,121 @@
     "category": "Inspectors",
     "source_location": "https://github.com/art0007i/CustomInspectors",
     "author": "art0007i",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "2.1.5",
+    "latest_download_url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.5/CustomInspectors.dll",
+    "releases": [
+      {
+        "version": "2.1.5",
+        "download_url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.5/CustomInspectors.dll",
+        "release_url": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.5",
+        "published_at": "2025-04-03T23:32:21Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "fix for latest version\r\n\r\n> [!NOTE]  \r\n> This mod requires [SpecialItemsLib](https://github.com/art0007i/SpecialItemsLib) to work",
+        "file_name": "CustomInspectors.dll",
+        "file_size": 12288,
+        "sha256": "7955c4000384691d85b99d0b97048808f180b79d3765679c6155feb1ad8a5d4e"
+      },
+      {
+        "version": "2.1.4",
+        "download_url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.4/CustomInspectors.dll",
+        "release_url": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.4",
+        "published_at": "2024-07-21T14:09:56Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "fix for latest version\r\n\r\n> [!NOTE]  \r\n> This mod requires [SpecialItemsLib](https://github.com/art0007i/SpecialItemsLib) to work",
+        "file_name": "CustomInspectors.dll",
+        "file_size": 11776,
+        "sha256": "caceeab994bfec8aa7009c3c29deccf63763a25fbf3816588f51565fc2c32307"
+      },
+      {
+        "version": "2.1.3",
+        "download_url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.3/CustomInspectors.dll",
+        "release_url": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.3",
+        "published_at": "2024-07-14T16:04:13Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "fix for inspectors saved after type management update.\r\n\r\n> [!NOTE]  \r\n> This mod requires [SpecialItemsLib](https://github.com/art0007i/SpecialItemsLib) to work",
+        "file_name": "CustomInspectors.dll",
+        "file_size": 11776,
+        "sha256": "3223d33159b848d6ae2d00a0077825697554db7c06f94bc3b6c34871e5d54794"
+      },
+      {
+        "version": "2.1.2",
+        "download_url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.2/CustomInspectors.dll",
+        "release_url": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.2",
+        "published_at": "2024-06-11T12:00:28Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "fix ref to skyfrost\r\n\r\n> [!NOTE]  \r\n> This mod requires [SpecialItemsLib](https://github.com/art0007i/SpecialItemsLib) to work",
+        "file_name": "CustomInspectors.dll",
+        "file_size": 11264,
+        "sha256": "df1977595f17d3bc9ed1a2c7af2e8532489342c2fef3977bf284273cdece4381"
+      },
+      {
+        "version": "2.1.1",
+        "download_url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.1/CustomInspectors.dll",
+        "release_url": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.1",
+        "published_at": "2023-11-25T02:28:17Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Fix assembly reference to FrooxEngine.Store.dll",
+        "file_name": "CustomInspectors.dll",
+        "file_size": 11264,
+        "sha256": "3c65cec215ef380f2cfa63c57daf123dcce68aee4c0e104953e7e2b7721985e4"
+      },
+      {
+        "version": "2.1.0",
+        "download_url": "https://github.com/art0007i/CustomInspectors/releases/download/2.1.0/CustomInspectors.dll",
+        "release_url": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.0",
+        "published_at": "2023-10-04T07:25:55Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Warning: This version has breaking changes\r\n\r\nThis mod will now scale inspector panels to 0.0005 by default, to match the official inspectors behavior. This means that all your current inspectors will be really tiny unless you edit them to correct this or edit the mod settings to set the scale back to 1.\r\n\r\n### This mod requires [SpecialItemsLib](https://github.com/art0007i/SpecialItemsLib) to work\r\n\r\n",
+        "file_name": "CustomInspectors.dll",
+        "file_size": 11264,
+        "sha256": "dc934b359eac8a1b09c76e1acaaadaa137f294b05fbd3c7fc5397e53a5155c3c"
+      },
+      {
+        "version": "2.0.0",
+        "download_url": "https://github.com/art0007i/CustomInspectors/releases/download/2.0.0/CustomInspectors.dll",
+        "release_url": "https://github.com/art0007i/CustomInspectors/releases/tag/2.0.0",
+        "published_at": "2023-09-29T16:48:03Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# This mod requires [SpecialItemsLib](https://github.com/art0007i/SpecialItemsLib) to work\r\n\r\nThe first release of this mod that is compatible with [Resonite](https://resonite.com).\r\n\r\n- ⚠ Any release prior to 2.0.0 is for [NeosVR](https://neos.com).",
+        "file_name": "CustomInspectors.dll",
+        "file_size": 10240,
+        "sha256": "3ae2695ac3c67a8942d0032e8194785b43c25052addd4db15b454a51f3f7a44a"
+      },
+      {
+        "version": "1.1.0",
+        "download_url": "https://github.com/art0007i/CustomInspectors/releases/download/1.1.0/CustomInspectors.dll",
+        "release_url": "https://github.com/art0007i/CustomInspectors/releases/tag/1.1.0",
+        "published_at": "2022-07-03T20:39:23Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "fix bug where if you have a slot named holder on your avatar you will be unable to save it\r\nSHA 256 182C8CCA51517B0586814DBC999C960148FC2D2DDE89B888E1B09C20CAEE469C",
+        "file_name": "CustomInspectors.dll",
+        "file_size": 10240,
+        "sha256": "182c8cca51517b0586814dbc999c960148fc2d2dde89b888e1b09c20caee469c"
+      },
+      {
+        "version": "1.0.0.0",
+        "download_url": "https://github.com/art0007i/CustomInspectors/releases/download/1.0.0.0/CustomInspectors.dll",
+        "release_url": "https://github.com/art0007i/CustomInspectors/releases/tag/1.0.0.0",
+        "published_at": "2022-06-24T16:20:51Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Initial release",
+        "file_name": "CustomInspectors.dll",
+        "file_size": 10752,
+        "sha256": "185dff79bf234ab9018bde13aaa032bbbf9aa3d273b9dc89973b455e127fba75"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:52.204Z",
+    "last_updated": "2025-08-19T14:17:41.964Z",
     "source": "manifest"
   },
   {
@@ -3338,7 +3299,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:53.024Z",
+    "last_updated": "2025-08-19T14:17:42.861Z",
     "source": "manifest"
   },
   {
@@ -3401,7 +3362,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:53.870Z",
+    "last_updated": "2025-08-19T14:17:43.694Z",
     "source": "manifest"
   },
   {
@@ -3476,7 +3437,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:54.674Z",
+    "last_updated": "2025-08-19T14:17:44.485Z",
     "source": "manifest"
   },
   {
@@ -3517,7 +3478,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:46:55.439Z",
+    "last_updated": "2025-08-19T14:17:45.331Z",
     "source": "manifest"
   },
   {
@@ -3526,73 +3487,12 @@
     "category": "Bug Workaround",
     "source_location": "https://github.com/art0007i/DuplicateFix",
     "author": "art0007i",
-    "latest_version": "1.0.4",
-    "latest_download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.4/DuplicateFix.dll",
-    "releases": [
-      {
-        "version": "1.0.4",
-        "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.4/DuplicateFix.dll",
-        "release_url": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.4",
-        "published_at": "2025-05-09T11:08:43Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "DuplicateFix.dll",
-        "file_size": 14848,
-        "sha256": "c420496d3a25e1ccf1dab84f338de136fc17507c1e68776f83845561d3f17f01"
-      },
-      {
-        "version": "1.0.3",
-        "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.3/DuplicateFix.dll",
-        "release_url": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.3",
-        "published_at": "2025-03-04T16:46:01Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "fix bug with duplicating dynamic bones (if you tried to duplicate a dynamic bone it would parent it to your hand)\r\nfix bug with duplicating sliders/joins (you simply could not duplicate them before)",
-        "file_name": "DuplicateFix.dll",
-        "file_size": 14848,
-        "sha256": "d349f3aae8d5488733a1b7392b277c4d68e69f4857296bc674c8e077214ef65c"
-      },
-      {
-        "version": "1.0.2",
-        "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.2/DuplicateFix.dll",
-        "release_url": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.2",
-        "published_at": "2025-02-23T07:27:24Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "fix some bug found by banane9 at some point and also compilation errors (even though the mod was working despite the compiler errors??)",
-        "file_name": "DuplicateFix.dll",
-        "file_size": 13312,
-        "sha256": "9036cc5a4a927a944626c0cc8a1f1c7d97845bf9505f3f30895f4398712301a9"
-      },
-      {
-        "version": "1.0.1",
-        "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.1/DuplicateFix.dll",
-        "release_url": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.1",
-        "published_at": "2024-04-18T16:45:51Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "fix for latest resonite version",
-        "file_name": "DuplicateFix.dll",
-        "file_size": 13312,
-        "sha256": "f34eeacaeed4129eb300adefd79ebdcd559dbfe582ee004e7adac44428c69ddb"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.0/DuplicateFix.dll",
-        "release_url": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.0",
-        "published_at": "2024-01-20T12:09:46Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "initial release",
-        "file_name": "DuplicateFix.dll",
-        "file_size": 13312,
-        "sha256": "3f6b2f63367fedcabc0d1358dd35594bf413f8f1e141c5fb7fae5ad0c958e29c"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:56.200Z",
+    "last_updated": "2025-08-19T14:17:46.692Z",
     "source": "manifest"
   },
   {
@@ -3631,7 +3531,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:57.409Z",
+    "last_updated": "2025-08-19T14:17:47.505Z",
     "source": "manifest"
   },
   {
@@ -3670,7 +3570,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:58.171Z",
+    "last_updated": "2025-08-19T14:17:48.270Z",
     "source": "manifest"
   },
   {
@@ -3697,7 +3597,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:46:58.948Z",
+    "last_updated": "2025-08-19T14:17:49.526Z",
     "source": "manifest"
   },
   {
@@ -3726,7 +3626,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:46:59.715Z",
+    "last_updated": "2025-08-19T14:17:50.691Z",
     "source": "manifest"
   },
   {
@@ -3777,7 +3677,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:00.498Z",
+    "last_updated": "2025-08-19T14:17:51.560Z",
     "source": "manifest"
   },
   {
@@ -3786,12 +3686,37 @@
     "category": "Asset Importing",
     "source_location": "https://github.com/art0007i/ImportCompactor",
     "author": "art0007i",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "2.0.0",
+    "latest_download_url": "https://github.com/art0007i/ImportCompactor/releases/download/2.0.0/ImportCompactor.dll",
+    "releases": [
+      {
+        "version": "2.0.0",
+        "download_url": "https://github.com/art0007i/ImportCompactor/releases/download/2.0.0/ImportCompactor.dll",
+        "release_url": "https://github.com/art0007i/ImportCompactor/releases/tag/2.0.0",
+        "published_at": "2023-11-20T12:18:43Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "The first release of this mod that is compatible with [Resonite](https://resonite.com).\r\n\r\n- ⚠ Any release prior to 2.0.0 is for [NeosVR](https://neos.com).",
+        "file_name": "ImportCompactor.dll",
+        "file_size": 5632,
+        "sha256": "0154587705c1db03fe07ba866fc8c80af70fa72b2c3cacab96f03b854909570a"
+      },
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/art0007i/ImportCompactor/releases/download/1.0.0/ImportCompactor.dll",
+        "release_url": "https://github.com/art0007i/ImportCompactor/releases/tag/1.0.0",
+        "published_at": "2023-05-20T15:47:27Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "ImportCompactor.dll",
+        "file_size": 5632,
+        "sha256": "6b03551a18732e582395324ce8a0f8ff11da0c79de8c96db67d9a3b42cad0208"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:01.600Z",
+    "last_updated": "2025-08-19T14:17:55.195Z",
     "source": "manifest"
   },
   {
@@ -3800,61 +3725,12 @@
     "category": "Controls",
     "source_location": "https://github.com/art0007i/InspectorScroll",
     "author": "art0007i",
-    "latest_version": "2.0.0",
-    "latest_download_url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.0/InspectorScroll.dll",
-    "releases": [
-      {
-        "version": "2.0.0",
-        "download_url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.0/InspectorScroll.dll",
-        "release_url": "https://github.com/art0007i/InspectorScroll/releases/tag/2.0.0",
-        "published_at": "2023-09-27T21:57:51Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "The first release of this mod that is compatible with [Resonite](https://resonite.com).\r\n\r\n- ⚠ Any release prior to 2.0.0 is for [NeosVR](https://neos.com).",
-        "file_name": "InspectorScroll.dll",
-        "file_size": 6656,
-        "sha256": "2dbcea4b00f4650c8b06a76d6dfd4636977329ab1e26239dd61187a03848eb24"
-      },
-      {
-        "version": "1.0.2.0",
-        "download_url": "https://github.com/art0007i/InspectorScroll/releases/download/1.0.2.0/InspectorScroll.dll",
-        "release_url": "https://github.com/art0007i/InspectorScroll/releases/tag/1.0.2.0",
-        "published_at": "2022-04-08T21:20:55Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "config update",
-        "file_name": "InspectorScroll.dll",
-        "file_size": 6656,
-        "sha256": "fe49fe81655692b458f1c1191048a1a1d61706023ed0a8366271460e059da5d8"
-      },
-      {
-        "version": "1.0.1.0",
-        "download_url": "https://github.com/art0007i/InspectorScroll/releases/download/1.0.1.0/InspectorScroll.dll",
-        "release_url": "https://github.com/art0007i/InspectorScroll/releases/tag/1.0.1.0",
-        "published_at": "2021-11-10T15:48:50Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "InspectorScroll.dll",
-        "file_size": 6144,
-        "sha256": "eba73f821094dbb762662ad3bc27a7b7dc6f4ed69e1414c078bdd591dae4c169"
-      },
-      {
-        "version": "1.0.0.0",
-        "download_url": "https://github.com/art0007i/InspectorScroll/releases/download/1.0.0.0/InspectorScroll.dll",
-        "release_url": "https://github.com/art0007i/InspectorScroll/releases/tag/1.0.0.0",
-        "published_at": "2021-09-16T15:55:57Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "InspectorScroll.dll",
-        "file_size": 6144,
-        "sha256": "3b399d5532ec94139a2ca850f299144245e9a6c048a9e0e91de55491ba8c7d16"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:02.493Z",
+    "last_updated": "2025-08-19T14:17:56.582Z",
     "source": "manifest"
   },
   {
@@ -3917,7 +3793,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:03.324Z",
+    "last_updated": "2025-08-19T14:17:57.917Z",
     "source": "manifest"
   },
   {
@@ -3926,12 +3802,25 @@
     "category": "Controls",
     "source_location": "https://github.com/art0007i/KeyRepeatAdjust",
     "author": "art0007i",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.0.0",
+    "latest_download_url": "https://github.com/art0007i/KeyRepeatAdjust/releases/download/1.0.0/KeyRepeatAdjust.dll",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/art0007i/KeyRepeatAdjust/releases/download/1.0.0/KeyRepeatAdjust.dll",
+        "release_url": "https://github.com/art0007i/KeyRepeatAdjust/releases/tag/1.0.0",
+        "published_at": "2024-12-03T15:22:00Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "KeyRepeatAdjust.dll",
+        "file_size": 6656,
+        "sha256": "d2798798f6cd185fbb782648190373b4b3ea986e06cf4ecbd67a8e19f808f41b"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:04.404Z",
+    "last_updated": "2025-08-19T14:17:59.993Z",
     "source": "manifest"
   },
   {
@@ -3970,7 +3859,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:05.179Z",
+    "last_updated": "2025-08-19T14:18:00.835Z",
     "source": "manifest"
   },
   {
@@ -4081,7 +3970,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:06.018Z",
+    "last_updated": "2025-08-19T14:18:01.683Z",
     "source": "manifest"
   },
   {
@@ -4120,7 +4009,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:06.869Z",
+    "last_updated": "2025-08-19T14:18:02.953Z",
     "source": "manifest"
   },
   {
@@ -4159,7 +4048,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:07.664Z",
+    "last_updated": "2025-08-19T14:18:03.850Z",
     "source": "manifest"
   },
   {
@@ -4246,7 +4135,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:08.437Z",
+    "last_updated": "2025-08-19T14:18:04.700Z",
     "source": "manifest"
   },
   {
@@ -4285,7 +4174,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:09.322Z",
+    "last_updated": "2025-08-19T14:18:05.518Z",
     "source": "manifest"
   },
   {
@@ -4312,7 +4201,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:10.166Z",
+    "last_updated": "2025-08-19T14:18:06.299Z",
     "source": "manifest"
   },
   {
@@ -4339,7 +4228,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:10.972Z",
+    "last_updated": "2025-08-19T14:18:07.088Z",
     "source": "manifest"
   },
   {
@@ -4390,7 +4279,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:12.204Z",
+    "last_updated": "2025-08-19T14:18:08.345Z",
     "source": "manifest"
   },
   {
@@ -4443,7 +4332,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:47:12.940Z",
+    "last_updated": "2025-08-19T14:18:09.109Z",
     "source": "manifest"
   },
   {
@@ -4506,7 +4395,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:13.746Z",
+    "last_updated": "2025-08-19T14:18:10.029Z",
     "source": "manifest"
   },
   {
@@ -4533,7 +4422,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:14.537Z",
+    "last_updated": "2025-08-19T14:18:10.822Z",
     "source": "manifest"
   },
   {
@@ -4572,7 +4461,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:15.349Z",
+    "last_updated": "2025-08-19T14:18:12.037Z",
     "source": "manifest"
   },
   {
@@ -4611,7 +4500,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:16.137Z",
+    "last_updated": "2025-08-19T14:18:13.241Z",
     "source": "manifest"
   },
   {
@@ -4652,7 +4541,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:47:16.947Z",
+    "last_updated": "2025-08-19T14:18:14.025Z",
     "source": "manifest"
   },
   {
@@ -4693,7 +4582,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:47:17.749Z",
+    "last_updated": "2025-08-19T14:18:14.797Z",
     "source": "manifest"
   },
   {
@@ -4924,7 +4813,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:18.590Z",
+    "last_updated": "2025-08-19T14:18:15.695Z",
     "source": "manifest"
   },
   {
@@ -5011,7 +4900,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:19.386Z",
+    "last_updated": "2025-08-19T14:18:16.510Z",
     "source": "manifest"
   },
   {
@@ -5038,7 +4927,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:20.463Z",
+    "last_updated": "2025-08-19T14:18:17.289Z",
     "source": "manifest"
   },
   {
@@ -5125,7 +5014,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:21.286Z",
+    "last_updated": "2025-08-19T14:18:18.160Z",
     "source": "manifest"
   },
   {
@@ -5164,7 +5053,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:22.087Z",
+    "last_updated": "2025-08-19T14:18:18.967Z",
     "source": "manifest"
   },
   {
@@ -5173,37 +5062,12 @@
     "category": "Visual Tweaks",
     "source_location": "https://github.com/art0007i/TrackerModelSwapper",
     "author": "art0007i",
-    "latest_version": "2.0.0",
-    "latest_download_url": "https://github.com/art0007i/TrackerModelSwapper/releases/download/2.0.0/TrackerModelSwapper.dll",
-    "releases": [
-      {
-        "version": "2.0.0",
-        "download_url": "https://github.com/art0007i/TrackerModelSwapper/releases/download/2.0.0/TrackerModelSwapper.dll",
-        "release_url": "https://github.com/art0007i/TrackerModelSwapper/releases/tag/2.0.0",
-        "published_at": "2023-10-18T15:33:40Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "TrackerModelSwapper.dll",
-        "file_size": 6656,
-        "sha256": "9768a0be3b54c5d79351cbf7e0e237091eeac48038f44d079ea8006b344486ba"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/art0007i/TrackerModelSwapper/releases/download/1.0.0/TrackerModelSwapper.dll",
-        "release_url": "https://github.com/art0007i/TrackerModelSwapper/releases/tag/1.0.0",
-        "published_at": "2023-05-27T15:12:36Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "TrackerModelSwapper.dll",
-        "file_size": 6656,
-        "sha256": "3f2866329cc76a51104e80476a18038fe9e31334a876bf7d65ccddb767fea720"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:23.245Z",
+    "last_updated": "2025-08-19T14:18:20.327Z",
     "source": "manifest"
   },
   {
@@ -5212,12 +5076,25 @@
     "category": "Bug Workaround",
     "source_location": "https://github.com/art0007i/TransparentCameraEnabler",
     "author": "art0007i",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.0.0",
+    "latest_download_url": "https://github.com/art0007i/TransparentCameraEnabler/releases/download/1.0.0/TransparentCameraEnabler.dll",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/art0007i/TransparentCameraEnabler/releases/download/1.0.0/TransparentCameraEnabler.dll",
+        "release_url": "https://github.com/art0007i/TransparentCameraEnabler/releases/tag/1.0.0",
+        "published_at": "2023-11-14T18:58:10Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "TransparentCameraEnabler.dll",
+        "file_size": 7168,
+        "sha256": "ee9f60a8a9826a2a579c8c2fbd49346a55ffee089931f38bbb11dd90b899c052"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:24.739Z",
+    "last_updated": "2025-08-19T14:18:22.914Z",
     "source": "manifest"
   },
   {
@@ -5340,7 +5217,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:25.537Z",
+    "last_updated": "2025-08-19T14:18:24.182Z",
     "source": "manifest"
   },
   {
@@ -5354,7 +5231,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:26.708Z",
+    "last_updated": "2025-08-19T14:18:25.599Z",
     "source": "manifest"
   },
   {
@@ -5501,7 +5378,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:27.542Z",
+    "last_updated": "2025-08-19T14:18:26.448Z",
     "source": "manifest"
   },
   {
@@ -5528,7 +5405,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:28.399Z",
+    "last_updated": "2025-08-19T14:18:27.260Z",
     "source": "manifest"
   },
   {
@@ -5605,7 +5482,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:47:29.200Z",
+    "last_updated": "2025-08-19T14:18:28.130Z",
     "source": "manifest"
   },
   {
@@ -5656,7 +5533,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:29.989Z",
+    "last_updated": "2025-08-19T14:18:28.940Z",
     "source": "manifest"
   },
   {
@@ -5695,7 +5572,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:30.798Z",
+    "last_updated": "2025-08-19T14:18:29.736Z",
     "source": "manifest"
   },
   {
@@ -5734,7 +5611,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:31.579Z",
+    "last_updated": "2025-08-19T14:18:30.597Z",
     "source": "manifest"
   },
   {
@@ -5797,7 +5674,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:32.413Z",
+    "last_updated": "2025-08-19T14:18:31.390Z",
     "source": "manifest"
   },
   {
@@ -5920,7 +5797,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:33.731Z",
+    "last_updated": "2025-08-19T14:18:32.645Z",
     "source": "manifest"
   },
   {
@@ -6019,7 +5896,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:34.527Z",
+    "last_updated": "2025-08-19T14:18:33.861Z",
     "source": "manifest"
   },
   {
@@ -6028,12 +5905,25 @@
     "category": "Context Menu",
     "source_location": "https://github.com/XDelta/ContextMenuControl/",
     "author": "Delta",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.0.0",
+    "latest_download_url": "https://github.com/XDelta/ContextMenuControl/releases/download/1.0.0/ContextMenuControl.dll",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/XDelta/ContextMenuControl/releases/download/1.0.0/ContextMenuControl.dll",
+        "release_url": "https://github.com/XDelta/ContextMenuControl/releases/tag/1.0.0",
+        "published_at": "2024-08-20T11:30:58Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Initial Release",
+        "file_name": "ContextMenuControl.dll",
+        "file_size": 8704,
+        "sha256": "f49ee1cc24d3881acea9c954aca3c1ee47bfeaa960b9e6d015e5e26d141db22d"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:35.293Z",
+    "last_updated": "2025-08-19T14:18:35.952Z",
     "source": "manifest"
   },
   {
@@ -6084,7 +5974,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:36.101Z",
+    "last_updated": "2025-08-19T14:18:36.790Z",
     "source": "manifest"
   },
   {
@@ -6123,7 +6013,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:36.965Z",
+    "last_updated": "2025-08-19T14:18:37.634Z",
     "source": "manifest"
   },
   {
@@ -6150,7 +6040,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:37.816Z",
+    "last_updated": "2025-08-19T14:18:38.814Z",
     "source": "manifest"
   },
   {
@@ -6177,7 +6067,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:38.638Z",
+    "last_updated": "2025-08-19T14:18:39.627Z",
     "source": "manifest"
   },
   {
@@ -6216,7 +6106,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:39.452Z",
+    "last_updated": "2025-08-19T14:18:40.449Z",
     "source": "manifest"
   },
   {
@@ -6243,7 +6133,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:40.278Z",
+    "last_updated": "2025-08-19T14:18:41.281Z",
     "source": "manifest"
   },
   {
@@ -6282,7 +6172,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:41.082Z",
+    "last_updated": "2025-08-19T14:18:42.109Z",
     "source": "manifest"
   },
   {
@@ -6333,7 +6223,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:41.946Z",
+    "last_updated": "2025-08-19T14:18:43.340Z",
     "source": "manifest"
   },
   {
@@ -6372,7 +6262,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:42.728Z",
+    "last_updated": "2025-08-19T14:18:44.124Z",
     "source": "manifest"
   },
   {
@@ -6437,7 +6327,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:47:43.472Z",
+    "last_updated": "2025-08-19T14:18:45.387Z",
     "source": "manifest"
   },
   {
@@ -6500,7 +6390,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:44.255Z",
+    "last_updated": "2025-08-19T14:18:46.185Z",
     "source": "manifest"
   },
   {
@@ -6587,7 +6477,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:45.077Z",
+    "last_updated": "2025-08-19T14:18:47.421Z",
     "source": "manifest"
   },
   {
@@ -6686,7 +6576,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:45.946Z",
+    "last_updated": "2025-08-19T14:18:48.214Z",
     "source": "manifest"
   },
   {
@@ -6725,7 +6615,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:46.792Z",
+    "last_updated": "2025-08-19T14:18:48.977Z",
     "source": "manifest"
   },
   {
@@ -6734,12 +6624,37 @@
     "category": "Asset Importing",
     "source_location": "https://github.com/dfgHiatus/GTAImporter",
     "author": "dfgHiatus",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v2.0.0",
+    "latest_download_url": "https://github.com/dfgHiatus/GTAImporter/releases/download/v2.0.0/GTAImporter.dll",
+    "releases": [
+      {
+        "version": "v2.0.0",
+        "download_url": "https://github.com/dfgHiatus/GTAImporter/releases/download/v2.0.0/GTAImporter.dll",
+        "release_url": "https://github.com/dfgHiatus/GTAImporter/releases/tag/v2.0.0",
+        "published_at": "2024-01-05T16:35:04Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Same artifact, different version number",
+        "file_name": "GTAImporter.dll",
+        "file_size": 15872,
+        "sha256": "e3229f1f52969b4460eec36c5818f45c990094c72243765cffd14daad277a27c"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/dfgHiatus/GTAImporter/releases/download/v1.0.0/GTAImporter.dll",
+        "release_url": "https://github.com/dfgHiatus/GTAImporter/releases/tag/v1.0.0",
+        "published_at": "2022-09-26T23:52:49Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "GTAImporter.dll",
+        "file_size": 16896,
+        "sha256": "67e577645aeace41906e84c0ccf6e2c52db7664e925ecb9b4465973a1ef7461c"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:48.154Z",
+    "last_updated": "2025-08-19T14:18:52.500Z",
     "source": "manifest"
   },
   {
@@ -6802,7 +6717,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:49.433Z",
+    "last_updated": "2025-08-19T14:18:53.377Z",
     "source": "manifest"
   },
   {
@@ -6841,7 +6756,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:50.236Z",
+    "last_updated": "2025-08-19T14:18:54.182Z",
     "source": "manifest"
   },
   {
@@ -6892,7 +6807,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:51.068Z",
+    "last_updated": "2025-08-19T14:18:54.997Z",
     "source": "manifest"
   },
   {
@@ -6931,7 +6846,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:52.002Z",
+    "last_updated": "2025-08-19T14:18:55.794Z",
     "source": "manifest"
   },
   {
@@ -6958,7 +6873,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:52.839Z",
+    "last_updated": "2025-08-19T14:18:57.027Z",
     "source": "manifest"
   },
   {
@@ -7045,7 +6960,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:53.697Z",
+    "last_updated": "2025-08-19T14:18:57.870Z",
     "source": "manifest"
   },
   {
@@ -7054,130 +6969,9 @@
     "category": "Dashboard",
     "source_location": "https://github.com/EIA485/NeosGetItemLink",
     "author": "EIA485",
-    "latest_version": "1.4.6.0",
-    "latest_download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.6.0/GetItemLink.dll",
-    "releases": [
-      {
-        "version": "1.4.6.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.6.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.6.0",
-        "published_at": "2025-08-19T06:36:34Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "updated for Beta 2025.8.19.222 and beyond\r\nthanks to @Gyztor for pr #12 ",
-        "file_name": "GetItemLink.dll",
-        "file_size": 11264,
-        "sha256": "ac32459d51e237577a4779f1c85d22af91e53b3bbd33511c3d9d4b6cebff246e"
-      },
-      {
-        "version": "1.4.5.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.5.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.5.0",
-        "published_at": "2024-06-11T22:38:19Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "updated to work with version 2024.6.11.74 and beyond",
-        "file_name": "GetItemLink.dll",
-        "file_size": 11264,
-        "sha256": "61d6e5f9d1c4430bd77bd4293a94302546ff96c1480cdfb44ead4b9cd410c46d"
-      },
-      {
-        "version": "1.4.4.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.4.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.4.0",
-        "published_at": "2023-11-25T12:21:03Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "thanks to @stiefeljackal for pr #9 that fixed issue #10 ",
-        "file_name": "GetItemLink.dll",
-        "file_size": 11264,
-        "sha256": "0814959b898978b44bc0e1624dcef598a902259531568d3e3ebc0e6329d37e02"
-      },
-      {
-        "version": "1.4.3.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.3.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.3.0",
-        "published_at": "2023-10-31T04:08:09Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "made buttons compact to prevent issues with them overflowing. thankyou @art0007i for pr #8\r\nfixed button colors",
-        "file_name": "GetItemLink.dll",
-        "file_size": 10752,
-        "sha256": "3b2b5d7503f2a5f0a74ee313f18f6da891a9d2074adc9418f8bfe8743adb26c9"
-      },
-      {
-        "version": "1.4.2.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.2.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.2.0",
-        "published_at": "2023-10-23T23:07:03Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "ported mod to fix issues when used with resonite",
-        "file_name": "GetItemLink.dll",
-        "file_size": 10240,
-        "sha256": "fb03827a190f2e64480d63703acd8d71382951f4ac8adfffcbca51b2fc0aac94"
-      },
-      {
-        "version": "1.4.1.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.1.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.1.0",
-        "published_at": "2023-05-07T20:37:26Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "slightly optimized code",
-        "file_name": "GetItemLink.dll",
-        "file_size": 10240,
-        "sha256": "6e0573a6d3152c11f5392f0e4f7c0fcf464242ddea72d369b2acd54920f55a04"
-      },
-      {
-        "version": "1.4.0.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.0.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.0.0",
-        "published_at": "2023-05-07T17:48:26Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "thanks @art0007i for pr #5 \r\n\r\nchange log:\r\n - added a button to show a record metadata editor ",
-        "file_name": "GetItemLink.dll",
-        "file_size": 10240,
-        "sha256": "ba2a77a118449fa5268dc4603d06b660ab6a1e2af015307ec6bbc545b01af2f6"
-      },
-      {
-        "version": "1.3.0.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.3.0.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.3.0.0",
-        "published_at": "2022-10-08T07:55:52Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "added [Psychpsyo/Tooltippery](https://github.com/Psychpsyo/Tooltippery) Support, implemented based on the readme",
-        "file_name": "GetItemLink.dll",
-        "file_size": 9216,
-        "sha256": "ff0b5ef2594cdef61915f6933bb9d5fa01e3872a0a7506e7fcafae70c5dc90ac"
-      },
-      {
-        "version": "1.2.0.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.2.0.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.2.0.0",
-        "published_at": "2022-08-16T10:07:53Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "thanks @art0007i for pr #2 !\r\n\r\nchange log: \r\n- fixed issue where buttons would be grayed out even if a valid target is selected,\r\n- refactored code",
-        "file_name": "GetItemLink.dll",
-        "file_size": 8704,
-        "sha256": "55372a26e915a2dc5e4ba9a8afe93c79dc36704c3764eae10cdfe9d7bf78e217"
-      },
-      {
-        "version": "1.0.0.0",
-        "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.0.0.0/GetItemLink.dll",
-        "release_url": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.0.0.0",
-        "published_at": "2022-01-13T15:02:40Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Initial release",
-        "file_name": "GetItemLink.dll",
-        "file_size": 8192,
-        "sha256": "81cda00f41a2863fd10b943682e3a2c40b32501222aad4e6a1dadf4d36f2d445"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": [
       "url",
       "link",
@@ -7186,7 +6980,7 @@
       "cheese"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T13:47:54.465Z",
+    "last_updated": "2025-08-19T14:18:59.301Z",
     "source": "manifest"
   },
   {
@@ -7249,7 +7043,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:55.297Z",
+    "last_updated": "2025-08-19T14:19:00.229Z",
     "source": "manifest"
   },
   {
@@ -7336,7 +7130,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:56.146Z",
+    "last_updated": "2025-08-19T14:19:01.220Z",
     "source": "manifest"
   },
   {
@@ -7437,7 +7231,7 @@
       "world"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T13:47:56.935Z",
+    "last_updated": "2025-08-19T14:19:02.092Z",
     "source": "manifest"
   },
   {
@@ -7464,7 +7258,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:57.829Z",
+    "last_updated": "2025-08-19T14:19:02.942Z",
     "source": "manifest"
   },
   {
@@ -7473,25 +7267,12 @@
     "category": "Libraries",
     "source_location": "https://github.com/pardeike/Harmony",
     "author": "pardeike",
-    "latest_version": "v2.3.1.0",
-    "latest_download_url": "https://github.com/pardeike/Harmony/releases/download/v2.3.1.0/Lib.Harmony.2.3.1.nupkg",
-    "releases": [
-      {
-        "version": "v2.3.1.0",
-        "download_url": "https://github.com/pardeike/Harmony/releases/download/v2.3.1.0/Lib.Harmony.2.3.1.nupkg",
-        "release_url": "https://github.com/pardeike/Harmony/releases/tag/v2.3.1.0",
-        "published_at": "2024-03-03T21:00:41Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "v2.3.1 fixes: \r\n- Dependency problem / duplicate type errors that we introduced with v2.3\r\n- Better dead code handling #584\r\n- new Lib.Harmony.Ref for projects targeting .NET Standard 2.0",
-        "file_name": "Lib.Harmony.2.3.1.nupkg",
-        "file_size": 10746054,
-        "sha256": "ef73b9fe73532816908c85c6011fc6864d338929c0ec6bf04f776bd45b818aec"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:58.786Z",
+    "last_updated": "2025-08-19T14:19:03.723Z",
     "source": "manifest"
   },
   {
@@ -7500,61 +7281,12 @@
     "category": "Optimization",
     "source_location": "https://github.com/Raidriar796/HeadlessUserCulling",
     "author": "Raidriar796",
-    "latest_version": "1.1.2",
-    "latest_download_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.2/HeadlessUserCulling.dll",
-    "releases": [
-      {
-        "version": "1.1.2",
-        "download_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.2/HeadlessUserCulling.dll",
-        "release_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.2",
-        "published_at": "2025-05-15T02:32:28Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# Changes\r\n- Culled user audio now respects a user being silenced\r\n\r\n# Fixes\r\n- Rebuilt against latest Resonite version to fix culling not generating properly\r\n\r\nThanks to @ohzee00 for helping verify this version",
-        "file_name": "HeadlessUserCulling.dll",
-        "file_size": 18944,
-        "sha256": "bb632928114e2318d883ceb2a5e2b20734434d2ac83600791b803cac2ec59131"
-      },
-      {
-        "version": "1.1.1",
-        "download_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.1/HeadlessUserCulling.dll",
-        "release_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.1",
-        "published_at": "2025-02-07T03:25:48Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## Changes\r\n- Added default value of 10 to the DynamicValueVariableDriver in case `World/CullingDistance` doesn't exist\r\n## Fixes\r\n- Changed the DynamicValueVariableDriver to target `World/CullingDistance` instead of `HeadlessUserCulling/CullingDistance`\r\n\r\nThanks to @ohzee00 for catching the misnamed dynvar issue",
-        "file_name": "HeadlessUserCulling.dll",
-        "file_size": 18432,
-        "sha256": "2ba6f640da9fe8d4451884838295a7a9e31c9de2bba2c7f33149f783f2114f15"
-      },
-      {
-        "version": "1.1.0",
-        "download_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.0/HeadlessUserCulling.dll",
-        "release_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.0",
-        "published_at": "2025-02-06T02:37:16Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## Changes\r\n- Parent active states now reflect in culled visuals and audio\r\n  - This improves compatibility with culling zones and other systems involving a user being parented under disabled slots\r\n- Removed `World/HeadlessCullingRoot` Dynamic Variable\r\n- Removed `HeadlessUserCulling` Dynamic Variable Space\r\n- Moved `CullingDistance` Dynamic Variable from `HeadlessUserCulling/` to `World/`\r\n\r\nThanks to @ohzee00 for testing and prototyping the parent state fixes",
-        "file_name": "HeadlessUserCulling.dll",
-        "file_size": 18432,
-        "sha256": "6d9975c69faea5144da623e6bada5bf18b9486654a24b71318279fc9a622195f"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.0.0/HeadlessUserCulling.dll",
-        "release_url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.0.0",
-        "published_at": "2025-02-01T00:32:03Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# Initial release\r\n\r\n## Features:\r\n- Generates a user distance culling system on the fly\r\n- Optionally generates a context menu for system settings\r\n- Fallback audio, head and hands visuals, and nameplates\r\n- Dynamic variables for world integration\r\n\r\nHuge thanks to:\r\n@BlueCyro\r\n@badhaloninja \r\n@ohzee00\r\n@yoshiyoshyosh\r\n\r\nThis mod would not have made it this far without their assistance.",
-        "file_name": "HeadlessUserCulling.dll",
-        "file_size": 17920,
-        "sha256": "e83890f75447e5496a7dab10453d7212c1756f3c91285f1184e6c57495964acd"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:47:59.651Z",
+    "last_updated": "2025-08-19T14:19:04.453Z",
     "source": "manifest"
   },
   {
@@ -7595,7 +7327,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:48:00.448Z",
+    "last_updated": "2025-08-19T14:19:05.672Z",
     "source": "manifest"
   },
   {
@@ -7754,7 +7486,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:01.289Z",
+    "last_updated": "2025-08-19T14:19:06.595Z",
     "source": "manifest"
   },
   {
@@ -7763,12 +7495,97 @@
     "category": "Optimization",
     "source_location": "https://github.com/Raidriar796/StresslessHeadless",
     "author": "Raidriar796",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "2.0.0",
+    "latest_download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll",
+    "releases": [
+      {
+        "version": "2.0.0",
+        "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll",
+        "release_url": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.0",
+        "published_at": "2025-02-22T00:29:18Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- Rewrite all patches to be manual patches\r\n  - This lets patches be applied selectively based on config options\r\n- Removed version check\r\n- Reworked stress command to unpatch and repatch\r\n- Upgraded from net8.0 to net9.0\r\n- Removed asset variant generation patches\r\n  - These were not working as intended and are async tasks, so they wouldn't be helpful on modern dotnet anyway\r\n\r\nThanks to @BlueCyro for help with the manual patches",
+        "file_name": "StresslessHeadless.dll",
+        "file_size": 23040,
+        "sha256": "0c9f9177a3712762d7a9194609aadf0ad5988deb8c3705cbfdbd4406388b656a"
+      },
+      {
+        "version": "2.0.0-rc1",
+        "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.0-rc1/StresslessHeadless.dll",
+        "release_url": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.0-rc1",
+        "published_at": "2024-12-18T11:32:55Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "- Rewrite all patches to be manual patches\r\n  - This lets patches be applied selectively based on config options\r\n- Removed version check\r\n- Reworked stress command to unpatch and repatch\r\n- Upgraded from net8.0 to net9.0\r\n- Removed asset variant generation patches\r\n  - These were not working as intended and are async tasks, so they wouldn't be helpful on modern dotnet anyway\r\n\r\nThanks to @BlueCyro for help with the manual patches",
+        "file_name": "StresslessHeadless.dll",
+        "file_size": 23040,
+        "sha256": "b91f9fb2bec01ea535f991548be8098d1a70380270948b76106c0c625baca0fe"
+      },
+      {
+        "version": "1.3.1",
+        "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll",
+        "release_url": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.3.1",
+        "published_at": "2024-08-06T08:35:52Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## Fixes\r\n- AutoLookAtUser and AxisAligner are no longer always disabled",
+        "file_name": "StresslessHeadless.dll",
+        "file_size": 38400,
+        "sha256": "b3e2ddca4c745422b9ea43bfd2414ed9a2c1c7a7e091434e4548f17cbc1f6166"
+      },
+      {
+        "version": "1.3.0",
+        "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.3.0/StresslessHeadless.dll",
+        "release_url": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.3.0",
+        "published_at": "2024-08-06T01:02:57Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## Additions\r\n- More disabled functions, including:\r\n  - Asset variant generation\r\n  - Logs\r\n    - This is unaffected by default and must be disabled in the config to take effect\r\n  - Flux UI generation\r\n  - Procedural textures\r\n- New \"stress\" headless command\r\n  - This lets you re-enable all functionality as if the mod wasn't running. Primarily for A/B testing or checking if the mod is causing issues.\r\n\r\n## Changes\r\n- Built for .Net 8.0 instead of .Net 4.7.2\r\n\r\nThanks to @badhaloninja for help with setting up commands",
+        "file_name": "StresslessHeadless.dll",
+        "file_size": 38400,
+        "sha256": "75e196b6f5ac9ce1ad2b8d3a8d4a92f993f6eda80ed461c7588786736b0c370a"
+      },
+      {
+        "version": "1.2.0",
+        "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.2.0/StresslessHeadless.dll",
+        "release_url": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.2.0",
+        "published_at": "2024-02-12T23:33:16Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## Additions\r\n- Nearly all procedural meshes now have their mesh generation skipped\r\n\r\n## Changes\r\n- Headless check now uses the built in RML check\r\n\r\nThanks to @XDelta for helping with testing",
+        "file_name": "StresslessHeadless.dll",
+        "file_size": 30720,
+        "sha256": "3a42c7169335f3f1d02eb4b352977e0082ea8a458bcbe129bc3d12a182b3ec15"
+      },
+      {
+        "version": "1.1.0",
+        "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll",
+        "release_url": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.1.0",
+        "published_at": "2023-12-05T12:37:43Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## Changes\r\n- Added config options\r\n- Removed bounding box patches; not working as intended",
+        "file_name": "StresslessHeadless.dll",
+        "file_size": 12800,
+        "sha256": "5f8c97cd506af6c788df03fe2cde174a379febc0570fabca3434172a38b3988d"
+      },
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.0.0/StresslessHeadless.dll",
+        "release_url": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.0.0",
+        "published_at": "2023-12-05T04:32:50Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Initial Release",
+        "file_name": "StresslessHeadless.dll",
+        "file_size": 9728,
+        "sha256": "6c86e6364ed603216c4ab842b399b4446a2a1ec3f5017e699124e3706fbd94dc"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:02.397Z",
+    "last_updated": "2025-08-19T14:19:16.817Z",
     "source": "manifest"
   },
   {
@@ -7795,7 +7612,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:03.235Z",
+    "last_updated": "2025-08-19T14:19:17.673Z",
     "source": "manifest"
   },
   {
@@ -7860,7 +7677,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:48:04.491Z",
+    "last_updated": "2025-08-19T14:19:18.928Z",
     "source": "manifest"
   },
   {
@@ -7899,7 +7716,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:05.385Z",
+    "last_updated": "2025-08-19T14:19:19.835Z",
     "source": "manifest"
   },
   {
@@ -7913,7 +7730,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:05.385Z",
+    "last_updated": "2025-08-19T14:19:19.835Z",
     "source": "manifest"
   },
   {
@@ -7922,12 +7739,37 @@
     "category": "Wizards",
     "source_location": "https://github.com/badhaloninja/AvatarCreatorUtils",
     "author": "badhaloninja",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v2.0.0",
+    "latest_download_url": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/download/v2.0.0/AvatarCreatorUtils.dll",
+    "releases": [
+      {
+        "version": "v2.0.0",
+        "download_url": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/download/v2.0.0/AvatarCreatorUtils.dll",
+        "release_url": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/tag/v2.0.0",
+        "published_at": "2025-04-20T00:13:01Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- Resonite Port",
+        "file_name": "AvatarCreatorUtils.dll",
+        "file_size": 11264,
+        "sha256": "0837b3e3595430dc43cc471d699d8bfff50836d0a4d651fb7052b135f262c7a0"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/download/v1.0.0/AvatarCreatorUtils.dll",
+        "release_url": "https://github.com/badhaloninja/AvatarCreatorUtils/releases/tag/v1.0.0",
+        "published_at": "2023-04-27T05:09:02Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Initial release",
+        "file_name": "AvatarCreatorUtils.dll",
+        "file_size": 10752,
+        "sha256": "9e4ecfb84ac266c9947f249decd80d3890525f43e59b9741faf5e14869a9b25f"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:06.743Z",
+    "last_updated": "2025-08-19T14:19:23.784Z",
     "source": "manifest"
   },
   {
@@ -7990,7 +7832,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:07.902Z",
+    "last_updated": "2025-08-19T14:19:24.722Z",
     "source": "manifest"
   },
   {
@@ -7999,97 +7841,12 @@
     "category": "Inspectors",
     "source_location": "https://github.com/badhaloninja/EnumDropdown",
     "author": "badhaloninja",
-    "latest_version": "v2.1.1",
-    "latest_download_url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.1.1/EnumDropdown.dll",
-    "releases": [
-      {
-        "version": "v2.1.1",
-        "download_url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.1.1/EnumDropdown.dll",
-        "release_url": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.1.1",
-        "published_at": "2024-04-19T23:04:50Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "### Rebuild for the Resonite settings rework\r\n- There are no new changes",
-        "file_name": "EnumDropdown.dll",
-        "file_size": 20480,
-        "sha256": "cd1340e1c3555b837123bb20482f4e5b29485225982adade8fb4e1115be65a63"
-      },
-      {
-        "version": "v2.1.0",
-        "download_url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.1.0/EnumDropdown.dll",
-        "release_url": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.1.0",
-        "published_at": "2024-03-12T21:48:31Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Initial release for the [Resonite Mod Manifest](https://github.com/resonite-modding-group/resonite-mod-manifest)\r\n- Updated harmony ID to `ninja.badhalo.EnumDropdown`\r\n- Cleaned up build files",
-        "file_name": "EnumDropdown.dll",
-        "file_size": 20480,
-        "sha256": "b1d52e93b4b85111cf0c8924be34f5637bc557f613056a5af0e9eac252c54e33"
-      },
-      {
-        "version": "v2.0.0",
-        "download_url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.0.0/EnumDropdown.dll",
-        "release_url": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.0.0",
-        "published_at": "2023-10-16T04:45:52Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "- Ported to Resonite\r\n\r\n# ⚠ Any release prior to 2.0.0 is for [NeosVR](https://neos.com/).",
-        "file_name": "EnumDropdown.dll",
-        "file_size": 20992,
-        "sha256": "52c0d9fa8b061273e716414d21b225e3f929f7fa97e79bf0874a38a2c4374878"
-      },
-      {
-        "version": "v1.2.0",
-        "download_url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v1.2.0/EnumDropdown.dll",
-        "release_url": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.2.0",
-        "published_at": "2023-06-26T06:09:48Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "- Add support for nullable enums - #2 \r\n- Switch to patching the LogixNode class instead of generating individual patches for EnumInput<E> - #3 by @EIA485\r\n  - This greatly improves loading times",
-        "file_name": "EnumDropdown.dll",
-        "file_size": 18944,
-        "sha256": "8131e27272750b4c718f9ee0e5bfec190093432bb7f0bc9f780c2b23697804d0"
-      },
-      {
-        "version": "v1.1.0",
-        "download_url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v1.1.0/EnumDropdown.dll",
-        "release_url": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.1.0",
-        "published_at": "2023-02-10T12:46:52Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": " - Fix interacting with certain flag enums that are defined using non int values\r\n - Adjust flag selection ui",
-        "file_name": "EnumDropdown.dll",
-        "file_size": 18944,
-        "sha256": "c2b157731fcb9a2f5545bed9dfe9868bb288a3a61a8588967cf5597b7263ff04"
-      },
-      {
-        "version": "v1.0.1",
-        "download_url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v1.0.1/EnumDropdown.dll",
-        "release_url": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.0.1",
-        "published_at": "2022-12-16T02:03:54Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": " - Fix enum input logix node dropping slot into parent on pack",
-        "file_name": "EnumDropdown.dll",
-        "file_size": 17920,
-        "sha256": "d76717d6d5fd1ea09f72c0dbf40372991ec4915da51c6a25d6893e94149e930e"
-      },
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v1.0.0/EnumDropdown.dll",
-        "release_url": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.0.0",
-        "published_at": "2022-12-09T17:36:39Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Initial release",
-        "file_name": "EnumDropdown.dll",
-        "file_size": 17920,
-        "sha256": "7701e6f6e0a3fac0de800d2c090d825ef19844213a7c885e7aae26c9edda793a"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:08.708Z",
+    "last_updated": "2025-08-19T14:19:26.099Z",
     "source": "manifest"
   },
   {
@@ -8128,7 +7885,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:09.765Z",
+    "last_updated": "2025-08-19T14:19:26.869Z",
     "source": "manifest"
   },
   {
@@ -8137,22 +7894,9 @@
     "category": "Technical Tweaks",
     "source_location": "https://github.com/badhaloninja/FriendlyInventoryAvatars",
     "author": "badhaloninja",
-    "latest_version": "v1.0.0",
-    "latest_download_url": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/download/v1.0.0/FriendlyInventoryAvatars.dll",
-    "releases": [
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/download/v1.0.0/FriendlyInventoryAvatars.dll",
-        "release_url": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/tag/v1.0.0",
-        "published_at": "2025-03-25T20:49:26Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Initial public release",
-        "file_name": "FriendlyInventoryAvatars.dll",
-        "file_size": 10752,
-        "sha256": "2c75b78f7bef200ea2dfcd747d43868717f6ebfcd4742985fc2bf13ab753563a"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": [
       "bodynode",
       "equip",
@@ -8160,7 +7904,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T13:48:10.986Z",
+    "last_updated": "2025-08-19T14:19:27.592Z",
     "source": "manifest"
   },
   {
@@ -8355,7 +8099,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:11.781Z",
+    "last_updated": "2025-08-19T14:19:28.462Z",
     "source": "manifest"
   },
   {
@@ -8478,7 +8222,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:12.578Z",
+    "last_updated": "2025-08-19T14:19:29.304Z",
     "source": "manifest"
   },
   {
@@ -8570,7 +8314,7 @@
       "orb"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T13:48:13.788Z",
+    "last_updated": "2025-08-19T14:19:30.181Z",
     "source": "manifest"
   },
   {
@@ -8579,12 +8323,25 @@
     "category": "Inspectors",
     "source_location": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod",
     "author": "badhaloninja",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v1.0.0",
+    "latest_download_url": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod/releases/download/v1.0.0/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod.dll",
+    "releases": [
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod/releases/download/v1.0.0/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod.dll",
+        "release_url": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod/releases/tag/v1.0.0",
+        "published_at": "2025-03-24T10:22:04Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- Public _Resonite_ release",
+        "file_name": "ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod.dll",
+        "file_size": 9216,
+        "sha256": "66c4a711daeeb4d1ed1f62e7e982fc46e78fdafa15e76e0bb82fa48c9b062a28"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:14.483Z",
+    "last_updated": "2025-08-19T14:19:32.420Z",
     "source": "manifest"
   },
   {
@@ -8598,7 +8355,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:14.483Z",
+    "last_updated": "2025-08-19T14:19:32.420Z",
     "source": "manifest"
   },
   {
@@ -8612,7 +8369,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:14.483Z",
+    "last_updated": "2025-08-19T14:19:32.420Z",
     "source": "manifest"
   },
   {
@@ -8699,7 +8456,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:15.333Z",
+    "last_updated": "2025-08-19T14:19:33.289Z",
     "source": "manifest"
   },
   {
@@ -8708,14 +8465,27 @@
     "category": "Bug Workaround",
     "source_location": "https://github.com/Nytra/ResoniteHeadlessToolPermissionKickCrashFix",
     "author": "Nytra",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v1.0.0",
+    "latest_download_url": "https://github.com/Nytra/ResoniteHeadlessToolPermissionKickCrashFix/releases/download/v1.0.0/HeadlessToolPermissionKickCrashFix.dll",
+    "releases": [
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/Nytra/ResoniteHeadlessToolPermissionKickCrashFix/releases/download/v1.0.0/HeadlessToolPermissionKickCrashFix.dll",
+        "release_url": "https://github.com/Nytra/ResoniteHeadlessToolPermissionKickCrashFix/releases/tag/v1.0.0",
+        "published_at": "2023-10-05T13:25:04Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Released the mod.\r\n\r\nThanks to Rucio for porting the mod to Resonite and sending me the code, thanks to Stiefeljackal and TheSpecterLemon for testing it.",
+        "file_name": "HeadlessToolPermissionKickCrashFix.dll",
+        "file_size": 6144,
+        "sha256": "750102cdc126685956ed73ec47fc3f8509b97d2c6f601724a851ae4eab1908d2"
+      }
+    ],
     "tags": null,
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:48:16.707Z",
+    "last_updated": "2025-08-19T14:19:35.494Z",
     "source": "manifest"
   },
   {
@@ -8742,7 +8512,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:17.474Z",
+    "last_updated": "2025-08-19T14:19:36.347Z",
     "source": "manifest"
   },
   {
@@ -8829,7 +8599,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:18.273Z",
+    "last_updated": "2025-08-19T14:19:37.548Z",
     "source": "manifest"
   },
   {
@@ -8856,7 +8626,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:19.130Z",
+    "last_updated": "2025-08-19T14:19:38.380Z",
     "source": "manifest"
   },
   {
@@ -8943,7 +8713,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:20.067Z",
+    "last_updated": "2025-08-19T14:19:40.134Z",
     "source": "manifest"
   },
   {
@@ -9056,7 +8826,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T13:48:20.903Z",
+    "last_updated": "2025-08-19T14:19:41.038Z",
     "source": "manifest"
   },
   {
@@ -9131,7 +8901,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:21.703Z",
+    "last_updated": "2025-08-19T14:19:41.862Z",
     "source": "manifest"
   },
   {
@@ -9206,7 +8976,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:22.578Z",
+    "last_updated": "2025-08-19T14:19:42.717Z",
     "source": "manifest"
   },
   {
@@ -9281,7 +9051,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:23.927Z",
+    "last_updated": "2025-08-19T14:19:43.504Z",
     "source": "manifest"
   },
   {
@@ -9332,7 +9102,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:24.711Z",
+    "last_updated": "2025-08-19T14:19:44.321Z",
     "source": "manifest"
   },
   {
@@ -9383,7 +9153,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:25.530Z",
+    "last_updated": "2025-08-19T14:19:45.126Z",
     "source": "manifest"
   },
   {
@@ -9434,7 +9204,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:26.359Z",
+    "last_updated": "2025-08-19T14:19:45.948Z",
     "source": "manifest"
   },
   {
@@ -9473,7 +9243,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:27.155Z",
+    "last_updated": "2025-08-19T14:19:46.850Z",
     "source": "manifest"
   },
   {
@@ -9536,7 +9306,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:28.060Z",
+    "last_updated": "2025-08-19T14:19:47.834Z",
     "source": "manifest"
   },
   {
@@ -9719,7 +9489,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:28.944Z",
+    "last_updated": "2025-08-19T14:19:48.671Z",
     "source": "manifest"
   },
   {
@@ -9746,7 +9516,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T13:48:29.739Z",
+    "last_updated": "2025-08-19T14:19:49.550Z",
     "source": "manifest"
   },
   {
@@ -9884,7 +9654,7 @@
       "v0.2.0"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T13:48:30.147Z",
+    "last_updated": "2025-08-19T14:19:49.843Z",
     "source": "additional"
   }
 ]
