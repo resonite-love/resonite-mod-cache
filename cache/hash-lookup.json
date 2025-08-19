@@ -2708,13 +2708,6 @@
     "file_name": "ReArmature.dll",
     "file_size": 8192
   },
-  "f49ee1cc24d3881acea9c954aca3c1ee47bfeaa960b9e6d015e5e26d141db22d": {
-    "mod_name": "ContextMenuControl",
-    "version": "1.0.0",
-    "download_url": "https://github.com/XDelta/ContextMenuControl/releases/download/1.0.0/ContextMenuControl.dll",
-    "file_name": "ContextMenuControl.dll",
-    "file_size": 8704
-  },
   "b5cd3da42f98136104e5300107d263ffc13ef8a85ed9c31a63c6c2642c06ca3e": {
     "mod_name": "DisableSRAnipal",
     "version": "1.0.2",
@@ -2861,6 +2854,34 @@
     "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/1.0.0/SettingsRedux.dll",
     "file_name": "SettingsRedux.dll",
     "file_size": 27136
+  },
+  "c4737956baa6dbc67e4d33f505af3018c20e30449c4ad1d7568e10b068e8732e": {
+    "mod_name": "ShowSourceLocation",
+    "version": "1.2.1",
+    "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.1/ShowSourceLocation.dll",
+    "file_name": "ShowSourceLocation.dll",
+    "file_size": 10240
+  },
+  "48c4f60b7728ce6624649866b28fca47a25ecb8acdeb9e748d8274d16be26e15": {
+    "mod_name": "ShowSourceLocation",
+    "version": "1.2.0",
+    "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.0/ShowSourceLocation.dll",
+    "file_name": "ShowSourceLocation.dll",
+    "file_size": 10240
+  },
+  "486375e5e13a75f776c0747b6f0c7436d69771e7b94e89244dcd971c74933c9d": {
+    "mod_name": "ShowSourceLocation",
+    "version": "1.1.2",
+    "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.2/ShowSourceLocation.dll",
+    "file_name": "ShowSourceLocation.dll",
+    "file_size": 9728
+  },
+  "362d18bc3e5c75865ed86fb5dbfc7959fbf152f4d8fe05e39e66859af9f219ff": {
+    "mod_name": "ShowSourceLocation",
+    "version": "1.1.1",
+    "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.1/ResoniteShowSourceLocation.dll",
+    "file_name": "ResoniteShowSourceLocation.dll",
+    "file_size": 10240
   },
   "a1a8e6da3c9c728d04df70c3733487ac466210778f51a1d5c4ed60ccba5c4759": {
     "mod_name": "PimaxEyeTracking",
@@ -3168,6 +3189,34 @@
     "version": "1.0.0.0",
     "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.0.0.0/GetItemLink.dll",
     "file_name": "GetItemLink.dll",
+    "file_size": 8192
+  },
+  "d621b87e4bec4806cfd164ee56f8b44f9c972adecba70561cb7a48e08b77ddc8": {
+    "mod_name": "HeadCullingMask",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v2.0.0/HeadCullingMask.dll",
+    "file_name": "HeadCullingMask.dll",
+    "file_size": 11264
+  },
+  "5998bbb56258b06dbb98574f74acb1bd31771fe17ea0a745a01fc5520f7b5bd6": {
+    "mod_name": "HeadCullingMask",
+    "version": "v1.2.0",
+    "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.2.0/HeadCullingMask.dll",
+    "file_name": "HeadCullingMask.dll",
+    "file_size": 11776
+  },
+  "67f2dc6104b7581876edc50a6fc2f33bf6461a2008313ff037891a0a302c824f": {
+    "mod_name": "HeadCullingMask",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.1.0/HeadCullingMask.dll",
+    "file_name": "HeadCullingMask.dll",
+    "file_size": 10240
+  },
+  "ab8d77975d02d23df11db5ae438474dca7cbbffddf7d210be81d828c7b772d4a": {
+    "mod_name": "HeadCullingMask",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.0.0/HeadCullingMask.dll",
+    "file_name": "HeadCullingMask.dll",
     "file_size": 8192
   },
   "5e439c9e2116d529def0dd3caefed103a65969a2c43f5ad8405be95aa55f6e94": {
