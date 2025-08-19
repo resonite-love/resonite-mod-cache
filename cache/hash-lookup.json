@@ -2708,6 +2708,13 @@
     "file_name": "ReArmature.dll",
     "file_size": 8192
   },
+  "f49ee1cc24d3881acea9c954aca3c1ee47bfeaa960b9e6d015e5e26d141db22d": {
+    "mod_name": "ContextMenuControl",
+    "version": "1.0.0",
+    "download_url": "https://github.com/XDelta/ContextMenuControl/releases/download/1.0.0/ContextMenuControl.dll",
+    "file_name": "ContextMenuControl.dll",
+    "file_size": 8704
+  },
   "b5cd3da42f98136104e5300107d263ffc13ef8a85ed9c31a63c6c2642c06ca3e": {
     "mod_name": "DisableSRAnipal",
     "version": "1.0.2",
