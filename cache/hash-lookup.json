@@ -1924,6 +1924,20 @@
     "file_name": "MyInspectors.dll",
     "file_size": 8192
   },
+  "376e308a2c52c9d51c25f7ab39161a09cb0456059fe8eb389bd87e616ad8e83f": {
+    "mod_name": "NoHeadMenuDash",
+    "version": "2.0.0",
+    "download_url": "https://github.com/art0007i/NoHeadMenuDash/releases/download/2.0.0/NoHeadMenuDash.dll",
+    "file_name": "NoHeadMenuDash.dll",
+    "file_size": 5632
+  },
+  "2437ea23a79bea484874aa1daed8912cf86db536d917e6242e0d15b919f302da": {
+    "mod_name": "NoHeadMenuDash",
+    "version": "1.0.0.0",
+    "download_url": "https://github.com/art0007i/NoHeadMenuDash/releases/download/1.0.0.0/NoHeadMenuDash.dll",
+    "file_name": "NoHeadMenuDash.dll",
+    "file_size": 6144
+  },
   "8f3e56671a6b278c7036f72d2a97f3cd56afd6d72f6599259f8e580de88b4954": {
     "mod_name": "NotificationFixer",
     "version": "1.0.0",
