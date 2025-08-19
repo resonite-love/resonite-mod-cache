@@ -37,7 +37,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:43:18.979Z",
+    "last_updated": "2025-08-19T14:53:35.186Z",
     "source": "manifest"
   },
   {
@@ -64,7 +64,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:19.724Z",
+    "last_updated": "2025-08-19T14:53:36.038Z",
     "source": "manifest"
   },
   {
@@ -91,7 +91,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:20.459Z",
+    "last_updated": "2025-08-19T14:53:36.863Z",
     "source": "manifest"
   },
   {
@@ -118,7 +118,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:21.256Z",
+    "last_updated": "2025-08-19T14:53:37.679Z",
     "source": "manifest"
   },
   {
@@ -145,7 +145,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:22.029Z",
+    "last_updated": "2025-08-19T14:53:38.464Z",
     "source": "manifest"
   },
   {
@@ -700,7 +700,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:22.841Z",
+    "last_updated": "2025-08-19T14:53:39.369Z",
     "source": "manifest"
   },
   {
@@ -741,7 +741,7 @@
       "list"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T14:43:23.516Z",
+    "last_updated": "2025-08-19T14:53:40.128Z",
     "source": "manifest"
   },
   {
@@ -780,7 +780,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:24.286Z",
+    "last_updated": "2025-08-19T14:53:40.883Z",
     "source": "manifest"
   },
   {
@@ -819,7 +819,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:27.404Z",
+    "last_updated": "2025-08-19T14:53:41.657Z",
     "source": "manifest"
   },
   {
@@ -858,7 +858,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:30.799Z",
+    "last_updated": "2025-08-19T14:53:42.420Z",
     "source": "manifest"
   },
   {
@@ -897,7 +897,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:33.826Z",
+    "last_updated": "2025-08-19T14:53:43.158Z",
     "source": "manifest"
   },
   {
@@ -936,7 +936,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:34.542Z",
+    "last_updated": "2025-08-19T14:53:43.912Z",
     "source": "manifest"
   },
   {
@@ -1047,7 +1047,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:35.328Z",
+    "last_updated": "2025-08-19T14:53:44.713Z",
     "source": "manifest"
   },
   {
@@ -1146,7 +1146,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:36.051Z",
+    "last_updated": "2025-08-19T14:53:45.476Z",
     "source": "manifest"
   },
   {
@@ -1185,7 +1185,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:36.778Z",
+    "last_updated": "2025-08-19T14:53:46.226Z",
     "source": "manifest"
   },
   {
@@ -1224,7 +1224,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:37.509Z",
+    "last_updated": "2025-08-19T14:53:46.968Z",
     "source": "manifest"
   },
   {
@@ -1373,7 +1373,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:43:38.256Z",
+    "last_updated": "2025-08-19T14:53:47.798Z",
     "source": "manifest"
   },
   {
@@ -1424,7 +1424,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:38.999Z",
+    "last_updated": "2025-08-19T14:53:48.578Z",
     "source": "manifest"
   },
   {
@@ -1451,7 +1451,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:39.721Z",
+    "last_updated": "2025-08-19T14:53:49.337Z",
     "source": "manifest"
   },
   {
@@ -1460,12 +1460,37 @@
     "category": "Libraries",
     "source_location": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib",
     "author": "__Choco__",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v1.0.1",
+    "latest_download_url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.1/CustomShaderLib.dll",
+    "releases": [
+      {
+        "version": "v1.0.1",
+        "download_url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.1/CustomShaderLib.dll",
+        "release_url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/tag/v1.0.1",
+        "published_at": "2025-06-26T00:05:28Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "changes:\r\nRemoved leftover mentions of ExampleMod\r\n\r\nThis mod removes shader verification from Resonite.\r\n\r\nIt is intended to be used in conjunction with other mods or tools, in order to be able to use custom shaders.\r\n\r\nhash:\r\n113263b286d5e84fa3330dfb0eb4b475ec28c9cf38f9e6b5267c8eaf2fc546d0",
+        "file_name": "CustomShaderLib.dll",
+        "file_size": 7168,
+        "sha256": "113263b286d5e84fa3330dfb0eb4b475ec28c9cf38f9e6b5267c8eaf2fc546d0"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.0/CustomShaderLib.dll",
+        "release_url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/tag/v1.0.0",
+        "published_at": "2025-06-19T20:22:12Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "This mod does not do anything on its own, and should be used in conjunction with other mods which list it as a dependency, or for development purposes.",
+        "file_name": "CustomShaderLib.dll",
+        "file_size": 11776,
+        "sha256": "706549c8d3b7cfe5391efcbd06a69604fe15812efd02514149f40a8c55e3b33a"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:40.361Z",
+    "last_updated": "2025-08-19T14:53:53.363Z",
     "source": "manifest"
   },
   {
@@ -1528,7 +1553,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:41.041Z",
+    "last_updated": "2025-08-19T14:53:54.184Z",
     "source": "manifest"
   },
   {
@@ -1567,7 +1592,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:41.753Z",
+    "last_updated": "2025-08-19T14:53:55.025Z",
     "source": "manifest"
   },
   {
@@ -1666,7 +1691,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:42.506Z",
+    "last_updated": "2025-08-19T14:53:55.772Z",
     "source": "manifest"
   },
   {
@@ -1705,7 +1730,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:43.317Z",
+    "last_updated": "2025-08-19T14:53:56.622Z",
     "source": "manifest"
   },
   {
@@ -1756,7 +1781,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:44.438Z",
+    "last_updated": "2025-08-19T14:53:57.354Z",
     "source": "manifest"
   },
   {
@@ -1770,7 +1795,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:45.132Z",
+    "last_updated": "2025-08-19T14:53:58.079Z",
     "source": "manifest"
   },
   {
@@ -1895,7 +1920,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:43:45.864Z",
+    "last_updated": "2025-08-19T14:53:58.877Z",
     "source": "manifest"
   },
   {
@@ -1946,7 +1971,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:46.963Z",
+    "last_updated": "2025-08-19T14:53:59.644Z",
     "source": "manifest"
   },
   {
@@ -2037,7 +2062,7 @@
       "SystemHelper"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T14:43:47.754Z",
+    "last_updated": "2025-08-19T14:54:00.421Z",
     "source": "manifest"
   },
   {
@@ -2189,7 +2214,7 @@
       "diagnostic"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T14:43:48.466Z",
+    "last_updated": "2025-08-19T14:54:01.262Z",
     "source": "manifest"
   },
   {
@@ -2278,7 +2303,7 @@
     "flags": [
       "plugin"
     ],
-    "last_updated": "2025-08-19T14:43:49.264Z",
+    "last_updated": "2025-08-19T14:54:02.095Z",
     "source": "manifest"
   },
   {
@@ -2305,7 +2330,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:50.008Z",
+    "last_updated": "2025-08-19T14:54:02.856Z",
     "source": "manifest"
   },
   {
@@ -2488,7 +2513,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:50.915Z",
+    "last_updated": "2025-08-19T14:54:03.659Z",
     "source": "manifest"
   },
   {
@@ -2539,7 +2564,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:51.671Z",
+    "last_updated": "2025-08-19T14:54:04.442Z",
     "source": "manifest"
   },
   {
@@ -2698,7 +2723,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:52.429Z",
+    "last_updated": "2025-08-19T14:54:05.285Z",
     "source": "manifest"
   },
   {
@@ -2712,7 +2737,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:53.270Z",
+    "last_updated": "2025-08-19T14:54:06.201Z",
     "source": "manifest"
   },
   {
@@ -2726,7 +2751,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:54.083Z",
+    "last_updated": "2025-08-19T14:54:07.012Z",
     "source": "manifest"
   },
   {
@@ -2740,7 +2765,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:43:54.977Z",
+    "last_updated": "2025-08-19T14:54:07.935Z",
     "source": "manifest"
   },
   {
@@ -2807,7 +2832,7 @@
       "network"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T14:43:55.676Z",
+    "last_updated": "2025-08-19T14:54:08.714Z",
     "source": "manifest"
   },
   {
@@ -2911,7 +2936,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T14:43:56.409Z",
+    "last_updated": "2025-08-19T14:54:09.503Z",
     "source": "manifest"
   },
   {
@@ -2962,7 +2987,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:00.555Z",
+    "last_updated": "2025-08-19T14:54:10.249Z",
     "source": "manifest"
   },
   {
@@ -3001,7 +3026,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:01.341Z",
+    "last_updated": "2025-08-19T14:54:11.051Z",
     "source": "manifest"
   },
   {
@@ -3052,7 +3077,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:02.055Z",
+    "last_updated": "2025-08-19T14:54:11.795Z",
     "source": "manifest"
   },
   {
@@ -3066,7 +3091,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:02.055Z",
+    "last_updated": "2025-08-19T14:54:11.795Z",
     "source": "manifest"
   },
   {
@@ -3093,7 +3118,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:03.155Z",
+    "last_updated": "2025-08-19T14:54:12.597Z",
     "source": "manifest"
   },
   {
@@ -3144,7 +3169,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:03.918Z",
+    "last_updated": "2025-08-19T14:54:13.322Z",
     "source": "manifest"
   },
   {
@@ -3231,7 +3256,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:11.805Z",
+    "last_updated": "2025-08-19T14:54:14.130Z",
     "source": "manifest"
   },
   {
@@ -3258,7 +3283,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:12.962Z",
+    "last_updated": "2025-08-19T14:54:14.853Z",
     "source": "manifest"
   },
   {
@@ -3309,7 +3334,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:14.126Z",
+    "last_updated": "2025-08-19T14:54:15.630Z",
     "source": "manifest"
   },
   {
@@ -3432,7 +3457,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:14.825Z",
+    "last_updated": "2025-08-19T14:54:16.464Z",
     "source": "manifest"
   },
   {
@@ -3459,7 +3484,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:15.564Z",
+    "last_updated": "2025-08-19T14:54:17.240Z",
     "source": "manifest"
   },
   {
@@ -3522,7 +3547,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:16.281Z",
+    "last_updated": "2025-08-19T14:54:18.006Z",
     "source": "manifest"
   },
   {
@@ -3597,7 +3622,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:17.008Z",
+    "last_updated": "2025-08-19T14:54:18.821Z",
     "source": "manifest"
   },
   {
@@ -3638,7 +3663,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:44:17.732Z",
+    "last_updated": "2025-08-19T14:54:19.591Z",
     "source": "manifest"
   },
   {
@@ -3713,7 +3738,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:24.132Z",
+    "last_updated": "2025-08-19T14:54:20.325Z",
     "source": "manifest"
   },
   {
@@ -3752,7 +3777,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:24.821Z",
+    "last_updated": "2025-08-19T14:54:21.082Z",
     "source": "manifest"
   },
   {
@@ -3791,7 +3816,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:25.536Z",
+    "last_updated": "2025-08-19T14:54:21.833Z",
     "source": "manifest"
   },
   {
@@ -3818,7 +3843,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:26.243Z",
+    "last_updated": "2025-08-19T14:54:22.588Z",
     "source": "manifest"
   },
   {
@@ -3847,7 +3872,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:44:27.029Z",
+    "last_updated": "2025-08-19T14:54:23.737Z",
     "source": "manifest"
   },
   {
@@ -3898,7 +3923,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:27.731Z",
+    "last_updated": "2025-08-19T14:54:24.477Z",
     "source": "manifest"
   },
   {
@@ -3937,7 +3962,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:28.446Z",
+    "last_updated": "2025-08-19T14:54:25.219Z",
     "source": "manifest"
   },
   {
@@ -4000,7 +4025,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:33.698Z",
+    "last_updated": "2025-08-19T14:54:25.965Z",
     "source": "manifest"
   },
   {
@@ -4063,7 +4088,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:34.514Z",
+    "last_updated": "2025-08-19T14:54:26.755Z",
     "source": "manifest"
   },
   {
@@ -4090,7 +4115,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:35.234Z",
+    "last_updated": "2025-08-19T14:54:27.495Z",
     "source": "manifest"
   },
   {
@@ -4129,7 +4154,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:35.962Z",
+    "last_updated": "2025-08-19T14:54:28.252Z",
     "source": "manifest"
   },
   {
@@ -4240,7 +4265,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:36.750Z",
+    "last_updated": "2025-08-19T14:54:29.052Z",
     "source": "manifest"
   },
   {
@@ -4279,7 +4304,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:37.485Z",
+    "last_updated": "2025-08-19T14:54:29.806Z",
     "source": "manifest"
   },
   {
@@ -4318,7 +4343,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:38.201Z",
+    "last_updated": "2025-08-19T14:54:30.554Z",
     "source": "manifest"
   },
   {
@@ -4405,7 +4430,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:38.950Z",
+    "last_updated": "2025-08-19T14:54:31.331Z",
     "source": "manifest"
   },
   {
@@ -4444,7 +4469,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:39.648Z",
+    "last_updated": "2025-08-19T14:54:32.111Z",
     "source": "manifest"
   },
   {
@@ -4471,7 +4496,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:40.405Z",
+    "last_updated": "2025-08-19T14:54:32.859Z",
     "source": "manifest"
   },
   {
@@ -4498,7 +4523,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:41.116Z",
+    "last_updated": "2025-08-19T14:54:33.607Z",
     "source": "manifest"
   },
   {
@@ -4549,7 +4574,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:41.820Z",
+    "last_updated": "2025-08-19T14:54:34.740Z",
     "source": "manifest"
   },
   {
@@ -4602,7 +4627,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:44:42.522Z",
+    "last_updated": "2025-08-19T14:54:35.469Z",
     "source": "manifest"
   },
   {
@@ -4665,7 +4690,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:43.202Z",
+    "last_updated": "2025-08-19T14:54:36.221Z",
     "source": "manifest"
   },
   {
@@ -4692,7 +4717,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:43.891Z",
+    "last_updated": "2025-08-19T14:54:36.958Z",
     "source": "manifest"
   },
   {
@@ -4731,7 +4756,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:44.605Z",
+    "last_updated": "2025-08-19T14:54:37.717Z",
     "source": "manifest"
   },
   {
@@ -4770,7 +4795,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:45.332Z",
+    "last_updated": "2025-08-19T14:54:38.422Z",
     "source": "manifest"
   },
   {
@@ -4811,7 +4836,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:44:46.178Z",
+    "last_updated": "2025-08-19T14:54:39.242Z",
     "source": "manifest"
   },
   {
@@ -4852,7 +4877,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:44:46.889Z",
+    "last_updated": "2025-08-19T14:54:39.992Z",
     "source": "manifest"
   },
   {
@@ -5083,7 +5108,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:47.635Z",
+    "last_updated": "2025-08-19T14:54:40.771Z",
     "source": "manifest"
   },
   {
@@ -5170,7 +5195,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:48.331Z",
+    "last_updated": "2025-08-19T14:54:41.512Z",
     "source": "manifest"
   },
   {
@@ -5197,7 +5222,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:49.007Z",
+    "last_updated": "2025-08-19T14:54:42.307Z",
     "source": "manifest"
   },
   {
@@ -5284,7 +5309,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:49.691Z",
+    "last_updated": "2025-08-19T14:54:43.133Z",
     "source": "manifest"
   },
   {
@@ -5323,7 +5348,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:50.434Z",
+    "last_updated": "2025-08-19T14:54:43.949Z",
     "source": "manifest"
   },
   {
@@ -5362,7 +5387,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:53.449Z",
+    "last_updated": "2025-08-19T14:54:44.663Z",
     "source": "manifest"
   },
   {
@@ -5389,7 +5414,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:54.163Z",
+    "last_updated": "2025-08-19T14:54:45.419Z",
     "source": "manifest"
   },
   {
@@ -5512,7 +5537,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:54.899Z",
+    "last_updated": "2025-08-19T14:54:46.123Z",
     "source": "manifest"
   },
   {
@@ -5526,7 +5551,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:55.660Z",
+    "last_updated": "2025-08-19T14:54:46.892Z",
     "source": "manifest"
   },
   {
@@ -5673,7 +5698,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:56.462Z",
+    "last_updated": "2025-08-19T14:54:47.692Z",
     "source": "manifest"
   },
   {
@@ -5700,7 +5725,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:57.189Z",
+    "last_updated": "2025-08-19T14:54:48.810Z",
     "source": "manifest"
   },
   {
@@ -5777,7 +5802,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:44:57.909Z",
+    "last_updated": "2025-08-19T14:54:49.530Z",
     "source": "manifest"
   },
   {
@@ -5828,7 +5853,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:58.621Z",
+    "last_updated": "2025-08-19T14:54:50.232Z",
     "source": "manifest"
   },
   {
@@ -5867,7 +5892,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:44:59.303Z",
+    "last_updated": "2025-08-19T14:54:51.020Z",
     "source": "manifest"
   },
   {
@@ -5906,7 +5931,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:00.072Z",
+    "last_updated": "2025-08-19T14:54:51.741Z",
     "source": "manifest"
   },
   {
@@ -5969,7 +5994,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:00.847Z",
+    "last_updated": "2025-08-19T14:54:52.529Z",
     "source": "manifest"
   },
   {
@@ -6092,7 +6117,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:01.989Z",
+    "last_updated": "2025-08-19T14:54:53.300Z",
     "source": "manifest"
   },
   {
@@ -6191,7 +6216,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:02.731Z",
+    "last_updated": "2025-08-19T14:54:54.087Z",
     "source": "manifest"
   },
   {
@@ -6218,7 +6243,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:03.441Z",
+    "last_updated": "2025-08-19T14:54:54.867Z",
     "source": "manifest"
   },
   {
@@ -6269,7 +6294,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:04.584Z",
+    "last_updated": "2025-08-19T14:54:55.703Z",
     "source": "manifest"
   },
   {
@@ -6308,7 +6333,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:05.290Z",
+    "last_updated": "2025-08-19T14:54:56.428Z",
     "source": "manifest"
   },
   {
@@ -6335,7 +6360,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:05.987Z",
+    "last_updated": "2025-08-19T14:54:57.559Z",
     "source": "manifest"
   },
   {
@@ -6362,7 +6387,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:06.677Z",
+    "last_updated": "2025-08-19T14:54:58.371Z",
     "source": "manifest"
   },
   {
@@ -6401,7 +6426,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:07.413Z",
+    "last_updated": "2025-08-19T14:54:59.147Z",
     "source": "manifest"
   },
   {
@@ -6428,7 +6453,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:08.108Z",
+    "last_updated": "2025-08-19T14:54:59.911Z",
     "source": "manifest"
   },
   {
@@ -6467,7 +6492,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:08.896Z",
+    "last_updated": "2025-08-19T14:55:00.665Z",
     "source": "manifest"
   },
   {
@@ -6518,7 +6543,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:09.622Z",
+    "last_updated": "2025-08-19T14:55:01.449Z",
     "source": "manifest"
   },
   {
@@ -6557,7 +6582,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:10.315Z",
+    "last_updated": "2025-08-19T14:55:02.193Z",
     "source": "manifest"
   },
   {
@@ -6622,7 +6647,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:45:11.097Z",
+    "last_updated": "2025-08-19T14:55:03.048Z",
     "source": "manifest"
   },
   {
@@ -6631,61 +6656,12 @@
     "category": "Inspectors",
     "source_location": "https://github.com/XDelta/ResoniteShowSourceLocation",
     "author": "Delta",
-    "latest_version": "1.2.1",
-    "latest_download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.1/ShowSourceLocation.dll",
-    "releases": [
-      {
-        "version": "1.2.1",
-        "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.1/ShowSourceLocation.dll",
-        "release_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.1",
-        "published_at": "2024-09-04T15:36:54Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Rebuild for Resonite 2024.9.4.357",
-        "file_name": "ShowSourceLocation.dll",
-        "file_size": 10240,
-        "sha256": "c4737956baa6dbc67e4d33f505af3018c20e30449c4ad1d7568e10b068e8732e"
-      },
-      {
-        "version": "1.2.0",
-        "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.0/ShowSourceLocation.dll",
-        "release_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.2.0",
-        "published_at": "2024-07-26T23:30:30Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## New Features\r\n* Added an option to change which side the open slot button is on a worker inspector\r\n* Added an option to remove the purple tinting on the button\r\n\r\n## Tweaks\r\n* Uses the vanilla button instead of adding a new button.\r\n* Some cleanup on the project files",
-        "file_name": "ShowSourceLocation.dll",
-        "file_size": 10240,
-        "sha256": "48c4f60b7728ce6624649866b28fca47a25ecb8acdeb9e748d8274d16be26e15"
-      },
-      {
-        "version": "1.1.2",
-        "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.2/ShowSourceLocation.dll",
-        "release_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.1.2",
-        "published_at": "2024-07-13T15:35:37Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Updated for `Beta 2024.7.12.1147`",
-        "file_name": "ShowSourceLocation.dll",
-        "file_size": 9728,
-        "sha256": "486375e5e13a75f776c0747b6f0c7436d69771e7b94e89244dcd971c74933c9d"
-      },
-      {
-        "version": "1.1.1",
-        "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.1/ResoniteShowSourceLocation.dll",
-        "release_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/tag/1.1.1",
-        "published_at": "2023-09-27T12:29:54Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "ResoniteShowSourceLocation.dll",
-        "file_size": 10240,
-        "sha256": "362d18bc3e5c75865ed86fb5dbfc7959fbf152f4d8fe05e39e66859af9f219ff"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:11.848Z",
+    "last_updated": "2025-08-19T14:55:04.408Z",
     "source": "manifest"
   },
   {
@@ -6772,7 +6748,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:12.622Z",
+    "last_updated": "2025-08-19T14:55:05.166Z",
     "source": "manifest"
   },
   {
@@ -6871,7 +6847,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:13.369Z",
+    "last_updated": "2025-08-19T14:55:05.975Z",
     "source": "manifest"
   },
   {
@@ -6910,7 +6886,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:14.080Z",
+    "last_updated": "2025-08-19T14:55:06.708Z",
     "source": "manifest"
   },
   {
@@ -6949,7 +6925,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:14.831Z",
+    "last_updated": "2025-08-19T14:55:07.494Z",
     "source": "manifest"
   },
   {
@@ -7012,7 +6988,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:15.520Z",
+    "last_updated": "2025-08-19T14:55:08.298Z",
     "source": "manifest"
   },
   {
@@ -7051,7 +7027,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:16.332Z",
+    "last_updated": "2025-08-19T14:55:09.056Z",
     "source": "manifest"
   },
   {
@@ -7102,7 +7078,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:17.068Z",
+    "last_updated": "2025-08-19T14:55:09.886Z",
     "source": "manifest"
   },
   {
@@ -7141,7 +7117,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:17.766Z",
+    "last_updated": "2025-08-19T14:55:10.668Z",
     "source": "manifest"
   },
   {
@@ -7168,7 +7144,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:18.484Z",
+    "last_updated": "2025-08-19T14:55:11.850Z",
     "source": "manifest"
   },
   {
@@ -7255,7 +7231,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:19.212Z",
+    "last_updated": "2025-08-19T14:55:13.015Z",
     "source": "manifest"
   },
   {
@@ -7396,7 +7372,7 @@
       "cheese"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T14:45:31.597Z",
+    "last_updated": "2025-08-19T14:55:13.914Z",
     "source": "manifest"
   },
   {
@@ -7405,61 +7381,12 @@
     "category": "Visual Tweaks",
     "source_location": "https://github.com/hantabaru1014/HeadCullingMask",
     "author": "hantabaru1014",
-    "latest_version": "v2.0.0",
-    "latest_download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v2.0.0/HeadCullingMask.dll",
-    "releases": [
-      {
-        "version": "v2.0.0",
-        "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v2.0.0/HeadCullingMask.dll",
-        "release_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v2.0.0",
-        "published_at": "2023-10-23T15:02:03Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "A bridge until many of the problems with the RenderTransformOveride component are fixed\r\n\r\n(The version for neos is v1.x)\r\n\r\nThanks to @hazre",
-        "file_name": "HeadCullingMask.dll",
-        "file_size": 11264,
-        "sha256": "d621b87e4bec4806cfd164ee56f8b44f9c972adecba70561cb7a48e08b77ddc8"
-      },
-      {
-        "version": "v1.2.0",
-        "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.2.0/HeadCullingMask.dll",
-        "release_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v1.2.0",
-        "published_at": "2022-08-09T11:57:36Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Invisible is now canceled when in 3rd person view. (#1)  \r\n3人称視点時に非表示を解除するようにしました。(#1)\r\n\r\nThanks to @lillazk\r\n\r\nSHA256: 5998bbb56258b06dbb98574f74acb1bd31771fe17ea0a745a01fc5520f7b5bd6",
-        "file_name": "HeadCullingMask.dll",
-        "file_size": 11776,
-        "sha256": "5998bbb56258b06dbb98574f74acb1bd31771fe17ea0a745a01fc5520f7b5bd6"
-      },
-      {
-        "version": "v1.1.0",
-        "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.1.0/HeadCullingMask.dll",
-        "release_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v1.1.0",
-        "published_at": "2022-08-02T17:30:49Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Made it work more reliably. (Added support for avatars changed by other users.)\r\n\r\nSHA256: 67f2dc6104b7581876edc50a6fc2f33bf6461a2008313ff037891a0a302c824f",
-        "file_name": "HeadCullingMask.dll",
-        "file_size": 10240,
-        "sha256": "67f2dc6104b7581876edc50a6fc2f33bf6461a2008313ff037891a0a302c824f"
-      },
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.0.0/HeadCullingMask.dll",
-        "release_url": "https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v1.0.0",
-        "published_at": "2022-07-30T19:20:35Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "First release!\r\n\r\nSHA256: ab8d77975d02d23df11db5ae438474dca7cbbffddf7d210be81d828c7b772d4a",
-        "file_name": "HeadCullingMask.dll",
-        "file_size": 8192,
-        "sha256": "ab8d77975d02d23df11db5ae438474dca7cbbffddf7d210be81d828c7b772d4a"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:32.366Z",
+    "last_updated": "2025-08-19T14:55:15.228Z",
     "source": "manifest"
   },
   {
@@ -7546,7 +7473,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:33.147Z",
+    "last_updated": "2025-08-19T14:55:15.955Z",
     "source": "manifest"
   },
   {
@@ -7647,7 +7574,7 @@
       "world"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T14:45:33.992Z",
+    "last_updated": "2025-08-19T14:55:16.756Z",
     "source": "manifest"
   },
   {
@@ -7674,7 +7601,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:34.741Z",
+    "last_updated": "2025-08-19T14:55:17.529Z",
     "source": "manifest"
   },
   {
@@ -7701,7 +7628,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:36.862Z",
+    "last_updated": "2025-08-19T14:55:18.431Z",
     "source": "manifest"
   },
   {
@@ -7764,7 +7691,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:42.218Z",
+    "last_updated": "2025-08-19T14:55:19.226Z",
     "source": "manifest"
   },
   {
@@ -7805,7 +7732,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:45:42.964Z",
+    "last_updated": "2025-08-19T14:55:19.995Z",
     "source": "manifest"
   },
   {
@@ -7964,7 +7891,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:43.742Z",
+    "last_updated": "2025-08-19T14:55:20.748Z",
     "source": "manifest"
   },
   {
@@ -8063,7 +7990,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:44.443Z",
+    "last_updated": "2025-08-19T14:55:21.519Z",
     "source": "manifest"
   },
   {
@@ -8090,7 +8017,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:45.149Z",
+    "last_updated": "2025-08-19T14:55:22.358Z",
     "source": "manifest"
   },
   {
@@ -8155,7 +8082,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:45:46.287Z",
+    "last_updated": "2025-08-19T14:55:23.110Z",
     "source": "manifest"
   },
   {
@@ -8194,7 +8121,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:47.007Z",
+    "last_updated": "2025-08-19T14:55:23.836Z",
     "source": "manifest"
   },
   {
@@ -8208,7 +8135,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:47.007Z",
+    "last_updated": "2025-08-19T14:55:23.837Z",
     "source": "manifest"
   },
   {
@@ -8247,7 +8174,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:47.739Z",
+    "last_updated": "2025-08-19T14:55:24.572Z",
     "source": "manifest"
   },
   {
@@ -8310,7 +8237,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:48.465Z",
+    "last_updated": "2025-08-19T14:55:25.311Z",
     "source": "manifest"
   },
   {
@@ -8409,7 +8336,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:57.311Z",
+    "last_updated": "2025-08-19T14:55:26.086Z",
     "source": "manifest"
   },
   {
@@ -8448,7 +8375,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:45:58.038Z",
+    "last_updated": "2025-08-19T14:55:26.885Z",
     "source": "manifest"
   },
   {
@@ -8480,7 +8407,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T14:45:59.957Z",
+    "last_updated": "2025-08-19T14:55:27.657Z",
     "source": "manifest"
   },
   {
@@ -8675,7 +8602,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:00.769Z",
+    "last_updated": "2025-08-19T14:55:28.502Z",
     "source": "manifest"
   },
   {
@@ -8798,7 +8725,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:01.692Z",
+    "last_updated": "2025-08-19T14:55:29.252Z",
     "source": "manifest"
   },
   {
@@ -8890,7 +8817,7 @@
       "orb"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T14:46:02.586Z",
+    "last_updated": "2025-08-19T14:55:30.012Z",
     "source": "manifest"
   },
   {
@@ -8917,7 +8844,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:03.316Z",
+    "last_updated": "2025-08-19T14:55:30.761Z",
     "source": "manifest"
   },
   {
@@ -8931,7 +8858,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:03.316Z",
+    "last_updated": "2025-08-19T14:55:30.761Z",
     "source": "manifest"
   },
   {
@@ -8945,7 +8872,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:03.316Z",
+    "last_updated": "2025-08-19T14:55:30.761Z",
     "source": "manifest"
   },
   {
@@ -9032,7 +8959,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:04.077Z",
+    "last_updated": "2025-08-19T14:55:31.588Z",
     "source": "manifest"
   },
   {
@@ -9061,7 +8988,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:46:04.779Z",
+    "last_updated": "2025-08-19T14:55:32.318Z",
     "source": "manifest"
   },
   {
@@ -9088,7 +9015,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:05.522Z",
+    "last_updated": "2025-08-19T14:55:33.118Z",
     "source": "manifest"
   },
   {
@@ -9175,7 +9102,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:06.339Z",
+    "last_updated": "2025-08-19T14:55:33.894Z",
     "source": "manifest"
   },
   {
@@ -9202,7 +9129,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:07.064Z",
+    "last_updated": "2025-08-19T14:55:34.711Z",
     "source": "manifest"
   },
   {
@@ -9289,7 +9216,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:07.825Z",
+    "last_updated": "2025-08-19T14:55:35.462Z",
     "source": "manifest"
   },
   {
@@ -9402,7 +9329,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-19T14:46:08.612Z",
+    "last_updated": "2025-08-19T14:55:36.239Z",
     "source": "manifest"
   },
   {
@@ -9477,7 +9404,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:09.365Z",
+    "last_updated": "2025-08-19T14:55:37.003Z",
     "source": "manifest"
   },
   {
@@ -9552,7 +9479,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:10.088Z",
+    "last_updated": "2025-08-19T14:55:37.772Z",
     "source": "manifest"
   },
   {
@@ -9627,7 +9554,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:10.786Z",
+    "last_updated": "2025-08-19T14:55:38.651Z",
     "source": "manifest"
   },
   {
@@ -9678,7 +9605,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:11.495Z",
+    "last_updated": "2025-08-19T14:55:39.409Z",
     "source": "manifest"
   },
   {
@@ -9729,7 +9656,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:12.323Z",
+    "last_updated": "2025-08-19T14:55:40.599Z",
     "source": "manifest"
   },
   {
@@ -9780,7 +9707,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:13.097Z",
+    "last_updated": "2025-08-19T14:55:41.847Z",
     "source": "manifest"
   },
   {
@@ -9819,7 +9746,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:13.851Z",
+    "last_updated": "2025-08-19T14:55:42.991Z",
     "source": "manifest"
   },
   {
@@ -9882,7 +9809,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:14.611Z",
+    "last_updated": "2025-08-19T14:55:43.743Z",
     "source": "manifest"
   },
   {
@@ -10065,7 +9992,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:15.424Z",
+    "last_updated": "2025-08-19T14:55:44.596Z",
     "source": "manifest"
   },
   {
@@ -10092,7 +10019,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-19T14:46:16.138Z",
+    "last_updated": "2025-08-19T14:55:45.377Z",
     "source": "manifest"
   },
   {
@@ -10230,7 +10157,7 @@
       "v0.2.0"
     ],
     "flags": null,
-    "last_updated": "2025-08-19T14:46:16.374Z",
+    "last_updated": "2025-08-19T14:55:45.724Z",
     "source": "additional"
   }
 ]
