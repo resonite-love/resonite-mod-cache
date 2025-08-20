@@ -2778,6 +2778,13 @@
     "file_name": "ImNotAsking.dll",
     "file_size": 7680
   },
+  "ea81299fd63243a78c85e9e69e96813926661d5ef3fbd2dde1f2db27ab7c9217": {
+    "mod_name": "LogAutoFlush",
+    "version": "1.0.1",
+    "download_url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.1/LogAutoFlush.dll",
+    "file_name": "LogAutoFlush.dll",
+    "file_size": 6144
+  },
   "06266d513836e77d285057fef4495e39107b08e4ec122bea068d16a7a5a7f8c0": {
     "mod_name": "LogAutoFlush",
     "version": "1.0.0",
@@ -3911,6 +3918,13 @@
     "download_url": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod/releases/download/v1.0.0/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod.dll",
     "file_name": "ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod.dll",
     "file_size": 9216
+  },
+  "f8bfa3cfba5b8ed38e2d9a69a0875f50acdc643a2d6275316cdcef7dac00afe7": {
+    "mod_name": "VDFaceTracking",
+    "version": "1.1.2",
+    "download_url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.2/VDFaceTracking.dll",
+    "file_name": "VDFaceTracking.dll",
+    "file_size": 35840
   },
   "689ed767913005c713ae2792cf129994adfdf52158d3c2d04562c293e60f1064": {
     "mod_name": "VDFaceTracking",
