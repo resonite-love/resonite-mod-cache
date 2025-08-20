@@ -2834,34 +2834,6 @@
     "file_name": "ScalableWorldOrbs.dll",
     "file_size": 6656
   },
-  "6e1daebc4c16908505044709727715b7b5d09b3e86f8e7e6d5e03a053fe6cc70": {
-    "mod_name": "SettingsRedux",
-    "version": "2.1.0",
-    "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/2.1.0/SettingsRedux.dll",
-    "file_name": "SettingsRedux.dll",
-    "file_size": 30208
-  },
-  "c41298c54a0ae16ac723d3e616f502fa025f3fec02235f1da47c2b892dfbec21": {
-    "mod_name": "SettingsRedux",
-    "version": "2.0.0",
-    "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/2.0.0/SettingsRedux.dll",
-    "file_name": "SettingsRedux.dll",
-    "file_size": 30208
-  },
-  "6f9f1aada682e18c3537b2e22303934785652ff7d32c6b06231795968050fb28": {
-    "mod_name": "SettingsRedux",
-    "version": "1.1.0",
-    "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/1.1.0/SettingsRedux.dll",
-    "file_name": "SettingsRedux.dll",
-    "file_size": 27648
-  },
-  "9fe70b9fc49e9179bcab5ac0a7fd8193d94e26c96e306b95d3d6d1d2a3f4ee3b": {
-    "mod_name": "SettingsRedux",
-    "version": "1.0.0",
-    "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/1.0.0/SettingsRedux.dll",
-    "file_name": "SettingsRedux.dll",
-    "file_size": 27136
-  },
   "c4737956baa6dbc67e4d33f505af3018c20e30449c4ad1d7568e10b068e8732e": {
     "mod_name": "ShowSourceLocation",
     "version": "1.2.1",
@@ -3267,6 +3239,55 @@
     "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v1.0.0/SaveItemTweaks.dll",
     "file_name": "SaveItemTweaks.dll",
     "file_size": 15360
+  },
+  "c8aa69e270c2388c1b74a0a80c0739424ad12c2fabf50cacba7d603c143075ac": {
+    "mod_name": "SessionTweaks",
+    "version": "4.0.0",
+    "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/4.0.0/SessionTweaks.dll",
+    "file_name": "SessionTweaks.dll",
+    "file_size": 11776
+  },
+  "2c326da2de6fe1a5f07111af97e2d2d8d9af8554eafb8376f29a621285f05a0e": {
+    "mod_name": "SessionTweaks",
+    "version": "3.0.1",
+    "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/3.0.1/SessionTweaks.dll",
+    "file_name": "SessionTweaks.dll",
+    "file_size": 11776
+  },
+  "7768e18651b980ce6f80c6038d62a89d0d37eaea8f1dc558ff4661fe7c91feaa": {
+    "mod_name": "SessionTweaks",
+    "version": "3.0.0",
+    "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/3.0.0/SessionTweaks.dll",
+    "file_name": "SessionTweaks.dll",
+    "file_size": 14848
+  },
+  "db548cd71137f62811751a8296396e7c2523980700d10da3ac05e1ed8c970d47": {
+    "mod_name": "SessionTweaks",
+    "version": "v2.0.1",
+    "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/v2.0.1/SessionTweaks.dll",
+    "file_name": "SessionTweaks.dll",
+    "file_size": 10240
+  },
+  "1fd3a2b8cb66284574b611bdc71302b8a8dc0b86e167aaba97eb1ee9a9e76128": {
+    "mod_name": "SessionTweaks",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/v2.0.0/SessionTweaks.dll",
+    "file_name": "SessionTweaks.dll",
+    "file_size": 10240
+  },
+  "00af97fb6a6525554669c7de6683e96d5ad9712271f7e1df87a2292879093a96": {
+    "mod_name": "SessionTweaks",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/v1.1.0/SessionTweaks.dll",
+    "file_name": "SessionTweaks.dll",
+    "file_size": 8704
+  },
+  "78ce9c842ffcd3ad4d45b4f2f537d28ecfa2b13f80aa96741fe7ffd1c8a28e7e": {
+    "mod_name": "SessionTweaks",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/v1.0.0/SessionTweaks.dll",
+    "file_name": "SessionTweaks.dll",
+    "file_size": 8192
   },
   "0cf13dd11fbc93021ce17b65a37172fd456f5475984728414fa0b639ba3d3116": {
     "mod_name": "DisableGamepads",
