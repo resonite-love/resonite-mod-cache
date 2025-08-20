@@ -2834,6 +2834,34 @@
     "file_name": "ScalableWorldOrbs.dll",
     "file_size": 6656
   },
+  "6e1daebc4c16908505044709727715b7b5d09b3e86f8e7e6d5e03a053fe6cc70": {
+    "mod_name": "SettingsRedux",
+    "version": "2.1.0",
+    "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/2.1.0/SettingsRedux.dll",
+    "file_name": "SettingsRedux.dll",
+    "file_size": 30208
+  },
+  "c41298c54a0ae16ac723d3e616f502fa025f3fec02235f1da47c2b892dfbec21": {
+    "mod_name": "SettingsRedux",
+    "version": "2.0.0",
+    "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/2.0.0/SettingsRedux.dll",
+    "file_name": "SettingsRedux.dll",
+    "file_size": 30208
+  },
+  "6f9f1aada682e18c3537b2e22303934785652ff7d32c6b06231795968050fb28": {
+    "mod_name": "SettingsRedux",
+    "version": "1.1.0",
+    "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/1.1.0/SettingsRedux.dll",
+    "file_name": "SettingsRedux.dll",
+    "file_size": 27648
+  },
+  "9fe70b9fc49e9179bcab5ac0a7fd8193d94e26c96e306b95d3d6d1d2a3f4ee3b": {
+    "mod_name": "SettingsRedux",
+    "version": "1.0.0",
+    "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/1.0.0/SettingsRedux.dll",
+    "file_name": "SettingsRedux.dll",
+    "file_size": 27136
+  },
   "c4737956baa6dbc67e4d33f505af3018c20e30449c4ad1d7568e10b068e8732e": {
     "mod_name": "ShowSourceLocation",
     "version": "1.2.1",
@@ -3036,20 +3064,6 @@
     "download_url": "https://github.com/dfgHiatus/SpeedyURLs/releases/download/v1.0.0/SpeedyURLs.dll",
     "file_name": "SpeedyURLs.dll",
     "file_size": 5632
-  },
-  "3ac7b36adaf12ce35438eefeeaa40f6935c350f8d1031c0857b33186cbf1d8c5": {
-    "mod_name": "TarGZImporter",
-    "version": "v2.0.0",
-    "download_url": "https://github.com/dfgHiatus/TarGZImporter/releases/download/v2.0.0/TarGZImporter.dll",
-    "file_name": "TarGZImporter.dll",
-    "file_size": 12800
-  },
-  "4c445adcbfc890959a9cffd767f04d113cba58409477ac3bacfed5aea70cc0e9": {
-    "mod_name": "TarGZImporter",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/dfgHiatus/TarGZImporter/releases/download/v1.0.0/TarGZImporter.dll",
-    "file_name": "TarGZImporter.dll",
-    "file_size": 18432
   },
   "3c4c1021aebb19e2d42173c52589e4380d93d4c2fd31ee70f9ff06035fe56dbb": {
     "mod_name": "VRMLImporter",
