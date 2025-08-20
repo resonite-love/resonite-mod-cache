@@ -3226,6 +3226,48 @@
     "file_name": "HeadCullingMask.dll",
     "file_size": 8192
   },
+  "5e439c9e2116d529def0dd3caefed103a65969a2c43f5ad8405be95aa55f6e94": {
+    "mod_name": "SaveItemTweaks",
+    "version": "v2.1.0",
+    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.1.0/SaveItemTweaks.dll",
+    "file_name": "SaveItemTweaks.dll",
+    "file_size": 13824
+  },
+  "c72cd3fd18f6d1563e00a3f3215506d50b6950ba0489fb0abb2b6f95074aaf93": {
+    "mod_name": "SaveItemTweaks",
+    "version": "v2.0.2",
+    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.2/SaveItemTweaks.dll",
+    "file_name": "SaveItemTweaks.dll",
+    "file_size": 15360
+  },
+  "6e9d5f49a8be54ed641784a6068b21faf4c535314259d9847a3fffa06bd245a7": {
+    "mod_name": "SaveItemTweaks",
+    "version": "v2.0.1",
+    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.1/SaveItemTweaks.dll",
+    "file_name": "SaveItemTweaks.dll",
+    "file_size": 14848
+  },
+  "83047883785752c860d87d299f39f016eae9f781c0503f8a3e3e0f6de67b82b4": {
+    "mod_name": "SaveItemTweaks",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.0/SaveItemTweaks.dll",
+    "file_name": "SaveItemTweaks.dll",
+    "file_size": 14848
+  },
+  "22db4b5a87fd1aa823b61d2c861af5d9201bedf6edd3802288688dc45a480143": {
+    "mod_name": "SaveItemTweaks",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v1.0.1/SaveItemTweaks.dll",
+    "file_name": "SaveItemTweaks.dll",
+    "file_size": 14848
+  },
+  "f4f11529a3556613e1e6e7b16c1fa06bf33acda1ecb56882f871e75813de800f": {
+    "mod_name": "SaveItemTweaks",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v1.0.0/SaveItemTweaks.dll",
+    "file_name": "SaveItemTweaks.dll",
+    "file_size": 15360
+  },
   "c8aa69e270c2388c1b74a0a80c0739424ad12c2fabf50cacba7d603c143075ac": {
     "mod_name": "SessionTweaks",
     "version": "4.0.0",
@@ -4114,6 +4156,41 @@
     "download_url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.2.0/InspectorDelegateCaller.dll",
     "file_name": "InspectorDelegateCaller.dll",
     "file_size": 11264
+  },
+  "440c8043b0fac216788231dfcc63b01cc6983d36ea2fc28963d10051cd98513d": {
+    "mod_name": "LeftHandedProtoFlux",
+    "version": "v1.2.1",
+    "download_url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.2.1/LeftHandedProtoFlux.dll",
+    "file_name": "LeftHandedProtoFlux.dll",
+    "file_size": 13312
+  },
+  "f6536d01c4faefdd693aae8005b6b106e2f9831ae7aa167df2fe1fadc38fb9d6": {
+    "mod_name": "LeftHandedProtoFlux",
+    "version": "v1.2.0",
+    "download_url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.2.0/LeftHandedProtoFlux.dll",
+    "file_name": "LeftHandedProtoFlux.dll",
+    "file_size": 11776
+  },
+  "34ccb270bd6b714a7f375722816d834b87d67978c7e600cd2b0cbca6fc894bff": {
+    "mod_name": "LeftHandedProtoFlux",
+    "version": "v1.1.1",
+    "download_url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.1.1/LeftHandedProtoFlux.dll",
+    "file_name": "LeftHandedProtoFlux.dll",
+    "file_size": 10240
+  },
+  "1b20135bf4d10db43d39524ad55f8ec20d864e032f59dbebcb8a8378e67ea59c": {
+    "mod_name": "LeftHandedProtoFlux",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.1.0/LeftHandedProtoFlux.dll",
+    "file_name": "LeftHandedProtoFlux.dll",
+    "file_size": 9728
+  },
+  "903e57c2e9ebee360f6718dfa068dd9217755e72ed87673ce0d8f18623ee70af": {
+    "mod_name": "LeftHandedProtoFlux",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.0.0/LeftHandedProtoFlux.dll",
+    "file_name": "LeftHandedProtoFlux.dll",
+    "file_size": 9216
   },
   "2d1f074d8c02b26335ebcf5b348b27e03d59dc7dedaa968db69344b8069eb474": {
     "mod_name": "LogFlush",
