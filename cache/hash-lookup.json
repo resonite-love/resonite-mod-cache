@@ -1259,55 +1259,6 @@
     "file_name": "PrivacyShield.dll",
     "file_size": 11776
   },
-  "6fbea5a71994fe75cfd3aa34ec57a172fd9cbb5a873f1dfa2b398807f9db4cef": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v2.0.0-rc.2",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v2.0.0-rc.2/MeaMod.DNS.dll",
-    "file_name": "MeaMod.DNS.dll",
-    "file_size": 127200
-  },
-  "61b25544a12c182291155f46fd65351facf6828171fb14031bb5102621c0a697": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v2.0.0-rc.1",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v2.0.0-rc.1/MeaMod.DNS.dll",
-    "file_name": "MeaMod.DNS.dll",
-    "file_size": 126688
-  },
-  "8b419a4fb64543d36ce7c02e1bfdcb9fa32039584f5462c3a6fbd067387f384f": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v1.0.4",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.4/VRCFTReceiver.dll",
-    "file_name": "VRCFTReceiver.dll",
-    "file_size": 16384
-  },
-  "5df909d68a4b057117a46dc682c83e8cf7504aea235587bbe81ee8c8cb8ba555": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v1.0.3",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.3/VRCFTReceiver.dll",
-    "file_name": "VRCFTReceiver.dll",
-    "file_size": 16384
-  },
-  "433296c704b62ac4a710e364faae7635d1deed12af8df3f86193ce289da45225": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v1.0.2",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.2/VRCFTReceiver.dll",
-    "file_name": "VRCFTReceiver.dll",
-    "file_size": 12288
-  },
-  "eba11b7ed9e094e57f0bfb75cc0b36a5d00803ba3897cc9df81dd10c6dea50cf": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v1.0.1",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.1/VRCFTReceiver.dll",
-    "file_name": "VRCFTReceiver.dll",
-    "file_size": 12288
-  },
-  "288a30011ad4263308211c898aad542e74a52b5ba5c5d59ad58a5480875f7e51": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.0/VRCFTReceiver.dll",
-    "file_name": "VRCFTReceiver.dll",
-    "file_size": 10752
-  },
   "f47991ed6cea3b32da185b4ae71b97196e66c813fa34bc1d1969a2de7f1c839b": {
     "mod_name": "BoundedUIX (djsime1's fork)",
     "version": "v1.1.2",
