@@ -37,7 +37,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:41:00.218Z",
+    "last_updated": "2025-08-20T09:50:33.593Z",
     "source": "manifest"
   },
   {
@@ -64,7 +64,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:01.028Z",
+    "last_updated": "2025-08-20T09:50:34.379Z",
     "source": "manifest"
   },
   {
@@ -91,7 +91,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:02.282Z",
+    "last_updated": "2025-08-20T09:50:35.066Z",
     "source": "manifest"
   },
   {
@@ -118,7 +118,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:03.144Z",
+    "last_updated": "2025-08-20T09:50:35.772Z",
     "source": "manifest"
   },
   {
@@ -145,7 +145,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:03.972Z",
+    "last_updated": "2025-08-20T09:50:36.471Z",
     "source": "manifest"
   },
   {
@@ -154,12 +154,553 @@
     "category": "Misc",
     "source_location": "https://github.com/Restrainite/Restrainite",
     "author": "Restrainite developers",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v2.0.5",
+    "latest_download_url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.5/Restrainite.dll",
+    "releases": [
+      {
+        "version": "v2.0.5",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.5/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v2.0.5",
+        "published_at": "2025-08-07T20:59:05Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "# Pre-Release v2.0.5 for Resonite Pre-Release\r\n\r\nSame features as v1.3.6, but build for the Resonite Pre-Release.\r\n\r\nThis is somewhat tested and at least starts.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/Restrainite/compare/v2.0.4...v2.0.5",
+        "file_name": "Restrainite.dll",
+        "file_size": 140288,
+        "sha256": "8a15b4571216603553b1cc7bcd05d6f55b662e0cdb3844c6d34c58bcf58d07bc"
+      },
+      {
+        "version": "v2.0.4",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.4/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v2.0.4",
+        "published_at": "2025-07-31T22:17:35Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "# Pre-Release v2.0.4 for Resonite Pre-Release\r\n\r\nSame features as v1.3.6, but build for the Resonite Pre-Release.\r\n\r\n- Fix for moved BodyNode and Chirality classes.\r\n\r\nThis is completely untested.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/Restrainite/compare/v2.0.3...v2.0.4",
+        "file_name": "Restrainite.dll",
+        "file_size": 140800,
+        "sha256": "7cdd10f6070d0d90e7ba0b601703793f9bff01151c3a04839f22c81e46a21aa4"
+      },
+      {
+        "version": "v1.3.6",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.3.6/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.3.6",
+        "published_at": "2025-07-31T21:43:57Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Release v1.3.6\r\n\r\nMajor overhaul of the internals of Restrainite. We've completely changed how restrictions are structured internally to make them easier to extend in the future. This made it easier to implement the following new features:\r\n\r\n## New Features:\r\n\r\n- Added optional `Chirality?` dynamic variable to the following restrictions: (#99, #112, #114)\r\n  - `Prevent Climbing`\r\n  - `Prevent Grabbing`\r\n  - `Prevent Laser Touch`\r\n  - `Prevent Opening Context Menu`\r\n  - `Maximum Laser Distance`\r\n  - `Prevent Physical Touch`\r\n  - `Prevent Using Tools`\r\n- Added optional `AvatarAnchor` dynamic reference variable to `Prevent Leaving Anchors`. If it is set, the user is automatically forced into that anchor. If several anchors are set, a random one is selected, unless the user is already in one of the anchors. (#42)\r\n- Added new restriction `Maximum Voice Mode`. It requires a dynamic variable of type `VoiceMode`. We are also deprecating the restriction `Enforce Whispering`. Use this new restriction instead, with voice mode set to whispering. (#109 #110)\r\n\r\nAlso some of the changes of the splittening branch were merged. If you want to try out Restrainite with the pre-release (splittening) version of Resonite, use the pre-release versions [v2.0.x](https://github.com/Restrainite/Restrainite/releases).\r\n\r\n# Bugfix:\r\n- Fix `Always Hear Selected Users`\r\n- Fix crash with `Prevent Leaving Anchors`, when a local user was forced to swap between anchors.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/Restrainite/compare/v1.2.9...v1.3.6",
+        "file_name": "Restrainite.dll",
+        "file_size": 140288,
+        "sha256": "5393e0a9c02c5e2041aeac572dbcc513eef929149131f15395c7fc49515a52a3"
+      },
+      {
+        "version": "v2.0.3",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.3/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v2.0.3",
+        "published_at": "2025-07-21T19:05:29Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "# Pre-Release v2.0.3 for Resonite Pre-Release\r\n\r\nSame features as v1.3.5, but build for the Resonite Pre-Release.\r\n\r\nThis is completely untested.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/Restrainite/compare/v2.0.1...v2.0.3",
+        "file_name": "Restrainite.dll",
+        "file_size": 140288,
+        "sha256": "8fc0f24ad55d25c97eedcfb502a7e9d9b16a3e6f15807746a628e2a47291e100"
+      },
+      {
+        "version": "v1.3.5",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.3.5/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.3.5",
+        "published_at": "2025-07-21T18:56:50Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "# Chirality Bugfix Release v1.3.5\r\n\r\n## New Features\r\n- Add `Chirality?` dynamic variable to `Maximum Laser Distance`, `Prevent Physical Touch` and `Prevent Using Tools` #112 \r\n\r\n## Bugfixes\r\n- Avoid loosing original value, when switching Chirality?  on and off with `Prevent Laser Touch` #114\r\n- Show Context Menu Item for Laser, if `Prevent Laser Touch` Chirality? is not set for that side. #114 \r\n\r\n**Full Changelog**: https://github.com/Restrainite/Restrainite/compare/v1.3.4...v1.3.5",
+        "file_name": "Restrainite.dll",
+        "file_size": 139776,
+        "sha256": "4b9196b8e523706140ba0b02ea7a072467253d2d2e6f7af225e373ad38bdd33f"
+      },
+      {
+        "version": "v1.3.4",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.3.4/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.3.4",
+        "published_at": "2025-07-14T21:18:58Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "# Pre-Release v1.3.4\r\n\r\nThis is another pre-release with a lot of internal changes, it still needs a bit more testing, before we release it.\r\n\r\n## New Features:\r\n\r\n- Added optional Chirality? dynamic variable to the following restrictions: (#99)\r\n  - `Prevent Climbing`\r\n  - `Prevent Grabbing`\r\n  - `Prevent Laser Touch`\r\n  - `Prevent Opening Context Menu`\r\n- Added optional `AvatarAnchor` dynamic reference variable to `Prevent Leaving Anchors`. If it is set, the user is automatically forced into that anchor. If several anchors are set, a random one is selected, unless the user is already in one of the anchors. (#42)\r\n- Added new restriction `Maximum Voice Mode`. It requires a dynamic variable of type `VoiceMode`. We are also deprecating the restriction `Enforce Whispering`. Use this new restriction instead, with voice mode set to whispering. (#109 #110)\r\n\r\nAlso some of the changes of the splittening branch were merged.\r\n\r\n# Bugfix:\r\n- Fix `Always Hear Selected Users`\r\n\r\n**Full Changelog**: https://github.com/Restrainite/Restrainite/compare/v1.3.0...v1.3.4",
+        "file_name": "Restrainite.dll",
+        "file_size": 137216,
+        "sha256": "ee1fd365da78025996d92772e8519036a02c2d00161f7a26f41714186c297440"
+      },
+      {
+        "version": "v2.0.1",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.1/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v2.0.1",
+        "published_at": "2025-07-10T18:01:32Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "# Splittening  v2.0.1\r\n\r\nSame features as v1.3.0, but build for the Resonite pre-release.\r\n\r\nThis is highly untested, but it starts with the Monkey Loader pre-release.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/Restrainite/compare/v1.2.9...v2.0.1",
+        "file_name": "Restrainite.dll",
+        "file_size": 128000,
+        "sha256": "1de99ecdc3f8c2d0438a740eff863be494bd2b1a4b1f28951495781afefeb9b0"
+      },
+      {
+        "version": "v1.3.0",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.3.0/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.3.0",
+        "published_at": "2025-07-07T19:33:59Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "# Release v1.3.0\r\n\r\n* Major overhaul of the internals of Restrainite. We've completely changed how restrictions are structured internally to make them easier to extend in the future. This build has the same features as v1.2.9.\r\n\r\nBugfixes:\r\n* Fix crash with Prevent Leaving Anchors, when a local user was forced to  swap between anchors.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/Restrainite/compare/v1.2.9...v1.3.0",
+        "file_name": "Restrainite.dll",
+        "file_size": 126464,
+        "sha256": "bb5b8a0dc5add712531fbd58e784a724e66d5e403c7df6b74deebbe36505c5d9"
+      },
+      {
+        "version": "v1.2.9",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.2.9/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.2.9",
+        "published_at": "2025-06-27T18:14:16Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Bugfix-Release v1.2.9\r\n\r\n- Optimized performance in some corner cases. If a float variable was driven each update cycle, it was negatively impacting the framerate. We decided to remove logging and remove impulse notification for everything but the status changes.\r\n- Added better logging of the source of a status change, it now displays the slot tree instead of the world position.\r\n- Better handling of future versions of Resonite, when reflection targets might not exist.\r\n- Optimized all Awwdio related features.\r\n- Added `DynamicReferenceVariable<Slot>` with name `User/Restrainite Status Slot` to the Restrainite status slot, in case a culling system is moving it inside the user slot around.\r\n\r\n# Known Bugs:\r\n - `Always Hear Selected Users` is broken. Update to a newer version to fix it.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/Restrainite/compare/v1.2.3...v1.2.9",
+        "file_name": "Restrainite.dll",
+        "file_size": 115200,
+        "sha256": "9de48bd8f991b30610d7fe8809393c0f4954aec8329e539d4ef0db4ecc55a9ad"
+      },
+      {
+        "version": "v1.2.3",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.2.3/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.2.3",
+        "published_at": "2025-06-13T18:35:04Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Release v1.2.3\r\n\r\n## New Features\r\n- `Always Hear Selected Users`: If the user id is added to the list, you will always hear the user, even if other restrictions would forbid it. #102\r\n- `Hide Others Context Menus`: Don't show other users context menus. #101 \r\n\r\n## Deprecations\r\n- `Enforce Selective Hearing`: This feature is deprecated and should no longer be used.  This has been replaced by using `Always Hear Selected Users` and `Prevent Hearing Of Users` together. The decision was made, because it behaves slightly different. If a user is allowed by `Enforce Selective Hearing`,  they can still be muted by other restrictions, meanwhile with `Always Hear Selected Users`, the user can always be heard.\r\n\r\n## Bugfixes\r\n- Fix `PreventLaserTouch` in VR: If the laser was still pointing at an object, while this was toggled, that object was still touchable. #100\r\n- Change Harmony ID to match GitHub Name\r\n- Remove debug line spamming `Updating variable`\r\n\r\n# Known Bugs:\r\n - `Always Hear Selected Users` is broken. Update to a newer version to fix it.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/Restrainite/compare/v1.2.0...v1.2.3",
+        "file_name": "Restrainite.dll",
+        "file_size": 114176,
+        "sha256": "e74d360869734bb3c1e70a6cef284add863c5f5158c2a7b1016e1898bd779f12"
+      },
+      {
+        "version": "v1.2.0",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.2.0/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.2.0",
+        "published_at": "2025-06-04T23:22:31Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Feature Release 1.2.0: Awwdio\r\n\r\nIf you have presets setup, make sure to enable the new features, if you want to use them.\r\n\r\n## Changes\r\n\r\n- Added support for new Awwdio features.\r\n- Full Rewrite of the injection into the Dynamic Variable System, allowing for better handling of string and reference variables. This allows for features like Show/Hide User Avatars to be updated, when the string changes. #91\r\n- Added descriptions in Config Menu #93\r\n- Unified handling of `Allow / Deny * By Slot Tags`. See [documentation](https://restrainite.github.io/usage.html#how-to-use-by-slot-tags-restrictions) for changes.\r\n- `Prevent Non Dash Userspace Interaction` now does not prevent dismissal of notification windows.\r\n- `Prevent Running` now applies in VR mode as well. #92\r\n- Show float and string values in Restrainite Status.\r\n- Impulses are now send for float and string value changes.\r\n\r\n## New Features\r\n\r\n- Automatically set status to busy, if you are unable to reply to messages due to restrictions. (Configurable in Config Menu) #51\r\n- `Maximum Hearing Distance`: Allows to set a maximum distance the user can hear sounds and voices in world units. #86\r\n- `Prevent Edit Mode`: Disable activation of Edit Mode (F2 or in Session Settings) #96 \r\n- `Prevent Hearing`: Prevent hearing of any sounds, including user voices.\r\n- `Prevent Hearing Of Users`: Prevent hearing of user voices. (Has been renamed from `Prevent Hearing`)\r\n- `Prevent Hearing Of Sounds`: Prevent hearing of sounds and multimedia outputs.\r\n- `Allow Hearing By Slot Tags`: Only allow hearing of sounds, whose slot tag is in the list.\r\n- `Deny Hearing By Slot Tags`: Deny hearing of sounds, whose slot tag is in the list.\r\n- `Hearing Volume`: Set the hearing volume with a float value between 0.0 and 1.0.\r\n- `Speaking Volume`: Set the speaking volume with a float value between 0.0 and 1.0. #70 \r\n- `Prevent reading`: Scrambles all texts. #89\r\n- `Tracker Movement Speed`: For VR users, you can slow down the tracker movement. Setting the float value to 0.0 means no movement. Uses SmoothLerp internally. #65\r\n- `Disable Vr Trackers`: If the user is in VR, disable all trackers and make the avatar behave like Desktop mode. #94\r\n\r\n**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v1.1.8...v1.2.0",
+        "file_name": "Restrainite.dll",
+        "file_size": 112640,
+        "sha256": "47028730eabec251a3969e2004996c0727ac9dedb7f47f075f311b61e28d4a08"
+      },
+      {
+        "version": "v1.1.8",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.8/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.1.8",
+        "published_at": "2025-04-09T23:19:34Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Bugfix Release\r\n- Fixes #90 Hide/Show Dash Screens does not close the screen if currently open.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v1.1.7...v1.1.8",
+        "file_name": "Restrainite.dll",
+        "file_size": 87040,
+        "sha256": "444ff99a6ecfdfd47bb70e835461b8d67df99422dc51159029b1666b4d24ec34"
+      },
+      {
+        "version": "v1.1.7",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.7/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.1.7",
+        "published_at": "2025-04-04T03:12:42Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Bugfix Release\r\n- Fix method signature for Context Menu Show/Hide Item by @Uruloke in https://github.com/Restrainite/RestrainiteMod/pull/88\r\n- Fixes issue #87 \r\n\r\n**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v1.1.6...v1.1.7",
+        "file_name": "Restrainite.dll",
+        "file_size": 87040,
+        "sha256": "6b87a6b66de43e93a9a1eb639998c92c1927762c0b6729eafcc65f40c2f0eca7"
+      },
+      {
+        "version": "v1.1.6",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.6/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.1.6",
+        "published_at": "2025-03-04T23:19:51Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Refresh\r\n\r\n- No new features or bugfixes in this release, just a compilation against the latest FrooxEngine and some code to have better logs and make debugging easier in the future. Update is recommended for future compatibility.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v1.1.5...v1.1.6",
+        "file_name": "Restrainite.dll",
+        "file_size": 86528,
+        "sha256": "90d53412f0973612e31193c158ef687a8cf4c5b7b3367e236d477a139cb54b18"
+      },
+      {
+        "version": "v1.1.5",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.5/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.1.5",
+        "published_at": "2025-02-07T01:35:17Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Bugfix Release\r\n\r\n- Prevent Movement and Prevent Turning now works when TeleportLocomotion is active.\r\n- Prevent Turning now works when GrabWorldLocomotion is active. To prevent movement in GrabWorldLocomotion activate Prevent Climbing.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v1.1.4...v1.1.5",
+        "file_name": "Restrainite.dll",
+        "file_size": 84992,
+        "sha256": "4800386457a01ebb977d98a33f5b57022fd9d0b53c234dc4742501a4ed158c79"
+      },
+      {
+        "version": "v1.1.4",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.4/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.1.4",
+        "published_at": "2025-02-07T00:37:39Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Bugfix Release\r\n\r\n- **Behaviour Change:** Allow Emergency Respawn, even if Respawning is disabled. There is a restriction for Emergency Respawn itself and it might have been confusing otherwise.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v1.1.3...v1.1.4",
+        "file_name": "Restrainite.dll",
+        "file_size": 84480,
+        "sha256": "e5b99a914444dd871f2ebe48c44eb02008f3f06c18e8fa92e979647096772cae"
+      },
+      {
+        "version": "v1.1.3",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.3/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.1.3",
+        "published_at": "2025-02-01T18:19:25Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Bugfix Release\r\n\r\n- Fix issue with Restrainite not being activated, when the world is switched and the permission config is set to a preset that is identical to the current active preset.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v1.1.2...v1.1.3",
+        "file_name": "Restrainite.dll",
+        "file_size": 83456,
+        "sha256": "613c4d40e98c40219530cbc7c23ae95b26c8e8235afc1b744403aeee6f0a5bb3"
+      },
+      {
+        "version": "v1.1.2",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.2/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.1.2",
+        "published_at": "2025-02-01T13:24:55Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Bugfix Release\r\n\r\n- Wait for the world to completely load, before injecting into the UserRoot. This should help, when joining busy worlds.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v1.1.1...v1.1.2",
+        "file_name": "Restrainite.dll",
+        "file_size": 83456,
+        "sha256": "587a3a2efb769cded7820c284d2bb26e315ffaa1308fae9d5f6a43ddf779acbf"
+      },
+      {
+        "version": "v1.1.1",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.1/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.1.1",
+        "published_at": "2025-02-01T04:18:59Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Bugfix Release\r\n\r\n- Reduce and optimize log output. Avoid duplicated calls when changing presets.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v1.1.0...v1.1.1",
+        "file_name": "Restrainite.dll",
+        "file_size": 82944,
+        "sha256": "17aa362ff98d9a91a7770fd19b0db089f2ee276e89725a1fe4411469d2c31820"
+      },
+      {
+        "version": "v1.1.0",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.1.0/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.1.0",
+        "published_at": "2025-01-31T19:50:15Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "# Changes\r\n\r\n- #19 **New Restriction:** Maximum Laser Distance\r\n- #73 **New Feature:** Fast preset switching in Userspace for use in Facets\r\n- #76 **New Feature:** Password can be set to restrict access\r\n- #77 Notification in regards of All preset\r\n- #78 **New Restriction:** Movement Speed Multiplier\r\n- #79 Always disable restrictions in local home\r\n- #81 #82 Fix Null Pointer Exception in Show/Hide Context Menu Items Restriction, when item label was empty.\r\n\r\n**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v1.0.0...v1.1.0",
+        "file_name": "Restrainite.dll",
+        "file_size": 82432,
+        "sha256": "3189219117c5301145f30dd1778ca93935b631c9fdb121e536ce63a4bf115f81"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v1.0.0/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v1.0.0",
+        "published_at": "2025-01-24T19:08:44Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## First public beta release. Read the documentation here: https://restrainite.github.io/\r\n\r\n**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v0.4.14...v1.0.0",
+        "file_name": "Restrainite.dll",
+        "file_size": 72192,
+        "sha256": "33ecaaf9a069bb026a1607fb1e1175a07f6bc9f77531d0ed12ed77df0f40c771"
+      },
+      {
+        "version": "v0.4.14",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.14/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.14",
+        "published_at": "2025-01-19T19:45:08Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v0.4.13...v0.4.14",
+        "file_name": "Restrainite.dll",
+        "file_size": 72192,
+        "sha256": "786546f1b5a8cf7b6458037b575faae71e34bf7387b452b47cf680d9273d5231"
+      },
+      {
+        "version": "v0.4.13",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.13/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.13",
+        "published_at": "2025-01-19T19:05:20Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v0.4.12...v0.4.13",
+        "file_name": "Restrainite.dll",
+        "file_size": 71680,
+        "sha256": "69edc73d0edf886e7a0dfb7c70fe44d9206d5376671b87f6f97ac19cc1f5cbc1"
+      },
+      {
+        "version": "v0.4.12",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.12/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.12",
+        "published_at": "2025-01-18T17:41:21Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v0.4.11...v0.4.12",
+        "file_name": "Restrainite.dll",
+        "file_size": 71168,
+        "sha256": "4a81abcafae4083126898b37a6963c78d3f7b4cfbd2f4d760e40d28e8064556d"
+      },
+      {
+        "version": "v0.4.11",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.11/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.11",
+        "published_at": "2025-01-18T17:24:13Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/Restrainite/RestrainiteMod/compare/v0.4.10...v0.4.11",
+        "file_name": "Restrainite.dll",
+        "file_size": 71168,
+        "sha256": "aadbe7276035e5079f681302f14b37142ca227c0e60ed82cd6c65017db7b399a"
+      },
+      {
+        "version": "v0.4.10",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.10/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.10",
+        "published_at": "2025-01-17T21:41:33Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.4.9...v0.4.10",
+        "file_name": "Restrainite.dll",
+        "file_size": 67584,
+        "sha256": "fdf273c5cb77e8fb30d72f516d59180e55466c363a193f98319873f8f2fd5efa"
+      },
+      {
+        "version": "v0.4.9",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.9/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.9",
+        "published_at": "2025-01-15T01:11:57Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.4.8...v0.4.9",
+        "file_name": "Restrainite.dll",
+        "file_size": 64512,
+        "sha256": "be8af9402936d7443caf400327cea2c81376b6584ed174caf2c87851b279d3b7"
+      },
+      {
+        "version": "v0.4.8",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.8/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.8",
+        "published_at": "2025-01-14T23:48:06Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.4.7...v0.4.8",
+        "file_name": "Restrainite.dll",
+        "file_size": 62464,
+        "sha256": "87550637c838f7ffb9d2b2e949694a2f10caad3e6f2f38a59676179520469bf8"
+      },
+      {
+        "version": "v0.4.7",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.7/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.7",
+        "published_at": "2025-01-14T22:42:45Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.4.6...v0.4.7",
+        "file_name": "Restrainite.dll",
+        "file_size": 61952,
+        "sha256": "dd83fd79a866650ff09da2b29c3c46223a74fb98233fb3af4cd321fd50376224"
+      },
+      {
+        "version": "v0.4.6",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.6/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.6",
+        "published_at": "2025-01-14T22:24:10Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.4.5...v0.4.6",
+        "file_name": "Restrainite.dll",
+        "file_size": 61440,
+        "sha256": "1cf329b3a0710e529e43e3d8604ca161a8fdafce3e2a4022ef0f44a46e170a86"
+      },
+      {
+        "version": "v0.4.5",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.5/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.5",
+        "published_at": "2025-01-14T00:48:50Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.4.4...v0.4.5",
+        "file_name": "Restrainite.dll",
+        "file_size": 60928,
+        "sha256": "fbda6754ffa2b8776d26581458931c5eb9e839617314c093c3f6f4c5dcfacf1d"
+      },
+      {
+        "version": "v0.4.4",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.4/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.4",
+        "published_at": "2025-01-05T17:05:13Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.4.3...v0.4.4",
+        "file_name": "Restrainite.dll",
+        "file_size": 60416,
+        "sha256": "6a28ac9dd4b75f247da2d278a934ebacbe5dc44e79866cd8add7cc2c4aa8bf52"
+      },
+      {
+        "version": "v0.4.3",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.3/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.3",
+        "published_at": "2025-01-05T16:38:21Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.4.2...v0.4.3",
+        "file_name": "Restrainite.dll",
+        "file_size": 60416,
+        "sha256": "b63f04368f7d4c48d2be04ffca8830f38c0350da511f70ce90a8fed49d5e2e6e"
+      },
+      {
+        "version": "v0.4.2",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.2/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.2",
+        "published_at": "2025-01-01T18:30:39Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.4.1...v0.4.2",
+        "file_name": "Restrainite.dll",
+        "file_size": 58880,
+        "sha256": "7918a8c2dcd6b735f25bcf3d68e895f5a00dc9fef5441ed3320371a6231dd11a"
+      },
+      {
+        "version": "v0.4.1",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.1/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.1",
+        "published_at": "2024-12-30T13:36:52Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "\r\n**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.4.0...v0.4.1",
+        "file_name": "Restrainite.dll",
+        "file_size": 57344,
+        "sha256": "d7c03ba64dd71317db72b92c8138ff5b669256fbcc3709c619942b225d2bcd01"
+      },
+      {
+        "version": "v0.4.0",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.0/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.0",
+        "published_at": "2024-12-29T15:49:05Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## Warning\r\nThis new version changes the configuration format. Presets have to be recreated.\r\n\r\n\r\n**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.3.16...v0.4.0",
+        "file_name": "Restrainite.dll",
+        "file_size": 55808,
+        "sha256": "aab78d06471603c51fee140126a5fd6695d8489ee6eedaff1cc8d5db27f4983c"
+      },
+      {
+        "version": "v0.3.16",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.16/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.3.16",
+        "published_at": "2024-12-29T00:08:56Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Should be functionally identical to v0.3.15 but includes patch class/method refactoring.\r\n\r\n**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.3.15...v0.3.16",
+        "file_name": "Restrainite.dll",
+        "file_size": 55296,
+        "sha256": "b88236a99d4fdf0568fbd892a7745c00b2ccafb270d2b64b9cd90b36a0a858b7"
+      },
+      {
+        "version": "v0.3.15",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.15/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.3.15",
+        "published_at": "2024-12-28T21:55:18Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.3.14...v0.3.15",
+        "file_name": "Restrainite.dll",
+        "file_size": 54272,
+        "sha256": "af28e75d6fce8ac1aacc9e0831f344083ec30f05f483dd7fc3fffddca6f42f6a"
+      },
+      {
+        "version": "v0.3.14",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.14/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.3.14",
+        "published_at": "2024-12-27T20:36:25Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.3.13...v0.3.14",
+        "file_name": "Restrainite.dll",
+        "file_size": 53760,
+        "sha256": "df203ea1c1e0144c33a7133e764f0da5dc19e79f4f5006506671ce2017f52d8f"
+      },
+      {
+        "version": "v0.3.13",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.13/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.3.13",
+        "published_at": "2024-12-15T16:25:58Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.3.12...v0.3.13",
+        "file_name": "Restrainite.dll",
+        "file_size": 54272,
+        "sha256": "f64e103fccb07612cc5edeb716d9ee9c904d728dade1b6ca22909721758dc4b0"
+      },
+      {
+        "version": "v0.3.12",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.12/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.3.12",
+        "published_at": "2024-12-15T11:08:39Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.3.10...v0.3.12",
+        "file_name": "Restrainite.dll",
+        "file_size": 53248,
+        "sha256": "d5d22752c7aefef0730139c6faff3b2e876df933425e3119e452acab308d2c04"
+      },
+      {
+        "version": "v0.3.10",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.10/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.3.10",
+        "published_at": "2024-12-12T23:04:05Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.3.9...v0.3.10",
+        "file_name": "Restrainite.dll",
+        "file_size": 52224,
+        "sha256": "3aeb9e32435ed9948258ea085f3d3560501a55c8a42013b19aceb9192e60da1e"
+      },
+      {
+        "version": "v0.3.9",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.9/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.3.9",
+        "published_at": "2024-12-11T03:12:07Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.3.8...v0.3.9",
+        "file_name": "Restrainite.dll",
+        "file_size": 51712,
+        "sha256": "c25e46cef54cc0a2d18965208a17b5a6ea650eabf9b820eebfdb57ecfbe1c241"
+      },
+      {
+        "version": "v0.3.8",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.8/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.3.8",
+        "published_at": "2024-12-10T01:42:16Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/compare/v0.3.5...v0.3.8",
+        "file_name": "Restrainite.dll",
+        "file_size": 50688,
+        "sha256": "ef3f1e606e516d29f1e829bc52ae14d59c8986a9fbfbc0d52aa5dcadb8f3559b"
+      },
+      {
+        "version": "v0.3.5",
+        "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.5/Restrainite.dll",
+        "release_url": "https://github.com/Restrainite/Restrainite/releases/tag/v0.3.5",
+        "published_at": "2024-12-08T18:00:39Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "**Full Changelog**: https://github.com/SnepDrone/Restrainite/commits/v0.3.5",
+        "file_name": "Restrainite.dll",
+        "file_size": 49152,
+        "sha256": "63585ad92d6f1eddd79e12b33ab18d2287931f97ce1eda6ce9dfe6938493e821"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:04.758Z",
+    "last_updated": "2025-08-20T09:51:30.483Z",
     "source": "manifest"
   },
   {
@@ -200,7 +741,7 @@
       "list"
     ],
     "flags": null,
-    "last_updated": "2025-08-20T09:41:05.559Z",
+    "last_updated": "2025-08-20T09:51:31.245Z",
     "source": "manifest"
   },
   {
@@ -239,7 +780,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:06.325Z",
+    "last_updated": "2025-08-20T09:51:32.005Z",
     "source": "manifest"
   },
   {
@@ -278,7 +819,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:07.131Z",
+    "last_updated": "2025-08-20T09:51:32.761Z",
     "source": "manifest"
   },
   {
@@ -317,7 +858,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:07.874Z",
+    "last_updated": "2025-08-20T09:51:33.449Z",
     "source": "manifest"
   },
   {
@@ -356,7 +897,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:08.785Z",
+    "last_updated": "2025-08-20T09:51:34.356Z",
     "source": "manifest"
   },
   {
@@ -395,7 +936,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:09.627Z",
+    "last_updated": "2025-08-20T09:51:35.088Z",
     "source": "manifest"
   },
   {
@@ -506,7 +1047,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:10.397Z",
+    "last_updated": "2025-08-20T09:51:35.778Z",
     "source": "manifest"
   },
   {
@@ -605,7 +1146,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:11.166Z",
+    "last_updated": "2025-08-20T09:51:36.482Z",
     "source": "manifest"
   },
   {
@@ -644,7 +1185,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:12.026Z",
+    "last_updated": "2025-08-20T09:51:37.216Z",
     "source": "manifest"
   },
   {
@@ -683,7 +1224,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:12.799Z",
+    "last_updated": "2025-08-20T09:51:37.894Z",
     "source": "manifest"
   },
   {
@@ -832,7 +1373,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:41:13.600Z",
+    "last_updated": "2025-08-20T09:51:38.648Z",
     "source": "manifest"
   },
   {
@@ -883,7 +1424,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:14.430Z",
+    "last_updated": "2025-08-20T09:51:39.359Z",
     "source": "manifest"
   },
   {
@@ -910,7 +1451,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:15.193Z",
+    "last_updated": "2025-08-20T09:51:40.027Z",
     "source": "manifest"
   },
   {
@@ -949,7 +1490,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:16.011Z",
+    "last_updated": "2025-08-20T09:51:40.739Z",
     "source": "manifest"
   },
   {
@@ -1012,7 +1553,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:16.804Z",
+    "last_updated": "2025-08-20T09:51:41.446Z",
     "source": "manifest"
   },
   {
@@ -1051,7 +1592,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:17.598Z",
+    "last_updated": "2025-08-20T09:51:42.198Z",
     "source": "manifest"
   },
   {
@@ -1150,7 +1691,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:18.824Z",
+    "last_updated": "2025-08-20T09:51:42.927Z",
     "source": "manifest"
   },
   {
@@ -1189,7 +1730,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:19.667Z",
+    "last_updated": "2025-08-20T09:51:43.632Z",
     "source": "manifest"
   },
   {
@@ -1240,7 +1781,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:20.467Z",
+    "last_updated": "2025-08-20T09:51:44.369Z",
     "source": "manifest"
   },
   {
@@ -1254,7 +1795,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:21.233Z",
+    "last_updated": "2025-08-20T09:51:45.032Z",
     "source": "manifest"
   },
   {
@@ -1379,7 +1920,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:41:22.029Z",
+    "last_updated": "2025-08-20T09:51:45.812Z",
     "source": "manifest"
   },
   {
@@ -1430,7 +1971,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:22.851Z",
+    "last_updated": "2025-08-20T09:51:46.544Z",
     "source": "manifest"
   },
   {
@@ -1521,7 +2062,7 @@
       "SystemHelper"
     ],
     "flags": null,
-    "last_updated": "2025-08-20T09:41:23.693Z",
+    "last_updated": "2025-08-20T09:51:47.264Z",
     "source": "manifest"
   },
   {
@@ -1673,7 +2214,7 @@
       "diagnostic"
     ],
     "flags": null,
-    "last_updated": "2025-08-20T09:41:24.549Z",
+    "last_updated": "2025-08-20T09:51:48.026Z",
     "source": "manifest"
   },
   {
@@ -1762,7 +2303,7 @@
     "flags": [
       "plugin"
     ],
-    "last_updated": "2025-08-20T09:41:25.377Z",
+    "last_updated": "2025-08-20T09:51:49.112Z",
     "source": "manifest"
   },
   {
@@ -1789,7 +2330,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:26.146Z",
+    "last_updated": "2025-08-20T09:51:49.874Z",
     "source": "manifest"
   },
   {
@@ -1972,7 +2513,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:26.996Z",
+    "last_updated": "2025-08-20T09:51:50.622Z",
     "source": "manifest"
   },
   {
@@ -2023,7 +2564,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:27.897Z",
+    "last_updated": "2025-08-20T09:51:51.393Z",
     "source": "manifest"
   },
   {
@@ -2182,7 +2723,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:28.880Z",
+    "last_updated": "2025-08-20T09:51:52.295Z",
     "source": "manifest"
   },
   {
@@ -2196,7 +2737,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:29.876Z",
+    "last_updated": "2025-08-20T09:51:53.195Z",
     "source": "manifest"
   },
   {
@@ -2210,7 +2751,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:30.896Z",
+    "last_updated": "2025-08-20T09:51:54.094Z",
     "source": "manifest"
   },
   {
@@ -2224,7 +2765,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:31.851Z",
+    "last_updated": "2025-08-20T09:51:54.915Z",
     "source": "manifest"
   },
   {
@@ -2291,7 +2832,7 @@
       "network"
     ],
     "flags": null,
-    "last_updated": "2025-08-20T09:41:32.637Z",
+    "last_updated": "2025-08-20T09:51:55.680Z",
     "source": "manifest"
   },
   {
@@ -2395,7 +2936,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2025-08-20T09:41:42.957Z",
+    "last_updated": "2025-08-20T09:51:56.426Z",
     "source": "manifest"
   },
   {
@@ -2446,7 +2987,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:43.793Z",
+    "last_updated": "2025-08-20T09:51:57.124Z",
     "source": "manifest"
   },
   {
@@ -2485,7 +3026,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:44.584Z",
+    "last_updated": "2025-08-20T09:51:57.873Z",
     "source": "manifest"
   },
   {
@@ -2536,7 +3077,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:45.339Z",
+    "last_updated": "2025-08-20T09:51:58.630Z",
     "source": "manifest"
   },
   {
@@ -2550,7 +3091,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:45.339Z",
+    "last_updated": "2025-08-20T09:51:58.630Z",
     "source": "manifest"
   },
   {
@@ -2577,7 +3118,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:46.155Z",
+    "last_updated": "2025-08-20T09:51:59.395Z",
     "source": "manifest"
   },
   {
@@ -2628,7 +3169,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:46.950Z",
+    "last_updated": "2025-08-20T09:52:00.077Z",
     "source": "manifest"
   },
   {
@@ -2715,7 +3256,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:47.793Z",
+    "last_updated": "2025-08-20T09:52:00.833Z",
     "source": "manifest"
   },
   {
@@ -2742,7 +3283,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:48.577Z",
+    "last_updated": "2025-08-20T09:52:01.547Z",
     "source": "manifest"
   },
   {
@@ -2793,7 +3334,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:49.296Z",
+    "last_updated": "2025-08-20T09:52:02.341Z",
     "source": "manifest"
   },
   {
@@ -2916,7 +3457,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:50.147Z",
+    "last_updated": "2025-08-20T09:52:03.069Z",
     "source": "manifest"
   },
   {
@@ -2943,7 +3484,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:50.885Z",
+    "last_updated": "2025-08-20T09:52:03.738Z",
     "source": "manifest"
   },
   {
@@ -3006,7 +3547,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:51.679Z",
+    "last_updated": "2025-08-20T09:52:04.507Z",
     "source": "manifest"
   },
   {
@@ -3081,7 +3622,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:52.470Z",
+    "last_updated": "2025-08-20T09:52:05.249Z",
     "source": "manifest"
   },
   {
@@ -3122,7 +3663,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:41:53.240Z",
+    "last_updated": "2025-08-20T09:52:05.985Z",
     "source": "manifest"
   },
   {
@@ -3197,7 +3738,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:54.046Z",
+    "last_updated": "2025-08-20T09:52:06.732Z",
     "source": "manifest"
   },
   {
@@ -3236,7 +3777,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:54.838Z",
+    "last_updated": "2025-08-20T09:52:07.433Z",
     "source": "manifest"
   },
   {
@@ -3275,7 +3816,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:55.629Z",
+    "last_updated": "2025-08-20T09:52:08.156Z",
     "source": "manifest"
   },
   {
@@ -3302,7 +3843,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:56.427Z",
+    "last_updated": "2025-08-20T09:52:08.919Z",
     "source": "manifest"
   },
   {
@@ -3331,7 +3872,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:41:57.184Z",
+    "last_updated": "2025-08-20T09:52:09.647Z",
     "source": "manifest"
   },
   {
@@ -3382,7 +3923,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:57.980Z",
+    "last_updated": "2025-08-20T09:52:10.349Z",
     "source": "manifest"
   },
   {
@@ -3421,7 +3962,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:58.856Z",
+    "last_updated": "2025-08-20T09:52:11.076Z",
     "source": "manifest"
   },
   {
@@ -3484,7 +4025,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:41:59.747Z",
+    "last_updated": "2025-08-20T09:52:11.783Z",
     "source": "manifest"
   },
   {
@@ -3547,7 +4088,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:00.543Z",
+    "last_updated": "2025-08-20T09:52:12.510Z",
     "source": "manifest"
   },
   {
@@ -3574,7 +4115,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:01.342Z",
+    "last_updated": "2025-08-20T09:52:13.198Z",
     "source": "manifest"
   },
   {
@@ -3613,7 +4154,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:02.146Z",
+    "last_updated": "2025-08-20T09:52:13.897Z",
     "source": "manifest"
   },
   {
@@ -3724,7 +4265,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:02.935Z",
+    "last_updated": "2025-08-20T09:52:14.639Z",
     "source": "manifest"
   },
   {
@@ -3763,7 +4304,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:03.702Z",
+    "last_updated": "2025-08-20T09:52:15.354Z",
     "source": "manifest"
   },
   {
@@ -3802,7 +4343,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:04.561Z",
+    "last_updated": "2025-08-20T09:52:16.096Z",
     "source": "manifest"
   },
   {
@@ -3889,7 +4430,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:05.416Z",
+    "last_updated": "2025-08-20T09:52:16.838Z",
     "source": "manifest"
   },
   {
@@ -3928,7 +4469,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:06.250Z",
+    "last_updated": "2025-08-20T09:52:17.569Z",
     "source": "manifest"
   },
   {
@@ -3955,7 +4496,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:07.010Z",
+    "last_updated": "2025-08-20T09:52:18.266Z",
     "source": "manifest"
   },
   {
@@ -3982,7 +4523,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:07.795Z",
+    "last_updated": "2025-08-20T09:52:18.984Z",
     "source": "manifest"
   },
   {
@@ -4033,7 +4574,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:08.612Z",
+    "last_updated": "2025-08-20T09:52:19.695Z",
     "source": "manifest"
   },
   {
@@ -4086,7 +4627,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:42:09.390Z",
+    "last_updated": "2025-08-20T09:52:20.396Z",
     "source": "manifest"
   },
   {
@@ -4149,7 +4690,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:10.176Z",
+    "last_updated": "2025-08-20T09:52:21.086Z",
     "source": "manifest"
   },
   {
@@ -4176,7 +4717,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:11.045Z",
+    "last_updated": "2025-08-20T09:52:21.752Z",
     "source": "manifest"
   },
   {
@@ -4215,7 +4756,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:11.985Z",
+    "last_updated": "2025-08-20T09:52:22.514Z",
     "source": "manifest"
   },
   {
@@ -4254,7 +4795,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:12.877Z",
+    "last_updated": "2025-08-20T09:52:23.268Z",
     "source": "manifest"
   },
   {
@@ -4295,7 +4836,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:42:13.767Z",
+    "last_updated": "2025-08-20T09:52:24.033Z",
     "source": "manifest"
   },
   {
@@ -4336,7 +4877,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:42:14.516Z",
+    "last_updated": "2025-08-20T09:52:24.744Z",
     "source": "manifest"
   },
   {
@@ -4567,7 +5108,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:15.492Z",
+    "last_updated": "2025-08-20T09:52:25.501Z",
     "source": "manifest"
   },
   {
@@ -4654,7 +5195,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:16.306Z",
+    "last_updated": "2025-08-20T09:52:26.230Z",
     "source": "manifest"
   },
   {
@@ -4681,7 +5222,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:17.075Z",
+    "last_updated": "2025-08-20T09:52:27.001Z",
     "source": "manifest"
   },
   {
@@ -4768,7 +5309,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:17.903Z",
+    "last_updated": "2025-08-20T09:52:27.816Z",
     "source": "manifest"
   },
   {
@@ -4807,7 +5348,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:18.744Z",
+    "last_updated": "2025-08-20T09:52:28.541Z",
     "source": "manifest"
   },
   {
@@ -4846,7 +5387,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:19.537Z",
+    "last_updated": "2025-08-20T09:52:29.253Z",
     "source": "manifest"
   },
   {
@@ -4873,7 +5414,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:20.394Z",
+    "last_updated": "2025-08-20T09:52:29.917Z",
     "source": "manifest"
   },
   {
@@ -4996,7 +5537,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:21.243Z",
+    "last_updated": "2025-08-20T09:52:30.628Z",
     "source": "manifest"
   },
   {
@@ -5010,7 +5551,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:22.114Z",
+    "last_updated": "2025-08-20T09:52:31.327Z",
     "source": "manifest"
   },
   {
@@ -5157,7 +5698,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:22.978Z",
+    "last_updated": "2025-08-20T09:52:32.047Z",
     "source": "manifest"
   },
   {
@@ -5184,7 +5725,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:23.794Z",
+    "last_updated": "2025-08-20T09:52:32.744Z",
     "source": "manifest"
   },
   {
@@ -5261,7 +5802,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:42:24.546Z",
+    "last_updated": "2025-08-20T09:52:33.574Z",
     "source": "manifest"
   },
   {
@@ -5312,7 +5853,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:25.325Z",
+    "last_updated": "2025-08-20T09:52:34.270Z",
     "source": "manifest"
   },
   {
@@ -5351,7 +5892,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:26.107Z",
+    "last_updated": "2025-08-20T09:52:35.017Z",
     "source": "manifest"
   },
   {
@@ -5390,7 +5931,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:26.946Z",
+    "last_updated": "2025-08-20T09:52:35.697Z",
     "source": "manifest"
   },
   {
@@ -5453,7 +5994,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:27.763Z",
+    "last_updated": "2025-08-20T09:52:36.427Z",
     "source": "manifest"
   },
   {
@@ -5576,7 +6117,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:28.581Z",
+    "last_updated": "2025-08-20T09:52:37.179Z",
     "source": "manifest"
   },
   {
@@ -5675,7 +6216,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:29.384Z",
+    "last_updated": "2025-08-20T09:52:37.892Z",
     "source": "manifest"
   },
   {
@@ -5702,7 +6243,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:30.180Z",
+    "last_updated": "2025-08-20T09:52:38.586Z",
     "source": "manifest"
   },
   {
@@ -5753,7 +6294,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:30.962Z",
+    "last_updated": "2025-08-20T09:52:39.257Z",
     "source": "manifest"
   },
   {
@@ -5792,7 +6333,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:31.788Z",
+    "last_updated": "2025-08-20T09:52:39.942Z",
     "source": "manifest"
   },
   {
@@ -5819,7 +6360,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:32.554Z",
+    "last_updated": "2025-08-20T09:52:40.657Z",
     "source": "manifest"
   },
   {
@@ -5846,7 +6387,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:33.300Z",
+    "last_updated": "2025-08-20T09:52:41.748Z",
     "source": "manifest"
   },
   {
@@ -5885,7 +6426,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:34.057Z",
+    "last_updated": "2025-08-20T09:52:42.489Z",
     "source": "manifest"
   },
   {
@@ -5912,7 +6453,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:34.899Z",
+    "last_updated": "2025-08-20T09:52:43.188Z",
     "source": "manifest"
   },
   {
@@ -5951,7 +6492,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:35.706Z",
+    "last_updated": "2025-08-20T09:52:43.899Z",
     "source": "manifest"
   },
   {
@@ -6002,7 +6543,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:36.474Z",
+    "last_updated": "2025-08-20T09:52:44.580Z",
     "source": "manifest"
   },
   {
@@ -6041,7 +6582,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:37.306Z",
+    "last_updated": "2025-08-20T09:52:45.293Z",
     "source": "manifest"
   },
   {
@@ -6106,7 +6647,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:42:38.150Z",
+    "last_updated": "2025-08-20T09:52:46.046Z",
     "source": "manifest"
   },
   {
@@ -6169,7 +6710,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:38.973Z",
+    "last_updated": "2025-08-20T09:52:46.766Z",
     "source": "manifest"
   },
   {
@@ -6256,7 +6797,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:39.830Z",
+    "last_updated": "2025-08-20T09:52:47.443Z",
     "source": "manifest"
   },
   {
@@ -6355,7 +6896,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:40.654Z",
+    "last_updated": "2025-08-20T09:52:48.106Z",
     "source": "manifest"
   },
   {
@@ -6394,7 +6935,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:41.456Z",
+    "last_updated": "2025-08-20T09:52:48.804Z",
     "source": "manifest"
   },
   {
@@ -6433,7 +6974,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:42.269Z",
+    "last_updated": "2025-08-20T09:52:49.482Z",
     "source": "manifest"
   },
   {
@@ -6496,7 +7037,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:43.055Z",
+    "last_updated": "2025-08-20T09:52:50.173Z",
     "source": "manifest"
   },
   {
@@ -6535,7 +7076,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:43.844Z",
+    "last_updated": "2025-08-20T09:52:50.822Z",
     "source": "manifest"
   },
   {
@@ -6586,7 +7127,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:44.585Z",
+    "last_updated": "2025-08-20T09:52:51.503Z",
     "source": "manifest"
   },
   {
@@ -6625,7 +7166,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:45.334Z",
+    "last_updated": "2025-08-20T09:52:52.193Z",
     "source": "manifest"
   },
   {
@@ -6652,7 +7193,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:46.158Z",
+    "last_updated": "2025-08-20T09:52:52.925Z",
     "source": "manifest"
   },
   {
@@ -6739,7 +7280,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:46.977Z",
+    "last_updated": "2025-08-20T09:52:54.047Z",
     "source": "manifest"
   },
   {
@@ -6880,7 +7421,7 @@
       "cheese"
     ],
     "flags": null,
-    "last_updated": "2025-08-20T09:42:47.809Z",
+    "last_updated": "2025-08-20T09:52:55.037Z",
     "source": "manifest"
   },
   {
@@ -6943,7 +7484,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:48.601Z",
+    "last_updated": "2025-08-20T09:52:55.804Z",
     "source": "manifest"
   },
   {
@@ -7030,7 +7571,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:49.394Z",
+    "last_updated": "2025-08-20T09:52:56.504Z",
     "source": "manifest"
   },
   {
@@ -7039,99 +7580,14 @@
     "category": "Dashboard",
     "source_location": "https://github.com/kazu0617/SessionTweaks",
     "author": "kazu0617",
-    "latest_version": "4.0.0",
-    "latest_download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/4.0.0/SessionTweaks.dll",
-    "releases": [
-      {
-        "version": "4.0.0",
-        "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/4.0.0/SessionTweaks.dll",
-        "release_url": "https://github.com/kazu0617/SessionTweaks/releases/tag/4.0.0",
-        "published_at": "2025-05-11T08:46:28Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "This update changes Names, so plz replace config file or re-configurate it.\r\n\r\n## What's Changed\r\n* Updates typo in Name Override by @SectOLT in https://github.com/kazu0617/SessionTweaks/pull/8\r\n\r\n## New Contributors\r\n* @SectOLT made their first contribution in https://github.com/kazu0617/SessionTweaks/pull/8\r\n\r\n**Full Changelog**: https://github.com/kazu0617/SessionTweaks/compare/3.0.1...4.0.0\r\n\r\nSHA256: c8aa69e270c2388c1b74a0a80c0739424ad12c2fabf50cacba7d603c143075ac",
-        "file_name": "SessionTweaks.dll",
-        "file_size": 11776,
-        "sha256": "c8aa69e270c2388c1b74a0a80c0739424ad12c2fabf50cacba7d603c143075ac"
-      },
-      {
-        "version": "3.0.1",
-        "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/3.0.1/SessionTweaks.dll",
-        "release_url": "https://github.com/kazu0617/SessionTweaks/releases/tag/3.0.1",
-        "published_at": "2024-06-25T13:29:00Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Support Beta 2024.6.24.1317. It omits ContactDialog Patcher temporally, so if you want to use about it, please upvote https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/97 or contribute it!\r\n\r\n**Full Changelog**: https://github.com/kazu0617/SessionTweaks/compare/3.0.0...3.0.1",
-        "file_name": "SessionTweaks.dll",
-        "file_size": 11776,
-        "sha256": "2c326da2de6fe1a5f07111af97e2d2d8d9af8554eafb8376f29a621285f05a0e"
-      },
-      {
-        "version": "3.0.0",
-        "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/3.0.0/SessionTweaks.dll",
-        "release_url": "https://github.com/kazu0617/SessionTweaks/releases/tag/3.0.0",
-        "published_at": "2023-10-19T09:08:25Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Initial Release for Resonite 🎉 if any bugs, send Pull Request.\r\n初回リリースです！バグがあったらPull Requestまで。\r\n\r\n## What's Changed\r\n* Cleanup csproj, buildable on unix by @ljoonal in https://github.com/kazu0617/SessionTweaks/pull/4\r\n* remove unndeeded debug code by @EIA485 in https://github.com/kazu0617/SessionTweaks/pull/5\r\n\r\n## New Contributors\r\n* @ljoonal made their first contribution in https://github.com/kazu0617/SessionTweaks/pull/4\r\n\r\n**Full Changelog**: https://github.com/kazu0617/SessionTweaks/compare/v2.0.1...3.0.0\r\n\r\n## Checksum\r\n名前: SessionTweaks.dll\r\nサイズ: 14848 バイト (14 KiB)\r\nCRC32: 811FA0EF\r\nCRC64: 58E6B162BD7EBB07\r\nSHA256: 7768e18651b980ce6f80c6038d62a89d0d37eaea8f1dc558ff4661fe7c91feaa\r\nSHA1: 5a6765dba13efc5baca32e625f049ccbcf6cdf39\r\nBLAKE2sp: 86103faf723f2b0b1aa3cc95aa8c6c380f60b81e2b7d57af2d13fddd7418fbcc\r\n",
-        "file_name": "SessionTweaks.dll",
-        "file_size": 14848,
-        "sha256": "7768e18651b980ce6f80c6038d62a89d0d37eaea8f1dc558ff4661fe7c91feaa"
-      },
-      {
-        "version": "v2.0.1",
-        "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/v2.0.1/SessionTweaks.dll",
-        "release_url": "https://github.com/kazu0617/SessionTweaks/releases/tag/v2.0.1",
-        "published_at": "2022-01-10T22:13:32Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "v2.0.0 and older sends a lot of spam \"Msg(\"Invite\");\" so change to \"Debug(\"Invite\")\". I'm sorry.\r\n\r\n名前: SessionTweaks.dll\r\nサイズ: 10240 バイト (10 KiB)\r\nCRC32: 5ED27D41\r\nCRC64: AC7A56B230A1F5E3\r\nSHA256: DB548CD71137F62811751A8296396E7C2523980700D10DA3AC05E1ED8C970D47\r\nSHA1: 741CB1FABB355081E8D80569BBCC4E0F701ED842\r\nBLAKE2sp: 4D7BBE406ABAA9FFDE63A1A013EAE81F7E6E904DC914FE6179B089450D83D53A\r\n",
-        "file_name": "SessionTweaks.dll",
-        "file_size": 10240,
-        "sha256": "db548cd71137f62811751a8296396e7c2523980700d10da3ac05e1ed8c970d47"
-      },
-      {
-        "version": "v2.0.0",
-        "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/v2.0.0/SessionTweaks.dll",
-        "release_url": "https://github.com/kazu0617/SessionTweaks/releases/tag/v2.0.0",
-        "published_at": "2021-12-22T08:30:56Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Merge MessageCopy (focused Orb Spawning)\r\nOrb with Thumbnail supported!\r\n![image](https://user-images.githubusercontent.com/6259214/147060867-c222d524-70b2-4bf5-8e71-2acc4b00d504.png)\r\n\r\n!!Attention!!\r\nMessageCopy v1.1.0 doesn't compatible with SessionTweaks v2.0.0.\r\nIf you using v1.1.0 (only equals, v1.0.0 and future more version is compatible), rewind to v1.0.0 (or use much newer version).\r\n\r\n名前: SessionTweaks.dll\r\nサイズ: 10240 バイト (10 KiB)\r\nCRC32: 4AE132E4\r\nCRC64: 6F439110144B04CA\r\nSHA256: 1FD3A2B8CB66284574B611BDC71302B8A8DC0B86E167AABA97EB1EE9A9E76128\r\nSHA1: 729C639A5B56BA0719D992EDF5B75A8E077648E6\r\nBLAKE2sp: FCF2DDA9D9351E32549D8F148701E16D38EA14C46682D7DD9C76E3C15F17B756\r\n",
-        "file_name": "SessionTweaks.dll",
-        "file_size": 10240,
-        "sha256": "1fd3a2b8cb66284574b611bdc71302b8a8dc0b86e167aaba97eb1ee9a9e76128"
-      },
-      {
-        "version": "v1.1.0",
-        "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/v1.1.0/SessionTweaks.dll",
-        "release_url": "https://github.com/kazu0617/SessionTweaks/releases/tag/v1.1.0",
-        "published_at": "2021-12-22T07:44:20Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Replace \"Copy\" to \"Open\" for Join without focus.\r\nCopyボタンからOpenボタンへと変更しました(Copyボタンの用途が主に遅延ロードさせるためでしたので内包しました)\r\nCopyボタンに相当するURIを入れようとしましたが、UIが思いつきません。試しに入れたらこんな感じになったのでさすがにやめました。\r\n何かいい案が浮かんだらIssueかPR待ってます。\r\n![image](https://user-images.githubusercontent.com/6259214/147054641-2939e2b2-6154-4149-bcab-cb4239326622.png)\r\n\r\n名前: SessionTweaks.dll\r\nサイズ: 8704 バイト (8 KiB)\r\nCRC32: 3C713145\r\nCRC64: 467349410206E327\r\nSHA256: 00AF97FB6A6525554669C7DE6683E96D5AD9712271F7E1DF87A2292879093A96\r\nSHA1: 767136C8DA02C5E4DB46071BEFDC3D61AE512597\r\nBLAKE2sp: 85ACA5BCF671101AE88B159B952CB486F366A2241D7365D2C6C21E0FDFD168D9\r\n",
-        "file_name": "SessionTweaks.dll",
-        "file_size": 8704,
-        "sha256": "00af97fb6a6525554669c7de6683e96d5ad9712271f7e1df87a2292879093a96"
-      },
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/kazu0617/SessionTweaks/releases/download/v1.0.0/SessionTweaks.dll",
-        "release_url": "https://github.com/kazu0617/SessionTweaks/releases/tag/v1.0.0",
-        "published_at": "2021-12-20T09:09:47Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "This is first build.\r\n\r\n名前: SessionTweaks.dll\r\nCRC32: 7934ABFA\r\nCRC64: A8402EAC22DE51F8\r\nSHA256: 78CE9C842FFCD3AD4D45B4F2F537D28ECFA2B13F80AA96741FE7FFD1C8A28E7E\r\nSHA1: FA5DF5FDF7CF74CC26914EF9382C59EEEB456F22\r\nBLAKE2sp: C7ED54448ADF886D572DA42F71775C941947FD81490F6580F913FC5D6D08FE75\r\n\r\n",
-        "file_name": "SessionTweaks.dll",
-        "file_size": 8192,
-        "sha256": "78ce9c842ffcd3ad4d45b4f2f537d28ecfa2b13f80aa96741fe7ffd1c8a28e7e"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": [
       "world"
     ],
     "flags": null,
-    "last_updated": "2025-08-20T09:42:50.250Z",
+    "last_updated": "2025-08-20T09:52:57.513Z",
     "source": "manifest"
   },
   {
@@ -7158,7 +7614,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:51.191Z",
+    "last_updated": "2025-08-20T09:52:58.215Z",
     "source": "manifest"
   },
   {
@@ -7185,7 +7641,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:52.259Z",
+    "last_updated": "2025-08-20T09:52:59.123Z",
     "source": "manifest"
   },
   {
@@ -7248,7 +7704,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:53.056Z",
+    "last_updated": "2025-08-20T09:52:59.888Z",
     "source": "manifest"
   },
   {
@@ -7289,7 +7745,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:42:53.893Z",
+    "last_updated": "2025-08-20T09:53:00.609Z",
     "source": "manifest"
   },
   {
@@ -7448,7 +7904,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:55.082Z",
+    "last_updated": "2025-08-20T09:53:01.298Z",
     "source": "manifest"
   },
   {
@@ -7547,7 +8003,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:56.073Z",
+    "last_updated": "2025-08-20T09:53:02.094Z",
     "source": "manifest"
   },
   {
@@ -7574,7 +8030,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:56.860Z",
+    "last_updated": "2025-08-20T09:53:03.223Z",
     "source": "manifest"
   },
   {
@@ -7639,7 +8095,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:42:57.628Z",
+    "last_updated": "2025-08-20T09:53:03.930Z",
     "source": "manifest"
   },
   {
@@ -7678,7 +8134,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:58.374Z",
+    "last_updated": "2025-08-20T09:53:04.669Z",
     "source": "manifest"
   },
   {
@@ -7692,7 +8148,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:58.374Z",
+    "last_updated": "2025-08-20T09:53:04.669Z",
     "source": "manifest"
   },
   {
@@ -7731,7 +8187,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:59.172Z",
+    "last_updated": "2025-08-20T09:53:05.449Z",
     "source": "manifest"
   },
   {
@@ -7794,7 +8250,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:42:59.977Z",
+    "last_updated": "2025-08-20T09:53:06.191Z",
     "source": "manifest"
   },
   {
@@ -7893,7 +8349,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:00.796Z",
+    "last_updated": "2025-08-20T09:53:06.905Z",
     "source": "manifest"
   },
   {
@@ -7932,7 +8388,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:01.600Z",
+    "last_updated": "2025-08-20T09:53:07.594Z",
     "source": "manifest"
   },
   {
@@ -7964,7 +8420,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2025-08-20T09:43:02.414Z",
+    "last_updated": "2025-08-20T09:53:08.303Z",
     "source": "manifest"
   },
   {
@@ -8159,7 +8615,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:03.253Z",
+    "last_updated": "2025-08-20T09:53:09.040Z",
     "source": "manifest"
   },
   {
@@ -8282,7 +8738,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:04.086Z",
+    "last_updated": "2025-08-20T09:53:09.750Z",
     "source": "manifest"
   },
   {
@@ -8374,7 +8830,7 @@
       "orb"
     ],
     "flags": null,
-    "last_updated": "2025-08-20T09:43:04.902Z",
+    "last_updated": "2025-08-20T09:53:10.467Z",
     "source": "manifest"
   },
   {
@@ -8401,7 +8857,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:05.907Z",
+    "last_updated": "2025-08-20T09:53:11.151Z",
     "source": "manifest"
   },
   {
@@ -8415,7 +8871,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:05.907Z",
+    "last_updated": "2025-08-20T09:53:11.152Z",
     "source": "manifest"
   },
   {
@@ -8429,7 +8885,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:05.907Z",
+    "last_updated": "2025-08-20T09:53:11.152Z",
     "source": "manifest"
   },
   {
@@ -8516,7 +8972,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:06.825Z",
+    "last_updated": "2025-08-20T09:53:11.875Z",
     "source": "manifest"
   },
   {
@@ -8545,7 +9001,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:43:07.670Z",
+    "last_updated": "2025-08-20T09:53:12.552Z",
     "source": "manifest"
   },
   {
@@ -8572,7 +9028,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:08.491Z",
+    "last_updated": "2025-08-20T09:53:13.220Z",
     "source": "manifest"
   },
   {
@@ -8659,7 +9115,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:09.447Z",
+    "last_updated": "2025-08-20T09:53:13.926Z",
     "source": "manifest"
   },
   {
@@ -8686,7 +9142,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:10.225Z",
+    "last_updated": "2025-08-20T09:53:14.640Z",
     "source": "manifest"
   },
   {
@@ -8773,7 +9229,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:11.065Z",
+    "last_updated": "2025-08-20T09:53:15.364Z",
     "source": "manifest"
   },
   {
@@ -8886,7 +9342,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2025-08-20T09:43:11.869Z",
+    "last_updated": "2025-08-20T09:53:16.117Z",
     "source": "manifest"
   },
   {
@@ -8961,7 +9417,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:12.690Z",
+    "last_updated": "2025-08-20T09:53:16.831Z",
     "source": "manifest"
   },
   {
@@ -9036,7 +9492,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:13.606Z",
+    "last_updated": "2025-08-20T09:53:17.570Z",
     "source": "manifest"
   },
   {
@@ -9111,7 +9567,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:14.422Z",
+    "last_updated": "2025-08-20T09:53:18.683Z",
     "source": "manifest"
   },
   {
@@ -9162,7 +9618,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:15.260Z",
+    "last_updated": "2025-08-20T09:53:19.390Z",
     "source": "manifest"
   },
   {
@@ -9213,7 +9669,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:16.113Z",
+    "last_updated": "2025-08-20T09:53:20.071Z",
     "source": "manifest"
   },
   {
@@ -9264,7 +9720,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:16.889Z",
+    "last_updated": "2025-08-20T09:53:20.829Z",
     "source": "manifest"
   },
   {
@@ -9303,7 +9759,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:17.665Z",
+    "last_updated": "2025-08-20T09:53:21.573Z",
     "source": "manifest"
   },
   {
@@ -9366,7 +9822,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:18.458Z",
+    "last_updated": "2025-08-20T09:53:22.254Z",
     "source": "manifest"
   },
   {
@@ -9549,7 +10005,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:19.351Z",
+    "last_updated": "2025-08-20T09:53:23.045Z",
     "source": "manifest"
   },
   {
@@ -9576,7 +10032,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2025-08-20T09:43:20.260Z",
+    "last_updated": "2025-08-20T09:53:23.784Z",
     "source": "manifest"
   },
   {
@@ -9714,7 +10170,7 @@
       "v0.2.0"
     ],
     "flags": null,
-    "last_updated": "2025-08-20T09:43:20.683Z",
+    "last_updated": "2025-08-20T09:53:24.031Z",
     "source": "additional"
   }
 ]
