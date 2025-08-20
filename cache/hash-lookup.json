@@ -1000,6 +1000,13 @@
     "file_name": "ResoniteMetricsCounter.dll",
     "file_size": 25088
   },
+  "81bb9e42e053309c3f000e9cd22895081f155e43e1e4074fcae681832afb5ede": {
+    "mod_name": "ResoniteModLoader",
+    "version": "4.0.0",
+    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.0.0/0Harmony.dll",
+    "file_name": "0Harmony.dll",
+    "file_size": 2323456
+  },
   "80690e753ee7350fbaf8fdcd1d0d742fc6753292f87bd41c71351746464d527e": {
     "mod_name": "ResoniteModLoader",
     "version": "prerelease",
