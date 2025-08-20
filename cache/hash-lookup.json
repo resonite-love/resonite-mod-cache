@@ -41,6 +41,13 @@
     "file_name": "IgnoreControllerAxis.dll",
     "file_size": 19456
   },
+  "e4a001b230817e069ec3040fabc985d62b24d79958caffaf13e7cc8e8552e641": {
+    "mod_name": "Restrainite",
+    "version": "v2.0.6",
+    "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v2.0.6/Restrainite.dll",
+    "file_name": "Restrainite.dll",
+    "file_size": 140800
+  },
   "8a15b4571216603553b1cc7bcd05d6f55b662e0cdb3844c6d34c58bcf58d07bc": {
     "mod_name": "Restrainite",
     "version": "v2.0.5",
@@ -3519,6 +3526,13 @@
     "download_url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.0.0/StresslessHeadless.dll",
     "file_name": "StresslessHeadless.dll",
     "file_size": 9728
+  },
+  "c72ccd71cb82e938a3099af56254ccf8dcb171b3b364003703e9209377d53058": {
+    "mod_name": "Lognt",
+    "version": "1.1.0",
+    "download_url": "https://github.com/Raidriar796/Lognt/releases/download/1.1.0/Lognt.dll",
+    "file_name": "Lognt.dll",
+    "file_size": 6656
   },
   "18eb0a0df95832b85a1569450eab749654e83a080afb30fa94beacf89fe7febc": {
     "mod_name": "Lognt",
