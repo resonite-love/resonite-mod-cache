@@ -776,6 +776,13 @@
     "file_name": "ResoniteAprilFools.dll",
     "file_size": 10752
   },
+  "8065e8a1ae74db282723e0e53faa56410c867e9b41df7e835f54cf1e9807acc1": {
+    "mod_name": "ResoniteMP3",
+    "version": "V3.0.0",
+    "download_url": "https://github.com/AwesomeTornado/ResoniteMP3/releases/download/V3.0.0/FFMpegCore.dll",
+    "file_name": "FFMpegCore.dll",
+    "file_size": 146432
+  },
   "fcf493fc47a2f478a65303886b975fbdbf714cbb1f2d79f7fce97e4bb16b01a8": {
     "mod_name": "ResoniteMP3",
     "version": "V2.0.0",
