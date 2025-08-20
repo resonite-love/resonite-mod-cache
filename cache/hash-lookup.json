@@ -1784,6 +1784,20 @@
     "file_name": "KeyRepeatAdjust.dll",
     "file_size": 6656
   },
+  "e8f6bb0dbde068bc53d01a0788f9ff8b21dfbec5320df88c9c81aa112633d5b4": {
+    "mod_name": "LargerObjectMessagePreviews",
+    "version": "2.0.0",
+    "download_url": "https://github.com/art0007i/LargerObjectMessagePreviews/releases/download/2.0.0/LargerObjectMessagePreviews.dll",
+    "file_name": "LargerObjectMessagePreviews.dll",
+    "file_size": 7680
+  },
+  "23c9bf7060c14f2f29b91f84d9f946b82dc5d52af592143407e8053139845d33": {
+    "mod_name": "LargerObjectMessagePreviews",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/LargerObjectMessagePreviews/releases/download/1.0.0/LargerObjectMessagePreviews.dll",
+    "file_name": "LargerObjectMessagePreviews.dll",
+    "file_size": 8192
+  },
   "1389ebb1daaf4d8ddede64eaf611505199d2118087282098485ff5788e2a3c33": {
     "mod_name": "LocalStorage",
     "version": "2.0.3",
@@ -3064,6 +3078,13 @@
     "download_url": "https://github.com/dfgHiatus/TarGZImporter/releases/download/v1.0.0/TarGZImporter.dll",
     "file_name": "TarGZImporter.dll",
     "file_size": 18432
+  },
+  "3c4c1021aebb19e2d42173c52589e4380d93d4c2fd31ee70f9ff06035fe56dbb": {
+    "mod_name": "VRMLImporter",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/dfgHiatus/ResoniteVRMLImporter/releases/download/v2.0.0/cp_vrml1to2.dll",
+    "file_name": "cp_vrml1to2.dll",
+    "file_size": 199680
   },
   "28e3f550872a810b012abd7072e23ff46aa2da37f0d8505c18b981db73a6d2ff": {
     "mod_name": "ZipImporter",
