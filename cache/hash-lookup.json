@@ -4479,6 +4479,13 @@
     "file_name": "NoDoubleTapSprint.dll",
     "file_size": 5632
   },
+  "818e20a872e536cba22cb0345cd8776634641c25b45bc9f671adb93600a25b3f": {
+    "mod_name": "AvatarModuleInjector",
+    "version": "v0.12.1",
+    "download_url": "https://github.com/lill-la/AvatarModuleInjector/releases/download/v0.12.1/AvatarModuleInjector.dll",
+    "file_name": "AvatarModuleInjector.dll",
+    "file_size": 19968
+  },
   "56f6b80aff7098d66270df83239b52d440b7806f81111922c3285482efcb9ffd": {
     "mod_name": "AvatarModuleInjector",
     "version": "v0.12.0",
