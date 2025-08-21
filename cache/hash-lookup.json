@@ -1282,17 +1282,10 @@
   },
   "6fbea5a71994fe75cfd3aa34ec57a172fd9cbb5a873f1dfa2b398807f9db4cef": {
     "mod_name": "VRCFTReceiver",
-    "version": "v2.0.0-rc.2",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v2.0.0-rc.2/MeaMod.DNS.dll",
+    "version": "v2.0.0-rc.3",
+    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v2.0.0-rc.3/MeaMod.DNS.dll",
     "file_name": "MeaMod.DNS.dll",
     "file_size": 127200
-  },
-  "61b25544a12c182291155f46fd65351facf6828171fb14031bb5102621c0a697": {
-    "mod_name": "VRCFTReceiver",
-    "version": "v2.0.0-rc.1",
-    "download_url": "https://github.com/hazre/VRCFTReceiver/releases/download/v2.0.0-rc.1/MeaMod.DNS.dll",
-    "file_name": "MeaMod.DNS.dll",
-    "file_size": 126688
   },
   "8b419a4fb64543d36ce7c02e1bfdcb9fa32039584f5462c3a6fbd067387f384f": {
     "mod_name": "VRCFTReceiver",
