@@ -1063,6 +1063,20 @@
     "file_name": "0Harmony.dll",
     "file_size": 911872
   },
+  "58510374a69c30902c0351b07fcbec3d1c4d889906fc5098628fa48499625c7b": {
+    "mod_name": "ResonitePSVR2",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.0.1/ResonitePSVR2.dll",
+    "file_name": "ResonitePSVR2.dll",
+    "file_size": 27136
+  },
+  "a537605592cf43bb969671334965074eee2d7e3fd93a90c4f18f247c3020ce20": {
+    "mod_name": "ResonitePSVR2",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.0.0/ResonitePSVR2.dll",
+    "file_name": "ResonitePSVR2.dll",
+    "file_size": 27136
+  },
   "73ef9d20b45193067056ec57b3b2fc29d7fe6d4ca1269f96f00c65d6ceb64b89": {
     "mod_name": "CustomTextureSettings",
     "version": "1.0.0",
@@ -3743,6 +3757,13 @@
     "download_url": "https://github.com/badhaloninja/FixAltEnter/releases/download/v1.0.0/FixAltEnter.dll",
     "file_name": "FixAltEnter.dll",
     "file_size": 6144
+  },
+  "b0c60f89aa653b26d954260b76fe847af72f5efdcc0148daff46e852b44a5b20": {
+    "mod_name": "FixSelectionRadiusScale",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/download/v1.0.0/FixSelectionRadiusScale.dll",
+    "file_name": "FixSelectionRadiusScale.dll",
+    "file_size": 11264
   },
   "2c75b78f7bef200ea2dfcd747d43868717f6ebfcd4742985fc2bf13ab753563a": {
     "mod_name": "FriendlyInventoryAvatars",
