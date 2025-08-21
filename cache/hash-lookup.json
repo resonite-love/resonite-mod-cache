@@ -1077,6 +1077,13 @@
     "file_name": "ResonitePSVR2.dll",
     "file_size": 27136
   },
+  "cb8194b7e2260f49bca97585c1cfcd426f70cbd440f2eecbaec3a3daa4a54a49": {
+    "mod_name": "CustomTextureSettings",
+    "version": "1.1.0",
+    "download_url": "https://github.com/ultrawidegamer/CustomTextureSettings/releases/download/1.1.0/CustomTextureSettings.dll",
+    "file_name": "CustomTextureSettings.dll",
+    "file_size": 15360
+  },
   "73ef9d20b45193067056ec57b3b2fc29d7fe6d4ca1269f96f00c65d6ceb64b89": {
     "mod_name": "CustomTextureSettings",
     "version": "1.0.0",
