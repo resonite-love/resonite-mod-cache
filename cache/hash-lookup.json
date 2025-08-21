@@ -664,6 +664,139 @@
     "file_name": "SlotInspectorHighlighter.dll",
     "file_size": 7168
   },
+  "203a14448c8b9fff31fee1b27c28e3cc139b660ed146854cff7696a31de8e861": {
+    "mod_name": "BoneReferenceHelper",
+    "version": "v2.0.5",
+    "download_url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.5/BoneReferenceHelper.dll",
+    "file_name": "BoneReferenceHelper.dll",
+    "file_size": 18944
+  },
+  "6f4c13041e98c0f79988701392033cbe446bb26720cb89862f522dc3713cb709": {
+    "mod_name": "BoneReferenceHelper",
+    "version": "v2.0.4",
+    "download_url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.4/BoneReferenceHelper.dll",
+    "file_name": "BoneReferenceHelper.dll",
+    "file_size": 13312
+  },
+  "2abcdbfa6c2318129a580dc1b6adc9996492cb7f104652ce09bef53d0c9c728c": {
+    "mod_name": "BoneReferenceHelper",
+    "version": "v2.0.3",
+    "download_url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.3/BoneReferenceHelper.dll",
+    "file_name": "BoneReferenceHelper.dll",
+    "file_size": 12800
+  },
+  "d55ffc5bd81e983a46bfa61e442a38a5baca1d4882dcff1a7fe30c015799b14b": {
+    "mod_name": "BoneReferenceHelper",
+    "version": "v2.0.2",
+    "download_url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.2/BoneReferenceHelper.dll",
+    "file_name": "BoneReferenceHelper.dll",
+    "file_size": 12800
+  },
+  "962a3cdb31c8a95a8149e62f39375dd7afd9c301f8eeeb405109b67799512174": {
+    "mod_name": "BoneReferenceHelper",
+    "version": "v2.0.1",
+    "download_url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.1/BoneReferenceHelper.dll",
+    "file_name": "BoneReferenceHelper.dll",
+    "file_size": 12800
+  },
+  "6d8ac2d1a755c3b5c2821c9ce260d8a90bd18eb051cc802a57f55a9cdbffbf5f": {
+    "mod_name": "BoneReferenceHelper",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.0/BoneReferenceHelper.dll",
+    "file_name": "BoneReferenceHelper.dll",
+    "file_size": 12800
+  },
+  "dc63cd64eb34b8013c439265ebff710590d2c8d00ce7f736a2bfb69fe1c3289c": {
+    "mod_name": "BoneReferenceHelper",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v1.0.1/BoneReferenceHelper.dll",
+    "file_name": "BoneReferenceHelper.dll",
+    "file_size": 12800
+  },
+  "7d20a69dc971023b0f344990fd3610bf50a08c2ccfb218876192ec0d8414411f": {
+    "mod_name": "BoneReferenceHelper",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v1.0.0/BoneReferenceHelper.dll",
+    "file_name": "BoneReferenceHelper.dll",
+    "file_size": 11776
+  },
+  "837b436da5f72fe493fbd4ac12febbdc4ef1c0290315afca517e841efb7b8317": {
+    "mod_name": "DynVarGenerator",
+    "version": "1.3.4",
+    "download_url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.4/DynVarGenerator.dll",
+    "file_name": "DynVarGenerator.dll",
+    "file_size": 22016
+  },
+  "a5fff9d0f3aa21dd4c1f600aa00f1652dda7bccb4599fe545a1973ab8b5d29e9": {
+    "mod_name": "DynVarGenerator",
+    "version": "1.3.3",
+    "download_url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.3/DynVarGenerator.dll",
+    "file_name": "DynVarGenerator.dll",
+    "file_size": 20992
+  },
+  "1997299f08a952d354e49ca2c1481a025c6709ce7864375be1f4d3e95b116f21": {
+    "mod_name": "DynVarGenerator",
+    "version": "1.3.2",
+    "download_url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.2/DynVarGenerator.dll",
+    "file_name": "DynVarGenerator.dll",
+    "file_size": 20480
+  },
+  "8d7cecafea30d7879eb77467b83704cce3f3a09410668bff2432d03508703f76": {
+    "mod_name": "DynVarGenerator",
+    "version": "1.3.1",
+    "download_url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.1/DynVarGenerator.dll",
+    "file_name": "DynVarGenerator.dll",
+    "file_size": 20480
+  },
+  "aff8b36d2a365ff7140977e3aaf15b42e4ee517e9ab4c37ceec86c91a5ee6220": {
+    "mod_name": "DynVarGenerator",
+    "version": "1.3.0",
+    "download_url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.0/DynVarGenerator.dll",
+    "file_name": "DynVarGenerator.dll",
+    "file_size": 20480
+  },
+  "8d7d3a6ccf40f4a7372faebb80f6dbcc6871544148f6738792f8048f1393d0fa": {
+    "mod_name": "DynVarGenerator",
+    "version": "1.2.3",
+    "download_url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.2.3/DynVarGenerator.dll",
+    "file_name": "DynVarGenerator.dll",
+    "file_size": 20480
+  },
+  "fe057ac5338b64de34c106c78e4e4728296089229f6332ed2447987f5c212129": {
+    "mod_name": "DynVarGenerator",
+    "version": "1.2.2",
+    "download_url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.2.2/DynVarGenerator.dll",
+    "file_name": "DynVarGenerator.dll",
+    "file_size": 20480
+  },
+  "d688ed348a10c811d2c88083927acc8f2dd75a5bca6b0203e19110e7fe48cbec": {
+    "mod_name": "DynVarGenerator",
+    "version": "1.2.1",
+    "download_url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.2.1/DynVarGenerator.dll",
+    "file_name": "DynVarGenerator.dll",
+    "file_size": 20480
+  },
+  "ac937921891aae188f00c68981551073ad217c1b5332a0dc0796b17e8bd7f224": {
+    "mod_name": "DynVarGenerator",
+    "version": "1.2.0",
+    "download_url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.2.0/DynVarGenerator.dll",
+    "file_name": "DynVarGenerator.dll",
+    "file_size": 19456
+  },
+  "534f09d41a876c760c18e7866846e989860247f19e422e8b2c0066e4faeb0f61": {
+    "mod_name": "DynVarGenerator",
+    "version": "1.1.0",
+    "download_url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.1.0/DynVarGenerator.dll",
+    "file_name": "DynVarGenerator.dll",
+    "file_size": 17920
+  },
+  "ff05ebb692630c755585f8a96e9db5de5688df8d76e554f867a28e2d9577a944": {
+    "mod_name": "DynVarGenerator",
+    "version": "1.0.0",
+    "download_url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.0.0/DynVarGenerator.dll",
+    "file_name": "DynVarGenerator.dll",
+    "file_size": 15360
+  },
   "113263b286d5e84fa3330dfb0eb4b475ec28c9cf38f9e6b5267c8eaf2fc546d0": {
     "mod_name": "CustomShaderLib",
     "version": "v1.0.1",
