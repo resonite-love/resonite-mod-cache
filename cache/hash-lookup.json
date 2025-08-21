@@ -720,6 +720,13 @@
     "file_name": "HandAligner.dll",
     "file_size": 19968
   },
+  "b9953fe57c6ceee222791e9517b02c7ce799c2042c339190ccff3c4a42c56a0c": {
+    "mod_name": "HostCrashGuard",
+    "version": "V3.0.0",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-HostCrashGuard/releases/download/V3.0.0/HostCrashGuard.dll",
+    "file_name": "HostCrashGuard.dll",
+    "file_size": 14336
+  },
   "5db26c4b3144caac23190727e1571193507b42c42a72b5f33b4de87e9361811d": {
     "mod_name": "HostCrashGuard",
     "version": "V2.4.5",
@@ -887,6 +894,20 @@
     "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0.0/EsnyaResoniteModTemplate.dll",
     "file_name": "EsnyaResoniteModTemplate.dll",
     "file_size": 7168
+  },
+  "c2fd09becc7f49528eb7d0ce1d41c399d301a8fe31c8f93cd5ece34082f43b1d": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0/EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_size": 11264
+  },
+  "b32d900866522e9c9f19e1b01398a22a7a0c11a431fedb552d386fc69ec10a25": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v1.0.0-beta.1",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0-beta.1/EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_size": 11264
   },
   "9089516dab5131f39e7fe19f03f3568822481ecec3ce7989caa151818bee5920": {
     "mod_name": "EsnyaTweaks",
@@ -2820,6 +2841,13 @@
     "file_name": "PermissionControl.dll",
     "file_size": 13824
   },
+  "7ad64f9a7d3c93aaf08236171d89f49f44699d808fe44c4322f2d02cdd80654b": {
+    "mod_name": "PTTKeybinds",
+    "version": "1.5.1",
+    "download_url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.5.1/ResonitePTTKeybinds.dll",
+    "file_name": "ResonitePTTKeybinds.dll",
+    "file_size": 12288
+  },
   "a55817ddeb7725c1c3d18d838f4133351dbfe634af500a01de641a52efefb618": {
     "mod_name": "PTTKeybinds",
     "version": "1.5.0",
@@ -2882,6 +2910,13 @@
     "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/1.0.0/SettingsRedux.dll",
     "file_name": "SettingsRedux.dll",
     "file_size": 27136
+  },
+  "40706fc5bcc021cbc5a200f5f8f81cd50995d064aaede780e5a870c701435029": {
+    "mod_name": "ShowSourceLocation",
+    "version": "1.2.2",
+    "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.2/ShowSourceLocation.dll",
+    "file_name": "ShowSourceLocation.dll",
+    "file_size": 9216
   },
   "c4737956baa6dbc67e4d33f505af3018c20e30449c4ad1d7568e10b068e8732e": {
     "mod_name": "ShowSourceLocation",
@@ -3394,6 +3429,13 @@
     "file_name": "NoSteamScreenshots.dll",
     "file_size": 6144
   },
+  "98f6bd007b0e0d4eae726d66d3d6096626691024849f4a394a2bcf48357e681e": {
+    "mod_name": "ResoniteIkCulling",
+    "version": "2.7.0",
+    "download_url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.7.0/ResoniteIKCulling.dll",
+    "file_name": "ResoniteIKCulling.dll",
+    "file_size": 15872
+  },
   "1d0a370b05fde8937bcf2d96cfa632163f9ba3e4ec716eb62d5bf92524c7fe87": {
     "mod_name": "ResoniteIkCulling",
     "version": "2.6.2",
@@ -3697,8 +3739,8 @@
   },
   "9ce64c469cd6052e0414ac83b5bb9beaffffb7f8e5ba49367d5efcfe15335148": {
     "mod_name": "ResoniteModSettings",
-    "version": "v2.3.0-prerelease.1",
-    "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.3.0-prerelease.1/ResoniteModSettings.dll",
+    "version": "v2.3.0",
+    "download_url": "https://github.com/badhaloninja/ResoniteModSettings/releases/download/v2.3.0/ResoniteModSettings.dll",
     "file_name": "ResoniteModSettings.dll",
     "file_size": 47616
   },
@@ -3802,8 +3844,8 @@
   },
   "0cacd23127ff49b8b0510179807378f822d8a02aef1187ad274f951874d2fa2a": {
     "mod_name": "Optizoom",
-    "version": "v2.2.0-prerelease.1",
-    "download_url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.2.0-prerelease.1/Optizoom.dll",
+    "version": "v2.2.0",
+    "download_url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.2.0/Optizoom.dll",
     "file_name": "Optizoom.dll",
     "file_size": 15872
   },
