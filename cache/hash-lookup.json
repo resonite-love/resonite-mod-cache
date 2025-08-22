@@ -3345,6 +3345,13 @@
     "file_name": "Unzipper.dll",
     "file_size": 11776
   },
+  "eb89742b9bdd70ae11a74f1d018d3131b96a3a1cb56ba78218a2e376946061bc": {
+    "mod_name": "GetItemLink",
+    "version": "1.4.8.0",
+    "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.8.0/GetItemLink.dll",
+    "file_name": "GetItemLink.dll",
+    "file_size": 11264
+  },
   "ac32459d51e237577a4779f1c85d22af91e53b3bbd33511c3d9d4b6cebff246e": {
     "mod_name": "GetItemLink",
     "version": "1.4.6.0",
