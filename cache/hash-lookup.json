@@ -4353,6 +4353,13 @@
     "file_name": "FixSessionBrowser.dll",
     "file_size": 7680
   },
+  "a2164153766e7cc7a5c0af0f4ba47ff3bbcc96a431ea5fed66d16097cb0c4f07": {
+    "mod_name": "HotReloadLib",
+    "version": "v3.1.0-RML",
+    "download_url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v3.1.0-RML/ResoniteHotReloadLib.dll",
+    "file_name": "ResoniteHotReloadLib.dll",
+    "file_size": 12800
+  },
   "305275c439b7866acdb2030097cfff710df5a240aab2144ce873f262e57be752": {
     "mod_name": "HotReloadLib",
     "version": "v3.0.0-RML",
