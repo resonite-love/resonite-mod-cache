@@ -3996,6 +3996,13 @@
     "file_name": "FixAltEnter.dll",
     "file_size": 6144
   },
+  "567566428e3e91000a6dcd4281e6260fd37b0d1c5a88753044a1670b008e9a33": {
+    "mod_name": "FixSelectionRadiusScale",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/download/v1.0.1/FixSelectionRadiusScale.dll",
+    "file_name": "FixSelectionRadiusScale.dll",
+    "file_size": 10752
+  },
   "b0c60f89aa653b26d954260b76fe847af72f5efdcc0148daff46e852b44a5b20": {
     "mod_name": "FixSelectionRadiusScale",
     "version": "v1.0.0",
