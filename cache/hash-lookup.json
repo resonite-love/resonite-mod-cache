@@ -2043,6 +2043,13 @@
     "file_name": "LargerObjectMessagePreviews.dll",
     "file_size": 8192
   },
+  "50aa009b2e86b09db406cb4c5dc25b46775cd31806dd342d89b4e255fcbb4553": {
+    "mod_name": "LocalStorage",
+    "version": "2.0.4",
+    "download_url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.4/LocalStorage.dll",
+    "file_name": "LocalStorage.dll",
+    "file_size": 19968
+  },
   "1389ebb1daaf4d8ddede64eaf611505199d2118087282098485ff5788e2a3c33": {
     "mod_name": "LocalStorage",
     "version": "2.0.3",
@@ -2099,6 +2106,13 @@
     "file_name": "LocalStorage.dll",
     "file_size": 19456
   },
+  "bc223dd143de4c66c0f4c5bf25aeb6bcd41cbeab6fc2274e20b1212a72c7cef8": {
+    "mod_name": "LogCleaner",
+    "version": "1.1.1",
+    "download_url": "https://github.com/art0007i/LogCleaner/releases/download/1.1.1/LogCleaner.dll",
+    "file_name": "LogCleaner.dll",
+    "file_size": 9728
+  },
   "aece08d0beef41ed9c4ec6e1d759bb8f5fafcc0e00805d75b9d09db2f5915861": {
     "mod_name": "LogCleaner",
     "version": "1.1.0",
@@ -2113,6 +2127,13 @@
     "file_name": "LogCleaner.dll",
     "file_size": 9216
   },
+  "c309718255df6a2d80d885e0a5487895372da404c4ac262b709459494414a8f1": {
+    "mod_name": "MessageCopy",
+    "version": "1.0.2",
+    "download_url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.2/MessageCopy.dll",
+    "file_name": "MessageCopy.dll",
+    "file_size": 7168
+  },
   "8ed99837b36c9e3d8d62130701509be105516ef98e396832193bac92d484c850": {
     "mod_name": "MessageCopy",
     "version": "1.0.1",
@@ -2126,6 +2147,13 @@
     "download_url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.0/MessageCopy.dll",
     "file_name": "MessageCopy.dll",
     "file_size": 7168
+  },
+  "a2d7a2b4bb14c81d1ea33d13a4097108d483185d0861459b3ea68538130f2fae": {
+    "mod_name": "MyInspectors",
+    "version": "2.0.3",
+    "download_url": "https://github.com/art0007i/MyInspectors/releases/download/2.0.3/MyInspectors.dll",
+    "file_name": "MyInspectors.dll",
+    "file_size": 19968
   },
   "048818e89f8a5b63d64047bb2fa717c4f3e16b7affdd96d2dc15dafda857fbcb": {
     "mod_name": "MyInspectors",
@@ -2329,6 +2357,13 @@
     "download_url": "https://github.com/art0007i/ShowComponentSlot/releases/download/1.0.0.0/ShowComponentSlot.dll",
     "file_name": "ShowComponentSlot.dll",
     "file_size": 6656
+  },
+  "b35b1a6893617c3cdf5a976c99f4d8a17f1770cfe6e8136515043c91f908afa2": {
+    "mod_name": "ShowDelegates",
+    "version": "2.2.10",
+    "download_url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.10/ShowDelegates.dll",
+    "file_name": "ShowDelegates.dll",
+    "file_size": 20992
   },
   "420341da08088da831d17d48db53efaf988480820554e52914b69bc4001637d8": {
     "mod_name": "ShowDelegates",
@@ -2581,6 +2616,13 @@
     "download_url": "https://github.com/art0007i/TransparentCameraEnabler/releases/download/1.0.0/TransparentCameraEnabler.dll",
     "file_name": "TransparentCameraEnabler.dll",
     "file_size": 7168
+  },
+  "4fdcc092b2619858d7ff8521be7b619d63f2c2547de2682096ca100988d9e188": {
+    "mod_name": "ValueProxyExtensions",
+    "version": "2.1.5",
+    "download_url": "https://github.com/art0007i/ValueProxyExtensions/releases/download/2.1.5/ValueProxyExtensions.dll",
+    "file_name": "ValueProxyExtensions.dll",
+    "file_size": 16384
   },
   "e8033714199409c8f1b0d3b29c386b56bf26e77b19e4e40876ae6de0d4c0745c": {
     "mod_name": "ValueProxyExtensions",
