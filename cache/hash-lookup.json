@@ -1546,6 +1546,13 @@
     "file_name": "RemoveThatKinkFromSteamLinkCS.dll",
     "file_size": 6144
   },
+  "913e55894b4eb65f0e0072a5dac42031ee45c4fd08c7b0ab14b72308839d94c9": {
+    "mod_name": "BoundedUIX (djsime1's fork)",
+    "version": "1.1.3",
+    "download_url": "https://github.com/djsime1/BoundedUIX/releases/download/1.1.3/BoundedUIX.dll",
+    "file_name": "BoundedUIX.dll",
+    "file_size": 36864
+  },
   "f47991ed6cea3b32da185b4ae71b97196e66c813fa34bc1d1969a2de7f1c839b": {
     "mod_name": "BoundedUIX (djsime1's fork)",
     "version": "v1.1.2",
@@ -1567,6 +1574,13 @@
     "file_name": "BoundedUIX.dll",
     "file_size": 34304
   },
+  "7683fa5598d2d01fc46d0eaca3d2f74e63a8ef93d2bddb4cf90a50288c03ee90": {
+    "mod_name": "CopyHyperlink",
+    "version": "1.0.2",
+    "download_url": "https://github.com/djsime1/CopyHyperlink/releases/download/1.0.2/CopyHyperlink.dll",
+    "file_name": "CopyHyperlink.dll",
+    "file_size": 8192
+  },
   "41fc7bca29bf12b2b2ae8e677fcbdf1943ed9d35bd78052f47204b60239875b0": {
     "mod_name": "CopyHyperlink",
     "version": "1.0.1",
@@ -1580,6 +1594,13 @@
     "download_url": "https://github.com/djsime1/CopyHyperlink/releases/download/1.0.0/CopyHyperlink.dll",
     "file_name": "CopyHyperlink.dll",
     "file_size": 7168
+  },
+  "b7c91372cdb8e0dde94ffec87376d6f45b062961db9c9f9224f6a41b3874b984": {
+    "mod_name": "GradientDriverEasing",
+    "version": "1.2.1",
+    "download_url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.2.1/CustomUILib.dll",
+    "file_name": "CustomUILib.dll",
+    "file_size": 13824
   },
   "0e0dcfa91b6cb56b9a541ee6132d80629ea85cfc1e0cfc4e79fb6efd242f3724": {
     "mod_name": "GradientDriverEasing",
