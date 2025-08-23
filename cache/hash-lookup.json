@@ -4031,6 +4031,13 @@
     "file_name": "FixSelectionRadiusScale.dll",
     "file_size": 11264
   },
+  "2c75b78f7bef200ea2dfcd747d43868717f6ebfcd4742985fc2bf13ab753563a": {
+    "mod_name": "FriendlyInventoryAvatars",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/download/v1.0.0/FriendlyInventoryAvatars.dll",
+    "file_name": "FriendlyInventoryAvatars.dll",
+    "file_size": 10752
+  },
   "9ce64c469cd6052e0414ac83b5bb9beaffffb7f8e5ba49367d5efcfe15335148": {
     "mod_name": "ResoniteModSettings",
     "version": "v2.3.0",
@@ -4198,6 +4205,48 @@
     "download_url": "https://github.com/badhaloninja/Optizoom/releases/download/v1.0.0/Optizoom.dll",
     "file_name": "Optizoom.dll",
     "file_size": 7168
+  },
+  "9b29ccaa19ef61092d7aad280d5dc9c9985d5e41610234ca4f1cb1f677af40c7": {
+    "mod_name": "OrbCartridgeAutoScoop",
+    "version": "v2.0.1",
+    "download_url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v2.0.1/OrbCartridgeAutoScoop.dll",
+    "file_name": "OrbCartridgeAutoScoop.dll",
+    "file_size": 15360
+  },
+  "1ccbf7f1e2e2400872d6a80f0741c3275ada534813785dda40b1f371bb9477c4": {
+    "mod_name": "OrbCartridgeAutoScoop",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v2.0.0/OrbCartridgeAutoScoop.dll",
+    "file_name": "OrbCartridgeAutoScoop.dll",
+    "file_size": 14848
+  },
+  "7b1ebd2fb305e3171c0499a2034c3af44b22cb1df58fe0b63d5051becfd8a280": {
+    "mod_name": "OrbCartridgeAutoScoop",
+    "version": "v1.2.1",
+    "download_url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v1.2.1/MaterialTipAutoScoop.dll",
+    "file_name": "MaterialTipAutoScoop.dll",
+    "file_size": 12288
+  },
+  "29c85787a2a3e6ab40d9f71b89103f7c5437b2e1aad9571c88ec3c5c6abc8918": {
+    "mod_name": "OrbCartridgeAutoScoop",
+    "version": "v1.2.0",
+    "download_url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v1.2.0/MaterialTipAutoScoop.dll",
+    "file_name": "MaterialTipAutoScoop.dll",
+    "file_size": 11776
+  },
+  "f604b91d63d2f3d14419d772a74697ba2ddcc0a846709e201dff55b8147f08ce": {
+    "mod_name": "OrbCartridgeAutoScoop",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v1.1.0/MaterialTipAutoScoop.dll",
+    "file_name": "MaterialTipAutoScoop.dll",
+    "file_size": 10240
+  },
+  "d75dd288d04340f4c22d65ac2ada51def260d5c258ffb8ba6ec402a16a3cdbbf": {
+    "mod_name": "OrbCartridgeAutoScoop",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v1.0.0/MaterialTipAutoScoop.dll",
+    "file_name": "MaterialTipAutoScoop.dll",
+    "file_size": 9216
   },
   "66c4a711daeeb4d1ed1f62e7e982fc46e78fdafa15e76e0bb82fa48c9b062a28": {
     "mod_name": "ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod",
