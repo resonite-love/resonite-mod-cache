@@ -965,6 +965,13 @@
     "file_name": "NAudio.Asio.dll",
     "file_size": 34304
   },
+  "9b84eaf40d429ac61d8eeced52a898b9eec09c3fd309545d7a9ac488b6c051cd": {
+    "mod_name": "SimpleScalableMeshOrbs",
+    "version": "V1.0.0",
+    "download_url": "https://github.com/AwesomeTornado/SimpleScalableMeshOrbs/releases/download/V1.0.0/SimpleScalableMeshOrbs.dll",
+    "file_name": "SimpleScalableMeshOrbs.dll",
+    "file_size": 9728
+  },
   "dd5670ad7a1ed785fcc0f0399bc9b270a4713e149fb0f6afb542d4acbfb0aa1a": {
     "mod_name": "Thundagun",
     "version": "1.2.2-beta",
