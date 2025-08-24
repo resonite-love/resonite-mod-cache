@@ -825,6 +825,13 @@
     "file_name": "CustomShaderLib.dll",
     "file_size": 11776
   },
+  "3e29d88e3a4c23c30ec5ca83fcc53b2f3cfba372d467de174c8843f57782d42c": {
+    "mod_name": "DoublePrecision",
+    "version": "V2.0.0-alpha.0",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V2.0.0-alpha.0/DoublePrecision.dll",
+    "file_name": "DoublePrecision.dll",
+    "file_size": 15360
+  },
   "f380b96ff4721e439d7eede80109223d76eb6436155962536c401a1b132dd6fb": {
     "mod_name": "DoublePrecision",
     "version": "V1.6.1",
