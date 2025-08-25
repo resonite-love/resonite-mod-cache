@@ -34,6 +34,13 @@
     "file_name": "FixMirrorSteamVRIPDOffset.dll",
     "file_size": 17920
   },
+  "b10a8ec45a4b1c1d37e2a87f8b48826b7855c433cb04156415dc0a4848203f28": {
+    "mod_name": "IgnoreControllerAxis",
+    "version": "1.1.0",
+    "download_url": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/download/1.1.0/IgnoreControllerAxis.dll",
+    "file_name": "IgnoreControllerAxis.dll",
+    "file_size": 15872
+  },
   "9d5c8a8d0556b0f441f37e9e5167fa6da27bba0f58e2f30d1e7298d76a770a42": {
     "mod_name": "IgnoreControllerAxis",
     "version": "1.0.0",
