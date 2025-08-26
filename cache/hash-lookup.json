@@ -3758,6 +3758,13 @@
     "file_name": "Lib.Harmony.2.3.1.nupkg",
     "file_size": 10746054
   },
+  "3af94439a0e7153cddf4f85a94a97f5349a50cb60b92d456001ccff5a4bdabf5": {
+    "mod_name": "DynamicTickRate",
+    "version": "1.0.0",
+    "download_url": "https://github.com/Raidriar796/DynamicTickRate/releases/download/1.0.0/DynamicTickRate.dll",
+    "file_name": "DynamicTickRate.dll",
+    "file_size": 8704
+  },
   "bb632928114e2318d883ceb2a5e2b20734434d2ac83600791b803cac2ec59131": {
     "mod_name": "HeadlessUserCulling",
     "version": "1.1.2",
