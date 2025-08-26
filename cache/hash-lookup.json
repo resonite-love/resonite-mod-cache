@@ -1658,6 +1658,20 @@
     "file_name": "CustomUILib.dll",
     "file_size": 13312
   },
+  "08f33e5ac63ce39b8f35582dbe3fff022406c5bdb494af32f2b98711aeb0881e": {
+    "mod_name": "SwapToDynamicBlendShapeDriver",
+    "version": "1.0.1",
+    "download_url": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver/releases/download/1.0.1/SwapToDynamicBlendShapeDriver.dll",
+    "file_name": "SwapToDynamicBlendShapeDriver.dll",
+    "file_size": 11264
+  },
+  "70c5611bd9237866e74c016fb43e52fe1f93e742bfd82799b68355849d8e57f1": {
+    "mod_name": "SwapToDynamicBlendShapeDriver",
+    "version": "1.0.0",
+    "download_url": "https://github.com/djsime1/SwapToDynamicBlendShapeDriver/releases/download/1.0.0/SwapToDynamicBlendShapeDriver.dll",
+    "file_name": "SwapToDynamicBlendShapeDriver.dll",
+    "file_size": 11776
+  },
   "975e3410d31eeaacad571a458283fd0c8cbb40df037f6b27926dbf8c3ba94253": {
     "mod_name": "AlwaysResetLocalHome",
     "version": "1.0.0",
@@ -4870,6 +4884,48 @@
     "download_url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v1.0.0/HeadlessTweaks.dll",
     "file_name": "HeadlessTweaks.dll",
     "file_size": 76288
+  },
+  "bf5efbfa4ab6381639306c3ec99102679fa8e8cc9cf75cde5a48f948f16949a5": {
+    "mod_name": "EyeTrackVR",
+    "version": "V2.2.0",
+    "download_url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/V2.2.0/EyeTrackVRResonite.dll",
+    "file_name": "EyeTrackVRResonite.dll",
+    "file_size": 14848
+  },
+  "8e643c74b6b9ae976ae5bf3575310362574c8d7b23ef753c20866d55c8310ed4": {
+    "mod_name": "EyeTrackVR",
+    "version": "v8.20.25.1857",
+    "download_url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/v8.20.25.1857/EyeTrackVRResonite.dll",
+    "file_name": "EyeTrackVRResonite.dll",
+    "file_size": 15360
+  },
+  "9e4500297cfb2e1564de03f3d77cfa3fe2598128f32ec515e0b16cd7ff4955b9": {
+    "mod_name": "EyeTrackVR",
+    "version": "V9.5.24.1938",
+    "download_url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/V9.5.24.1938/EyeTrackVRResonite.dll",
+    "file_name": "EyeTrackVRResonite.dll",
+    "file_size": 14336
+  },
+  "2c75273ce290c9b681de43c558fa2cd97062056b7460a41379bc8c64580240c3": {
+    "mod_name": "EyeTrackVR",
+    "version": "ETVR_Resonite",
+    "download_url": "https://github.com/Wolf-Seisenbacher/EyeTrackVRResonite/releases/download/ETVR_Resonite/EyeTrackVRResonite.dll",
+    "file_name": "EyeTrackVRResonite.dll",
+    "file_size": 14336
+  },
+  "86129c77a8cbd1cd23bc41db865b3a4ddbb812f1cf87d908eda76ed1bb41761a": {
+    "mod_name": "Varjo Eyetracking",
+    "version": "v2.0.1",
+    "download_url": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/download/v2.0.1/VarjoEyeIntegration.dll",
+    "file_name": "VarjoEyeIntegration.dll",
+    "file_size": 15872
+  },
+  "2b79145439fda9e34cc363b7f473a3ee82139433ccb9cd51aabbdb9ce39b64f0": {
+    "mod_name": "Varjo Eyetracking",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/Wolf-Seisenbacher/ResoniteVarjoEyeTracking/releases/download/v2.0.0/VarjoEyeIntegration.dll",
+    "file_name": "VarjoEyeIntegration.dll",
+    "file_size": 15872
   },
   "b4410991d37bb2a6c675adaab18ea97c179b9b126dc5474ba3f1a64791931342": {
     "mod_name": "NoDoubleTapSprint",
