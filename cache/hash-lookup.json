@@ -1147,6 +1147,20 @@
     "file_name": "EsnyaTweaks.dll",
     "file_size": 21504
   },
+  "cb0b3c883de4ab417fb8da0e4f5bd09dd32fea201d0405732077e9fa3e2cf381": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.8.0",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.8.0/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 60416
+  },
+  "fbcfd98b453efa7fb7abaa57c2eeaa80aa847609c6de5c5c51f92371371bfeaf": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.8.0-beta.1",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.8.0-beta.1/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 60416
+  },
   "26c5f0aec4bbde207cc4c23b2261eb6a6975fbeae28c939c61648215cb818511": {
     "mod_name": "Resonite Metrics Counter",
     "version": "v0.7.0.0",
