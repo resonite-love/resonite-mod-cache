@@ -41,6 +41,13 @@
     "file_name": "EnableToolspawnInVR.dll",
     "file_size": 14848
   },
+  "157cc48c93b830767b8190f4a4625ea1bf804fb37c26b771f3aee4bbbfef97b5": {
+    "mod_name": "FixMirrorSteamVRIPDOffset",
+    "version": "2.0.0",
+    "download_url": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/download/2.0.0/FixMirrorSteamVRIPDOffset.dll",
+    "file_name": "FixMirrorSteamVRIPDOffset.dll",
+    "file_size": 22528
+  },
   "0543dd244cb222733f6be4d667442fb9d22420d5325169ee134d2d6f63a204cc": {
     "mod_name": "FixMirrorSteamVRIPDOffset",
     "version": "1.0.0",
