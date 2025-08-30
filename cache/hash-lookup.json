@@ -1357,6 +1357,104 @@
     "file_name": "CustomTextureSettings.dll",
     "file_size": 15872
   },
+  "22ddd2b9deb2abaaccea20db0f8c9b096c45abee67c6dc10c8b815cc91eef197": {
+    "mod_name": "ColliderGrabbableDeleter",
+    "version": "1.0.1",
+    "download_url": "https://github.com/zahndy/ColliderGrabbableDeleter/releases/download/1.0.1/ColliderGrabbableDeleter.dll",
+    "file_name": "ColliderGrabbableDeleter.dll",
+    "file_size": 8192
+  },
+  "cd6ec647db1c9316abda699f0a50d78419c2bc931c88ab3af1365f2253451150": {
+    "mod_name": "ColliderGrabbableDeleter",
+    "version": "1.0.0",
+    "download_url": "https://github.com/zahndy/ColliderGrabbableDeleter/releases/download/1.0.0/ColliderGrabbableDeleter.dll",
+    "file_name": "ColliderGrabbableDeleter.dll",
+    "file_size": 8192
+  },
+  "40b72c16ba90d05bd3ff7eef14ca5628d05ccf4355b282175ecaf6d349e962ac": {
+    "mod_name": "FasterBadges",
+    "version": "1.6.1",
+    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.6.1/FasterBadges.dll",
+    "file_name": "FasterBadges.dll",
+    "file_size": 38912
+  },
+  "dec2b2fd2bef567895a76e70f9104c56ec7cadf7b2af9e619c94ffb62e11c7cd": {
+    "mod_name": "FasterBadges",
+    "version": "1.6.0",
+    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.6.0/FasterBadges.dll",
+    "file_name": "FasterBadges.dll",
+    "file_size": 39424
+  },
+  "fd732f14120197ebe0728172ebc994b29f1281291bd2ed450ab4e3bc0071eca8": {
+    "mod_name": "FasterBadges",
+    "version": "1.5.1",
+    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.5.1/FasterBadges.dll",
+    "file_name": "FasterBadges.dll",
+    "file_size": 45056
+  },
+  "abe944b947a85d12c258fff02af6147bdc33202375bebfbeb6f28c607b29b346": {
+    "mod_name": "FasterBadges",
+    "version": "1.5.0",
+    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.5.0/FasterBadges.dll",
+    "file_name": "FasterBadges.dll",
+    "file_size": 45568
+  },
+  "7fa6b092f6216c7c74525c1184d76ac73ede56f4512a8c6c6a2af6aa9e4ea0be": {
+    "mod_name": "FasterBadges",
+    "version": "1.4.0",
+    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.4.0/FasterBadges.dll",
+    "file_name": "FasterBadges.dll",
+    "file_size": 46592
+  },
+  "3800dae1288fbbe909bfbad0dd13c2431fba9f3bfd7713ebda26f7c8fd92081d": {
+    "mod_name": "FasterBadges",
+    "version": "1.3.0",
+    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.3.0/FasterBadges.dll",
+    "file_name": "FasterBadges.dll",
+    "file_size": 41984
+  },
+  "dcfc92057b7253c5279aa46d6f60ab866e247bc4177174a152f8dcd48a07552b": {
+    "mod_name": "FasterBadges",
+    "version": "1.2.0",
+    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.2.0/FasterBadges.dll",
+    "file_name": "FasterBadges.dll",
+    "file_size": 7168
+  },
+  "16f1b2202d36c381358b2c10d7f9668fa1327b64cb92bfe898b6763ecf64a6ad": {
+    "mod_name": "FasterBadges",
+    "version": "1.1.0",
+    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.1.0/FasterBadges.dll",
+    "file_name": "FasterBadges.dll",
+    "file_size": 7168
+  },
+  "10c05e513efdb49b0058c0b539b9122a4069b513ab42ed37d1e0dddfc63dbaac": {
+    "mod_name": "FasterBadges",
+    "version": "1.0.0",
+    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.0.0/FasterBadges.dll",
+    "file_name": "FasterBadges.dll",
+    "file_size": 6656
+  },
+  "fd91e5c5805d743cde89147b77f90ba57ab87053cbb508847802a1912332de5c": {
+    "mod_name": "RainbowLasers",
+    "version": "1.1.0",
+    "download_url": "https://github.com/zahndy/RainbowLasers/releases/download/1.1.0/RainbowLasers.dll",
+    "file_name": "RainbowLasers.dll",
+    "file_size": 10240
+  },
+  "63b0184ddc75f1e59574f76909f1436b37c5dd103e906bbfb09d9f0d435d922b": {
+    "mod_name": "RainbowLasers",
+    "version": "1.0.0",
+    "download_url": "https://github.com/zahndy/RainbowLasers/releases/download/1.0.0/RainbowLasers.dll",
+    "file_name": "RainbowLasers.dll",
+    "file_size": 10240
+  },
+  "da5d3c697d39241eb8b438ddbf021c034ac93a172c1417435cf8522cc4134202": {
+    "mod_name": "TrackerVisuals",
+    "version": "1.1.0",
+    "download_url": "https://github.com/zahndy/TrackerVisuals/releases/download/1.1.0/TrackerVisuals.dll",
+    "file_name": "TrackerVisuals.dll",
+    "file_size": 11776
+  },
   "596dfdcc99ac283f458272db8ced2eff536bd9072cdd014b5343936072da34d2": {
     "mod_name": "BetterInventoryBrowser",
     "version": "v0.7.0",
