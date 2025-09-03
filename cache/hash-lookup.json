@@ -3100,6 +3100,13 @@
     "file_name": "Outflow.dll",
     "file_size": 12288
   },
+  "e9b978d86b3bfb3e687fe24d60d02f8c38435721ea5e4903c8c2722d4d3efde1": {
+    "mod_name": "BetterInspectorCheckbox",
+    "version": "1.1.2",
+    "download_url": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/download/1.1.2/BetterInspectorCheckbox.dll",
+    "file_name": "BetterInspectorCheckbox.dll",
+    "file_size": 7680
+  },
   "efdd7815684f2c0073da03a7520f416c0a6c8b80d9884530971f9f279ab282c2": {
     "mod_name": "BetterInspectorCheckbox",
     "version": "1.1.1",
@@ -3225,6 +3232,13 @@
     "download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.0.0/ResoniteFixContactIcons.dll",
     "file_name": "ResoniteFixContactIcons.dll",
     "file_size": 16896
+  },
+  "0684e927e155e24ce5838a52043c6e31c81c5e54ba3b05b96971965ec94a012a": {
+    "mod_name": "ResoniteSlotInspectorCounter",
+    "version": "1.9.1",
+    "download_url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.9.1/ResoniteSlotInspectorCounter.dll",
+    "file_name": "ResoniteSlotInspectorCounter.dll",
+    "file_size": 14848
   },
   "5f37863d118ff9baeaa1b24428267e93960747e742bd12c73410bbd220553232": {
     "mod_name": "ResoniteSlotInspectorCounter",
