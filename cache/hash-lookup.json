@@ -5284,6 +5284,13 @@
     "file_name": "NoDoubleTapSprint.dll",
     "file_size": 5632
   },
+  "8234e2d708e651b47ff43002eba3ed0fe2c392dc669c322e7e8297d831418897": {
+    "mod_name": "QuickPick",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/jvyden/QuickPick/releases/download/v1.0.0/QuickPick.dll",
+    "file_name": "QuickPick.dll",
+    "file_size": 18944
+  },
   "818e20a872e536cba22cb0345cd8776634641c25b45bc9f671adb93600a25b3f": {
     "mod_name": "AvatarModuleInjector",
     "version": "v0.12.1",
