@@ -3492,6 +3492,13 @@
     "file_name": "OpenInSteamOverlay.dll",
     "file_size": 8192
   },
+  "080f09881336dd324ccb0cc4b5fe0484b192a88a994cf9d40564bd7d13bc8cc6": {
+    "mod_name": "PermissionControl",
+    "version": "2.0.1",
+    "download_url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.1/PermissionControl.dll",
+    "file_name": "PermissionControl.dll",
+    "file_size": 13824
+  },
   "575a1a04fe0aaac21b6a310924eb8a1b76f251a340b6f892633c9a2d57481706": {
     "mod_name": "PermissionControl",
     "version": "2.0.0",
