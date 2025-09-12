@@ -1756,6 +1756,13 @@
     "file_name": "RemoveThatKinkFromSteamLinkCS.dll",
     "file_size": 6144
   },
+  "849394a31a0bdae0d84df7dff756774839f210693de87b74a0d1800e9c7970e8": {
+    "mod_name": "ResoniteDiscordRpc",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.0/DiscordRPC.dll",
+    "file_name": "DiscordRPC.dll",
+    "file_size": 94208
+  },
   "913e55894b4eb65f0e0072a5dac42031ee45c4fd08c7b0ab14b72308839d94c9": {
     "mod_name": "BoundedUIX (djsime1's fork)",
     "version": "1.1.3",
