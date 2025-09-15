@@ -2428,6 +2428,13 @@
     "file_name": "MessageCopy.dll",
     "file_size": 7168
   },
+  "30c4aa069f791cfb5e901cf09f5b9a45ddbedb02b7e41e74f656678474e297da": {
+    "mod_name": "MyInspectors",
+    "version": "2.1.0",
+    "download_url": "https://github.com/art0007i/MyInspectors/releases/download/2.1.0/MyInspectors.dll",
+    "file_name": "MyInspectors.dll",
+    "file_size": 22528
+  },
   "90a84200db3512eeb220fe6be738a6eaf9951d88485ffe1c344336d2d25a913d": {
     "mod_name": "MyInspectors",
     "version": "2.0.4-verbose",
