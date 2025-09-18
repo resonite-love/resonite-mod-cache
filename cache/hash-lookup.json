@@ -5109,6 +5109,20 @@
     "file_name": "NoTankControls.dll",
     "file_size": 6656
   },
+  "a8d2b95c9950e3d08595573bb52aa5d307536aab13bac23cd1ba61f923b149f1": {
+    "mod_name": "PluginSelect",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.1/PluginSelect.dll",
+    "file_name": "PluginSelect.dll",
+    "file_size": 13312
+  },
+  "c89a6e52cda315d762489b78d2a3309eee64543084ddd27b6af7ab04a2415d47": {
+    "mod_name": "PluginSelect",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.0/PluginSelect.dll",
+    "file_name": "PluginSelect.dll",
+    "file_size": 13312
+  },
   "03441b86954cb308a23781fd93934a600b8c596a9d3880965a30d1cc1d8eeb6e": {
     "mod_name": "ReferenceFinderWizard",
     "version": "v1.1.3",
