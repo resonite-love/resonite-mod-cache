@@ -1686,34 +1686,6 @@
     "file_name": "ResoniteScreenshotExtensions.dll",
     "file_size": 20992
   },
-  "13d47822596ab0d6dd2ddd2b7ae6bb005a1ff89a84e1e6345b0912e2bcdceda0": {
-    "mod_name": "ResonitePrivacyShield",
-    "version": "v2.0.3",
-    "download_url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.3/PrivacyShield.dll",
-    "file_name": "PrivacyShield.dll",
-    "file_size": 11776
-  },
-  "1bdbf99bcc08e3699a86bcebe850c60b1598d0b8f39882e2f73cd7f225dc3352": {
-    "mod_name": "ResonitePrivacyShield",
-    "version": "v2.0.2",
-    "download_url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.2/PrivacyShield.dll",
-    "file_name": "PrivacyShield.dll",
-    "file_size": 11264
-  },
-  "7712a34aeb5a0a47953e3f55b07ace2aafe3acf7d2f90b6504c570a04736db18": {
-    "mod_name": "ResonitePrivacyShield",
-    "version": "v2.0.1",
-    "download_url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.1/PrivacyShield.dll",
-    "file_name": "PrivacyShield.dll",
-    "file_size": 11264
-  },
-  "6be3125e5e952253971721a4f05aae232aa56c82876a7bb8cf9dbb0fd2e43b78": {
-    "mod_name": "ResonitePrivacyShield",
-    "version": "v2.0.0",
-    "download_url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.0/PrivacyShield.dll",
-    "file_name": "PrivacyShield.dll",
-    "file_size": 11776
-  },
   "6fbea5a71994fe75cfd3aa34ec57a172fd9cbb5a873f1dfa2b398807f9db4cef": {
     "mod_name": "VRCFTReceiver",
     "version": "v2.0.0-rc.3",
