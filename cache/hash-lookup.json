@@ -1966,6 +1966,13 @@
     "file_name": "CreateWorldConfig.dll",
     "file_size": 5632
   },
+  "f0c6b586e93ddfbda237f04daba843984515fd24e1fd30d0f109b361ea520cdd": {
+    "mod_name": "CustomInspectors",
+    "version": "2.2.1",
+    "download_url": "https://github.com/art0007i/CustomInspectors/releases/download/2.2.1/CustomInspectors.dll",
+    "file_name": "CustomInspectors.dll",
+    "file_size": 16384
+  },
   "97e74fdf22fde6b1bdf3ef852a1ba022b2f530c3257ab74e119c510dfc26804a": {
     "mod_name": "CustomInspectors",
     "version": "2.2.0",
