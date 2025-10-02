@@ -5095,6 +5095,13 @@
     "file_name": "InspectorDelegateCaller.dll",
     "file_size": 11264
   },
+  "b9bafefb77cb58496e8640c94be15a2592abc98009be8515fffe6a31ec06fbf4": {
+    "mod_name": "InterprocessLib",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v2.0.0/InterprocessLib.BepInEx.Tests.dll",
+    "file_name": "InterprocessLib.BepInEx.Tests.dll",
+    "file_size": 7680
+  },
   "440c8043b0fac216788231dfcc63b01cc6983d36ea2fc28963d10051cd98513d": {
     "mod_name": "LeftHandedProtoFlux",
     "version": "v1.2.1",
