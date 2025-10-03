@@ -2372,20 +2372,6 @@
     "file_name": "KeyRepeatAdjust.dll",
     "file_size": 6656
   },
-  "e8f6bb0dbde068bc53d01a0788f9ff8b21dfbec5320df88c9c81aa112633d5b4": {
-    "mod_name": "LargerObjectMessagePreviews",
-    "version": "2.0.0",
-    "download_url": "https://github.com/art0007i/LargerObjectMessagePreviews/releases/download/2.0.0/LargerObjectMessagePreviews.dll",
-    "file_name": "LargerObjectMessagePreviews.dll",
-    "file_size": 7680
-  },
-  "23c9bf7060c14f2f29b91f84d9f946b82dc5d52af592143407e8053139845d33": {
-    "mod_name": "LargerObjectMessagePreviews",
-    "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/LargerObjectMessagePreviews/releases/download/1.0.0/LargerObjectMessagePreviews.dll",
-    "file_name": "LargerObjectMessagePreviews.dll",
-    "file_size": 8192
-  },
   "50aa009b2e86b09db406cb4c5dc25b46775cd31806dd342d89b4e255fcbb4553": {
     "mod_name": "LocalStorage",
     "version": "2.0.4",
