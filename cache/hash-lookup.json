@@ -3870,6 +3870,13 @@
     "file_name": "MTLImporter.dll",
     "file_size": 24064
   },
+  "d96f3684e3c12aa6d6521f2ef40b7de0687e33fde379e21135a6834ac5817f6f": {
+    "mod_name": "SVGImporter",
+    "version": "v2.0.2",
+    "download_url": "https://github.com/dfgHiatus/ResoniteSVGImporter/releases/download/v2.0.2/SVGImporter.dll",
+    "file_name": "SVGImporter.dll",
+    "file_size": 23040
+  },
   "71f7ff48a4d286a1bb410583301bb6b81bc685544294ea2e24452ad7d14c918d": {
     "mod_name": "SVGImporter",
     "version": "v2.0.0",
