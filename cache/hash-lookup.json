@@ -657,10 +657,24 @@
     "file_name": "Console.dll",
     "file_size": 7168
   },
+  "9774cd4f834f85031c9192a3b5adffd3561a9d2f83c0a49defdb0670cba0d6d6": {
+    "mod_name": "ColourMyFiles",
+    "version": "1.0.1",
+    "download_url": "https://github.com/KannyaResonite/ColourMyFiles/releases/download/1.0.1/ColourMyFiles.dll",
+    "file_name": "ColourMyFiles.dll",
+    "file_size": 11264
+  },
+  "f9caefeb706eb7c8c370c001f00961dc76500d7b318e858be60f293a0482b4a4": {
+    "mod_name": "ColourMyFiles",
+    "version": "1.0.0",
+    "download_url": "https://github.com/KannyaResonite/ColourMyFiles/releases/download/1.0.0/ColourMyFiles.dll",
+    "file_name": "ColourMyFiles.dll",
+    "file_size": 10752
+  },
   "9989cf9702ba7016a566c96059a81f573c185f026d984063e78403ac50f8921d": {
-    "mod_name": "QuestPro4Resonite",
-    "version": "2.1.4",
-    "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.4/libalxr-sharp.dll",
+    "mod_name": "libalxr-sharp",
+    "version": "1.2.0",
+    "download_url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/1.2.0/libalxr-sharp.dll",
     "file_name": "libalxr-sharp.dll",
     "file_size": 31232
   },
@@ -929,6 +943,34 @@
     "download_url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.3.0/DoublePrecision.dll",
     "file_name": "DoublePrecision.dll",
     "file_size": 13312
+  },
+  "f077251076989f1447a74e40501e60d1057161f195930fdcb7d7d17ac469efa2": {
+    "mod_name": "HandAligner",
+    "version": "V2.0.1",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V2.0.1/HandAligner.dll",
+    "file_name": "HandAligner.dll",
+    "file_size": 15360
+  },
+  "96412c2d11abb2f3bd5665a5b44e008147e2ce73070c081210ce4c2c75a4d3c0": {
+    "mod_name": "HandAligner",
+    "version": "V2.0.0",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V2.0.0/HandAligner.dll",
+    "file_name": "HandAligner.dll",
+    "file_size": 20992
+  },
+  "ace4cd96f8e354ad077a7d118d19e2f3a355f39aeaaeda63976410986c36e8a1": {
+    "mod_name": "HandAligner",
+    "version": "V1.0.1",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V1.0.1/HandAligner.dll",
+    "file_name": "HandAligner.dll",
+    "file_size": 12800
+  },
+  "df7e40d21ee89e61ddec06557b5a2f1690bf7160f31ad11a16a02ff8e2225095": {
+    "mod_name": "HandAligner",
+    "version": "V1.0.0",
+    "download_url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V1.0.0/HandAligner.dll",
+    "file_name": "HandAligner.dll",
+    "file_size": 19968
   },
   "b9953fe57c6ceee222791e9517b02c7ce799c2042c339190ccff3c4a42c56a0c": {
     "mod_name": "HostCrashGuard",
@@ -1328,6 +1370,41 @@
     "download_url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.0.0/ResonitePSVR2.dll",
     "file_name": "ResonitePSVR2.dll",
     "file_size": 27136
+  },
+  "4d76355ef8c65a19dc73e5ad19e0e08a6ddc4f002e633f23b0673232d9f94ff7": {
+    "mod_name": "picture3dFix",
+    "version": "1.1.3",
+    "download_url": "https://github.com/Tobs2007/picture3dFix/releases/download/1.1.3/picture3dFix.dll",
+    "file_name": "picture3dFix.dll",
+    "file_size": 7680
+  },
+  "69861dcc04bbdc9562c5e2a2645fcfa2ec4b16b7681df8219ccaec89c41a8480": {
+    "mod_name": "picture3dFix",
+    "version": "1.1.2",
+    "download_url": "https://github.com/Tobs2007/picture3dFix/releases/download/1.1.2/picture3dFix.dll",
+    "file_name": "picture3dFix.dll",
+    "file_size": 8192
+  },
+  "8fe0e959d684b46a036744d792cb0a8fe2d701d1f66ae53cb4794b7166c0f140": {
+    "mod_name": "picture3dFix",
+    "version": "1.1.1",
+    "download_url": "https://github.com/Tobs2007/picture3dFix/releases/download/1.1.1/picture3dFix.dll",
+    "file_name": "picture3dFix.dll",
+    "file_size": 8192
+  },
+  "59db880d1c3dd72ab9d4e217cefce146d862174bdd84f7db097af10b5bcc5990": {
+    "mod_name": "picture3dFix",
+    "version": "1.1.0",
+    "download_url": "https://github.com/Tobs2007/picture3dFix/releases/download/1.1.0/picture3dFix.dll",
+    "file_name": "picture3dFix.dll",
+    "file_size": 7680
+  },
+  "3726e11d049fb9ae902c26c49a7e2b67b549131bf7c2fde2cd6d426764ee6e5c": {
+    "mod_name": "picture3dFix",
+    "version": "1.0.0",
+    "download_url": "https://github.com/Tobs2007/picture3dFix/releases/download/1.0.0/picture3dFix.dll",
+    "file_name": "picture3dFix.dll",
+    "file_size": 7680
   },
   "cb8194b7e2260f49bca97585c1cfcd426f70cbd440f2eecbaec3a3daa4a54a49": {
     "mod_name": "CustomTextureSettings",
