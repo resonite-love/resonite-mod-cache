@@ -1133,6 +1133,48 @@
     "file_name": "Thundagun.dll",
     "file_size": 143872
   },
+  "cb5c1b47e85e2f94e2897ba34d21d1866b20e2f1b2c97f081450e1c3f1398783": {
+    "mod_name": "IDontNeedHelp",
+    "version": "1.0.0",
+    "download_url": "https://github.com/nalathethird/IDontNeedHelp/releases/download/1.0.0/IDontNeedHelp.dll",
+    "file_name": "IDontNeedHelp.dll",
+    "file_size": 15360
+  },
+  "29e4eeb9a98dcd289b44aefe7f06610a672c2b5b20e8b39ac2124d9ff07c7a2d": {
+    "mod_name": "SessionCaptureBlocker",
+    "version": "1.0.3",
+    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.3/SessionCaptureBlocker.dll",
+    "file_name": "SessionCaptureBlocker.dll",
+    "file_size": 20992
+  },
+  "fbf8c3f33f6974c5fb09cc5b391023f1502e8d0befbf8d68a548fd813389dc71": {
+    "mod_name": "SessionCaptureBlocker",
+    "version": "1.0.2",
+    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.2/FckSessionCapture.dll",
+    "file_name": "FckSessionCapture.dll",
+    "file_size": 19968
+  },
+  "f2142e65272871db50bbe4e10202d1f9e2bf1af1a4dd9ddc790c67b69d03d4c8": {
+    "mod_name": "SessionCaptureBlocker",
+    "version": "1.0.1",
+    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.1/FckSessionCapture.dll",
+    "file_name": "FckSessionCapture.dll",
+    "file_size": 18432
+  },
+  "cffeab5a1fdcd933f2e5cddd687ce77a256c0bd7e4021305b8b065817e70c597": {
+    "mod_name": "SessionCaptureBlocker",
+    "version": "1.0.0",
+    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.0/FckSessionCapture.dll",
+    "file_name": "FckSessionCapture.dll",
+    "file_size": 17920
+  },
+  "40bf725c0dc10c57160c058c150beb0caa1720fbb9c772c119115603a6af90c4": {
+    "mod_name": "bHapticsLib",
+    "version": "1.0.8",
+    "download_url": "https://github.com/nalathethird/bHapticsLib/releases/download/1.0.8/bHapticsLib.dll",
+    "file_name": "bHapticsLib.dll",
+    "file_size": 74752
+  },
   "dadc5cecfafaa476ca71b57e2d36484669a2787ede88be12b8e92a931a8de739": {
     "mod_name": "EsnyaResoniteModTemplate",
     "version": "v0.0.0-template.1",
