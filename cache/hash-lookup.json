@@ -5515,6 +5515,13 @@
     "file_name": "NoDoubleTapSprint.dll",
     "file_size": 5632
   },
+  "800333d01a6958136401cbecdde0ea1e819f95fb8a4ec48df7dd4a5867d5e20c": {
+    "mod_name": "DynTunes",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/jvyden/DynTunes/releases/download/v1.0.0/DynTunes.dll",
+    "file_name": "DynTunes.dll",
+    "file_size": 61952
+  },
   "6068548a1536e3d70d061a16810c3a9ecfaee2fc43230f26c7e93fef37e4f182": {
     "mod_name": "QuickPick",
     "version": "v1.0.1",
