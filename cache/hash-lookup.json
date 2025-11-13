@@ -2953,48 +2953,6 @@
     "file_name": "ShowDelegates.dll",
     "file_size": 13824
   },
-  "db7820f5070833f9987e608243139d841d3dcfc06444fa2aa4e42f88d91fe231": {
-    "mod_name": "ShowDriveSource",
-    "version": "2.0.2",
-    "download_url": "https://github.com/art0007i/ShowDriveSource/releases/download/2.0.2/ShowDriveSource.dll",
-    "file_name": "ShowDriveSource.dll",
-    "file_size": 7680
-  },
-  "c47e5b88277cfa4c1d365d122cd2bf3adbffc05ddd97887e6842eb2f92540704": {
-    "mod_name": "ShowDriveSource",
-    "version": "2.0.1",
-    "download_url": "https://github.com/art0007i/ShowDriveSource/releases/download/2.0.1/ShowDriveSource.dll",
-    "file_name": "ShowDriveSource.dll",
-    "file_size": 7680
-  },
-  "a882a4a48c23cfdb0afae55c8b67b908c5e4eab916330ec8812efc8e49be2a50": {
-    "mod_name": "ShowDriveSource",
-    "version": "2.0.0",
-    "download_url": "https://github.com/art0007i/ShowDriveSource/releases/download/2.0.0/ShowDriveSource.dll",
-    "file_name": "ShowDriveSource.dll",
-    "file_size": 6144
-  },
-  "33b7d23bf81182e9111b4b937ea23003b60a7bc0cca81ad1516c57368440060a": {
-    "mod_name": "ShowDriveSource",
-    "version": "1.1.1.0",
-    "download_url": "https://github.com/art0007i/ShowDriveSource/releases/download/1.1.1.0/ShowDriveSource.dll",
-    "file_name": "ShowDriveSource.dll",
-    "file_size": 6144
-  },
-  "acaaf919242a14daf91fc641c6b6c03fe08e2a96c7edef5bb1c77f6655bcc552": {
-    "mod_name": "ShowDriveSource",
-    "version": "1.1.0.0",
-    "download_url": "https://github.com/art0007i/ShowDriveSource/releases/download/1.1.0.0/ShowDriveSource.dll",
-    "file_name": "ShowDriveSource.dll",
-    "file_size": 6144
-  },
-  "c4e88853e1db9c5837c2811f5aec21ef5da40201f6c7ea53211b8c75941e8612": {
-    "mod_name": "ShowDriveSource",
-    "version": "1.0.0.0",
-    "download_url": "https://github.com/art0007i/ShowDriveSource/releases/download/1.0.0.0/ShowDriveSource.dll",
-    "file_name": "ShowDriveSource.dll",
-    "file_size": 6656
-  },
   "a8dc9d0671d2b6630da97f01162fea6e754bf922016db64163b83fb2492b2f5f": {
     "mod_name": "SimpleInventorySearch",
     "version": "1.0.1",
