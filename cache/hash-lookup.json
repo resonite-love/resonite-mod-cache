@@ -1182,6 +1182,13 @@
     "file_name": "FckSessionCapture.dll",
     "file_size": 17920
   },
+  "95887cbb19c769db03b9d48c973469dbf800b0cfd4841c8661882ed6eb6c1f54": {
+    "mod_name": "bHapticsLib",
+    "version": "1.0.9",
+    "download_url": "https://github.com/nalathethird/bHapticsLib/releases/download/1.0.9/bHapticsLib.dll",
+    "file_name": "bHapticsLib.dll",
+    "file_size": 367616
+  },
   "40bf725c0dc10c57160c058c150beb0caa1720fbb9c772c119115603a6af90c4": {
     "mod_name": "bHapticsLib",
     "version": "1.0.8",
