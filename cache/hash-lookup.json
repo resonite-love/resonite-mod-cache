@@ -419,20 +419,6 @@
     "file_name": "ArrayEditing.dll",
     "file_size": 30720
   },
-  "f80b301222a8cf7c1529d114f28380f826005929d7f77a309125fd01f4f05117": {
-    "mod_name": "NoTankControls",
-    "version": "1.0.0-resonite",
-    "download_url": "https://github.com/furrz/NoTankControls/releases/download/1.0.0-resonite/NoTankControls.dll",
-    "file_name": "NoTankControls.dll",
-    "file_size": 5120
-  },
-  "482e4951e0f7886a580add02c6443ef086239444216f86d6a7d1506e1d1fb984": {
-    "mod_name": "NoTankControls",
-    "version": "1.0.0",
-    "download_url": "https://github.com/furrz/NoTankControls/releases/download/1.0.0/NoTankControls.dll",
-    "file_name": "NoTankControls.dll",
-    "file_size": 5120
-  },
   "66e3df17d17d59ccae878950a9b0ddda7aac072737e5dc7628813c2868ec7385": {
     "mod_name": "DynBoneWrangler",
     "version": "v1.0.1",
