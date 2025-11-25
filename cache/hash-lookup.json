@@ -27,6 +27,20 @@
     "file_name": "StopDisappearingLocomotionMenu.dll",
     "file_size": 9216
   },
+  "417872155d178c33744ceedd4da72a60de22c9ac2f762f78155fabf6954ddecf": {
+    "mod_name": "Add Nolocomotion",
+    "version": "1.0.1",
+    "download_url": "https://github.com/ErrorJan/ResoniteMod-AddNolocomotion/releases/download/1.0.1/AddNolocomotion.dll",
+    "file_name": "AddNolocomotion.dll",
+    "file_size": 25600
+  },
+  "bf65930cf3ce22e3fb8be157d3f1b8e20e02a96324262335f803740698cc3269": {
+    "mod_name": "Add Nolocomotion",
+    "version": "1.0.0",
+    "download_url": "https://github.com/ErrorJan/ResoniteMod-AddNolocomotion/releases/download/1.0.0/AddNolocomotion.dll",
+    "file_name": "AddNolocomotion.dll",
+    "file_size": 25088
+  },
   "35b45dcd1d3d4f202e2febe7e11c47358f5f41cedd5099c7c1355cf11622d0ac": {
     "mod_name": "EnableToolspawnInVR",
     "version": "1.0.2",
