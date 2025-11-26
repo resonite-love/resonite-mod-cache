@@ -4423,6 +4423,20 @@
     "file_name": "HeadlessUserCulling.dll",
     "file_size": 17920
   },
+  "09c3c6644f8a7c91bc7832a58eaf8b2e70ca85d9dd53710b3c4d0140f3eece60": {
+    "mod_name": "LiteStreams",
+    "version": "1.1.0",
+    "download_url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.1.0/LiteStreams.dll",
+    "file_name": "LiteStreams.dll",
+    "file_size": 8704
+  },
+  "978eca6f1539f59a1b96bfd1dab88970083c5b4a165fbd72af9f78b85afbb6ac": {
+    "mod_name": "LiteStreams",
+    "version": "1.0.0",
+    "download_url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.0.0/LiteStreams.dll",
+    "file_name": "LiteStreams.dll",
+    "file_size": 6656
+  },
   "8d9f335ecd39ad245838215b47334825e8f96a8a1464545a1404ffe5c8a345d7": {
     "mod_name": "NoSteamScreenshots",
     "version": "1.0.1",
