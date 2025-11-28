@@ -1931,6 +1931,20 @@
     "file_name": "RemoveThatKinkFromSteamLinkCS.dll",
     "file_size": 6144
   },
+  "6a27b7a86c8c537dd0cb488835a95f0f5f3099e21998bfb3fbf76f0c878a7119": {
+    "mod_name": "SteamRecentUsers",
+    "version": "1.0.1",
+    "download_url": "https://github.com/DanteTucker/SteamRecentUsers/releases/download/1.0.1/SteamRecentUsers.dll",
+    "file_name": "SteamRecentUsers.dll",
+    "file_size": 7680
+  },
+  "0fa074ef50eaa21bff0e963662cb82ced0f32e1d7542a0dbfa996fd013b96cf7": {
+    "mod_name": "SteamRecentUsers",
+    "version": "1.0.0",
+    "download_url": "https://github.com/DanteTucker/SteamRecentUsers/releases/download/1.0.0/SteamRecentUsers.dll",
+    "file_name": "SteamRecentUsers.dll",
+    "file_size": 7680
+  },
   "849394a31a0bdae0d84df7dff756774839f210693de87b74a0d1800e9c7970e8": {
     "mod_name": "ResoniteDiscordRpc",
     "version": "v1.0.0",
