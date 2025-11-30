@@ -4402,6 +4402,13 @@
     "file_name": "DynamicTickRate.dll",
     "file_size": 8704
   },
+  "b7cc2897f96f6b4f968a0067eceb03c31c75b6a0458fbe42566539ac7ff2f6d2": {
+    "mod_name": "FastSync",
+    "version": "1.0.0",
+    "download_url": "https://github.com/Raidriar796/FastSync/releases/download/1.0.0/FastSync.dll",
+    "file_name": "FastSync.dll",
+    "file_size": 7680
+  },
   "6d1f152107679be5c67ad8d84b5c0ebe35638fa1172d386d1d93469149a76719": {
     "mod_name": "HDRProbeFix",
     "version": "v1.0.0",
