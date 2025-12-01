@@ -1931,6 +1931,76 @@
     "file_name": "RemoveThatKinkFromSteamLinkCS.dll",
     "file_size": 6144
   },
+  "b8d2b4ec03eabbf720c59c0388b0df2e65666861f34a8bfc557aca6b3283d4a0": {
+    "mod_name": "ContextMenuBackOption",
+    "version": "v2.3.0",
+    "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.0/ContextMenuBackOption.dll",
+    "file_name": "ContextMenuBackOption.dll",
+    "file_size": 36352
+  },
+  "ff256f22abaab1990c5f0a25810e54ff14faa15bcdd1b45e345ee19fc91900a9": {
+    "mod_name": "ContextMenuBackOption",
+    "version": "v2.2.0",
+    "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.2.0/ContextMenuBackOption.dll",
+    "file_name": "ContextMenuBackOption.dll",
+    "file_size": 34304
+  },
+  "16e07f07ada703fa37049c58d463972f25ce4c15c3792ebdf8e8ed558c04fe24": {
+    "mod_name": "ContextMenuBackOption",
+    "version": "v2.1.0",
+    "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.1.0/ContextMenuBackOption.dll",
+    "file_name": "ContextMenuBackOption.dll",
+    "file_size": 32768
+  },
+  "05e073901fde95caa9c3c6bb4559c4c29926fdcd67d1c0a37d590ecca99d110e": {
+    "mod_name": "ContextMenuBackOption",
+    "version": "v2.0.2",
+    "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.0.2/ContextMenuBackOption.dll",
+    "file_name": "ContextMenuBackOption.dll",
+    "file_size": 29184
+  },
+  "2918aa694184b72f644888126473b4efbbc8dffc1b8ed7e737b8b04830af62ea": {
+    "mod_name": "ContextMenuBackOption",
+    "version": "v2.0.1",
+    "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.0.1/ContextMenuBackOption.dll",
+    "file_name": "ContextMenuBackOption.dll",
+    "file_size": 27136
+  },
+  "10cc30c3d290a32fa78c6fbddd930feb93cf92a3ea48e0510a49a12f5213c77a": {
+    "mod_name": "ContextMenuBackOption",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.0.0/ContextMenuBackOption.dll",
+    "file_name": "ContextMenuBackOption.dll",
+    "file_size": 39936
+  },
+  "d506b0a76779a031c097c609642b90311ae3686ef3bdac2ac4ef601d77d5e375": {
+    "mod_name": "ContextMenuBackOption",
+    "version": "v1.0.2",
+    "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v1.0.2/ContextMenuBackOption.dll",
+    "file_name": "ContextMenuBackOption.dll",
+    "file_size": 27136
+  },
+  "06450f0fa3901265ce41eed7a324de380a7b970b53998135aa2a91a4b8e0ec71": {
+    "mod_name": "ContextMenuBackOption",
+    "version": "v1.0.1.1",
+    "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v1.0.1.1/ContextMenuBackOption.dll",
+    "file_name": "ContextMenuBackOption.dll",
+    "file_size": 27136
+  },
+  "c35b6364ecac996d74709f7c7540295ba45de164a178ab1a4852eecfa51a8c06": {
+    "mod_name": "ContextMenuBackOption",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v1.0.1/ContextMenuBackOption.dll",
+    "file_name": "ContextMenuBackOption.dll",
+    "file_size": 27136
+  },
+  "e4e0b0c9ffbc285a14b0d8ea7399ab3a1ea9992856430ff0bd24e724cb05acf0": {
+    "mod_name": "ContextMenuBackOption",
+    "version": "v1.0.0-alpha.1",
+    "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v1.0.0-alpha.1/ContextMenuBackOption.dll",
+    "file_name": "ContextMenuBackOption.dll",
+    "file_size": 26624
+  },
   "6a27b7a86c8c537dd0cb488835a95f0f5f3099e21998bfb3fbf76f0c878a7119": {
     "mod_name": "SteamRecentUsers",
     "version": "1.0.1",
