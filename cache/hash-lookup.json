@@ -517,6 +517,20 @@
     "file_name": "ResonitePlatformSpoof.dll",
     "file_size": 7680
   },
+  "c188d02c48303254066cbcc9d34737ef9fb646d7599ed73f2679ba437d3f1abd": {
+    "mod_name": "CloseConfirm",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.1.0/CloseConfirm.dll",
+    "file_name": "CloseConfirm.dll",
+    "file_size": 8192
+  },
+  "498c38bdd9a81a34b95b1deca9a24042caad0bb5e2d74249eb8ebe558dbffdbb": {
+    "mod_name": "CloseConfirm",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.0.0/CloseConfirm.dll",
+    "file_name": "CloseConfirm.dll",
+    "file_size": 8192
+  },
   "078fba5d661c34cf0723798e2c70301854bc1a7b507e70f2c1baa7d02db298aa": {
     "mod_name": "ScalableMaterialOrbs",
     "version": "v2.0.0",
