@@ -4465,6 +4465,20 @@
     "file_name": "Lib.Harmony.2.3.1.nupkg",
     "file_size": 10746054
   },
+  "fb239e6f43be2a2ab98a03eace791f3b9c8ea860464945f733d9e10a4ae8ce10": {
+    "mod_name": "DynamicDesyncHelper",
+    "version": "0.1.1",
+    "download_url": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/download/0.1.1/DynamicDesyncHelper.dll",
+    "file_name": "DynamicDesyncHelper.dll",
+    "file_size": 8192
+  },
+  "711fab6950cb518e5e553469b8f0064552dc944760b35ed17b68589f9fa1289f": {
+    "mod_name": "DynamicDesyncHelper",
+    "version": "0.1.0",
+    "download_url": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/download/0.1.0/DynamicDesyncHelper.dll",
+    "file_name": "DynamicDesyncHelper.dll",
+    "file_size": 8192
+  },
   "a45c34a05ceb87bf3d70485df98849d4127c78056b31c2dff4716faa74e95315": {
     "mod_name": "DynamicTickRate",
     "version": "1.0.1",
@@ -4659,6 +4673,13 @@
     "version": "2.0.0",
     "download_url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.0.0/ResoniteIKCulling.dll",
     "file_name": "ResoniteIKCulling.dll",
+    "file_size": 9728
+  },
+  "61ae8977595b983b604a9d99181f28c34d9d76d0fc172a67146abad135db1150": {
+    "mod_name": "Resurfacer",
+    "version": "0.1.0",
+    "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.1.0/Resurfacer.dll",
+    "file_name": "Resurfacer.dll",
     "file_size": 9728
   },
   "59354e634cff92b3a70b9335481a10717bbcac716ff6f84abfcdd13ba747f16c": {
