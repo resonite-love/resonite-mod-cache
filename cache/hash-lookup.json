@@ -2015,6 +2015,13 @@
     "file_name": "ContextMenuBackOption.dll",
     "file_size": 26624
   },
+  "7eeb01cffaad1a8e2179ac873877beceea3c4e9e9d72cd9545374e86f58cc8af": {
+    "mod_name": "SteamRecentUsers",
+    "version": "1.0.2",
+    "download_url": "https://github.com/DanteTucker/SteamRecentUsers/releases/download/1.0.2/SteamRecentUsers.dll",
+    "file_name": "SteamRecentUsers.dll",
+    "file_size": 7680
+  },
   "6a27b7a86c8c537dd0cb488835a95f0f5f3099e21998bfb3fbf76f0c878a7119": {
     "mod_name": "SteamRecentUsers",
     "version": "1.0.1",
