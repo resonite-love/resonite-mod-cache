@@ -839,6 +839,13 @@
     "file_name": "SlotInspectorHighlighter.dll",
     "file_size": 7168
   },
+  "54c9f8018cc124441ae356589c1f7a44b77971babf91751ab4bcf72dbf987d1e": {
+    "mod_name": "BoneReferenceHelper",
+    "version": "v2.1.0",
+    "download_url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.1.0/BoneReferenceHelper.dll",
+    "file_name": "BoneReferenceHelper.dll",
+    "file_size": 23552
+  },
   "203a14448c8b9fff31fee1b27c28e3cc139b660ed146854cff7696a31de8e861": {
     "mod_name": "BoneReferenceHelper",
     "version": "v2.0.5",
