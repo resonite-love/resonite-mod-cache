@@ -5543,6 +5543,13 @@
     "file_name": "InspectorDelegateCaller.dll",
     "file_size": 11264
   },
+  "898b7c40616a687779fa04a70f76e0c3922847130532aa8ab6ea2622ba053469": {
+    "mod_name": "InterprocessLib",
+    "version": "v3.0.0",
+    "download_url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.0/InterprocessLib.BepInEx.Tests.dll",
+    "file_name": "InterprocessLib.BepInEx.Tests.dll",
+    "file_size": 7168
+  },
   "155ac1066f4aeccf3115e1d563871ac6358605d0737529fbcea85a1a9aa3029d": {
     "mod_name": "InterprocessLib",
     "version": "v2.0.1",
