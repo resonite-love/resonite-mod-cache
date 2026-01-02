@@ -496,6 +496,20 @@
     "file_name": "NoTankControls.dll",
     "file_size": 5120
   },
+  "aa19ceee651b8be17c6b7361d4e1303ebc530559ae9a42d4a1e44278584ab1e7": {
+    "mod_name": "CherryTypes",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/download/v1.0.1/CherryTypes.dll",
+    "file_name": "CherryTypes.dll",
+    "file_size": 31232
+  },
+  "0a1db5f9cb31345452d43fb645b4716927de8eca97a6de0a2262f7282bc7176d": {
+    "mod_name": "CherryTypes",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/download/v1.0.0/CherryTypes.dll",
+    "file_name": "CherryTypes.dll",
+    "file_size": 31232
+  },
   "66e3df17d17d59ccae878950a9b0ddda7aac072737e5dc7628813c2868ec7385": {
     "mod_name": "DynBoneWrangler",
     "version": "v1.0.1",
