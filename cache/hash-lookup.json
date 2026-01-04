@@ -3737,6 +3737,20 @@
     "file_name": "ResoniteSlotInspectorCounter.dll",
     "file_size": 7168
   },
+  "602c92ffe4cd6067dadd70868651dd8c300b7550fbb48bcad025d9f2e6350d0a": {
+    "mod_name": "SessionTabOverhaul",
+    "version": "2.1.1",
+    "download_url": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/download/2.1.1/SessionTabOverhaul.dll",
+    "file_name": "SessionTabOverhaul.dll",
+    "file_size": 26624
+  },
+  "415a7a22e7da9e29e8455e48be75f2fbe26d801aa370580779a0f862f36b7713": {
+    "mod_name": "SessionTabOverhaul",
+    "version": "2.0.0",
+    "download_url": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/download/2.0.0/SessionTabOverhaul.dll",
+    "file_name": "SessionTabOverhaul.dll",
+    "file_size": 26624
+  },
   "4fff46d4fdcc78416ce1d7491bb8e173a05450f3f40e1d6f12d69f7b2564653f": {
     "mod_name": "ReArmature",
     "version": "2.1.5",
