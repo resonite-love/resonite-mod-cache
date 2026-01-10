@@ -846,6 +846,13 @@
     "file_name": "QuestProModule.dll",
     "file_size": 23040
   },
+  "be997ad763dd2652d8f7f8dc7a609b80bc4b90dc81a98dd2c2fd8a486dae67ee": {
+    "mod_name": "SlotInspectorHighlighter",
+    "version": "v1.0.3",
+    "download_url": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/download/v1.0.3/SlotInspectorHighlighter.dll",
+    "file_name": "SlotInspectorHighlighter.dll",
+    "file_size": 7680
+  },
   "cfe80b912f859e31b16c8273c6585098c91d75b4dc5ce74d20a372fe5cda7675": {
     "mod_name": "SlotInspectorHighlighter",
     "version": "v1.0.2",
