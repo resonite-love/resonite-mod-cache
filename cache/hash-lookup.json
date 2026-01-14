@@ -629,6 +629,20 @@
     "file_name": "CustomLogixBrowser.dll",
     "file_size": 8704
   },
+  "448b70369da30213ecd5cefdf6bf0e8755f0c8e631bc286d4d4710550a88f0aa": {
+    "mod_name": "CustomPlatformColors",
+    "version": "v1.2",
+    "download_url": "https://github.com/DexyThePuppy/CustomPlatformColors/releases/download/v1.2/CustomPlatformColors.dll",
+    "file_name": "CustomPlatformColors.dll",
+    "file_size": 81408
+  },
+  "6368ae70b98fd4ca53573c372de80a1ed1a7ed22c1d689190351454a554d8548": {
+    "mod_name": "CustomPlatformColors",
+    "version": "Release",
+    "download_url": "https://github.com/DexyThePuppy/CustomPlatformColors/releases/download/Release/CustomPlatformColors.dll",
+    "file_name": "CustomPlatformColors.dll",
+    "file_size": 31232
+  },
   "49c4b49b886e3929795241b30f05a04a8a56f439f3f98a1009889183ee08afc7": {
     "mod_name": "ProtoFluxOverhaul",
     "version": "1.5.0",
