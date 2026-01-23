@@ -783,6 +783,13 @@
     "file_name": "ColourMyFiles.dll",
     "file_size": 10752
   },
+  "ebbcf850264bbd29932287916fb0ac75dabca56468cf70595f0df756f1ce6324": {
+    "mod_name": "DisableDevToolPassthrough",
+    "version": "1.0.0",
+    "download_url": "https://github.com/Maurdekye/Resonite-DisableDevToolPassthrough/releases/download/1.0.0/DisableDevToolPassthrough.dll",
+    "file_name": "DisableDevToolPassthrough.dll",
+    "file_size": 6656
+  },
   "9989cf9702ba7016a566c96059a81f573c185f026d984063e78403ac50f8921d": {
     "mod_name": "libalxr-sharp",
     "version": "1.2.0",
