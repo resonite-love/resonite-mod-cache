@@ -1343,6 +1343,27 @@
     "file_name": "bHapticsLib.dll",
     "file_size": 74752
   },
+  "dadc5cecfafaa476ca71b57e2d36484669a2787ede88be12b8e92a931a8de739": {
+    "mod_name": "EsnyaResoniteModTemplate",
+    "version": "v0.0.0-template.1",
+    "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0-template.1/EsnyaResoniteModTemplate.dll",
+    "file_name": "EsnyaResoniteModTemplate.dll",
+    "file_size": 7168
+  },
+  "3445e18516fa3285269f15f3504eec3f3b8dfbfe19da84cb713d068d19321eee": {
+    "mod_name": "EsnyaResoniteModTemplate",
+    "version": "v0.0.0-template.0",
+    "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0-template.0/EsnyaResoniteModTemplate.dll",
+    "file_name": "EsnyaResoniteModTemplate.dll",
+    "file_size": 7168
+  },
+  "fb34f9bdc105e247341f1fe6a0da1fdf4320629e58c5993a11cbdac5ce7bd688": {
+    "mod_name": "EsnyaResoniteModTemplate",
+    "version": "v0.0.0.0",
+    "download_url": "https://github.com/esnya/EsnyaResoniteModTemplate/releases/download/v0.0.0.0/EsnyaResoniteModTemplate.dll",
+    "file_name": "EsnyaResoniteModTemplate.dll",
+    "file_size": 7168
+  },
   "c2fd09becc7f49528eb7d0ce1d41c399d301a8fe31c8f93cd5ece34082f43b1d": {
     "mod_name": "EsnyaTweaks",
     "version": "v1.0.0",
