@@ -2134,6 +2134,13 @@
     "file_name": "SteamRecentUsers.dll",
     "file_size": 7680
   },
+  "a1b7ff94d6227aae7cdacc7423ce043cba6297832b16a264836d1551f07c2ef1": {
+    "mod_name": "LinuxSortedFiles",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Baplar/ResoniteLinuxSortedFiles/releases/download/v1.0.0/LinuxSortedFiles.dll",
+    "file_name": "LinuxSortedFiles.dll",
+    "file_size": 10240
+  },
   "849394a31a0bdae0d84df7dff756774839f210693de87b74a0d1800e9c7970e8": {
     "mod_name": "ResoniteDiscordRpc",
     "version": "v1.0.0",
