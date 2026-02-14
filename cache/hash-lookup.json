@@ -3919,6 +3919,13 @@
     "file_name": "ImNotAsking.dll",
     "file_size": 7680
   },
+  "0173e778efa8dd9b5d3a1bd93aaae8139dd162930594d2f950b591609ff4ba81": {
+    "mod_name": "Inspectorimprovements",
+    "version": "1.0.0",
+    "download_url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.0/InspectorImprovements.dll",
+    "file_name": "InspectorImprovements.dll",
+    "file_size": 7680
+  },
   "ea81299fd63243a78c85e9e69e96813926661d5ef3fbd2dde1f2db27ab7c9217": {
     "mod_name": "LogAutoFlush",
     "version": "1.0.1",
