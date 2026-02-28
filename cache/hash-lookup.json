@@ -2820,27 +2820,6 @@
     "file_name": "LogCleaner.dll",
     "file_size": 9216
   },
-  "c309718255df6a2d80d885e0a5487895372da404c4ac262b709459494414a8f1": {
-    "mod_name": "MessageCopy",
-    "version": "1.0.2",
-    "download_url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.2/MessageCopy.dll",
-    "file_name": "MessageCopy.dll",
-    "file_size": 7168
-  },
-  "8ed99837b36c9e3d8d62130701509be105516ef98e396832193bac92d484c850": {
-    "mod_name": "MessageCopy",
-    "version": "1.0.1",
-    "download_url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.1/MessageCopy.dll",
-    "file_name": "MessageCopy.dll",
-    "file_size": 7168
-  },
-  "dc74baff6a08083f4e493e0251c76ba09c88c57ce998c9908f2a401cb2413dc7": {
-    "mod_name": "MessageCopy",
-    "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/MessageCopy/releases/download/1.0.0/MessageCopy.dll",
-    "file_name": "MessageCopy.dll",
-    "file_size": 7168
-  },
   "a1c38ab8aafce3aa595107208ffeecf2b10aeddfe06e7754f82c6fa2b5c05bcd": {
     "mod_name": "MyInspectors",
     "version": "2.1.1",
@@ -3596,27 +3575,6 @@
     "download_url": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/download/1.0.0/BetterInspectorCheckbox.dll",
     "file_name": "BetterInspectorCheckbox.dll",
     "file_size": 7680
-  },
-  "47d2b7e5781bf3d8133a34fbd1a52e9a5121b8d307ffd78dc95218a4d082ceb5": {
-    "mod_name": "ChangeJoinLeaveSound",
-    "version": "1.0.2",
-    "download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.2/ChangeJoinLeaveSound.dll",
-    "file_name": "ChangeJoinLeaveSound.dll",
-    "file_size": 10240
-  },
-  "ec0ca26addc0c3bb8712ac2d0a1ab009d44109640f35b2d9bd1b42b24cdad8be": {
-    "mod_name": "ChangeJoinLeaveSound",
-    "version": "1.0.1",
-    "download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.1/ChangeJoinLeaveSound.dll",
-    "file_name": "ChangeJoinLeaveSound.dll",
-    "file_size": 10240
-  },
-  "6c620e015c0d79fefb4f22c1c421cf60c31482dd3d5e3dda683d61e040ad56d4": {
-    "mod_name": "ChangeJoinLeaveSound",
-    "version": "1.0.0",
-    "download_url": "https://github.com/NepuShiro/ChangeJoinLeaveSound/releases/download/1.0.0/ChangeJoinLeaveSound.dll",
-    "file_name": "ChangeJoinLeaveSound.dll",
-    "file_size": 11776
   },
   "7f274b03a7c55508b301a53add5529994557f342b8656df412a336cbf474f46d": {
     "mod_name": "FluxFinder",
