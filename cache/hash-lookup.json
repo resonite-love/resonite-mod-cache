@@ -1511,48 +1511,6 @@
     "file_name": "ResoniteMetricsCounter.dll",
     "file_size": 25088
   },
-  "fd77b88724f4104440df0cf979a851d35eec75ea3a7e86297d04abe47c71aff6": {
-    "mod_name": "ResoniteModLoader",
-    "version": "4.2.0",
-    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.2.0/0Harmony.dll",
-    "file_name": "0Harmony.dll",
-    "file_size": 2330624
-  },
-  "81bb9e42e053309c3f000e9cd22895081f155e43e1e4074fcae681832afb5ede": {
-    "mod_name": "ResoniteModLoader",
-    "version": "4.0.0",
-    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.0.0/0Harmony.dll",
-    "file_name": "0Harmony.dll",
-    "file_size": 2323456
-  },
-  "80690e753ee7350fbaf8fdcd1d0d742fc6753292f87bd41c71351746464d527e": {
-    "mod_name": "ResoniteModLoader",
-    "version": "prerelease",
-    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/prerelease/0Harmony-Net9.dll",
-    "file_name": "0Harmony-Net9.dll",
-    "file_size": 2085376
-  },
-  "4b5f44764316c833a3b1d184ba6f1df275c86a181cc595ec403a01049d1d6fb5": {
-    "mod_name": "ResoniteModLoader",
-    "version": "3.0.0",
-    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/3.0.0/0Harmony-Net8.dll",
-    "file_name": "0Harmony-Net8.dll",
-    "file_size": 2060800
-  },
-  "d04ec5b2590dd1bbb57f0f11dc417b1a5bebbb36b1f97006d35f2d87c3a2a69f": {
-    "mod_name": "ResoniteModLoader",
-    "version": "2.5.0",
-    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.5.0/0Harmony.dll",
-    "file_name": "0Harmony.dll",
-    "file_size": 931840
-  },
-  "6928f117d52c0683c44683c0656cd5a345d21aa45720b11c64dc72a35771cac5": {
-    "mod_name": "ResoniteModLoader",
-    "version": "2.4.0",
-    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/2.4.0/0Harmony.dll",
-    "file_name": "0Harmony.dll",
-    "file_size": 911872
-  },
   "4a666db73be9b0a2539e00da71abb09810cde629b4ed82de2c056cf6ff0e72e9": {
     "mod_name": "CyberFingerMod",
     "version": "1.1.2",
