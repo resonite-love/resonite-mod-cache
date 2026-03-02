@@ -5515,6 +5515,13 @@
     "file_name": "ComponentSearchWizard.dll",
     "file_size": 14848
   },
+  "1ce42cc9159b4e90823fd3ea1c5bd7e87fc4ae2659ef3d4735e05cb1c06988f6": {
+    "mod_name": "ExpandedMemberEditors",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Nytra/ResoniteExpandedMemberEditors/releases/download/v1.0.0/ExpandedMemberEditors.dll",
+    "file_name": "ExpandedMemberEditors.dll",
+    "file_size": 9728
+  },
   "d00605ec3083d53a0dfb37aa8148c0ebb598cb853e12b55571bcf19529de7145": {
     "mod_name": "FixSessionBrowser",
     "version": "v1.1.0",
