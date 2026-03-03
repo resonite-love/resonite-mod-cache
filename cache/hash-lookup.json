@@ -531,6 +531,34 @@
     "file_name": "CherryTypes.dll",
     "file_size": 31232
   },
+  "67361a23583e499e5bc4236303c43df7e533a3fdce4bd958769caa0e677fa977": {
+    "mod_name": "Resdb Tools",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v1.0.1/ResdbTools.dll",
+    "file_name": "ResdbTools.dll",
+    "file_size": 45568
+  },
+  "ad03d09314ed8da6892afd37c56954f50a94fc502c48a02c5da74e1a85c75169": {
+    "mod_name": "Resdb Tools",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v1.0.0/ResdbTools.dll",
+    "file_name": "ResdbTools.dll",
+    "file_size": 28672
+  },
+  "f59836ff54105bbf9af754c7f8a80d68036308421f7260692c22ae5b43fd262b": {
+    "mod_name": "Resdb Tools",
+    "version": "v0.1.1",
+    "download_url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v0.1.1/Mod.ResdbTools.nupkg",
+    "file_name": "Mod.ResdbTools.nupkg",
+    "file_size": 32784
+  },
+  "59e0fd62df32c5258414c2cfbabb7bdb82abd96407015316e7825df062a936a7": {
+    "mod_name": "Resdb Tools",
+    "version": "v0.1.0",
+    "download_url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v0.1.0/Mod.ResdbTools.nupkg",
+    "file_name": "Mod.ResdbTools.nupkg",
+    "file_size": 32993
+  },
   "66e3df17d17d59ccae878950a9b0ddda7aac072737e5dc7628813c2868ec7385": {
     "mod_name": "DynBoneWrangler",
     "version": "v1.0.1",
