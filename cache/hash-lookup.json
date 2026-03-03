@@ -4010,6 +4010,13 @@
     "file_name": "PermissionControl.dll",
     "file_size": 13824
   },
+  "00026fc8d9f6857764267c56f98363f9753fd746b4d46c8f7267067b1ca43302": {
+    "mod_name": "PTTKeybinds",
+    "version": "1.5.2",
+    "download_url": "https://github.com/XDelta/ResonitePTTKeybinds/releases/download/1.5.2/ResonitePTTKeybinds.dll",
+    "file_name": "ResonitePTTKeybinds.dll",
+    "file_size": 12288
+  },
   "7ad64f9a7d3c93aaf08236171d89f49f44699d808fe44c4322f2d02cdd80654b": {
     "mod_name": "PTTKeybinds",
     "version": "1.5.1",
@@ -4079,6 +4086,13 @@
     "download_url": "https://github.com/XDelta/SettingsRedux/releases/download/1.0.0/SettingsRedux.dll",
     "file_name": "SettingsRedux.dll",
     "file_size": 27136
+  },
+  "c01295d424734b6e2f3531e3bd2ee0ee8915e77d231a2bbfcad7c29c8fc6a3bd": {
+    "mod_name": "ShowSourceLocation",
+    "version": "1.2.3",
+    "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.2.3/ShowSourceLocation.dll",
+    "file_name": "ShowSourceLocation.dll",
+    "file_size": 9216
   },
   "40706fc5bcc021cbc5a200f5f8f81cd50995d064aaede780e5a870c701435029": {
     "mod_name": "ShowSourceLocation",
