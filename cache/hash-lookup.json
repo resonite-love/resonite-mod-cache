@@ -1514,8 +1514,8 @@
   "fdd3481ffbc1be68baa8f71ce09c5ea16cadfb7812bf310c9bcf755d490c17ba": {
     "mod_name": "ResoniteModLoader",
     "version": "5.0.0",
-    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.0/ResoniteModLoader.dll",
-    "file_name": "ResoniteModLoader.dll",
+    "download_url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.0/0Harmony.dll",
+    "file_name": "0Harmony.dll",
     "file_size": 78336
   },
   "fd77b88724f4104440df0cf979a851d35eec75ea3a7e86297d04abe47c71aff6": {
@@ -3939,6 +3939,13 @@
     "download_url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.0/InspectorImprovements.dll",
     "file_name": "InspectorImprovements.dll",
     "file_size": 7680
+  },
+  "9e2efa220a31667a3c9a36bf0ea6d84eb809067aa9d0471569c62c8ad3fdc6b1": {
+    "mod_name": "LogAutoFlush",
+    "version": "1.0.2",
+    "download_url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.2/LogAutoFlush.dll",
+    "file_name": "LogAutoFlush.dll",
+    "file_size": 6144
   },
   "ea81299fd63243a78c85e9e69e96813926661d5ef3fbd2dde1f2db27ab7c9217": {
     "mod_name": "LogAutoFlush",
