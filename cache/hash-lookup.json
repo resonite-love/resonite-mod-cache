@@ -3968,6 +3968,13 @@
     "file_name": "NoSlotEnabled.dll",
     "file_size": 6656
   },
+  "fff07d9f3713341c04ba8fc98f875bff08e423f9a8f073645000642d28e76ced": {
+    "mod_name": "NonPersistentInspectors",
+    "version": "2.0.1",
+    "download_url": "https://github.com/XDelta/NonPersistentInspectors/releases/download/2.0.1/NonPersistentInspectors.dll",
+    "file_name": "NonPersistentInspectors.dll",
+    "file_size": 6144
+  },
   "3d15180b8f3cc4fac717cc777248a96b50ec3ab02b17cd0cdf7f3b88628caaaf": {
     "mod_name": "NonPersistentInspectors",
     "version": "2.0.0",
