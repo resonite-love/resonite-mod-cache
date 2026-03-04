@@ -4724,6 +4724,13 @@
     "file_name": "Lib.Harmony.2.3.1.nupkg",
     "file_size": 10746054
   },
+  "bf066707b59ab43bc9e871da3bf4c5c90d23cc37d90a344bb2831d687617b6f3": {
+    "mod_name": "DynamicDesyncHelper",
+    "version": "0.1.2",
+    "download_url": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/download/0.1.2/DynamicDesyncHelper.dll",
+    "file_name": "DynamicDesyncHelper.dll",
+    "file_size": 8192
+  },
   "fb239e6f43be2a2ab98a03eace791f3b9c8ea860464945f733d9e10a4ae8ce10": {
     "mod_name": "DynamicDesyncHelper",
     "version": "0.1.1",
@@ -4736,6 +4743,13 @@
     "version": "0.1.0",
     "download_url": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/download/0.1.0/DynamicDesyncHelper.dll",
     "file_name": "DynamicDesyncHelper.dll",
+    "file_size": 8192
+  },
+  "6798fdeb29957bc5691736a7a7ea4b5a6c635abbba8bd510c91250b1d246992b": {
+    "mod_name": "DynamicTickRate",
+    "version": "1.0.2",
+    "download_url": "https://github.com/Raidriar796/DynamicTickRate/releases/download/1.0.2/DynamicTickRate.dll",
+    "file_name": "DynamicTickRate.dll",
     "file_size": 8192
   },
   "a45c34a05ceb87bf3d70485df98849d4127c78056b31c2dff4716faa74e95315": {
@@ -4751,6 +4765,13 @@
     "download_url": "https://github.com/Raidriar796/DynamicTickRate/releases/download/1.0.0/DynamicTickRate.dll",
     "file_name": "DynamicTickRate.dll",
     "file_size": 8704
+  },
+  "daa9906556cf9dac36462de946d126e3797893831540b0569db8488aff70fac3": {
+    "mod_name": "FastSync",
+    "version": "1.0.1",
+    "download_url": "https://github.com/Raidriar796/FastSync/releases/download/1.0.1/FastSync.dll",
+    "file_name": "FastSync.dll",
+    "file_size": 7680
   },
   "b7cc2897f96f6b4f968a0067eceb03c31c75b6a0458fbe42566539ac7ff2f6d2": {
     "mod_name": "FastSync",
