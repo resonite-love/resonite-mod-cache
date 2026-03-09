@@ -49,7 +49,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:06:45.565Z",
+    "last_updated": "2026-03-09T15:09:35.821Z",
     "source": "manifest"
   },
   {
@@ -78,7 +78,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:06:46.271Z",
+    "last_updated": "2026-03-09T15:09:36.712Z",
     "source": "manifest"
   },
   {
@@ -117,7 +117,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:06:47.053Z",
+    "last_updated": "2026-03-09T15:09:37.939Z",
     "source": "manifest"
   },
   {
@@ -168,7 +168,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:06:47.849Z",
+    "last_updated": "2026-03-09T15:09:38.739Z",
     "source": "manifest"
   },
   {
@@ -221,7 +221,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:06:48.653Z",
+    "last_updated": "2026-03-09T15:09:39.620Z",
     "source": "manifest"
   },
   {
@@ -272,7 +272,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:06:49.385Z",
+    "last_updated": "2026-03-09T15:09:40.390Z",
     "source": "manifest"
   },
   {
@@ -323,7 +323,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:06:50.131Z",
+    "last_updated": "2026-03-09T15:09:41.221Z",
     "source": "manifest"
   },
   {
@@ -950,7 +950,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:06:51.150Z",
+    "last_updated": "2026-03-09T15:09:42.251Z",
     "source": "manifest"
   },
   {
@@ -991,7 +991,7 @@
       "list"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:06:51.934Z",
+    "last_updated": "2026-03-09T15:09:43.107Z",
     "source": "manifest"
   },
   {
@@ -1030,7 +1030,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:06:52.689Z",
+    "last_updated": "2026-03-09T15:09:43.889Z",
     "source": "manifest"
   },
   {
@@ -1087,7 +1087,7 @@
       "ProtoFlux"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:06:53.431Z",
+    "last_updated": "2026-03-09T15:09:44.717Z",
     "source": "manifest"
   },
   {
@@ -1155,7 +1155,7 @@
       "cloud"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:06:54.171Z",
+    "last_updated": "2026-03-09T15:09:45.506Z",
     "source": "manifest"
   },
   {
@@ -1196,7 +1196,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:06:54.875Z",
+    "last_updated": "2026-03-09T15:09:46.317Z",
     "source": "manifest"
   },
   {
@@ -1235,7 +1235,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:06:55.646Z",
+    "last_updated": "2026-03-09T15:09:47.135Z",
     "source": "manifest"
   },
   {
@@ -1286,7 +1286,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:06:56.400Z",
+    "last_updated": "2026-03-09T15:09:47.976Z",
     "source": "manifest"
   },
   {
@@ -1325,7 +1325,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:06:57.197Z",
+    "last_updated": "2026-03-09T15:09:48.841Z",
     "source": "manifest"
   },
   {
@@ -1439,7 +1439,7 @@
       "favorite"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:06:58.094Z",
+    "last_updated": "2026-03-09T15:09:49.660Z",
     "source": "manifest"
   },
   {
@@ -1494,7 +1494,7 @@
       "color"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:06:58.858Z",
+    "last_updated": "2026-03-09T15:09:50.493Z",
     "source": "manifest"
   },
   {
@@ -1665,7 +1665,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:06:59.669Z",
+    "last_updated": "2026-03-09T15:09:51.342Z",
     "source": "manifest"
   },
   {
@@ -1704,7 +1704,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:00.497Z",
+    "last_updated": "2026-03-09T15:09:52.102Z",
     "source": "manifest"
   },
   {
@@ -1713,22 +1713,9 @@
     "category": "Bug Workaround",
     "source_location": "https://github.com/GrandtheUK/ResoniteLinuxClipboard",
     "author": "Grand",
-    "latest_version": "v1.0.0",
-    "latest_download_url": "https://github.com/GrandtheUK/ResoniteLinuxClipboard/releases/download/v1.0.0/ResoniteLinuxClipboard.dll",
-    "releases": [
-      {
-        "version": "v1.0.0",
-        "download_url": "https://github.com/GrandtheUK/ResoniteLinuxClipboard/releases/download/v1.0.0/ResoniteLinuxClipboard.dll",
-        "release_url": "https://github.com/GrandtheUK/ResoniteLinuxClipboard/releases/tag/v1.0.0",
-        "published_at": "2025-08-21T01:59:27Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Initial Release.\r\n\r\nInitial support for text, image and file copying and pasting on post-splittening Resonite. Requires Wayland and Linux to work correctly.\r\n\r\n## What's Changed\r\n* Add image copy support by @Baplar in https://github.com/GrandtheUK/ResoniteLinuxClipboard/pull/1\r\n* Manage pasting files, as well as copying and pasting images by @Baplar in https://github.com/GrandtheUK/ResoniteLinuxClipboard/pull/2\r\n\r\n## New Contributors\r\n* @Baplar made their first contribution in https://github.com/GrandtheUK/ResoniteLinuxClipboard/pull/1\r\n\r\n**Full Changelog**: https://github.com/GrandtheUK/ResoniteLinuxClipboard/commits/v1.0.0",
-        "file_name": "ResoniteLinuxClipboard.dll",
-        "file_size": 15360,
-        "sha256": "89c797a00d2c387c05ef88b74da4013c30d9e85ff778bf932b9b2324abcbc195"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": [
       "Linux",
       "Wayland",
@@ -1739,7 +1726,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:07:01.227Z",
+    "last_updated": "2026-03-09T15:09:53.443Z",
     "source": "manifest"
   },
   {
@@ -1778,7 +1765,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:02.023Z",
+    "last_updated": "2026-03-09T15:09:54.286Z",
     "source": "manifest"
   },
   {
@@ -1819,7 +1806,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:07:02.816Z",
+    "last_updated": "2026-03-09T15:09:55.134Z",
     "source": "manifest"
   },
   {
@@ -1846,7 +1833,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:03.534Z",
+    "last_updated": "2026-03-09T15:09:56.314Z",
     "source": "manifest"
   },
   {
@@ -1855,147 +1842,14 @@
     "category": "Hardware Integration",
     "source_location": "https://github.com/sjsanjsrh/QuestPro4Resonite",
     "author": "Sinduy",
-    "latest_version": "2.1.4",
-    "latest_download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.4/libalxr-sharp.dll",
-    "releases": [
-      {
-        "version": "2.1.4",
-        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.4/libalxr-sharp.dll",
-        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.4",
-        "published_at": "2024-04-15T03:57:37Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "* Versioning-related fixes and recompilation for resonite-mod-manifest\r\n\r\n**Full Changelog**: https://github.com/sjsanjsrh/QuestPro4Resonite/compare/2.1.4...2.1.4",
-        "file_name": "libalxr-sharp.dll",
-        "file_size": 31232,
-        "sha256": "9989cf9702ba7016a566c96059a81f573c185f026d984063e78403ac50f8921d"
-      },
-      {
-        "version": "2.1.3",
-        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.3/libalxr-sharp.dll",
-        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.3",
-        "published_at": "2024-04-05T13:01:50Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "* remove localmode and replace reset_event to enabled at config\r\n* Use a loopback IP if the IP is invalid\r\n* Change harmony id to \"com.Sinduy.QuestPro4Resonite\"\r\n* Disable device at disconnected\r\n\r\n**Full Changelog**: https://github.com/sjsanjsrh/QuestPro4Resonite/compare/2.1.2...2.1.3",
-        "file_name": "libalxr-sharp.dll",
-        "file_size": 31232,
-        "sha256": "4ead590f291b6fb3b786626c6a57bcbb036e23c5fe633d0316b31b3b45f55669"
-      },
-      {
-        "version": "2.1.2",
-        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.2/libalxr-sharp.dll",
-        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.2",
-        "published_at": "2024-03-13T00:38:59Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## What's Changed\r\n* Make logs more readable,\r\n* Ensure Resonite client shuts down normally\r\n* Check if HMD is idle\r\n\r\n**Full Changelog**: https://github.com/sjsanjsrh/QuestPro4Resonite/compare/2.1.0...2.1.2",
-        "file_name": "libalxr-sharp.dll",
-        "file_size": 31232,
-        "sha256": "ca00400416983bcbab05e510d98ed9e45d8851cb8f1e7e254bb66abeee4d72d8"
-      },
-      {
-        "version": "2.1.0",
-        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.0/libalxr-sharp.dll",
-        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.0",
-        "published_at": "2024-02-12T07:57:17Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## What's Changed\r\n* V2 by @sjsanjsrh in https://github.com/sjsanjsrh/QuestPro4Resonite/pull/7\r\ncleaned up the source code to make it easier to read and removed unnecessary behavior to improve performance.\r\n\r\n**Full Changelog**: https://github.com/sjsanjsrh/QuestPro4Resonite/compare/2.0.1...2.1.0",
-        "file_name": "libalxr-sharp.dll",
-        "file_size": 31232,
-        "sha256": "4ead590f291b6fb3b786626c6a57bcbb036e23c5fe633d0316b31b3b45f55669"
-      },
-      {
-        "version": "2.0.1",
-        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.0.1/libalxr-sharp.dll",
-        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.0.1",
-        "published_at": "2023-12-25T15:17:59Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "* fix eye direction",
-        "file_name": "libalxr-sharp.dll",
-        "file_size": 31744,
-        "sha256": "f246c01ed38cf850d96a6327b40b1382869f244bfdb112809c7333fbfc2edff2"
-      },
-      {
-        "version": "2.0.0",
-        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.0.0/libalxr-sharp.dll",
-        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.0.0",
-        "published_at": "2023-12-25T08:08:38Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "* Apply FBExpression2 to enable tongue tracking.\r\n* ALXR Version Update (existing users will need to do a reinstall of ALXR)\r\n* Add the libalxr-sharp library to the ml_libs folder as it is added.\r\n* Do not enable local mode in the settings as it is incomplete.",
-        "file_name": "libalxr-sharp.dll",
-        "file_size": 31744,
-        "sha256": "f246c01ed38cf850d96a6327b40b1382869f244bfdb112809c7333fbfc2edff2"
-      },
-      {
-        "version": "1.0.4",
-        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.4/QuestProModule.dll",
-        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.4",
-        "published_at": "2023-10-25T01:07:57Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## What's Changed\r\n* Fixed exception when closing Resonite with no ALXR device connected causing the game to hang. by @ScarsTRF in https://github.com/sjsanjsrh/QuestPro4Resonite/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/sjsanjsrh/QuestPro4Resonite/compare/1.0.3...1.0.4",
-        "file_name": "QuestProModule.dll",
-        "file_size": 25088,
-        "sha256": "0ff7f186b009644d6af7c5810f9ae8f84c78b9f02aaeeafa4b4a70b1c9d03467"
-      },
-      {
-        "version": "1.0.3",
-        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.3/QuestProModule.dll",
-        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.3",
-        "published_at": "2023-10-24T22:45:22Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## What's Changed\r\n* Jaw inverting option (Useful if you're jaw Left/Right wasn't correct)\r\n* Pupil Size control\r\n* Fixed issue causing Resonite to hang when exiting #1 \r\n* Added a bool (Temporary for event input) to reconnect to ALXR\r\n\r\n## New Contributors\r\n* @ScarsTRF made their first contribution in https://github.com/sjsanjsrh/QuestPro4Resonite/pull/3\r\n\r\n**Full Changelog**: https://github.com/sjsanjsrh/QuestPro4Resonite/compare/1.0.2...1.0.3",
-        "file_name": "QuestProModule.dll",
-        "file_size": 26112,
-        "sha256": "3ec01abf25696032c47b5c03b797968fbc3bce41afe600e8e0cd4aee98b88ab3"
-      },
-      {
-        "version": "1.0.2",
-        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.2/QuestProModule.dll",
-        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.2",
-        "published_at": "2023-10-22T10:34:23Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## What's Changed\r\n* add config key *EyeMovementMultiplier* it can Multiplier to adjust the movement range of the user's eyes.\r\n\r\n## New Contributors\r\n* @DanteTucker made their first contribution in https://github.com/sjsanjsrh/QuestPro4Resonite/pull/2\r\n",
-        "file_name": "QuestProModule.dll",
-        "file_size": 24576,
-        "sha256": "4040c0bcfeaadff823755da1f4afae9fba5f18ea52b95cd155e5be7eee1dc566"
-      },
-      {
-        "version": "1.0.1",
-        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.1/QuestProModule.dll",
-        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.1",
-        "published_at": "2023-10-18T09:25:42Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "[How to use](https://github.com/sjsanjsrh/QuestPro4Resonite/blob/main/README.md)\r\n* Fix an angry expression\r\n* Combined eye fix",
-        "file_name": "QuestProModule.dll",
-        "file_size": 24064,
-        "sha256": "f2995fc18cfdd9a4cfb28a28b701c3dac36e57e04368dd706019cd78cb828e6e"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.0/QuestProModule.dll",
-        "release_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.0",
-        "published_at": "2023-10-01T12:34:58Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "[How to use](https://github.com/sjsanjsrh/QuestPro4Resonite/blob/main/README.md)",
-        "file_name": "QuestProModule.dll",
-        "file_size": 23040,
-        "sha256": "8006e3a0c9c39b27803500405af1047fa709de7025a223abc4870bd6770c49ed"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:07:04.300Z",
+    "last_updated": "2026-03-09T15:09:57.648Z",
     "source": "manifest"
   },
   {
@@ -2058,7 +1912,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:05.129Z",
+    "last_updated": "2026-03-09T15:09:58.458Z",
     "source": "manifest"
   },
   {
@@ -2085,7 +1939,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:05.866Z",
+    "last_updated": "2026-03-09T15:09:59.228Z",
     "source": "manifest"
   },
   {
@@ -2232,7 +2086,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:06.645Z",
+    "last_updated": "2026-03-09T15:10:00.076Z",
     "source": "manifest"
   },
   {
@@ -2379,7 +2233,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:07.415Z",
+    "last_updated": "2026-03-09T15:10:00.927Z",
     "source": "manifest"
   },
   {
@@ -2418,7 +2272,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:08.136Z",
+    "last_updated": "2026-03-09T15:10:01.731Z",
     "source": "manifest"
   },
   {
@@ -2507,7 +2361,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:07:08.884Z",
+    "last_updated": "2026-03-09T15:10:02.539Z",
     "source": "manifest"
   },
   {
@@ -2570,7 +2424,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:09.657Z",
+    "last_updated": "2026-03-09T15:10:03.334Z",
     "source": "manifest"
   },
   {
@@ -2681,7 +2535,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:10.450Z",
+    "last_updated": "2026-03-09T15:10:04.185Z",
     "source": "manifest"
   },
   {
@@ -2720,7 +2574,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:11.251Z",
+    "last_updated": "2026-03-09T15:10:05.018Z",
     "source": "manifest"
   },
   {
@@ -2783,7 +2637,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:12.010Z",
+    "last_updated": "2026-03-09T15:10:05.929Z",
     "source": "manifest"
   },
   {
@@ -2810,7 +2664,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:12.761Z",
+    "last_updated": "2026-03-09T15:10:06.781Z",
     "source": "manifest"
   },
   {
@@ -2824,7 +2678,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:13.420Z",
+    "last_updated": "2026-03-09T15:10:07.544Z",
     "source": "manifest"
   },
   {
@@ -2949,7 +2803,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:07:14.175Z",
+    "last_updated": "2026-03-09T15:10:08.797Z",
     "source": "manifest"
   },
   {
@@ -2976,7 +2830,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:14.932Z",
+    "last_updated": "2026-03-09T15:10:09.638Z",
     "source": "manifest"
   },
   {
@@ -3057,7 +2911,7 @@
       "photo"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:15.660Z",
+    "last_updated": "2026-03-09T15:10:10.834Z",
     "source": "manifest"
   },
   {
@@ -3096,7 +2950,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:16.421Z",
+    "last_updated": "2026-03-09T15:10:11.660Z",
     "source": "manifest"
   },
   {
@@ -3147,7 +3001,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:17.212Z",
+    "last_updated": "2026-03-09T15:10:12.462Z",
     "source": "manifest"
   },
   {
@@ -3262,7 +3116,7 @@
       "SystemHelper"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:17.969Z",
+    "last_updated": "2026-03-09T15:10:13.300Z",
     "source": "manifest"
   },
   {
@@ -3438,7 +3292,7 @@
       "diagnostic"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:18.866Z",
+    "last_updated": "2026-03-09T15:10:14.138Z",
     "source": "manifest"
   },
   {
@@ -3587,7 +3441,7 @@
     "flags": [
       "plugin"
     ],
-    "last_updated": "2026-03-09T14:07:19.427Z",
+    "last_updated": "2026-03-09T15:10:15.118Z",
     "source": "manifest"
   },
   {
@@ -3618,7 +3472,7 @@
       "dash"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:20.249Z",
+    "last_updated": "2026-03-09T15:10:15.927Z",
     "source": "manifest"
   },
   {
@@ -3661,7 +3515,7 @@
       "tracking"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:20.966Z",
+    "last_updated": "2026-03-09T15:10:16.806Z",
     "source": "manifest"
   },
   {
@@ -3736,7 +3590,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:21.722Z",
+    "last_updated": "2026-03-09T15:10:17.609Z",
     "source": "manifest"
   },
   {
@@ -3787,7 +3641,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:22.483Z",
+    "last_updated": "2026-03-09T15:10:18.399Z",
     "source": "manifest"
   },
   {
@@ -3830,7 +3684,7 @@
       "Grabbable"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:23.195Z",
+    "last_updated": "2026-03-09T15:10:19.194Z",
     "source": "manifest"
   },
   {
@@ -3957,7 +3811,7 @@
       "manager"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:24.041Z",
+    "last_updated": "2026-03-09T15:10:20.051Z",
     "source": "manifest"
   },
   {
@@ -4001,7 +3855,7 @@
       "rgb"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:24.801Z",
+    "last_updated": "2026-03-09T15:10:21.286Z",
     "source": "manifest"
   },
   {
@@ -4033,7 +3887,7 @@
       "Vive"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:25.605Z",
+    "last_updated": "2026-03-09T15:10:22.118Z",
     "source": "manifest"
   },
   {
@@ -4228,7 +4082,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:26.356Z",
+    "last_updated": "2026-03-09T15:10:22.988Z",
     "source": "manifest"
   },
   {
@@ -4279,7 +4133,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:27.109Z",
+    "last_updated": "2026-03-09T15:10:23.822Z",
     "source": "manifest"
   },
   {
@@ -4462,7 +4316,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:27.898Z",
+    "last_updated": "2026-03-09T15:10:25.075Z",
     "source": "manifest"
   },
   {
@@ -4476,7 +4330,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:28.801Z",
+    "last_updated": "2026-03-09T15:10:26.197Z",
     "source": "manifest"
   },
   {
@@ -4490,7 +4344,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:29.732Z",
+    "last_updated": "2026-03-09T15:10:27.561Z",
     "source": "manifest"
   },
   {
@@ -4504,7 +4358,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:30.850Z",
+    "last_updated": "2026-03-09T15:10:28.507Z",
     "source": "manifest"
   },
   {
@@ -4571,7 +4425,7 @@
       "network"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:31.602Z",
+    "last_updated": "2026-03-09T15:10:29.668Z",
     "source": "manifest"
   },
   {
@@ -4663,7 +4517,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:32.378Z",
+    "last_updated": "2026-03-09T15:10:30.459Z",
     "source": "manifest"
   },
   {
@@ -4696,7 +4550,7 @@
       "WiVRn"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:33.140Z",
+    "last_updated": "2026-03-09T15:10:31.273Z",
     "source": "manifest"
   },
   {
@@ -4855,7 +4709,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:33.928Z",
+    "last_updated": "2026-03-09T15:10:32.068Z",
     "source": "manifest"
   },
   {
@@ -4906,7 +4760,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:34.701Z",
+    "last_updated": "2026-03-09T15:10:32.928Z",
     "source": "manifest"
   },
   {
@@ -4933,7 +4787,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:35.499Z",
+    "last_updated": "2026-03-09T15:10:33.768Z",
     "source": "manifest"
   },
   {
@@ -5013,7 +4867,7 @@
       "rpc"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:07:36.320Z",
+    "last_updated": "2026-03-09T15:10:34.604Z",
     "source": "manifest"
   },
   {
@@ -5027,7 +4881,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:36.320Z",
+    "last_updated": "2026-03-09T15:10:34.604Z",
     "source": "manifest"
   },
   {
@@ -5090,7 +4944,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:37.060Z",
+    "last_updated": "2026-03-09T15:10:35.431Z",
     "source": "manifest"
   },
   {
@@ -5141,7 +4995,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:37.858Z",
+    "last_updated": "2026-03-09T15:10:36.272Z",
     "source": "manifest"
   },
   {
@@ -5204,7 +5058,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:38.628Z",
+    "last_updated": "2026-03-09T15:10:37.088Z",
     "source": "manifest"
   },
   {
@@ -5243,7 +5097,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:39.413Z",
+    "last_updated": "2026-03-09T15:10:37.934Z",
     "source": "manifest"
   },
   {
@@ -5257,7 +5111,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:39.413Z",
+    "last_updated": "2026-03-09T15:10:37.934Z",
     "source": "manifest"
   },
   {
@@ -5284,7 +5138,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:40.132Z",
+    "last_updated": "2026-03-09T15:10:38.756Z",
     "source": "manifest"
   },
   {
@@ -5335,7 +5189,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:40.891Z",
+    "last_updated": "2026-03-09T15:10:39.565Z",
     "source": "manifest"
   },
   {
@@ -5422,7 +5276,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:41.673Z",
+    "last_updated": "2026-03-09T15:10:40.506Z",
     "source": "manifest"
   },
   {
@@ -5449,7 +5303,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:42.434Z",
+    "last_updated": "2026-03-09T15:10:41.318Z",
     "source": "manifest"
   },
   {
@@ -5500,7 +5354,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:43.192Z",
+    "last_updated": "2026-03-09T15:10:42.154Z",
     "source": "manifest"
   },
   {
@@ -5659,7 +5513,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:43.924Z",
+    "last_updated": "2026-03-09T15:10:42.987Z",
     "source": "manifest"
   },
   {
@@ -5686,7 +5540,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:44.647Z",
+    "last_updated": "2026-03-09T15:10:43.844Z",
     "source": "manifest"
   },
   {
@@ -5749,7 +5603,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:45.362Z",
+    "last_updated": "2026-03-09T15:10:44.670Z",
     "source": "manifest"
   },
   {
@@ -5848,7 +5702,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:46.177Z",
+    "last_updated": "2026-03-09T15:10:45.511Z",
     "source": "manifest"
   },
   {
@@ -5889,7 +5743,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:07:46.871Z",
+    "last_updated": "2026-03-09T15:10:46.316Z",
     "source": "manifest"
   },
   {
@@ -5976,7 +5830,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:47.761Z",
+    "last_updated": "2026-03-09T15:10:47.218Z",
     "source": "manifest"
   },
   {
@@ -6027,7 +5881,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:48.618Z",
+    "last_updated": "2026-03-09T15:10:48.145Z",
     "source": "manifest"
   },
   {
@@ -6066,7 +5920,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:49.436Z",
+    "last_updated": "2026-03-09T15:10:48.980Z",
     "source": "manifest"
   },
   {
@@ -6093,7 +5947,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:50.229Z",
+    "last_updated": "2026-03-09T15:10:49.754Z",
     "source": "manifest"
   },
   {
@@ -6122,7 +5976,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:07:50.999Z",
+    "last_updated": "2026-03-09T15:10:50.520Z",
     "source": "manifest"
   },
   {
@@ -6173,7 +6027,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:51.766Z",
+    "last_updated": "2026-03-09T15:10:51.287Z",
     "source": "manifest"
   },
   {
@@ -6212,7 +6066,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:52.599Z",
+    "last_updated": "2026-03-09T15:10:52.459Z",
     "source": "manifest"
   },
   {
@@ -6287,7 +6141,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:53.328Z",
+    "last_updated": "2026-03-09T15:10:53.322Z",
     "source": "manifest"
   },
   {
@@ -6350,7 +6204,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:54.078Z",
+    "last_updated": "2026-03-09T15:10:54.580Z",
     "source": "manifest"
   },
   {
@@ -6377,7 +6231,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:54.812Z",
+    "last_updated": "2026-03-09T15:10:55.389Z",
     "source": "manifest"
   },
   {
@@ -6416,7 +6270,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:55.605Z",
+    "last_updated": "2026-03-09T15:10:56.165Z",
     "source": "manifest"
   },
   {
@@ -6539,7 +6393,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:56.407Z",
+    "last_updated": "2026-03-09T15:10:56.976Z",
     "source": "manifest"
   },
   {
@@ -6602,7 +6456,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:57.157Z",
+    "last_updated": "2026-03-09T15:10:57.758Z",
     "source": "manifest"
   },
   {
@@ -6653,7 +6507,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:57.852Z",
+    "last_updated": "2026-03-09T15:10:58.545Z",
     "source": "manifest"
   },
   {
@@ -6800,7 +6654,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:58.643Z",
+    "last_updated": "2026-03-09T15:10:59.422Z",
     "source": "manifest"
   },
   {
@@ -6839,7 +6693,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:07:59.465Z",
+    "last_updated": "2026-03-09T15:11:00.237Z",
     "source": "manifest"
   },
   {
@@ -6866,7 +6720,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:00.247Z",
+    "last_updated": "2026-03-09T15:11:01.049Z",
     "source": "manifest"
   },
   {
@@ -6893,7 +6747,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:00.978Z",
+    "last_updated": "2026-03-09T15:11:01.856Z",
     "source": "manifest"
   },
   {
@@ -6944,7 +6798,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:01.793Z",
+    "last_updated": "2026-03-09T15:11:02.808Z",
     "source": "manifest"
   },
   {
@@ -6997,7 +6851,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:08:02.537Z",
+    "last_updated": "2026-03-09T15:11:03.680Z",
     "source": "manifest"
   },
   {
@@ -7060,7 +6914,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:03.301Z",
+    "last_updated": "2026-03-09T15:11:04.539Z",
     "source": "manifest"
   },
   {
@@ -7087,7 +6941,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:04.069Z",
+    "last_updated": "2026-03-09T15:11:05.376Z",
     "source": "manifest"
   },
   {
@@ -7126,7 +6980,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:04.834Z",
+    "last_updated": "2026-03-09T15:11:06.165Z",
     "source": "manifest"
   },
   {
@@ -7165,7 +7019,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:05.680Z",
+    "last_updated": "2026-03-09T15:11:06.939Z",
     "source": "manifest"
   },
   {
@@ -7174,39 +7028,14 @@
     "category": "Visual Tweaks",
     "source_location": "https://github.com/art0007i/ShadowDistanceChanger",
     "author": "art0007i",
-    "latest_version": "2.0.0",
-    "latest_download_url": "https://github.com/art0007i/ShadowDistanceChanger/releases/download/2.0.0/ShadowDistanceChanger.dll",
-    "releases": [
-      {
-        "version": "2.0.0",
-        "download_url": "https://github.com/art0007i/ShadowDistanceChanger/releases/download/2.0.0/ShadowDistanceChanger.dll",
-        "release_url": "https://github.com/art0007i/ShadowDistanceChanger/releases/tag/2.0.0",
-        "published_at": "2023-11-20T12:24:03Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "The first release of this mod that is compatible with [Resonite](https://resonite.com).\r\n\r\n- ⚠ Any release prior to 2.0.0 is for [NeosVR](https://neos.com).",
-        "file_name": "ShadowDistanceChanger.dll",
-        "file_size": 6144,
-        "sha256": "b33c123e3f16c6f3f12183c975ec03f4e751ee1d12a1eaf171662a3419b5136f"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/art0007i/ShadowDistanceChanger/releases/download/1.0.0/ShadowDistanceChanger.dll",
-        "release_url": "https://github.com/art0007i/ShadowDistanceChanger/releases/tag/1.0.0",
-        "published_at": "2023-05-13T23:12:31Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "ShadowDistanceChanger.dll",
-        "file_size": 6144,
-        "sha256": "b2341689b9ab7c5d1a7328e8cda37aed0b2f6ed80fd702771736a9a8bbce9790"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:08:06.427Z",
+    "last_updated": "2026-03-09T15:11:08.275Z",
     "source": "manifest"
   },
   {
@@ -7247,7 +7076,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:08:07.170Z",
+    "last_updated": "2026-03-09T15:11:09.072Z",
     "source": "manifest"
   },
   {
@@ -7490,7 +7319,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:07.972Z",
+    "last_updated": "2026-03-09T15:11:09.948Z",
     "source": "manifest"
   },
   {
@@ -7577,7 +7406,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:08.714Z",
+    "last_updated": "2026-03-09T15:11:10.869Z",
     "source": "manifest"
   },
   {
@@ -7616,7 +7445,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:09.416Z",
+    "last_updated": "2026-03-09T15:11:11.693Z",
     "source": "manifest"
   },
   {
@@ -7667,7 +7496,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:10.159Z",
+    "last_updated": "2026-03-09T15:11:12.492Z",
     "source": "manifest"
   },
   {
@@ -7754,7 +7583,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:10.995Z",
+    "last_updated": "2026-03-09T15:11:13.302Z",
     "source": "manifest"
   },
   {
@@ -7793,7 +7622,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:11.743Z",
+    "last_updated": "2026-03-09T15:11:14.546Z",
     "source": "manifest"
   },
   {
@@ -7832,7 +7661,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:12.493Z",
+    "last_updated": "2026-03-09T15:11:15.348Z",
     "source": "manifest"
   },
   {
@@ -7859,7 +7688,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:13.249Z",
+    "last_updated": "2026-03-09T15:11:16.199Z",
     "source": "manifest"
   },
   {
@@ -7994,7 +7823,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:14.087Z",
+    "last_updated": "2026-03-09T15:11:16.996Z",
     "source": "manifest"
   },
   {
@@ -8010,7 +7839,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:08:14.954Z",
+    "last_updated": "2026-03-09T15:11:18.251Z",
     "source": "manifest"
   },
   {
@@ -8157,7 +7986,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:15.715Z",
+    "last_updated": "2026-03-09T15:11:19.074Z",
     "source": "manifest"
   },
   {
@@ -8184,7 +8013,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:16.688Z",
+    "last_updated": "2026-03-09T15:11:19.862Z",
     "source": "manifest"
   },
   {
@@ -8261,7 +8090,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:08:17.460Z",
+    "last_updated": "2026-03-09T15:11:20.667Z",
     "source": "manifest"
   },
   {
@@ -8348,7 +8177,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:18.239Z",
+    "last_updated": "2026-03-09T15:11:21.496Z",
     "source": "manifest"
   },
   {
@@ -8399,7 +8228,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:19.003Z",
+    "last_updated": "2026-03-09T15:11:22.246Z",
     "source": "manifest"
   },
   {
@@ -8438,7 +8267,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:19.795Z",
+    "last_updated": "2026-03-09T15:11:23.100Z",
     "source": "manifest"
   },
   {
@@ -8501,7 +8330,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:20.352Z",
+    "last_updated": "2026-03-09T15:11:23.859Z",
     "source": "manifest"
   },
   {
@@ -8566,7 +8395,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:08:21.128Z",
+    "last_updated": "2026-03-09T15:11:24.682Z",
     "source": "manifest"
   },
   {
@@ -8749,7 +8578,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:21.853Z",
+    "last_updated": "2026-03-09T15:11:25.525Z",
     "source": "manifest"
   },
   {
@@ -8800,7 +8629,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:22.608Z",
+    "last_updated": "2026-03-09T15:11:26.360Z",
     "source": "manifest"
   },
   {
@@ -8923,7 +8752,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:23.384Z",
+    "last_updated": "2026-03-09T15:11:27.151Z",
     "source": "manifest"
   },
   {
@@ -8962,7 +8791,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:24.101Z",
+    "last_updated": "2026-03-09T15:11:27.966Z",
     "source": "manifest"
   },
   {
@@ -9017,7 +8846,7 @@
       "tracking"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:08:24.897Z",
+    "last_updated": "2026-03-09T15:11:28.778Z",
     "source": "manifest"
   },
   {
@@ -9056,7 +8885,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:25.657Z",
+    "last_updated": "2026-03-09T15:11:29.573Z",
     "source": "manifest"
   },
   {
@@ -9083,7 +8912,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:26.400Z",
+    "last_updated": "2026-03-09T15:11:30.378Z",
     "source": "manifest"
   },
   {
@@ -9092,25 +8921,12 @@
     "category": "Dashboard",
     "source_location": "https://github.com/XDelta/ImNotAsking",
     "author": "Delta",
-    "latest_version": "1.0.0",
-    "latest_download_url": "https://github.com/XDelta/ImNotAsking/releases/download/1.0.0/ImNotAsking.dll",
-    "releases": [
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/XDelta/ImNotAsking/releases/download/1.0.0/ImNotAsking.dll",
-        "release_url": "https://github.com/XDelta/ImNotAsking/releases/tag/1.0.0",
-        "published_at": "2025-02-22T14:04:40Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Hides the 'Ask to join' button on the contacts list. \r\n\r\nYou can still request an invite with a contact selected.",
-        "file_name": "ImNotAsking.dll",
-        "file_size": 7680,
-        "sha256": "224a4690f4e204fd3f24dd4e5281fd9eea71fb408dd52834d0eb35b0e6719fe0"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:27.209Z",
+    "last_updated": "2026-03-09T15:11:31.433Z",
     "source": "manifest"
   },
   {
@@ -9119,25 +8935,12 @@
     "category": "Inspectors",
     "source_location": "https://github.com/XDelta/Inspectorimprovements",
     "author": "Delta",
-    "latest_version": "1.0.0",
-    "latest_download_url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.0/InspectorImprovements.dll",
-    "releases": [
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.0/InspectorImprovements.dll",
-        "release_url": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.0",
-        "published_at": "2026-02-04T06:24:32Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Initial Release",
-        "file_name": "InspectorImprovements.dll",
-        "file_size": 7680,
-        "sha256": "0173e778efa8dd9b5d3a1bd93aaae8139dd162930594d2f950b591609ff4ba81"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:27.967Z",
+    "last_updated": "2026-03-09T15:11:32.185Z",
     "source": "manifest"
   },
   {
@@ -9188,7 +8991,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:28.745Z",
+    "last_updated": "2026-03-09T15:11:33.612Z",
     "source": "manifest"
   },
   {
@@ -9215,7 +9018,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:29.530Z",
+    "last_updated": "2026-03-09T15:11:34.430Z",
     "source": "manifest"
   },
   {
@@ -9266,7 +9069,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:30.247Z",
+    "last_updated": "2026-03-09T15:11:35.243Z",
     "source": "manifest"
   },
   {
@@ -9293,7 +9096,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:30.975Z",
+    "last_updated": "2026-03-09T15:11:36.011Z",
     "source": "manifest"
   },
   {
@@ -9356,7 +9159,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:31.720Z",
+    "last_updated": "2026-03-09T15:11:36.824Z",
     "source": "manifest"
   },
   {
@@ -9431,7 +9234,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:32.451Z",
+    "last_updated": "2026-03-09T15:11:37.618Z",
     "source": "manifest"
   },
   {
@@ -9470,7 +9273,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:33.183Z",
+    "last_updated": "2026-03-09T15:11:38.484Z",
     "source": "manifest"
   },
   {
@@ -9535,7 +9338,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:08:33.952Z",
+    "last_updated": "2026-03-09T15:11:39.236Z",
     "source": "manifest"
   },
   {
@@ -9622,7 +9425,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:34.728Z",
+    "last_updated": "2026-03-09T15:11:40.013Z",
     "source": "manifest"
   },
   {
@@ -9709,7 +9512,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:35.528Z",
+    "last_updated": "2026-03-09T15:11:40.832Z",
     "source": "manifest"
   },
   {
@@ -9808,7 +9611,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:36.295Z",
+    "last_updated": "2026-03-09T15:11:41.665Z",
     "source": "manifest"
   },
   {
@@ -9847,7 +9650,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:37.040Z",
+    "last_updated": "2026-03-09T15:11:42.449Z",
     "source": "manifest"
   },
   {
@@ -9886,7 +9689,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:37.805Z",
+    "last_updated": "2026-03-09T15:11:43.279Z",
     "source": "manifest"
   },
   {
@@ -9949,7 +9752,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:38.606Z",
+    "last_updated": "2026-03-09T15:11:44.084Z",
     "source": "manifest"
   },
   {
@@ -10000,7 +9803,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:39.359Z",
+    "last_updated": "2026-03-09T15:11:44.884Z",
     "source": "manifest"
   },
   {
@@ -10051,7 +9854,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:40.093Z",
+    "last_updated": "2026-03-09T15:11:45.714Z",
     "source": "manifest"
   },
   {
@@ -10090,7 +9893,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:40.833Z",
+    "last_updated": "2026-03-09T15:11:46.513Z",
     "source": "manifest"
   },
   {
@@ -10117,7 +9920,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:41.625Z",
+    "last_updated": "2026-03-09T15:11:48.182Z",
     "source": "manifest"
   },
   {
@@ -10204,7 +10007,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:42.428Z",
+    "last_updated": "2026-03-09T15:11:48.956Z",
     "source": "manifest"
   },
   {
@@ -10369,7 +10172,7 @@
       "cheese"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:08:43.237Z",
+    "last_updated": "2026-03-09T15:11:49.813Z",
     "source": "manifest"
   },
   {
@@ -10432,7 +10235,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:44.071Z",
+    "last_updated": "2026-03-09T15:11:50.610Z",
     "source": "manifest"
   },
   {
@@ -10503,7 +10306,7 @@
       "beyond"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:08:44.853Z",
+    "last_updated": "2026-03-09T15:11:51.771Z",
     "source": "manifest"
   },
   {
@@ -10590,7 +10393,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:45.683Z",
+    "last_updated": "2026-03-09T15:11:52.590Z",
     "source": "manifest"
   },
   {
@@ -10657,7 +10460,7 @@
       "gaze"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:08:46.425Z",
+    "last_updated": "2026-03-09T15:11:53.371Z",
     "source": "manifest"
   },
   {
@@ -10782,7 +10585,7 @@
       "world"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:08:47.264Z",
+    "last_updated": "2026-03-09T15:11:54.169Z",
     "source": "manifest"
   },
   {
@@ -10809,7 +10612,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:47.992Z",
+    "last_updated": "2026-03-09T15:11:54.933Z",
     "source": "manifest"
   },
   {
@@ -10836,7 +10639,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:49.852Z",
+    "last_updated": "2026-03-09T15:11:55.913Z",
     "source": "manifest"
   },
   {
@@ -10887,7 +10690,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:50.605Z",
+    "last_updated": "2026-03-09T15:11:56.668Z",
     "source": "manifest"
   },
   {
@@ -10938,7 +10741,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:51.366Z",
+    "last_updated": "2026-03-09T15:11:57.503Z",
     "source": "manifest"
   },
   {
@@ -10977,7 +10780,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:52.086Z",
+    "last_updated": "2026-03-09T15:11:58.350Z",
     "source": "manifest"
   },
   {
@@ -11016,7 +10819,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:52.836Z",
+    "last_updated": "2026-03-09T15:11:59.148Z",
     "source": "manifest"
   },
   {
@@ -11091,7 +10894,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:53.609Z",
+    "last_updated": "2026-03-09T15:11:59.958Z",
     "source": "manifest"
   },
   {
@@ -11178,7 +10981,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:54.309Z",
+    "last_updated": "2026-03-09T15:12:00.716Z",
     "source": "manifest"
   },
   {
@@ -11219,7 +11022,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:08:55.061Z",
+    "last_updated": "2026-03-09T15:12:01.531Z",
     "source": "manifest"
   },
   {
@@ -11402,7 +11205,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:55.858Z",
+    "last_updated": "2026-03-09T15:12:02.390Z",
     "source": "manifest"
   },
   {
@@ -11411,97 +11214,12 @@
     "category": "Wizards",
     "source_location": "https://github.com/Raidriar796/Resurfacer",
     "author": "Raidriar796",
-    "latest_version": "0.4.1",
-    "latest_download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.4.1/Resurfacer.dll",
-    "releases": [
-      {
-        "version": "0.4.1",
-        "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.4.1/Resurfacer.dll",
-        "release_url": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.4.1",
-        "published_at": "2026-03-04T09:18:59Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# Changes\r\n- Rebuilt against RML 5.0.0.\r\n- Migrated RML and Harmony assembly references to package references.",
-        "file_name": "Resurfacer.dll",
-        "file_size": 13312,
-        "sha256": "ddf196c7d23850ce6a007e3da0f90f13b29d0e7cda0814b95eae9737adf785c6"
-      },
-      {
-        "version": "0.4.0",
-        "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.4.0/Resurfacer.dll",
-        "release_url": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.4.0",
-        "published_at": "2025-12-28T06:15:40Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# New Features\r\n- Added max size ratio batch operations.\r\n  - This includes setting the max size to full, half, quarter, and an eighth of the full resolution of each texture.\r\n\r\n# Changes\r\n- Prevented some cases where batch operations fail.\r\n- Added a locking mechanism to prevent multiple jobs running at the same time.",
-        "file_name": "Resurfacer.dll",
-        "file_size": 13312,
-        "sha256": "b962b0814102f2644086ee5c44f0344e6ef6b453f833606651aa66625637711c"
-      },
-      {
-        "version": "0.3.0",
-        "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.3.0/Resurfacer.dll",
-        "release_url": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.3.0",
-        "published_at": "2025-12-26T04:57:51Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# New Features\r\n- Mip Map Filtering batch operation.\r\n# Changes\r\n- Spawning a new Resurfacer will delete the previous one.\r\n- UI changed to be more consistent with the Asset Optimization Wizard.\r\n# Fixes\r\n- Avoid duplicate instances of textures.\r\n  - Oversight when initially implementing a solution to avoid duplicate materials.",
-        "file_name": "Resurfacer.dll",
-        "file_size": 11776,
-        "sha256": "0c26b17baf09a2e6fcda170e117b82a35a6ea8ad3acafd47f28ef489f63dc0e4"
-      },
-      {
-        "version": "0.2.2",
-        "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.2.2/Resurfacer.dll",
-        "release_url": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.2.2",
-        "published_at": "2025-12-23T21:33:01Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# Fixes\r\n- Skip duplicate instances of materials\r\n  - This avoids explosive memory usage in some cases where materials are heavily reused.\r\n \r\nHuge thanks to @KyuubiYoru for catching this issue.",
-        "file_name": "Resurfacer.dll",
-        "file_size": 10752,
-        "sha256": "5880fd5ca02199ca0bcdebeb2d8e0f659f0780c7ddaf644f93cedadb343a4025"
-      },
-      {
-        "version": "0.2.1",
-        "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.2.1/Resurfacer.dll",
-        "release_url": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.2.1",
-        "published_at": "2025-12-22T08:19:34Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# Changes\r\n- Internal restructuring\r\n  - This simplifies the current implementations and makes future additions easier.\r\n- Reduced RAM usage\r\n  - While not significant, this should reduce hitches from the batch operations and GC pressure.",
-        "file_name": "Resurfacer.dll",
-        "file_size": 10752,
-        "sha256": "93793f115c6794d70da296b2eea4332d4fc1ea9e0f51a18a8ccf2837492b577c"
-      },
-      {
-        "version": "0.2.0",
-        "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.2.0/Resurfacer.dll",
-        "release_url": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.2.0",
-        "published_at": "2025-12-21T06:29:53Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# New Features\r\n- Unset Force Format\r\n  - Disables `ForceExactVariant` on every texture.\r\n- Unset Preferred Format\r\n  - Disables `PreferredFormat` on every texture.\r\n- Re-Encode\r\n  - Re-encodes every image, generally saving space for cloud storage.",
-        "file_name": "Resurfacer.dll",
-        "file_size": 11776,
-        "sha256": "fdb5accbb98fa337555cf013e454272f74bdab2686b6965313dc4419dcba0993"
-      },
-      {
-        "version": "0.1.0",
-        "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.1.0/Resurfacer.dll",
-        "release_url": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.1.0",
-        "published_at": "2025-11-23T09:46:46Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# Initial Release\r\n\r\n# Features\r\n- Batch assign `PreferredFormat` with or without `ForceExactVariant`",
-        "file_name": "Resurfacer.dll",
-        "file_size": 9728,
-        "sha256": "61ae8977595b983b604a9d99181f28c34d9d76d0fc172a67146abad135db1150"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:56.572Z",
+    "last_updated": "2026-03-09T15:12:03.754Z",
     "source": "manifest"
   },
   {
@@ -11624,7 +11342,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:57.343Z",
+    "last_updated": "2026-03-09T15:12:04.582Z",
     "source": "manifest"
   },
   {
@@ -11675,7 +11393,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:58.092Z",
+    "last_updated": "2026-03-09T15:12:05.393Z",
     "source": "manifest"
   },
   {
@@ -11684,63 +11402,14 @@
     "category": "Misc",
     "source_location": "https://github.com/Raidriar796/yt-dlp-Updater",
     "author": "Raidriar796",
-    "latest_version": "1.3.0",
-    "latest_download_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.3.0/ytdlpUpdater.dll",
-    "releases": [
-      {
-        "version": "1.3.0",
-        "download_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.3.0/ytdlpUpdater.dll",
-        "release_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.3.0",
-        "published_at": "2024-07-24T01:16:30Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## New Features\r\n- Custom update branch config option\r\n  - This lets you specify an exact version or even a fork of yt-dlp\r\n- Enable updates config option\r\n\r\n## Changes\r\n- Headless clients are now excluded from running the mod\r\n  - Now this mod will only run on the Windows graphical client, including Wine/Proton",
-        "file_name": "ytdlpUpdater.dll",
-        "file_size": 8192,
-        "sha256": "2c00777f29f88e0b032239a55029944938592823523ec05cb8459f2d6bd742fe"
-      },
-      {
-        "version": "1.2.0",
-        "download_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.2.0/ytdlpUpdater.dll",
-        "release_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.2.0",
-        "published_at": "2024-04-22T19:27:43Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## Changes\r\n- Restricted the mod to only run on Windows/Proton\r\n- Added check to make sure yt-dlp.exe exists before attempting to run\r\n  - Both of these changes will give log messages when appropriate",
-        "file_name": "ytdlpUpdater.dll",
-        "file_size": 7168,
-        "sha256": "4b9df59c40d647f90ae1166a3619b408b558c049c42823ca975aee8833db2066"
-      },
-      {
-        "version": "1.1.0",
-        "download_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.1.0/ytdlpUpdater.dll",
-        "release_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.1.0",
-        "published_at": "2023-12-25T02:52:57Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "## New Features\r\n- Added config option to change update branch",
-        "file_name": "ytdlpUpdater.dll",
-        "file_size": 6656,
-        "sha256": "9b6aee2d1dbec0a80da7cebd90ec208254b64d3f8b00bca76234cc10098f4cb5"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.0.0/ytdlpUpdater.dll",
-        "release_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.0.0",
-        "published_at": "2023-12-24T14:21:15Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# Initial release",
-        "file_name": "ytdlpUpdater.dll",
-        "file_size": 5120,
-        "sha256": "5b7650245cdcad791ef7ee0b71e761aba88c15707a5e83f839616d1d3388e81d"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:08:58.875Z",
+    "last_updated": "2026-03-09T15:12:06.081Z",
     "source": "manifest"
   },
   {
@@ -11791,7 +11460,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:59.691Z",
+    "last_updated": "2026-03-09T15:12:06.872Z",
     "source": "manifest"
   },
   {
@@ -11805,7 +11474,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:59.691Z",
+    "last_updated": "2026-03-09T15:12:06.872Z",
     "source": "manifest"
   },
   {
@@ -11819,7 +11488,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:08:59.691Z",
+    "last_updated": "2026-03-09T15:12:06.872Z",
     "source": "manifest"
   },
   {
@@ -11858,7 +11527,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:00.461Z",
+    "last_updated": "2026-03-09T15:12:07.631Z",
     "source": "manifest"
   },
   {
@@ -11921,7 +11590,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:01.243Z",
+    "last_updated": "2026-03-09T15:12:08.447Z",
     "source": "manifest"
   },
   {
@@ -12020,7 +11689,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:02.060Z",
+    "last_updated": "2026-03-09T15:12:09.296Z",
     "source": "manifest"
   },
   {
@@ -12059,7 +11728,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:02.850Z",
+    "last_updated": "2026-03-09T15:12:10.097Z",
     "source": "manifest"
   },
   {
@@ -12104,7 +11773,7 @@
       "scale"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:09:03.617Z",
+    "last_updated": "2026-03-09T15:12:10.946Z",
     "source": "manifest"
   },
   {
@@ -12148,7 +11817,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:09:04.728Z",
+    "last_updated": "2026-03-09T15:12:11.780Z",
     "source": "manifest"
   },
   {
@@ -12343,7 +12012,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:05.511Z",
+    "last_updated": "2026-03-09T15:12:12.676Z",
     "source": "manifest"
   },
   {
@@ -12466,7 +12135,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:06.343Z",
+    "last_updated": "2026-03-09T15:12:13.483Z",
     "source": "manifest"
   },
   {
@@ -12558,7 +12227,7 @@
       "orb"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:09:07.126Z",
+    "last_updated": "2026-03-09T15:12:14.295Z",
     "source": "manifest"
   },
   {
@@ -12585,7 +12254,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:07.954Z",
+    "last_updated": "2026-03-09T15:12:15.068Z",
     "source": "manifest"
   },
   {
@@ -12599,7 +12268,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:07.954Z",
+    "last_updated": "2026-03-09T15:12:15.068Z",
     "source": "manifest"
   },
   {
@@ -12613,7 +12282,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:07.954Z",
+    "last_updated": "2026-03-09T15:12:15.068Z",
     "source": "manifest"
   },
   {
@@ -12627,7 +12296,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:07.954Z",
+    "last_updated": "2026-03-09T15:12:15.068Z",
     "source": "manifest"
   },
   {
@@ -12641,7 +12310,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:07.954Z",
+    "last_updated": "2026-03-09T15:12:15.068Z",
     "source": "manifest"
   },
   {
@@ -12655,7 +12324,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:07.955Z",
+    "last_updated": "2026-03-09T15:12:15.068Z",
     "source": "manifest"
   },
   {
@@ -12669,7 +12338,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:07.955Z",
+    "last_updated": "2026-03-09T15:12:15.068Z",
     "source": "manifest"
   },
   {
@@ -12683,7 +12352,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:07.955Z",
+    "last_updated": "2026-03-09T15:12:15.068Z",
     "source": "manifest"
   },
   {
@@ -12697,7 +12366,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:07.955Z",
+    "last_updated": "2026-03-09T15:12:15.068Z",
     "source": "manifest"
   },
   {
@@ -12711,7 +12380,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:07.955Z",
+    "last_updated": "2026-03-09T15:12:15.068Z",
     "source": "manifest"
   },
   {
@@ -12822,7 +12491,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:08.730Z",
+    "last_updated": "2026-03-09T15:12:15.842Z",
     "source": "manifest"
   },
   {
@@ -12851,7 +12520,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:09:09.498Z",
+    "last_updated": "2026-03-09T15:12:16.651Z",
     "source": "manifest"
   },
   {
@@ -12878,7 +12547,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:10.224Z",
+    "last_updated": "2026-03-09T15:12:17.457Z",
     "source": "manifest"
   },
   {
@@ -12965,7 +12634,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:11.012Z",
+    "last_updated": "2026-03-09T15:12:18.245Z",
     "source": "manifest"
   },
   {
@@ -12992,7 +12661,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:11.762Z",
+    "last_updated": "2026-03-09T15:12:19.034Z",
     "source": "manifest"
   },
   {
@@ -13079,7 +12748,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:12.554Z",
+    "last_updated": "2026-03-09T15:12:19.971Z",
     "source": "manifest"
   },
   {
@@ -13106,7 +12775,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:13.290Z",
+    "last_updated": "2026-03-09T15:12:20.721Z",
     "source": "manifest"
   },
   {
@@ -13219,7 +12888,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-03-09T14:09:14.053Z",
+    "last_updated": "2026-03-09T15:12:21.894Z",
     "source": "manifest"
   },
   {
@@ -13306,7 +12975,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:14.801Z",
+    "last_updated": "2026-03-09T15:12:22.869Z",
     "source": "manifest"
   },
   {
@@ -13393,7 +13062,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:15.586Z",
+    "last_updated": "2026-03-09T15:12:23.635Z",
     "source": "manifest"
   },
   {
@@ -13444,7 +13113,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:16.419Z",
+    "last_updated": "2026-03-09T15:12:24.431Z",
     "source": "manifest"
   },
   {
@@ -13519,7 +13188,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:17.157Z",
+    "last_updated": "2026-03-09T15:12:25.212Z",
     "source": "manifest"
   },
   {
@@ -13570,7 +13239,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:17.890Z",
+    "last_updated": "2026-03-09T15:12:26.403Z",
     "source": "manifest"
   },
   {
@@ -13621,7 +13290,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:18.604Z",
+    "last_updated": "2026-03-09T15:12:27.589Z",
     "source": "manifest"
   },
   {
@@ -13660,7 +13329,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:19.386Z",
+    "last_updated": "2026-03-09T15:12:28.388Z",
     "source": "manifest"
   },
   {
@@ -13771,7 +13440,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:20.183Z",
+    "last_updated": "2026-03-09T15:12:29.337Z",
     "source": "manifest"
   },
   {
@@ -13810,7 +13479,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:20.964Z",
+    "last_updated": "2026-03-09T15:12:30.145Z",
     "source": "manifest"
   },
   {
@@ -13873,7 +13542,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:21.759Z",
+    "last_updated": "2026-03-09T15:12:30.939Z",
     "source": "manifest"
   },
   {
@@ -14092,7 +13761,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:22.742Z",
+    "last_updated": "2026-03-09T15:12:32.228Z",
     "source": "manifest"
   },
   {
@@ -14155,7 +13824,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:23.478Z",
+    "last_updated": "2026-03-09T15:12:33.041Z",
     "source": "manifest"
   },
   {
@@ -14194,7 +13863,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:24.276Z",
+    "last_updated": "2026-03-09T15:12:33.824Z",
     "source": "manifest"
   },
   {
@@ -14233,7 +13902,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:25.011Z",
+    "last_updated": "2026-03-09T15:12:34.607Z",
     "source": "manifest"
   },
   {
@@ -14260,7 +13929,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:25.823Z",
+    "last_updated": "2026-03-09T15:12:35.396Z",
     "source": "manifest"
   },
   {
@@ -14299,7 +13968,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-03-09T14:09:26.593Z",
+    "last_updated": "2026-03-09T15:12:36.164Z",
     "source": "manifest"
   },
   {
@@ -14473,7 +14142,7 @@
       "v0.2.0"
     ],
     "flags": null,
-    "last_updated": "2026-03-09T14:09:26.890Z",
+    "last_updated": "2026-03-09T15:12:36.638Z",
     "source": "additional"
   }
 ]

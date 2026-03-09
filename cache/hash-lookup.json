@@ -797,13 +797,6 @@
     "file_name": "MoreReferenceProxies.dll",
     "file_size": 7680
   },
-  "89c797a00d2c387c05ef88b74da4013c30d9e85ff778bf932b9b2324abcbc195": {
-    "mod_name": "ResoniteLinuxClipboard",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/GrandtheUK/ResoniteLinuxClipboard/releases/download/v1.0.0/ResoniteLinuxClipboard.dll",
-    "file_name": "ResoniteLinuxClipboard.dll",
-    "file_size": 15360
-  },
   "fd1404863eb6525ee3e5fca0fa467f24b6ffc51200e6c88c8d42022e675e1584": {
     "mod_name": "Console",
     "version": "1.0.1",
@@ -839,69 +832,6 @@
     "file_name": "DisableDevToolPassthrough.dll",
     "file_size": 6656
   },
-  "9989cf9702ba7016a566c96059a81f573c185f026d984063e78403ac50f8921d": {
-    "mod_name": "libalxr-sharp",
-    "version": "1.2.0",
-    "download_url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/1.2.0/libalxr-sharp.dll",
-    "file_name": "libalxr-sharp.dll",
-    "file_size": 31232
-  },
-  "4ead590f291b6fb3b786626c6a57bcbb036e23c5fe633d0316b31b3b45f55669": {
-    "mod_name": "QuestPro4Resonite",
-    "version": "2.1.0",
-    "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.0/libalxr-sharp.dll",
-    "file_name": "libalxr-sharp.dll",
-    "file_size": 31232
-  },
-  "ca00400416983bcbab05e510d98ed9e45d8851cb8f1e7e254bb66abeee4d72d8": {
-    "mod_name": "QuestPro4Resonite",
-    "version": "2.1.2",
-    "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.2/libalxr-sharp.dll",
-    "file_name": "libalxr-sharp.dll",
-    "file_size": 31232
-  },
-  "f246c01ed38cf850d96a6327b40b1382869f244bfdb112809c7333fbfc2edff2": {
-    "mod_name": "QuestPro4Resonite",
-    "version": "2.0.0",
-    "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.0.0/libalxr-sharp.dll",
-    "file_name": "libalxr-sharp.dll",
-    "file_size": 31744
-  },
-  "0ff7f186b009644d6af7c5810f9ae8f84c78b9f02aaeeafa4b4a70b1c9d03467": {
-    "mod_name": "QuestPro4Resonite",
-    "version": "1.0.4",
-    "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.4/QuestProModule.dll",
-    "file_name": "QuestProModule.dll",
-    "file_size": 25088
-  },
-  "3ec01abf25696032c47b5c03b797968fbc3bce41afe600e8e0cd4aee98b88ab3": {
-    "mod_name": "QuestPro4Resonite",
-    "version": "1.0.3",
-    "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.3/QuestProModule.dll",
-    "file_name": "QuestProModule.dll",
-    "file_size": 26112
-  },
-  "4040c0bcfeaadff823755da1f4afae9fba5f18ea52b95cd155e5be7eee1dc566": {
-    "mod_name": "QuestPro4Resonite",
-    "version": "1.0.2",
-    "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.2/QuestProModule.dll",
-    "file_name": "QuestProModule.dll",
-    "file_size": 24576
-  },
-  "f2995fc18cfdd9a4cfb28a28b701c3dac36e57e04368dd706019cd78cb828e6e": {
-    "mod_name": "QuestPro4Resonite",
-    "version": "1.0.1",
-    "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.1/QuestProModule.dll",
-    "file_name": "QuestProModule.dll",
-    "file_size": 24064
-  },
-  "8006e3a0c9c39b27803500405af1047fa709de7025a223abc4870bd6770c49ed": {
-    "mod_name": "QuestPro4Resonite",
-    "version": "1.0.0",
-    "download_url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.0/QuestProModule.dll",
-    "file_name": "QuestProModule.dll",
-    "file_size": 23040
-  },
   "be997ad763dd2652d8f7f8dc7a609b80bc4b90dc81a98dd2c2fd8a486dae67ee": {
     "mod_name": "SlotInspectorHighlighter",
     "version": "v1.0.3",
@@ -929,6 +859,13 @@
     "download_url": "https://github.com/sjsanjsrh/SlotInspectorHighlighter/releases/download/v1.0.0/SlotInspectorHighlighter.dll",
     "file_name": "SlotInspectorHighlighter.dll",
     "file_size": 7168
+  },
+  "9989cf9702ba7016a566c96059a81f573c185f026d984063e78403ac50f8921d": {
+    "mod_name": "libalxr-sharp",
+    "version": "1.2.0",
+    "download_url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/1.2.0/libalxr-sharp.dll",
+    "file_name": "libalxr-sharp.dll",
+    "file_size": 31232
   },
   "17c6afc906042ac31df8d9e4e18684b01eaf804316141850172bbcca30331afb": {
     "mod_name": "BoneReferenceHelper",
@@ -3100,20 +3037,6 @@
     "file_name": "SessionItemModal.dll",
     "file_size": 6656
   },
-  "b33c123e3f16c6f3f12183c975ec03f4e751ee1d12a1eaf171662a3419b5136f": {
-    "mod_name": "ShadowDistanceChanger",
-    "version": "2.0.0",
-    "download_url": "https://github.com/art0007i/ShadowDistanceChanger/releases/download/2.0.0/ShadowDistanceChanger.dll",
-    "file_name": "ShadowDistanceChanger.dll",
-    "file_size": 6144
-  },
-  "b2341689b9ab7c5d1a7328e8cda37aed0b2f6ed80fd702771736a9a8bbce9790": {
-    "mod_name": "ShadowDistanceChanger",
-    "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/ShadowDistanceChanger/releases/download/1.0.0/ShadowDistanceChanger.dll",
-    "file_name": "ShadowDistanceChanger.dll",
-    "file_size": 6144
-  },
   "3520caa2b3dffce36036371d25214f31da0516a9bd6061d0dec54734949738f2": {
     "mod_name": "ShowComponentSlot",
     "version": "2.0.0",
@@ -3974,20 +3897,6 @@
     "download_url": "https://github.com/XDelta/HomeAccessLevel/releases/download/1.0.0/HomeAccessLevel.dll",
     "file_name": "HomeAccessLevel.dll",
     "file_size": 6656
-  },
-  "224a4690f4e204fd3f24dd4e5281fd9eea71fb408dd52834d0eb35b0e6719fe0": {
-    "mod_name": "ImNotAsking",
-    "version": "1.0.0",
-    "download_url": "https://github.com/XDelta/ImNotAsking/releases/download/1.0.0/ImNotAsking.dll",
-    "file_name": "ImNotAsking.dll",
-    "file_size": 7680
-  },
-  "0173e778efa8dd9b5d3a1bd93aaae8139dd162930594d2f950b591609ff4ba81": {
-    "mod_name": "Inspectorimprovements",
-    "version": "1.0.0",
-    "download_url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.0/InspectorImprovements.dll",
-    "file_name": "InspectorImprovements.dll",
-    "file_size": 7680
   },
   "9e2efa220a31667a3c9a36bf0ea6d84eb809067aa9d0471569c62c8ad3fdc6b1": {
     "mod_name": "LogAutoFlush",
@@ -4983,55 +4892,6 @@
     "file_name": "ResoniteIKCulling.dll",
     "file_size": 9728
   },
-  "ddf196c7d23850ce6a007e3da0f90f13b29d0e7cda0814b95eae9737adf785c6": {
-    "mod_name": "Resurfacer",
-    "version": "0.4.1",
-    "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.4.1/Resurfacer.dll",
-    "file_name": "Resurfacer.dll",
-    "file_size": 13312
-  },
-  "b962b0814102f2644086ee5c44f0344e6ef6b453f833606651aa66625637711c": {
-    "mod_name": "Resurfacer",
-    "version": "0.4.0",
-    "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.4.0/Resurfacer.dll",
-    "file_name": "Resurfacer.dll",
-    "file_size": 13312
-  },
-  "0c26b17baf09a2e6fcda170e117b82a35a6ea8ad3acafd47f28ef489f63dc0e4": {
-    "mod_name": "Resurfacer",
-    "version": "0.3.0",
-    "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.3.0/Resurfacer.dll",
-    "file_name": "Resurfacer.dll",
-    "file_size": 11776
-  },
-  "5880fd5ca02199ca0bcdebeb2d8e0f659f0780c7ddaf644f93cedadb343a4025": {
-    "mod_name": "Resurfacer",
-    "version": "0.2.2",
-    "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.2.2/Resurfacer.dll",
-    "file_name": "Resurfacer.dll",
-    "file_size": 10752
-  },
-  "93793f115c6794d70da296b2eea4332d4fc1ea9e0f51a18a8ccf2837492b577c": {
-    "mod_name": "Resurfacer",
-    "version": "0.2.1",
-    "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.2.1/Resurfacer.dll",
-    "file_name": "Resurfacer.dll",
-    "file_size": 10752
-  },
-  "fdb5accbb98fa337555cf013e454272f74bdab2686b6965313dc4419dcba0993": {
-    "mod_name": "Resurfacer",
-    "version": "0.2.0",
-    "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.2.0/Resurfacer.dll",
-    "file_name": "Resurfacer.dll",
-    "file_size": 11776
-  },
-  "61ae8977595b983b604a9d99181f28c34d9d76d0fc172a67146abad135db1150": {
-    "mod_name": "Resurfacer",
-    "version": "0.1.0",
-    "download_url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.1.0/Resurfacer.dll",
-    "file_name": "Resurfacer.dll",
-    "file_size": 9728
-  },
   "1dcf08a17fa2b31f561224b00897e597dfd47ed06986e983746a3272a334f689": {
     "mod_name": "StresslessHeadless",
     "version": "2.0.2",
@@ -5115,34 +4975,6 @@
     "download_url": "https://github.com/Raidriar796/Lognt/releases/download/1.0.0/Lognt-Net8.dll",
     "file_name": "Lognt-Net8.dll",
     "file_size": 6656
-  },
-  "2c00777f29f88e0b032239a55029944938592823523ec05cb8459f2d6bd742fe": {
-    "mod_name": "yt-dlp Updater",
-    "version": "1.3.0",
-    "download_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.3.0/ytdlpUpdater.dll",
-    "file_name": "ytdlpUpdater.dll",
-    "file_size": 8192
-  },
-  "4b9df59c40d647f90ae1166a3619b408b558c049c42823ca975aee8833db2066": {
-    "mod_name": "yt-dlp Updater",
-    "version": "1.2.0",
-    "download_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.2.0/ytdlpUpdater.dll",
-    "file_name": "ytdlpUpdater.dll",
-    "file_size": 7168
-  },
-  "9b6aee2d1dbec0a80da7cebd90ec208254b64d3f8b00bca76234cc10098f4cb5": {
-    "mod_name": "yt-dlp Updater",
-    "version": "1.1.0",
-    "download_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.1.0/ytdlpUpdater.dll",
-    "file_name": "ytdlpUpdater.dll",
-    "file_size": 6656
-  },
-  "5b7650245cdcad791ef7ee0b71e761aba88c15707a5e83f839616d1d3388e81d": {
-    "mod_name": "yt-dlp Updater",
-    "version": "1.0.0",
-    "download_url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.0.0/ytdlpUpdater.dll",
-    "file_name": "ytdlpUpdater.dll",
-    "file_size": 5120
   },
   "1d0f645684cdb89c7840090d7d268538abf4a155302e7c7164b315de21636701": {
     "mod_name": "3DDashOnScreenResonite",
