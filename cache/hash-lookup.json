@@ -5529,6 +5529,13 @@
     "file_name": "ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod.dll",
     "file_size": 9216
   },
+  "1fdcba29034aaa8c447d50f5f8c957bc7de85beeaf65c27032eb5ef4767162db": {
+    "mod_name": "VDFaceTracking",
+    "version": "1.1.4",
+    "download_url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.4/VDFaceTracking.dll",
+    "file_name": "VDFaceTracking.dll",
+    "file_size": 28160
+  },
   "cb0b2856a27099b895bbb8c750c08bc345d12595f1400bd6e0b0166d81064650": {
     "mod_name": "VDFaceTracking",
     "version": "1.1.3",
