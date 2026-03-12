@@ -839,6 +839,13 @@
     "file_name": "DisableDevToolPassthrough.dll",
     "file_size": 6656
   },
+  "5cf611e53686991fc6c9b65ee82df87727d60e9160d9dff70b72a4b877247620": {
+    "mod_name": "libalxr-sharp",
+    "version": "1.9.0",
+    "download_url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/1.9.0/libalxr-sharp.dll",
+    "file_name": "libalxr-sharp.dll",
+    "file_size": 34304
+  },
   "9989cf9702ba7016a566c96059a81f573c185f026d984063e78403ac50f8921d": {
     "mod_name": "libalxr-sharp",
     "version": "1.2.0",
