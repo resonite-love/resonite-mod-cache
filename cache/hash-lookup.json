@@ -573,20 +573,6 @@
     "file_name": "DynBoneWrangler.dll",
     "file_size": 6656
   },
-  "082d9872ac50f915b8d06820af9b5e7d44d8941d6d2feb023818ee2c34376cf3": {
-    "mod_name": "ResonitePlatformSpoof",
-    "version": "v2.0.1",
-    "download_url": "https://github.com/isovel/ResonitePlatformSpoof/releases/download/v2.0.1/ResonitePlatformSpoof.dll",
-    "file_name": "ResonitePlatformSpoof.dll",
-    "file_size": 7680
-  },
-  "842299ddc43c196e611c6e83eea8678cf322924e1709d38511d66dbcfed2f443": {
-    "mod_name": "ResonitePlatformSpoof",
-    "version": "v2.0.0",
-    "download_url": "https://github.com/isovel/ResonitePlatformSpoof/releases/download/v2.0.0/ResonitePlatformSpoof.dll",
-    "file_name": "ResonitePlatformSpoof.dll",
-    "file_size": 7680
-  },
   "074bebdae854f7a40ddf074d5a4f017c5c7516f1878f1dc3d79560945bd57574": {
     "mod_name": "CloseConfirm",
     "version": "v1.2.0",
@@ -1742,69 +1728,6 @@
     "file_name": "ColliderGrabbableDeleter.dll",
     "file_size": 8192
   },
-  "40b72c16ba90d05bd3ff7eef14ca5628d05ccf4355b282175ecaf6d349e962ac": {
-    "mod_name": "FasterBadges",
-    "version": "1.6.1",
-    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.6.1/FasterBadges.dll",
-    "file_name": "FasterBadges.dll",
-    "file_size": 38912
-  },
-  "dec2b2fd2bef567895a76e70f9104c56ec7cadf7b2af9e619c94ffb62e11c7cd": {
-    "mod_name": "FasterBadges",
-    "version": "1.6.0",
-    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.6.0/FasterBadges.dll",
-    "file_name": "FasterBadges.dll",
-    "file_size": 39424
-  },
-  "fd732f14120197ebe0728172ebc994b29f1281291bd2ed450ab4e3bc0071eca8": {
-    "mod_name": "FasterBadges",
-    "version": "1.5.1",
-    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.5.1/FasterBadges.dll",
-    "file_name": "FasterBadges.dll",
-    "file_size": 45056
-  },
-  "abe944b947a85d12c258fff02af6147bdc33202375bebfbeb6f28c607b29b346": {
-    "mod_name": "FasterBadges",
-    "version": "1.5.0",
-    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.5.0/FasterBadges.dll",
-    "file_name": "FasterBadges.dll",
-    "file_size": 45568
-  },
-  "7fa6b092f6216c7c74525c1184d76ac73ede56f4512a8c6c6a2af6aa9e4ea0be": {
-    "mod_name": "FasterBadges",
-    "version": "1.4.0",
-    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.4.0/FasterBadges.dll",
-    "file_name": "FasterBadges.dll",
-    "file_size": 46592
-  },
-  "3800dae1288fbbe909bfbad0dd13c2431fba9f3bfd7713ebda26f7c8fd92081d": {
-    "mod_name": "FasterBadges",
-    "version": "1.3.0",
-    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.3.0/FasterBadges.dll",
-    "file_name": "FasterBadges.dll",
-    "file_size": 41984
-  },
-  "dcfc92057b7253c5279aa46d6f60ab866e247bc4177174a152f8dcd48a07552b": {
-    "mod_name": "FasterBadges",
-    "version": "1.2.0",
-    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.2.0/FasterBadges.dll",
-    "file_name": "FasterBadges.dll",
-    "file_size": 7168
-  },
-  "16f1b2202d36c381358b2c10d7f9668fa1327b64cb92bfe898b6763ecf64a6ad": {
-    "mod_name": "FasterBadges",
-    "version": "1.1.0",
-    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.1.0/FasterBadges.dll",
-    "file_name": "FasterBadges.dll",
-    "file_size": 7168
-  },
-  "10c05e513efdb49b0058c0b539b9122a4069b513ab42ed37d1e0dddfc63dbaac": {
-    "mod_name": "FasterBadges",
-    "version": "1.0.0",
-    "download_url": "https://github.com/zahndy/FasterBadges/releases/download/1.0.0/FasterBadges.dll",
-    "file_name": "FasterBadges.dll",
-    "file_size": 6656
-  },
   "fd91e5c5805d743cde89147b77f90ba57ab87053cbb508847802a1912332de5c": {
     "mod_name": "RainbowLasers",
     "version": "1.1.0",
@@ -2406,13 +2329,6 @@
     "download_url": "https://github.com/art0007i/ColorDrop/releases/download/1.0.0.0/ColorDrop.dll",
     "file_name": "ColorDrop.dll",
     "file_size": 8704
-  },
-  "de5da20205cc93590398f2895888039f37fb6d47003c97930fb7ab7befaccc65": {
-    "mod_name": "ConsistentDashboard",
-    "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/ConsistentDashboard/releases/download/1.0.0/ConsistentDashboard.dll",
-    "file_name": "ConsistentDashboard.dll",
-    "file_size": 6656
   },
   "7c9a9c5fc2a1c59b136704ec3a1dc650d1c0f36bea6b65bcd1c1c0fa7e6de7cb": {
     "mod_name": "CreateWorldConfig",
