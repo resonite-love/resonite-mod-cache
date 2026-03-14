@@ -839,6 +839,34 @@
     "file_name": "DisableDevToolPassthrough.dll",
     "file_size": 6656
   },
+  "ec022ba693587dfc67773e226295ab5d79418cb4384c3930492b72e2e89b4812": {
+    "mod_name": "DoNotRunAwaySceneInspecter",
+    "version": "1.0.5",
+    "download_url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/1.0.5/DoNotRunAwaySceneInspecter.dll",
+    "file_name": "DoNotRunAwaySceneInspecter.dll",
+    "file_size": 10240
+  },
+  "305d10546a159f6abea716f0429bb7d8e6b999b37112ba78dbc86f317052e378": {
+    "mod_name": "DoNotRunAwaySceneInspecter",
+    "version": "v1.0.3",
+    "download_url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/v1.0.3/DoNotRunAwaySceneInspecter.dll",
+    "file_name": "DoNotRunAwaySceneInspecter.dll",
+    "file_size": 10240
+  },
+  "a6c9c20c62661331bbd994a1d9749bb2bd2225d4dc1568b49695da8aece9812a": {
+    "mod_name": "DoNotRunAwaySceneInspecter",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/v1.0.1/DoNotRunAwaySceneInspecter.dll",
+    "file_name": "DoNotRunAwaySceneInspecter.dll",
+    "file_size": 9728
+  },
+  "a2ee76df5361933db30e812d3fad60998409eba2dc14dfbf5dfca0d52ac6e0cf": {
+    "mod_name": "DoNotRunAwaySceneInspecter",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/v1.0.0/DoNotRunAwaySceneInspecter.dll",
+    "file_name": "DoNotRunAwaySceneInspecter.dll",
+    "file_size": 9216
+  },
   "5cf611e53686991fc6c9b65ee82df87727d60e9160d9dff70b72a4b877247620": {
     "mod_name": "libalxr-sharp",
     "version": "1.9.0",
@@ -4004,7 +4032,7 @@
     "file_size": 7680
   },
   "0173e778efa8dd9b5d3a1bd93aaae8139dd162930594d2f950b591609ff4ba81": {
-    "mod_name": "Inspectorimprovements",
+    "mod_name": "InspectorImprovements",
     "version": "1.0.0",
     "download_url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.0/InspectorImprovements.dll",
     "file_name": "InspectorImprovements.dll",
