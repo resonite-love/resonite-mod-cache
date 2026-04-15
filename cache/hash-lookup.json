@@ -104,6 +104,13 @@
     "file_name": "IgnoreControllerAxis.dll",
     "file_size": 19456
   },
+  "a1bb7db26c634dd87576d42c18cd315af6c18c60d3a5b664408d769f91381306": {
+    "mod_name": "TypePicker",
+    "version": "2.0.4",
+    "download_url": "https://github.com/InfernoEye/TypePicker/releases/download/2.0.4/TypePicker.dll",
+    "file_name": "TypePicker.dll",
+    "file_size": 13312
+  },
   "090dec10c91d044d65de2b9ac8c72393148d066950ef0ee36745989c00b58016": {
     "mod_name": "AutoAcceptInvite",
     "version": "v2.0.4",
