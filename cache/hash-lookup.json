@@ -104,6 +104,13 @@
     "file_name": "IgnoreControllerAxis.dll",
     "file_size": 19456
   },
+  "f98baf8bca739dbec08324753c12552d2db6b160a58743d0377b340c2637c268": {
+    "mod_name": "SmoothFaceTracking",
+    "version": "1.0.0",
+    "download_url": "https://github.com/InfernoEye/ResoSmoothFT/releases/download/1.0.0/SmoothFaceTracking.dll",
+    "file_name": "SmoothFaceTracking.dll",
+    "file_size": 12288
+  },
   "83350947dd04730950cbeec3e3a4172ffcd4f3948f4928ba218823032015f824": {
     "mod_name": "TypePicker",
     "version": "2.0.5",
