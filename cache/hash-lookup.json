@@ -62,6 +62,27 @@
     "file_name": "EnableToolspawnInVR.dll",
     "file_size": 14848
   },
+  "e787b1ccd2c7d1fc96c54c603d7cd75363c0d95c8f09dd3ca022ee0cf7198839": {
+    "mod_name": "FixMirrorSteamVRIPDOffset",
+    "version": "2.0.1",
+    "download_url": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/download/2.0.1/FixMirrorSteamVRIPDOffset.dll",
+    "file_name": "FixMirrorSteamVRIPDOffset.dll",
+    "file_size": 22528
+  },
+  "157cc48c93b830767b8190f4a4625ea1bf804fb37c26b771f3aee4bbbfef97b5": {
+    "mod_name": "FixMirrorSteamVRIPDOffset",
+    "version": "2.0.0",
+    "download_url": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/download/2.0.0/FixMirrorSteamVRIPDOffset.dll",
+    "file_name": "FixMirrorSteamVRIPDOffset.dll",
+    "file_size": 22528
+  },
+  "0543dd244cb222733f6be4d667442fb9d22420d5325169ee134d2d6f63a204cc": {
+    "mod_name": "FixMirrorSteamVRIPDOffset",
+    "version": "1.0.0",
+    "download_url": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/download/1.0.0/FixMirrorSteamVRIPDOffset.dll",
+    "file_name": "FixMirrorSteamVRIPDOffset.dll",
+    "file_size": 17920
+  },
   "9d688066fde38ccb548495348ee7a784caae466df691cb7eae2ce8e559f26ac0": {
     "mod_name": "IgnoreControllerAxis",
     "version": "1.1.1",
