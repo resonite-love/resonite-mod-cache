@@ -1,4 +1,25 @@
 {
+  "d1e3a2b91246c7b0d3f0ca3148b6f42b25f129483307399f87df2b7aef91ceb8": {
+    "mod_name": "BoundedUIX",
+    "version": "v2.1.0",
+    "download_url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.1.0/BoundedUIX.nupkg",
+    "file_name": "BoundedUIX.nupkg",
+    "file_size": 45561
+  },
+  "509f71ae352e8881dea221fb266f061455c85baa0eeaf09c4c331d605e4c0b32": {
+    "mod_name": "BoundedUIX",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.0.0/BoundedUIX.nupkg",
+    "file_name": "BoundedUIX.nupkg",
+    "file_size": 67121
+  },
+  "2878d3b4a61527489d0b778bb9f69e48631cf6b7e89e9d4edf2736aa1ef6efa3": {
+    "mod_name": "BoundedUIX",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v1.0.0/BoundedUIX.dll",
+    "file_name": "BoundedUIX.dll",
+    "file_size": 33280
+  },
   "1faff2c4c50ba0980df63b93ca047f0674e4d8f41632e20f88df17a9386eeaa5": {
     "mod_name": "StopDisappearingLocomotionMenu",
     "version": "v1.0.0",
@@ -2330,6 +2351,27 @@
     "file_name": "BoundedUIX.dll",
     "file_size": 34304
   },
+  "1ff1c342c27b5d4296d20d5b79a0e1a6ea33deb380e9237a1b13a42b8d10e36b": {
+    "mod_name": "CopyHyperlink",
+    "version": "1.0.2",
+    "download_url": "https://github.com/djsime1/CopyHyperlink/releases/download/1.0.2/CopyHyperlink.dll",
+    "file_name": "CopyHyperlink.dll",
+    "file_size": 7680
+  },
+  "41fc7bca29bf12b2b2ae8e677fcbdf1943ed9d35bd78052f47204b60239875b0": {
+    "mod_name": "CopyHyperlink",
+    "version": "1.0.1",
+    "download_url": "https://github.com/djsime1/CopyHyperlink/releases/download/1.0.1/CopyHyperlink.dll",
+    "file_name": "CopyHyperlink.dll",
+    "file_size": 7680
+  },
+  "ec25187d32b6d2612ec988152f4a79c5c20873f5bb0fd87780944a4fe511be48": {
+    "mod_name": "CopyHyperlink",
+    "version": "1.0.0",
+    "download_url": "https://github.com/djsime1/CopyHyperlink/releases/download/1.0.0/CopyHyperlink.dll",
+    "file_name": "CopyHyperlink.dll",
+    "file_size": 7168
+  },
   "b7c91372cdb8e0dde94ffec87376d6f45b062961db9c9f9224f6a41b3874b984": {
     "mod_name": "GradientDriverEasing",
     "version": "1.2.1",
@@ -3198,20 +3240,6 @@
     "file_name": "ShadowDistanceChanger.dll",
     "file_size": 6144
   },
-  "3520caa2b3dffce36036371d25214f31da0516a9bd6061d0dec54734949738f2": {
-    "mod_name": "ShowComponentSlot",
-    "version": "2.0.0",
-    "download_url": "https://github.com/art0007i/ShowComponentSlot/releases/download/2.0.0/ShowComponentSlot.dll",
-    "file_name": "ShowComponentSlot.dll",
-    "file_size": 6656
-  },
-  "61d9e2beb55e8edc769e2158ca108423c76df8b5830bfddd014e545bc4f2534c": {
-    "mod_name": "ShowComponentSlot",
-    "version": "1.0.0.0",
-    "download_url": "https://github.com/art0007i/ShowComponentSlot/releases/download/1.0.0.0/ShowComponentSlot.dll",
-    "file_name": "ShowComponentSlot.dll",
-    "file_size": 6656
-  },
   "b35b1a6893617c3cdf5a976c99f4d8a17f1770cfe6e8136515043c91f908afa2": {
     "mod_name": "ShowDelegates",
     "version": "2.2.10",
@@ -4016,27 +4044,6 @@
     "download_url": "https://github.com/XDelta/ContextMenuControl/releases/download/1.0.0/ContextMenuControl.dll",
     "file_name": "ContextMenuControl.dll",
     "file_size": 8704
-  },
-  "b5cd3da42f98136104e5300107d263ffc13ef8a85ed9c31a63c6c2642c06ca3e": {
-    "mod_name": "DisableSRAnipal",
-    "version": "1.0.2",
-    "download_url": "https://github.com/XDelta/DisableSRAnipal/releases/download/1.0.2/DisableSRAnipal.dll",
-    "file_name": "DisableSRAnipal.dll",
-    "file_size": 6144
-  },
-  "ee3fb4a58176469a774eb5bde82d40eff6791e13199563eafb9110c7a5ca3d44": {
-    "mod_name": "DisableSRAnipal",
-    "version": "1.0.1",
-    "download_url": "https://github.com/XDelta/DisableSRAnipal/releases/download/1.0.1/DisableSRAnipal.dll",
-    "file_name": "DisableSRAnipal.dll",
-    "file_size": 6656
-  },
-  "c30b49b2be0c708cc4260c035b5821ed24676a57c237e15d033a9ab428ea393d": {
-    "mod_name": "DisableSRAnipal",
-    "version": "1.0.0",
-    "download_url": "https://github.com/XDelta/DisableSRAnipal/releases/download/1.0.0/DisableSRAnipal.dll",
-    "file_name": "DisableSRAnipal.dll",
-    "file_size": 6656
   },
   "04163aa28f5a9254019c45afe424d1ba950c86fcc65e6d724b2e7f70541c868d": {
     "mod_name": "Fish",
@@ -4919,20 +4926,6 @@
     "download_url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v1.0.0/EnumDropdown.dll",
     "file_name": "EnumDropdown.dll",
     "file_size": 17920
-  },
-  "e2e2117f3c30f8a9fa5e7be8fe459fcd521beb3212be0897d1481c0d8d68e7fe": {
-    "mod_name": "FixAltEnter",
-    "version": "v2.0.0",
-    "download_url": "https://github.com/badhaloninja/FixAltEnter/releases/download/v2.0.0/FixAltEnter.dll",
-    "file_name": "FixAltEnter.dll",
-    "file_size": 6144
-  },
-  "b9c7c09ab6b0778b44f67686bb6b1fb7f36ed4ccedf6e3326e4ad2e82b3c189c": {
-    "mod_name": "FixAltEnter",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/badhaloninja/FixAltEnter/releases/download/v1.0.0/FixAltEnter.dll",
-    "file_name": "FixAltEnter.dll",
-    "file_size": 6144
   },
   "567566428e3e91000a6dcd4281e6260fd37b0d1c5a88753044a1670b008e9a33": {
     "mod_name": "FixSelectionRadiusScale",
