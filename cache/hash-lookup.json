@@ -2813,6 +2813,13 @@
     "file_name": "ImportCompactor.dll",
     "file_size": 5632
   },
+  "11be35371630f9050f100ef2768116b30c872c391283b3acc79d5692dc808144": {
+    "mod_name": "InspectorScroll",
+    "version": "2.0.2-pre1",
+    "download_url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.2-pre1/InspectorScroll.dll",
+    "file_name": "InspectorScroll.dll",
+    "file_size": 9216
+  },
   "5276e355becb05e0b78b93b1af83b93b8a3abdbe90794592547b381e26ca5b49": {
     "mod_name": "InspectorScroll",
     "version": "2.0.1",
