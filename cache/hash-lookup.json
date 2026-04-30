@@ -874,6 +874,13 @@
     "file_name": "DisableDevToolPassthrough.dll",
     "file_size": 6656
   },
+  "09a960e0e0d30528b38c196a04c17f7f3cc882ad8358d2c4611d309c98d1cfa1": {
+    "mod_name": "ReBlendshapes",
+    "version": "1.0.0",
+    "download_url": "https://github.com/Moonbasee/ReBlendshapes/releases/download/1.0.0/ReBlendshapes.dll",
+    "file_name": "ReBlendshapes.dll",
+    "file_size": 11264
+  },
   "ec022ba693587dfc67773e226295ab5d79418cb4384c3930492b72e2e89b4812": {
     "mod_name": "DoNotRunAwaySceneInspecter",
     "version": "1.0.5",
