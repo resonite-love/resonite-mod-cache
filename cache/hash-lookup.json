@@ -2316,6 +2316,13 @@
     "file_name": "SteamRecentUsers.dll",
     "file_size": 7680
   },
+  "4d882fcae96820207ae1e7d5d056fbff9ef92855aee8fac0033b5c0ebbb67961": {
+    "mod_name": "SlashMe",
+    "version": "1.0",
+    "download_url": "https://github.com/DanteTucker/SlashMe/releases/download/1.0/SlashMe.dll",
+    "file_name": "SlashMe.dll",
+    "file_size": 5120
+  },
   "a1b7ff94d6227aae7cdacc7423ce043cba6297832b16a264836d1551f07c2ef1": {
     "mod_name": "LinuxSortedFiles",
     "version": "v1.0.0",
