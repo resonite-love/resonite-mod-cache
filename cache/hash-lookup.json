@@ -3639,6 +3639,20 @@
     "file_name": "ValueProxyExtensions.dll",
     "file_size": 25088
   },
+  "c56fb588726972e183ae429f945e7cd8caa1308800582d2e15285be320f7c092": {
+    "mod_name": "WikiIntegration",
+    "version": "0.1.1",
+    "download_url": "https://github.com/art0007i/WikiIntegrationRML/releases/download/0.1.1/WikiIntegration.dll",
+    "file_name": "WikiIntegration.dll",
+    "file_size": 10752
+  },
+  "d35423983e2b5c561751b7cf2146f3f492b49953db047b36969a490861938cd0": {
+    "mod_name": "WikiIntegration",
+    "version": "0.1.0",
+    "download_url": "https://github.com/art0007i/WikiIntegrationRML/releases/download/0.1.0/WikiIntegration.dll",
+    "file_name": "WikiIntegration.dll",
+    "file_size": 9728
+  },
   "d47fefb81bebbe120c93d5f7cdc6a7a9006bc8ffbab08b5d125c86eb6b298dc2": {
     "mod_name": "CherryPick",
     "version": "1.1.2",
