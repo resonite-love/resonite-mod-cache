@@ -4584,6 +4584,48 @@
     "file_name": "cp_vrml1to2.dll",
     "file_size": 199680
   },
+  "28e3f550872a810b012abd7072e23ff46aa2da37f0d8505c18b981db73a6d2ff": {
+    "mod_name": "ZipImporter",
+    "version": "v2.1.2",
+    "download_url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.1.2/ZipImporter.dll",
+    "file_name": "ZipImporter.dll",
+    "file_size": 24064
+  },
+  "1035f69395d2cee0ab961335daf5a469c3a8de020f67faf88f45c0cf54d89dbc": {
+    "mod_name": "ZipImporter",
+    "version": "v2.1.0",
+    "download_url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.1.0/ZipImporter.dll",
+    "file_name": "ZipImporter.dll",
+    "file_size": 16896
+  },
+  "4c7972d935452ac5f3db44738ba0972b13ccb1e8907dc4092b7325c80cb999f2": {
+    "mod_name": "ZipImporter",
+    "version": "v2.0.1",
+    "download_url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.0.1/ZipImporter.dll",
+    "file_name": "ZipImporter.dll",
+    "file_size": 16896
+  },
+  "2e1dc8a614a2ead908014deefe0a2e9ad101804953992c72cff3f357710fbfad": {
+    "mod_name": "ZipImporter",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.0.0/ZipImporter.dll",
+    "file_name": "ZipImporter.dll",
+    "file_size": 16384
+  },
+  "81d57f51be8bc3704fa18656fa4a168369434ec356ead12d380ccead036f6e03": {
+    "mod_name": "ZipImporter",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v1.0.1/Unzipper.dll",
+    "file_name": "Unzipper.dll",
+    "file_size": 11776
+  },
+  "bd9d2faa8bd93badd5d9f5478fde284e79e91de38228e596087fd0fd856a2ae4": {
+    "mod_name": "ZipImporter",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v1.0.0/Unzipper.dll",
+    "file_name": "Unzipper.dll",
+    "file_size": 11776
+  },
   "6830fdcfe03010066de424a4340cbebc1c5af23a3864a12481a9729e81b40e7a": {
     "mod_name": "GetItemLink",
     "version": "1.4.9",
