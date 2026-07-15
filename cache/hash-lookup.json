@@ -2218,6 +2218,13 @@
     "file_name": "RemoveThatKinkFromSteamLinkCS.dll",
     "file_size": 6144
   },
+  "5c2e8ff58b078f6d2b7d4f03625f25e9d7f04b0d73a25becf13c0b3a5793cadd": {
+    "mod_name": "BetterDynBoneVisualizer",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/download/v1.0.0/BetterDynBoneVisualizer.dll",
+    "file_name": "BetterDynBoneVisualizer.dll",
+    "file_size": 14848
+  },
   "58f89b02e7256bb70cd9088c77d9a81497f774c7b62aadd6875e89682b9292c1": {
     "mod_name": "ContextMenuBackOption",
     "version": "v3.0.0",
@@ -2308,6 +2315,34 @@
     "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v1.0.0-alpha.1/ContextMenuBackOption.dll",
     "file_name": "ContextMenuBackOption.dll",
     "file_size": 26624
+  },
+  "caf942f54e174bed84a4f787d0cebec9045cfea50db7dfc5ab3f72bb00713f83": {
+    "mod_name": "CustomToolScaling",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/download/v1.0.1/CustomToolScaling.dll",
+    "file_name": "CustomToolScaling.dll",
+    "file_size": 12288
+  },
+  "9bf9d6acc6ea1b1e75e8f9d58e2cb3484d18111d7c6725c24d937a3a38308548": {
+    "mod_name": "CustomToolScaling",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/download/v1.0.0/CustomToolScaling.dll",
+    "file_name": "CustomToolScaling.dll",
+    "file_size": 11776
+  },
+  "c3c394601992801a85ac5311148196b39761cb9410f282fc2acd275d2a859c22": {
+    "mod_name": "GrabbersGalore",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/download/v1.1.0/GrabbersGalore.dll",
+    "file_name": "GrabbersGalore.dll",
+    "file_size": 8192
+  },
+  "a01c1a68fce72400c11f3d2c6cee94b61dad49d42fbcd552ab3ed814b9af62ac": {
+    "mod_name": "GrabbersGalore",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/download/v1.0.0/GrabbersGalore.dll",
+    "file_name": "GrabbersGalore.dll",
+    "file_size": 8704
   },
   "7eeb01cffaad1a8e2179ac873877beceea3c4e9e9d72cd9545374e86f58cc8af": {
     "mod_name": "SteamRecentUsers",
