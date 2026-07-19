@@ -2330,6 +2330,13 @@
     "file_name": "SlashMe.dll",
     "file_size": 5120
   },
+  "a1b7ff94d6227aae7cdacc7423ce043cba6297832b16a264836d1551f07c2ef1": {
+    "mod_name": "LinuxSortedFiles",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Baplar/ResoniteLinuxSortedFiles/releases/download/v1.0.0/LinuxSortedFiles.dll",
+    "file_name": "LinuxSortedFiles.dll",
+    "file_size": 10240
+  },
   "849394a31a0bdae0d84df7dff756774839f210693de87b74a0d1800e9c7970e8": {
     "mod_name": "ResoniteDiscordRpc",
     "version": "v1.0.0",
@@ -2504,6 +2511,27 @@
     "download_url": "https://github.com/art0007i/ConsistentDashboard/releases/download/1.0.0/ConsistentDashboard.dll",
     "file_name": "ConsistentDashboard.dll",
     "file_size": 6656
+  },
+  "7c9a9c5fc2a1c59b136704ec3a1dc650d1c0f36bea6b65bcd1c1c0fa7e6de7cb": {
+    "mod_name": "CreateWorldConfig",
+    "version": "2.0.0",
+    "download_url": "https://github.com/art0007i/CreateWorldConfig/releases/download/2.0.0/CreateWorldConfig.dll",
+    "file_name": "CreateWorldConfig.dll",
+    "file_size": 5632
+  },
+  "d91c5c55a2e8b4d29f98067acf6330c01310bfafdd6fe0503cc86837c4c68ceb": {
+    "mod_name": "CreateWorldConfig",
+    "version": "1.0.1",
+    "download_url": "https://github.com/art0007i/CreateWorldConfig/releases/download/1.0.1/CreateWorldConfig.dll",
+    "file_name": "CreateWorldConfig.dll",
+    "file_size": 5632
+  },
+  "5acd23db30d588d9d019a76b99e036ff710ef1466000a1d97608d9b4c7bb3207": {
+    "mod_name": "CreateWorldConfig",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/CreateWorldConfig/releases/download/1.0.0/CreateWorldConfig.dll",
+    "file_name": "CreateWorldConfig.dll",
+    "file_size": 5632
   },
   "f0c6b586e93ddfbda237f04daba843984515fd24e1fd30d0f109b361ea520cdd": {
     "mod_name": "CustomInspectors",
@@ -3128,6 +3156,13 @@
     "file_name": "NotificationFixer.dll",
     "file_size": 6656
   },
+  "c7fef55525aa9bbcb96c42aa4271707497fd3f0466cb17f1bc1c37e907544c75": {
+    "mod_name": "OutOfSightOverride",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/OutOfSightOverride/releases/download/1.0.0/OutOfSightOverride.dll",
+    "file_name": "OutOfSightOverride.dll",
+    "file_size": 8192
+  },
   "2241fe6619880543be78d71894378250eba9b5a60147c9a95799869bbe7a129e": {
     "mod_name": "ParentalIssues",
     "version": "2.0.0",
@@ -3148,6 +3183,27 @@
     "download_url": "https://github.com/art0007i/ParentalIssues/releases/download/1.0.0/ParentalIssues.dll",
     "file_name": "ParentalIssues.dll",
     "file_size": 8704
+  },
+  "43f705e761a2c28e70cd443af0e1ad7dc46bde8b61eab3b39d55c9cea9e8f934": {
+    "mod_name": "PresenceToggle",
+    "version": "2.0.1",
+    "download_url": "https://github.com/art0007i/PresenceToggle/releases/download/2.0.1/PresenceToggle.dll",
+    "file_name": "PresenceToggle.dll",
+    "file_size": 6656
+  },
+  "640cc821d1a5ce400d13e87b51831d42c81deb05ce0e427ad126006d7717b12f": {
+    "mod_name": "PresenceToggle",
+    "version": "2.0.0",
+    "download_url": "https://github.com/art0007i/PresenceToggle/releases/download/2.0.0/PresenceToggle.dll",
+    "file_name": "PresenceToggle.dll",
+    "file_size": 5632
+  },
+  "b8fd469a63475aae6bc2c35ba418f0c0ed1409ec30b12dad0dbd1c1e44b355d0": {
+    "mod_name": "PresenceToggle",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/PresenceToggle/releases/download/1.0.0/PresenceToggle.dll",
+    "file_name": "PresenceToggle.dll",
+    "file_size": 6656
   },
   "821ceeeeecd1a9e56c117e15f457f517e1e821666464a4d169e27c0be979f3f5": {
     "mod_name": "QuickFolderOpener",
@@ -3176,6 +3232,13 @@
     "download_url": "https://github.com/art0007i/QuickFolderOpener/releases/download/1.0.0/QuickFolderOpener.dll",
     "file_name": "QuickFolderOpener.dll",
     "file_size": 11264
+  },
+  "3a5c1139cca746bafc78d91f8aa0c588bf9435c2f3389a0fc16ec01ae31c12d0": {
+    "mod_name": "RemoveComponentAttacherRestriction",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/RemoveComponentAttacherRestriction/releases/download/1.0.0/RemoveComponentAttacherRestriction.dll",
+    "file_name": "RemoveComponentAttacherRestriction.dll",
+    "file_size": 7680
   },
   "ef21b285d0f067eb365c17dbd37a1267ab185edcb8a70f43f08fa5ed06c8506d": {
     "mod_name": "ResoniteImGuiLib",
