@@ -2288,20 +2288,6 @@
     "file_name": "CustomToolScaling.dll",
     "file_size": 11776
   },
-  "c3c394601992801a85ac5311148196b39761cb9410f282fc2acd275d2a859c22": {
-    "mod_name": "GrabbersGalore",
-    "version": "v1.1.0",
-    "download_url": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/download/v1.1.0/GrabbersGalore.dll",
-    "file_name": "GrabbersGalore.dll",
-    "file_size": 8192
-  },
-  "a01c1a68fce72400c11f3d2c6cee94b61dad49d42fbcd552ab3ed814b9af62ac": {
-    "mod_name": "GrabbersGalore",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/download/v1.0.0/GrabbersGalore.dll",
-    "file_name": "GrabbersGalore.dll",
-    "file_size": 8704
-  },
   "7eeb01cffaad1a8e2179ac873877beceea3c4e9e9d72cd9545374e86f58cc8af": {
     "mod_name": "SteamRecentUsers",
     "version": "1.0.2",
@@ -4780,48 +4766,6 @@
     "file_name": "ResoniteBaballoniaEyeTracking.dll",
     "file_size": 8704
   },
-  "5e439c9e2116d529def0dd3caefed103a65969a2c43f5ad8405be95aa55f6e94": {
-    "mod_name": "SaveItemTweaks",
-    "version": "v2.1.0",
-    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.1.0/SaveItemTweaks.dll",
-    "file_name": "SaveItemTweaks.dll",
-    "file_size": 13824
-  },
-  "c72cd3fd18f6d1563e00a3f3215506d50b6950ba0489fb0abb2b6f95074aaf93": {
-    "mod_name": "SaveItemTweaks",
-    "version": "v2.0.2",
-    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.2/SaveItemTweaks.dll",
-    "file_name": "SaveItemTweaks.dll",
-    "file_size": 15360
-  },
-  "6e9d5f49a8be54ed641784a6068b21faf4c535314259d9847a3fffa06bd245a7": {
-    "mod_name": "SaveItemTweaks",
-    "version": "v2.0.1",
-    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.1/SaveItemTweaks.dll",
-    "file_name": "SaveItemTweaks.dll",
-    "file_size": 14848
-  },
-  "83047883785752c860d87d299f39f016eae9f781c0503f8a3e3e0f6de67b82b4": {
-    "mod_name": "SaveItemTweaks",
-    "version": "v2.0.0",
-    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.0/SaveItemTweaks.dll",
-    "file_name": "SaveItemTweaks.dll",
-    "file_size": 14848
-  },
-  "22db4b5a87fd1aa823b61d2c861af5d9201bedf6edd3802288688dc45a480143": {
-    "mod_name": "SaveItemTweaks",
-    "version": "v1.0.1",
-    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v1.0.1/SaveItemTweaks.dll",
-    "file_name": "SaveItemTweaks.dll",
-    "file_size": 14848
-  },
-  "f4f11529a3556613e1e6e7b16c1fa06bf33acda1ecb56882f871e75813de800f": {
-    "mod_name": "SaveItemTweaks",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v1.0.0/SaveItemTweaks.dll",
-    "file_name": "SaveItemTweaks.dll",
-    "file_size": 15360
-  },
   "f3a50ea4278f56a14caa6f90ef405beacee1e2dfcbdd8a0cdea78882ad1569c5": {
     "mod_name": "OpenXREyeTracking",
     "version": "1.0.3",
@@ -5045,20 +4989,6 @@
     "download_url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v1.0.0/EnumDropdown.dll",
     "file_name": "EnumDropdown.dll",
     "file_size": 17920
-  },
-  "e2e2117f3c30f8a9fa5e7be8fe459fcd521beb3212be0897d1481c0d8d68e7fe": {
-    "mod_name": "FixAltEnter",
-    "version": "v2.0.0",
-    "download_url": "https://github.com/badhaloninja/FixAltEnter/releases/download/v2.0.0/FixAltEnter.dll",
-    "file_name": "FixAltEnter.dll",
-    "file_size": 6144
-  },
-  "b9c7c09ab6b0778b44f67686bb6b1fb7f36ed4ccedf6e3326e4ad2e82b3c189c": {
-    "mod_name": "FixAltEnter",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/badhaloninja/FixAltEnter/releases/download/v1.0.0/FixAltEnter.dll",
-    "file_name": "FixAltEnter.dll",
-    "file_size": 6144
   },
   "567566428e3e91000a6dcd4281e6260fd37b0d1c5a88753044a1670b008e9a33": {
     "mod_name": "FixSelectionRadiusScale",
