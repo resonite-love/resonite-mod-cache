@@ -1749,6 +1749,20 @@
     "file_name": "CustomTextureSettings.dll",
     "file_size": 15872
   },
+  "22ddd2b9deb2abaaccea20db0f8c9b096c45abee67c6dc10c8b815cc91eef197": {
+    "mod_name": "ColliderGrabbableDeleter",
+    "version": "1.0.1",
+    "download_url": "https://github.com/zahndy/ColliderGrabbableDeleter/releases/download/1.0.1/ColliderGrabbableDeleter.dll",
+    "file_name": "ColliderGrabbableDeleter.dll",
+    "file_size": 8192
+  },
+  "cd6ec647db1c9316abda699f0a50d78419c2bc931c88ab3af1365f2253451150": {
+    "mod_name": "ColliderGrabbableDeleter",
+    "version": "1.0.0",
+    "download_url": "https://github.com/zahndy/ColliderGrabbableDeleter/releases/download/1.0.0/ColliderGrabbableDeleter.dll",
+    "file_name": "ColliderGrabbableDeleter.dll",
+    "file_size": 8192
+  },
   "40b72c16ba90d05bd3ff7eef14ca5628d05ccf4355b282175ecaf6d349e962ac": {
     "mod_name": "FasterBadges",
     "version": "1.6.1",
