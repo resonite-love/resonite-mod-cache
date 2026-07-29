@@ -4913,6 +4913,13 @@
     "file_name": "SessionTweaks.dll",
     "file_size": 8192
   },
+  "e68454d1e696f72da7d300eb3828ffb4eb6f001aab96524896e436382a9b4ca8": {
+    "mod_name": "RandomAudioClipPlayerUtils",
+    "version": "V1.0.0",
+    "download_url": "https://github.com/marsmaantje/RandomAudioClipPlayerUtils/releases/download/V1.0.0/RandomAudioClipPlayerUtils.dll",
+    "file_name": "RandomAudioClipPlayerUtils.dll",
+    "file_size": 12288
+  },
   "0cf13dd11fbc93021ce17b65a37172fd456f5475984728414fa0b639ba3d3116": {
     "mod_name": "DisableGamepads",
     "version": "v1.0.0",
