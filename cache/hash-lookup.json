@@ -5494,6 +5494,27 @@
     "file_name": "ExpandedMemberEditors.dll",
     "file_size": 9728
   },
+  "6910e3707b5666690788317e8308efdd0f07575c4ebb1a0c3e507933988bf30f": {
+    "mod_name": "ExposePatchedMethods",
+    "version": "v5.1.1",
+    "download_url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.1.1/ExposePatchedMethods.dll",
+    "file_name": "ExposePatchedMethods.dll",
+    "file_size": 12800
+  },
+  "ae4a18093249b3405c494b8dae441145d5ee0d2e47cb6be04c718de22b7eae61": {
+    "mod_name": "ExposePatchedMethods",
+    "version": "v5.1.0",
+    "download_url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.1.0/ExposePatchedMethods.dll",
+    "file_name": "ExposePatchedMethods.dll",
+    "file_size": 12800
+  },
+  "b522c67f8efff304a5c49af6dec9994f861384c664d5f402d17ac34c4e5eb77f": {
+    "mod_name": "ExposePatchedMethods",
+    "version": "v5.0.0",
+    "download_url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.0.0/ExposePatchedMethods.dll",
+    "file_name": "ExposePatchedMethods.dll",
+    "file_size": 11776
+  },
   "d00605ec3083d53a0dfb37aa8148c0ebb598cb853e12b55571bcf19529de7145": {
     "mod_name": "FixSessionBrowser",
     "version": "v1.1.0",
