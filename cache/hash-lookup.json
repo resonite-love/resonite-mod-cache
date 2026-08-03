@@ -4276,6 +4276,13 @@
     "file_name": "PermissionControl.dll",
     "file_size": 13824
   },
+  "60b1139647811d01c48ffc89dea670f4957d5045c1939a61ec9c745e16cda9e8": {
+    "mod_name": "PhysicalGrabOnDesktop",
+    "version": "1.0.0",
+    "download_url": "https://github.com/XDelta/PhysicalGrabOnDesktop/releases/download/1.0.0/PhysicalGrabOnDesktop.dll",
+    "file_name": "PhysicalGrabOnDesktop.dll",
+    "file_size": 6144
+  },
   "00026fc8d9f6857764267c56f98363f9753fd746b4d46c8f7267067b1ca43302": {
     "mod_name": "PTTKeybinds",
     "version": "1.5.2",
