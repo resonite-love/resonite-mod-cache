@@ -1658,6 +1658,13 @@
     "file_name": "CyberFingerMod.dll",
     "file_size": 27136
   },
+  "e366143796fbb90edcb5cfb61afb05c7baa3e27ebaabe209bd7df16a3adced16": {
+    "mod_name": "ResonitePSVR2",
+    "version": "v1.2.0",
+    "download_url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.0/psvr2_toolkit_capi_loader.dll",
+    "file_name": "psvr2_toolkit_capi_loader.dll",
+    "file_size": 427520
+  },
   "aae71b5a153f9103585d1e5adc5120dc8d70ffd3ba3da79d1705147489c06957": {
     "mod_name": "ResonitePSVR2",
     "version": "v1.1.2",
