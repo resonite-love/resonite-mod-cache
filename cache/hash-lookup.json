@@ -1,121 +1,86 @@
 {
-  "dd5670ad7a1ed785fcc0f0399bc9b270a4713e149fb0f6afb542d4acbfb0aa1a": {
-    "mod_name": "Thundagun",
-    "version": "1.2.2-beta",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.2-beta/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 156672
-  },
-  "747a0afb947ec914f6cbeeab92159ee51cb5d9d5b5579efa6074554092625256": {
-    "mod_name": "Thundagun",
-    "version": "1.2.1",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.1/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 171520
-  },
-  "cbb9e58c98ca2096e7128df4ec57ca8c4afd25f8af2ab81c10572ee6ad930d83": {
-    "mod_name": "Thundagun",
-    "version": "1.2.0",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.2.0/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 171008
-  },
-  "e0de1e188d5c3114fd924e09753c733357910947ddab22a9f4777d928ad07eed": {
-    "mod_name": "Thundagun",
-    "version": "1.1.1",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.1.1/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 162304
-  },
-  "8111b695de019c4102effe3583956dd880c701c6fecbe2aa29852afe3c86e498": {
-    "mod_name": "Thundagun",
-    "version": "1.1.0-beta",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.1.0-beta/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 168960
-  },
-  "700aea43f5b2ae5ea24d7a336f7361a6fd438c44233fe39bb46c5c3b4517c41b": {
-    "mod_name": "Thundagun",
-    "version": "1.0.1-beta",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.0.1-beta/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 147456
-  },
-  "50ec29befca22cdf4f26a7321d0ba67b56207ab9d68cea5ab578ad0b05acb9d9": {
-    "mod_name": "Thundagun",
-    "version": "1.0.0-beta",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.0.0-beta/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 133632
-  },
-  "d98e55835599d0afc1c4f388b9cb77dcf34a9f25c32241d6e26f60306cd6ada3": {
-    "mod_name": "Thundagun",
-    "version": "1.1.0-alpha",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.1.0-alpha/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 144896
-  },
-  "a9a4591d6c4a1350879ab60f15881edfb813458e44d10e5298282c3d1a42a527": {
-    "mod_name": "Thundagun",
-    "version": "1.0.0-alpha",
-    "download_url": "https://github.com/Frozenreflex/Thundagun/releases/download/1.0.0-alpha/Thundagun.dll",
-    "file_name": "Thundagun.dll",
-    "file_size": 143872
-  },
-  "13d47822596ab0d6dd2ddd2b7ae6bb005a1ff89a84e1e6345b0912e2bcdceda0": {
-    "mod_name": "ResonitePrivacyShield",
-    "version": "v2.0.3",
-    "download_url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.3/PrivacyShield.dll",
-    "file_name": "PrivacyShield.dll",
-    "file_size": 11776
-  },
-  "1bdbf99bcc08e3699a86bcebe850c60b1598d0b8f39882e2f73cd7f225dc3352": {
-    "mod_name": "ResonitePrivacyShield",
-    "version": "v2.0.2",
-    "download_url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.2/PrivacyShield.dll",
-    "file_name": "PrivacyShield.dll",
-    "file_size": 11264
-  },
-  "7712a34aeb5a0a47953e3f55b07ace2aafe3acf7d2f90b6504c570a04736db18": {
-    "mod_name": "ResonitePrivacyShield",
-    "version": "v2.0.1",
-    "download_url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.1/PrivacyShield.dll",
-    "file_name": "PrivacyShield.dll",
-    "file_size": 11264
-  },
-  "6be3125e5e952253971721a4f05aae232aa56c82876a7bb8cf9dbb0fd2e43b78": {
-    "mod_name": "ResonitePrivacyShield",
-    "version": "v2.0.0",
-    "download_url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.0/PrivacyShield.dll",
-    "file_name": "PrivacyShield.dll",
-    "file_size": 11776
-  },
-  "7eeb01cffaad1a8e2179ac873877beceea3c4e9e9d72cd9545374e86f58cc8af": {
-    "mod_name": "SteamRecentUsers",
-    "version": "1.0.2",
-    "download_url": "https://github.com/DanteTucker/SteamRecentUsers/releases/download/1.0.2/SteamRecentUsers.dll",
-    "file_name": "SteamRecentUsers.dll",
-    "file_size": 7680
-  },
-  "6a27b7a86c8c537dd0cb488835a95f0f5f3099e21998bfb3fbf76f0c878a7119": {
-    "mod_name": "SteamRecentUsers",
-    "version": "1.0.1",
-    "download_url": "https://github.com/DanteTucker/SteamRecentUsers/releases/download/1.0.1/SteamRecentUsers.dll",
-    "file_name": "SteamRecentUsers.dll",
-    "file_size": 7680
-  },
-  "0fa074ef50eaa21bff0e963662cb82ced0f32e1d7542a0dbfa996fd013b96cf7": {
-    "mod_name": "SteamRecentUsers",
+  "cb5c1b47e85e2f94e2897ba34d21d1866b20e2f1b2c97f081450e1c3f1398783": {
+    "mod_name": "IDontNeedHelp",
     "version": "1.0.0",
-    "download_url": "https://github.com/DanteTucker/SteamRecentUsers/releases/download/1.0.0/SteamRecentUsers.dll",
-    "file_name": "SteamRecentUsers.dll",
-    "file_size": 7680
+    "download_url": "https://github.com/nalathethird/IDontNeedHelp/releases/download/1.0.0/IDontNeedHelp.dll",
+    "file_name": "IDontNeedHelp.dll",
+    "file_size": 15360
   },
-  "750102cdc126685956ed73ec47fc3f8509b97d2c6f601724a851ae4eab1908d2": {
-    "mod_name": "HeadlessToolPermissionKickCrashFix",
-    "version": "v1.0.0",
-    "download_url": "https://github.com/Nytra/ResoniteHeadlessToolPermissionKickCrashFix/releases/download/v1.0.0/HeadlessToolPermissionKickCrashFix.dll",
-    "file_name": "HeadlessToolPermissionKickCrashFix.dll",
-    "file_size": 6144
+  "73d2b49dc66c3045a0197ecc78350dbe23603beedaaef1be4874f968787232d1": {
+    "mod_name": "SessionCaptureBlocker",
+    "version": "1.1.0",
+    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.1.0/SessionCaptureBlocker.dll",
+    "file_name": "SessionCaptureBlocker.dll",
+    "file_size": 15360
+  },
+  "29e4eeb9a98dcd289b44aefe7f06610a672c2b5b20e8b39ac2124d9ff07c7a2d": {
+    "mod_name": "SessionCaptureBlocker",
+    "version": "1.0.3",
+    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.3/SessionCaptureBlocker.dll",
+    "file_name": "SessionCaptureBlocker.dll",
+    "file_size": 20992
+  },
+  "fbf8c3f33f6974c5fb09cc5b391023f1502e8d0befbf8d68a548fd813389dc71": {
+    "mod_name": "SessionCaptureBlocker",
+    "version": "1.0.2",
+    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.2/FckSessionCapture.dll",
+    "file_name": "FckSessionCapture.dll",
+    "file_size": 19968
+  },
+  "f2142e65272871db50bbe4e10202d1f9e2bf1af1a4dd9ddc790c67b69d03d4c8": {
+    "mod_name": "SessionCaptureBlocker",
+    "version": "1.0.1",
+    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.1/FckSessionCapture.dll",
+    "file_name": "FckSessionCapture.dll",
+    "file_size": 18432
+  },
+  "cffeab5a1fdcd933f2e5cddd687ce77a256c0bd7e4021305b8b065817e70c597": {
+    "mod_name": "SessionCaptureBlocker",
+    "version": "1.0.0",
+    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.0/FckSessionCapture.dll",
+    "file_name": "FckSessionCapture.dll",
+    "file_size": 17920
+  },
+  "a96983e66866be51e61d5d6ae2050ec02dcbaf73dfbeb76721aca4a3f8854cd1": {
+    "mod_name": "DuplicateFix",
+    "version": "1.0.5",
+    "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.5/DuplicateFix.dll",
+    "file_name": "DuplicateFix.dll",
+    "file_size": 14848
+  },
+  "c420496d3a25e1ccf1dab84f338de136fc17507c1e68776f83845561d3f17f01": {
+    "mod_name": "DuplicateFix",
+    "version": "1.0.4",
+    "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.4/DuplicateFix.dll",
+    "file_name": "DuplicateFix.dll",
+    "file_size": 14848
+  },
+  "d349f3aae8d5488733a1b7392b277c4d68e69f4857296bc674c8e077214ef65c": {
+    "mod_name": "DuplicateFix",
+    "version": "1.0.3",
+    "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.3/DuplicateFix.dll",
+    "file_name": "DuplicateFix.dll",
+    "file_size": 14848
+  },
+  "9036cc5a4a927a944626c0cc8a1f1c7d97845bf9505f3f30895f4398712301a9": {
+    "mod_name": "DuplicateFix",
+    "version": "1.0.2",
+    "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.2/DuplicateFix.dll",
+    "file_name": "DuplicateFix.dll",
+    "file_size": 13312
+  },
+  "f34eeacaeed4129eb300adefd79ebdcd559dbfe582ee004e7adac44428c69ddb": {
+    "mod_name": "DuplicateFix",
+    "version": "1.0.1",
+    "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.1/DuplicateFix.dll",
+    "file_name": "DuplicateFix.dll",
+    "file_size": 13312
+  },
+  "3f6b2f63367fedcabc0d1358dd35594bf413f8f1e141c5fb7fae5ad0c958e29c": {
+    "mod_name": "DuplicateFix",
+    "version": "1.0.0",
+    "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.0/DuplicateFix.dll",
+    "file_name": "DuplicateFix.dll",
+    "file_size": 13312
   }
 }
