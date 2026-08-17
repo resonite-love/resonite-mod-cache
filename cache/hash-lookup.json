@@ -1,86 +1,219 @@
 {
-  "cb5c1b47e85e2f94e2897ba34d21d1866b20e2f1b2c97f081450e1c3f1398783": {
-    "mod_name": "IDontNeedHelp",
-    "version": "1.0.0",
-    "download_url": "https://github.com/nalathethird/IDontNeedHelp/releases/download/1.0.0/IDontNeedHelp.dll",
-    "file_name": "IDontNeedHelp.dll",
-    "file_size": 15360
+  "06012d9f38a65e2eddd4570c8ff6e01ad0c58e0d79df90c606b4ee0b22144017": {
+    "mod_name": "CloseConfirm",
+    "version": "v1.2.0",
+    "download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.2.0/CloseConfirm.dll",
+    "file_name": "CloseConfirm.dll",
+    "file_size": 10240
   },
-  "73d2b49dc66c3045a0197ecc78350dbe23603beedaaef1be4874f968787232d1": {
-    "mod_name": "SessionCaptureBlocker",
+  "c188d02c48303254066cbcc9d34737ef9fb646d7599ed73f2679ba437d3f1abd": {
+    "mod_name": "CloseConfirm",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.1.0/CloseConfirm.dll",
+    "file_name": "CloseConfirm.dll",
+    "file_size": 8192
+  },
+  "498c38bdd9a81a34b95b1deca9a24042caad0bb5e2d74249eb8ebe558dbffdbb": {
+    "mod_name": "CloseConfirm",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.0.0/CloseConfirm.dll",
+    "file_name": "CloseConfirm.dll",
+    "file_size": 8192
+  },
+  "078fba5d661c34cf0723798e2c70301854bc1a7b507e70f2c1baa7d02db298aa": {
+    "mod_name": "ScalableMaterialOrbs",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v2.0.0/ScalableMaterialOrbs.dll",
+    "file_name": "ScalableMaterialOrbs.dll",
+    "file_size": 6144
+  },
+  "e5a30bc9e0cfa9c1254876aa18fa866007c3fffeb5ab080a6f1fe5e59504b4fc": {
+    "mod_name": "ScalableMaterialOrbs",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v1.0.0/ScalableMaterialOrbs.dll",
+    "file_name": "ScalableMaterialOrbs.dll",
+    "file_size": 6144
+  },
+  "4eb4182f0468c79bb5fa80df755e44032162967b006748bcc509cb6210d81a97": {
+    "mod_name": "CustomProtofluxBrowser",
+    "version": "v2.1.3",
+    "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.3/CustomProtofluxBrowser.dll",
+    "file_name": "CustomProtofluxBrowser.dll",
+    "file_size": 12800
+  },
+  "37d2f0a25b2a8aec4b041402f796be88cb1d0f7cab1c4aace33534ce1c39d44f": {
+    "mod_name": "CustomProtofluxBrowser",
+    "version": "v2.1.2",
+    "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.2/CustomProtofluxBrowser.dll",
+    "file_name": "CustomProtofluxBrowser.dll",
+    "file_size": 12288
+  },
+  "82102295ec900d26dbe1997663023242745d06ec915e906a549370c61defd764": {
+    "mod_name": "CustomProtofluxBrowser",
+    "version": "v2.1.1",
+    "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.1/CustomProtofluxBrowser.dll",
+    "file_name": "CustomProtofluxBrowser.dll",
+    "file_size": 10752
+  },
+  "12f41dfe99711b4697918e48144c984d410a0723c430c04d155342d6373e2257": {
+    "mod_name": "CustomProtofluxBrowser",
+    "version": "v2.1.0",
+    "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.0/CustomProtofluxBrowser.dll",
+    "file_name": "CustomProtofluxBrowser.dll",
+    "file_size": 10752
+  },
+  "c369bb4dbbe6170c7f4084002136e3d41d4c731f4ef6e7a3495bf3986bea79b1": {
+    "mod_name": "CustomProtofluxBrowser",
+    "version": "v2.0.1",
+    "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.0.1/CustomProtofluxBrowser.dll",
+    "file_name": "CustomProtofluxBrowser.dll",
+    "file_size": 9728
+  },
+  "734dc3025bb18c45ead744d920684eeda18e3cbf7f3e5e15461587d044aebb77": {
+    "mod_name": "CustomProtofluxBrowser",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.0.0/CustomProtofluxBrowser.dll",
+    "file_name": "CustomProtofluxBrowser.dll",
+    "file_size": 9728
+  },
+  "cb2cacb9e98357a11c662805da61f7f8a9a4974713768cfea2294da20951dc46": {
+    "mod_name": "CustomProtofluxBrowser",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v1.1.0/CustomLogixBrowser.dll",
+    "file_name": "CustomLogixBrowser.dll",
+    "file_size": 9216
+  },
+  "50803b84c10f5322917a67f13e800339d75d43cf7c87bbb5606c9d4ab4eafc2e": {
+    "mod_name": "CustomProtofluxBrowser",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v1.0.0/CustomLogixBrowser.dll",
+    "file_name": "CustomLogixBrowser.dll",
+    "file_size": 8704
+  },
+  "c2fd09becc7f49528eb7d0ce1d41c399d301a8fe31c8f93cd5ece34082f43b1d": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0/EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_size": 11264
+  },
+  "b32d900866522e9c9f19e1b01398a22a7a0c11a431fedb552d386fc69ec10a25": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v1.0.0-beta.1",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0-beta.1/EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_size": 11264
+  },
+  "9089516dab5131f39e7fe19f03f3568822481ecec3ce7989caa151818bee5920": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v0.2.0",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_size": 11776
+  },
+  "a07493477c6138e880c2204401164b053b6deb86f240b7573c6812734fc2f709": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v0.1.1",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_size": 11264
+  },
+  "c40458969278de59e60645373ed3b26bea971259945b29e5a7294c8a80d88d1d": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v0.1.0",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0/EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_size": 11264
+  },
+  "54634a157f809dd1b690794e536adf8e4c9613b0d80bd580eaa844e17a0f2fa0": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v0.1.0.0",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0.0/EsnyaTweaks.dll",
+    "file_name": "EsnyaTweaks.dll",
+    "file_size": 33792
+  },
+  "2118994148863950294cae7b361496919b1819ddb8446fbffbc448033d0e1d7a": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v0.0.1.0",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.1.0/EsnyaTweaks.dll",
+    "file_name": "EsnyaTweaks.dll",
+    "file_size": 23552
+  },
+  "697ce764fafb8d5bea22cbab2b76e39f7292ed186f07530dbb39582c8c344875": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v0.0.0.2",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.0.2/EsnyaTweaks.dll",
+    "file_name": "EsnyaTweaks.dll",
+    "file_size": 21504
+  },
+  "93c30ea4c388700559aa05d18e4ee08eb34a85eb4f8fa555593caf1f3291a329": {
+    "mod_name": "ResoniteFixContactIcons",
+    "version": "1.2.0",
+    "download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.2.0/ResoniteFixContactIcons.dll",
+    "file_name": "ResoniteFixContactIcons.dll",
+    "file_size": 10752
+  },
+  "57257b9cb9fd10cdeb05c265c2649f5896769d64ff05615140a811d9e37b30b9": {
+    "mod_name": "ResoniteFixContactIcons",
     "version": "1.1.0",
-    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.1.0/SessionCaptureBlocker.dll",
-    "file_name": "SessionCaptureBlocker.dll",
-    "file_size": 15360
+    "download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.1.0/ResoniteFixContactIcons.dll",
+    "file_name": "ResoniteFixContactIcons.dll",
+    "file_size": 8704
   },
-  "29e4eeb9a98dcd289b44aefe7f06610a672c2b5b20e8b39ac2124d9ff07c7a2d": {
-    "mod_name": "SessionCaptureBlocker",
-    "version": "1.0.3",
-    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.3/SessionCaptureBlocker.dll",
-    "file_name": "SessionCaptureBlocker.dll",
-    "file_size": 20992
-  },
-  "fbf8c3f33f6974c5fb09cc5b391023f1502e8d0befbf8d68a548fd813389dc71": {
-    "mod_name": "SessionCaptureBlocker",
-    "version": "1.0.2",
-    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.2/FckSessionCapture.dll",
-    "file_name": "FckSessionCapture.dll",
-    "file_size": 19968
-  },
-  "f2142e65272871db50bbe4e10202d1f9e2bf1af1a4dd9ddc790c67b69d03d4c8": {
-    "mod_name": "SessionCaptureBlocker",
+  "94a6202c95edbf43a54ca2b114392679120bae4a4559b50aea8722d94c344dc1": {
+    "mod_name": "ResoniteFixContactIcons",
     "version": "1.0.1",
-    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.1/FckSessionCapture.dll",
-    "file_name": "FckSessionCapture.dll",
-    "file_size": 18432
+    "download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.0.1/ResoniteFixContactIcons.dll",
+    "file_name": "ResoniteFixContactIcons.dll",
+    "file_size": 11776
   },
-  "cffeab5a1fdcd933f2e5cddd687ce77a256c0bd7e4021305b8b065817e70c597": {
-    "mod_name": "SessionCaptureBlocker",
+  "41f988254313b48f28f6b8c2a96ad3f3551919c58fb23dc68d4bfeadb37a8234": {
+    "mod_name": "ResoniteFixContactIcons",
     "version": "1.0.0",
-    "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.0/FckSessionCapture.dll",
-    "file_name": "FckSessionCapture.dll",
-    "file_size": 17920
+    "download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.0.0/ResoniteFixContactIcons.dll",
+    "file_name": "ResoniteFixContactIcons.dll",
+    "file_size": 16896
   },
-  "a96983e66866be51e61d5d6ae2050ec02dcbaf73dfbeb76721aca4a3f8854cd1": {
-    "mod_name": "DuplicateFix",
-    "version": "1.0.5",
-    "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.5/DuplicateFix.dll",
-    "file_name": "DuplicateFix.dll",
-    "file_size": 14848
+  "224a4690f4e204fd3f24dd4e5281fd9eea71fb408dd52834d0eb35b0e6719fe0": {
+    "mod_name": "ImNotAsking",
+    "version": "1.0.0",
+    "download_url": "https://github.com/XDelta/ImNotAsking/releases/download/1.0.0/ImNotAsking.dll",
+    "file_name": "ImNotAsking.dll",
+    "file_size": 7680
   },
-  "c420496d3a25e1ccf1dab84f338de136fc17507c1e68776f83845561d3f17f01": {
-    "mod_name": "DuplicateFix",
-    "version": "1.0.4",
-    "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.4/DuplicateFix.dll",
-    "file_name": "DuplicateFix.dll",
-    "file_size": 14848
-  },
-  "d349f3aae8d5488733a1b7392b277c4d68e69f4857296bc674c8e077214ef65c": {
-    "mod_name": "DuplicateFix",
-    "version": "1.0.3",
-    "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.3/DuplicateFix.dll",
-    "file_name": "DuplicateFix.dll",
-    "file_size": 14848
-  },
-  "9036cc5a4a927a944626c0cc8a1f1c7d97845bf9505f3f30895f4398712301a9": {
-    "mod_name": "DuplicateFix",
+  "9e2efa220a31667a3c9a36bf0ea6d84eb809067aa9d0471569c62c8ad3fdc6b1": {
+    "mod_name": "LogAutoFlush",
     "version": "1.0.2",
-    "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.2/DuplicateFix.dll",
-    "file_name": "DuplicateFix.dll",
-    "file_size": 13312
+    "download_url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.2/LogAutoFlush.dll",
+    "file_name": "LogAutoFlush.dll",
+    "file_size": 6144
   },
-  "f34eeacaeed4129eb300adefd79ebdcd559dbfe582ee004e7adac44428c69ddb": {
-    "mod_name": "DuplicateFix",
+  "ea81299fd63243a78c85e9e69e96813926661d5ef3fbd2dde1f2db27ab7c9217": {
+    "mod_name": "LogAutoFlush",
     "version": "1.0.1",
-    "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.1/DuplicateFix.dll",
-    "file_name": "DuplicateFix.dll",
-    "file_size": 13312
+    "download_url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.1/LogAutoFlush.dll",
+    "file_name": "LogAutoFlush.dll",
+    "file_size": 6144
   },
-  "3f6b2f63367fedcabc0d1358dd35594bf413f8f1e141c5fb7fae5ad0c958e29c": {
-    "mod_name": "DuplicateFix",
+  "06266d513836e77d285057fef4495e39107b08e4ec122bea068d16a7a5a7f8c0": {
+    "mod_name": "LogAutoFlush",
     "version": "1.0.0",
-    "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.0/DuplicateFix.dll",
-    "file_name": "DuplicateFix.dll",
-    "file_size": 13312
+    "download_url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.0/LogAutoFlush.dll",
+    "file_name": "LogAutoFlush.dll",
+    "file_size": 6144
+  },
+  "567566428e3e91000a6dcd4281e6260fd37b0d1c5a88753044a1670b008e9a33": {
+    "mod_name": "FixSelectionRadiusScale",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/download/v1.0.1/FixSelectionRadiusScale.dll",
+    "file_name": "FixSelectionRadiusScale.dll",
+    "file_size": 10752
+  },
+  "b0c60f89aa653b26d954260b76fe847af72f5efdcc0148daff46e852b44a5b20": {
+    "mod_name": "FixSelectionRadiusScale",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/download/v1.0.0/FixSelectionRadiusScale.dll",
+    "file_name": "FixSelectionRadiusScale.dll",
+    "file_size": 11264
   }
 }

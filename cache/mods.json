@@ -12,7 +12,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:37:43.787Z",
+    "last_updated": "2026-08-17T15:58:21.502Z",
     "source": "manifest"
   },
   {
@@ -28,7 +28,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:37:45.362Z",
+    "last_updated": "2026-08-17T15:58:23.220Z",
     "source": "manifest"
   },
   {
@@ -42,7 +42,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:37:47.120Z",
+    "last_updated": "2026-08-17T15:58:28.411Z",
     "source": "manifest"
   },
   {
@@ -56,7 +56,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:37:48.865Z",
+    "last_updated": "2026-08-17T15:58:30.087Z",
     "source": "manifest"
   },
   {
@@ -72,7 +72,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:37:50.584Z",
+    "last_updated": "2026-08-17T15:58:31.605Z",
     "source": "manifest"
   },
   {
@@ -86,7 +86,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:37:52.236Z",
+    "last_updated": "2026-08-17T15:58:33.094Z",
     "source": "manifest"
   },
   {
@@ -100,7 +100,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:37:53.979Z",
+    "last_updated": "2026-08-17T15:58:38.411Z",
     "source": "manifest"
   },
   {
@@ -114,7 +114,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:37:55.778Z",
+    "last_updated": "2026-08-17T15:58:40.021Z",
     "source": "manifest"
   },
   {
@@ -128,7 +128,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:37:58.293Z",
+    "last_updated": "2026-08-17T15:58:41.562Z",
     "source": "manifest"
   },
   {
@@ -142,7 +142,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:00.162Z",
+    "last_updated": "2026-08-17T15:58:43.313Z",
     "source": "manifest"
   },
   {
@@ -158,7 +158,7 @@
       "list"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:38:02.761Z",
+    "last_updated": "2026-08-17T15:58:44.933Z",
     "source": "manifest"
   },
   {
@@ -172,7 +172,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:09.075Z",
+    "last_updated": "2026-08-17T15:58:46.490Z",
     "source": "manifest"
   },
   {
@@ -192,7 +192,7 @@
       "ProtoFlux"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:38:09.075Z",
+    "last_updated": "2026-08-17T15:58:46.490Z",
     "source": "manifest"
   },
   {
@@ -211,7 +211,7 @@
       "cloud"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:38:09.075Z",
+    "last_updated": "2026-08-17T15:58:46.490Z",
     "source": "manifest"
   },
   {
@@ -227,7 +227,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:38:11.467Z",
+    "last_updated": "2026-08-17T15:58:48.034Z",
     "source": "manifest"
   },
   {
@@ -241,7 +241,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:13.049Z",
+    "last_updated": "2026-08-17T15:58:53.458Z",
     "source": "manifest"
   },
   {
@@ -250,12 +250,49 @@
     "category": "Misc",
     "source_location": "https://github.com/AlexW-578/CloseConfirm",
     "author": "AlexW-578",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v1.2.0",
+    "latest_download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.2.0/CloseConfirm.dll",
+    "releases": [
+      {
+        "version": "v1.2.0",
+        "download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.2.0/CloseConfirm.dll",
+        "release_url": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.2.0",
+        "published_at": "2025-12-15T22:09:14Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* Change csproj to work with .NET 9 by @noblereign in https://github.com/AlexW-578/CloseConfirm/pull/3\r\n* Add option to close the game immediately if the exit page is already open. (+ update to .NET 10) by @TayIorRobinson in https://github.com/AlexW-578/CloseConfirm/pull/4\r\n* Catch emergency key binds by @AlexW-578 in https://github.com/AlexW-578/CloseConfirm/pull/6 solving #5 by @XDelta\r\n\r\n## New Contributors\r\n* @noblereign made their first contribution in https://github.com/AlexW-578/CloseConfirm/pull/3\r\n* @TayIorRobinson made their first contribution in https://github.com/AlexW-578/CloseConfirm/pull/4\r\n\r\n## Hash\r\nSha256: 06012D9F38A65E2EDDD4570C8FF6E01AD0C58E0D79DF90C606B4EE0B22144017\r\n\r\n**Full Changelog**: https://github.com/AlexW-578/CloseConfirm/compare/v1.1.0...v1.2.0",
+        "file_name": "CloseConfirm.dll",
+        "file_size": 10240,
+        "sha256": "06012d9f38a65e2eddd4570c8ff6e01ad0c58e0d79df90c606b4ee0b22144017"
+      },
+      {
+        "version": "v1.1.0",
+        "download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.1.0/CloseConfirm.dll",
+        "release_url": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.1.0",
+        "published_at": "2024-06-17T06:57:37Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Mod now fully supports [Resonite](https://resonite.com/)\r\n\r\n**ALL VERSIONS PREVIOUS TO THIS ARE FOR NeosVR**\r\n\r\nFile SHA256: C188D02C48303254066CBCC9D34737EF9FB646D7599ED73F2679BA437D3F1ABD\r\n\r\n## What's Changed\r\n* Update Mod to Resonite by @AlexW-578 in https://github.com/AlexW-578/CloseConfirm/pull/2\r\n   * Resolves #1\r\n\r\n**Full Changelog**: https://github.com/AlexW-578/CloseConfirm/compare/v1.0.0...v1.1.0",
+        "file_name": "CloseConfirm.dll",
+        "file_size": 8192,
+        "sha256": "c188d02c48303254066cbcc9d34737ef9fb646d7599ed73f2679ba437d3f1abd"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.0.0/CloseConfirm.dll",
+        "release_url": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.0.0",
+        "published_at": "2023-08-12T18:54:19Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Initial Release\r\n\r\nSHA256: 498C38BDD9A81A34B95B1DECA9A24042CAAD0BB5E2D74249EB8EBE558DBFFDBB",
+        "file_name": "CloseConfirm.dll",
+        "file_size": 8192,
+        "sha256": "498c38bdd9a81a34b95b1deca9a24042caad0bb5e2d74249eb8ebe558dbffdbb"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:14.637Z",
+    "last_updated": "2026-08-17T15:58:59.157Z",
     "source": "manifest"
   },
   {
@@ -264,12 +301,37 @@
     "category": "Misc",
     "source_location": "https://github.com/AlexW-578/ScalableMaterialOrbs",
     "author": "AlexW-578",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v2.0.0",
+    "latest_download_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v2.0.0/ScalableMaterialOrbs.dll",
+    "releases": [
+      {
+        "version": "v2.0.0",
+        "download_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v2.0.0/ScalableMaterialOrbs.dll",
+        "release_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/tag/v2.0.0",
+        "published_at": "2023-10-01T07:13:46Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Added support for Resonite\r\n\r\nVersions prior to this are for NeosVR!!!\r\n\r\nSHA256: 078FBA5D661C34CF0723798E2C70301854BC1A7B507E70F2C1BAA7D02DB298AA",
+        "file_name": "ScalableMaterialOrbs.dll",
+        "file_size": 6144,
+        "sha256": "078fba5d661c34cf0723798e2c70301854bc1a7b507e70f2c1baa7d02db298aa"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v1.0.0/ScalableMaterialOrbs.dll",
+        "release_url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/tag/v1.0.0",
+        "published_at": "2023-08-26T07:58:28Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "First Release\r\n\r\nA [NeosModLoader](https://github.com/neos-modding-group/NeosModLoader) mod for [Neos VR](https://neos.com/) that allws the user to scale material orbs by default\r\n\r\n\r\nSHA256: E5A30BC9E0CFA9C1254876AA18FA866007C3FFFEB5AB080A6F1FE5E59504B4FC",
+        "file_name": "ScalableMaterialOrbs.dll",
+        "file_size": 6144,
+        "sha256": "e5a30bc9e0cfa9c1254876aa18fa866007c3fffeb5ab080a6f1fe5e59504b4fc"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:16.169Z",
+    "last_updated": "2026-08-17T15:59:06.967Z",
     "source": "manifest"
   },
   {
@@ -278,15 +340,112 @@
     "category": "Protoflux",
     "source_location": "https://github.com/AlexW-578/CustomProtofluxBrowser",
     "author": "AlexW-578",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v2.1.3",
+    "latest_download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.3/CustomProtofluxBrowser.dll",
+    "releases": [
+      {
+        "version": "v2.1.3",
+        "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.3/CustomProtofluxBrowser.dll",
+        "release_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.3",
+        "published_at": "2025-01-18T19:15:20Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* ComponentSelectorAdditions compatible by @sjsanjsrh in https://github.com/AlexW-578/CustomProtofluxBrowser/pull/11\r\n* Rebuild mod for latest version updating references\r\n\r\n**Full Changelog**: https://github.com/AlexW-578/CustomProtofluxBrowser/compare/v2.1.2...v2.1.3\r\n\r\nSHA256: 4EB4182F0468C79BB5FA80DF755E44032162967B006748BCC509CB6210D81A97",
+        "file_name": "CustomProtofluxBrowser.dll",
+        "file_size": 12800,
+        "sha256": "4eb4182f0468c79bb5fa80df755e44032162967b006748bcc509cb6210d81a97"
+      },
+      {
+        "version": "v2.1.2",
+        "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.2/CustomProtofluxBrowser.dll",
+        "release_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.2",
+        "published_at": "2024-04-25T19:27:27Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Added the ability to use CherryPick by @sjsanjsrh in https://github.com/AlexW-578/CustomProtofluxBrowser/pull/10\r\n\r\n\r\n\r\n**Full Changelog**: https://github.com/AlexW-578/CustomProtofluxBrowser/compare/v2.1.1...v2.1.2",
+        "file_name": "CustomProtofluxBrowser.dll",
+        "file_size": 12288,
+        "sha256": "37d2f0a25b2a8aec4b041402f796be88cb1d0f7cab1c4aace33534ce1c39d44f"
+      },
+      {
+        "version": "v2.1.1",
+        "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.1/CustomProtofluxBrowser.dll",
+        "release_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.1",
+        "published_at": "2023-10-08T09:09:34Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n- better way of detecting node pickers. by @art0007i in https://github.com/AlexW-578/CustomProtofluxBrowser/pull/7\r\n- Remove Custom Tag option\r\n\r\nSHA256: 82102295EC900D26DBE1997663023242745D06EC915E906A549370C61DEFD764\r\n\r\n**Full Changelog**: https://github.com/AlexW-578/CustomProtofluxBrowser/compare/v2.1.0...v2.1.1",
+        "file_name": "CustomProtofluxBrowser.dll",
+        "file_size": 10752,
+        "sha256": "82102295ec900d26dbe1997663023242745d06ec915e906a549370c61defd764"
+      },
+      {
+        "version": "v2.1.0",
+        "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.0/CustomProtofluxBrowser.dll",
+        "release_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.0",
+        "published_at": "2023-10-05T18:44:28Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* Add Custom Tag option by @AlexW-578 in https://github.com/AlexW-578/CustomProtofluxBrowser/pull/6\r\n* Add scale option by @HinanoAira in https://github.com/AlexW-578/CustomProtofluxBrowser/pull/3\r\n\r\nFor the custom tag, all that is needed is for one of the slots in your item to have the tag set in the settings.\r\nDefualt custom tag = `Custom ProtoFlux Browser`\r\n\r\nSHA256: 12F41DFE99711B4697918E48144C984D410A0723C430C04D155342D6373E2257\r\n\r\n**Full Changelog**: https://github.com/AlexW-578/CustomProtofluxBrowser/compare/v2.0.1...v2.1.0",
+        "file_name": "CustomProtofluxBrowser.dll",
+        "file_size": 10752,
+        "sha256": "12f41dfe99711b4697918e48144c984d410a0723c430c04d155342d6373e2257"
+      },
+      {
+        "version": "v2.0.1",
+        "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.0.1/CustomProtofluxBrowser.dll",
+        "release_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.0.1",
+        "published_at": "2023-10-05T17:13:37Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Recompiled the mod again as some people where having problems with the previous version.\r\n\r\n\r\nSHA256: C369BB4DBBE6170C7F4084002136E3D41D4C731F4EF6E7A3495BF3986BEA79B1",
+        "file_name": "CustomProtofluxBrowser.dll",
+        "file_size": 9728,
+        "sha256": "c369bb4dbbe6170c7f4084002136e3d41d4c731f4ef6e7a3495bf3986bea79b1"
+      },
+      {
+        "version": "v2.0.0",
+        "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.0.0/CustomProtofluxBrowser.dll",
+        "release_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.0.0",
+        "published_at": "2023-10-01T07:04:55Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Added support for Resonite\r\n\r\nVersions prior to this are for NeosVR!!!\r\n\r\nSHA256: 734DC3025BB18C45EAD744D920684EEDA18E3CBF7F3E5E15461587D044AEBB77",
+        "file_name": "CustomProtofluxBrowser.dll",
+        "file_size": 9728,
+        "sha256": "734dc3025bb18c45ead744d920684eeda18e3cbf7f3e5e15461587d044aebb77"
+      },
+      {
+        "version": "v1.1.0",
+        "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v1.1.0/CustomLogixBrowser.dll",
+        "release_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v1.1.0",
+        "published_at": "2023-04-20T10:20:06Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Change Hook Point to use FrooxEngine.LogiX.LogixTip.ToggleNodeSelector.\r\nThis fixes both issues #1 and #2.\r\n\r\nAdded an example of a Custom Logix Browser in the README\r\n\r\nSHA256: cb2cacb9e98357a11c662805da61f7f8a9a4974713768cfea2294da20951dc46",
+        "file_name": "CustomLogixBrowser.dll",
+        "file_size": 9216,
+        "sha256": "cb2cacb9e98357a11c662805da61f7f8a9a4974713768cfea2294da20951dc46"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v1.0.0/CustomLogixBrowser.dll",
+        "release_url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v1.0.0",
+        "published_at": "2023-03-23T00:40:25Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "First Release\r\n\r\nSHA256: 50803b84c10f5322917a67f13e800339d75d43cf7c87bbb5606c9d4ab4eafc2e",
+        "file_name": "CustomLogixBrowser.dll",
+        "file_size": 8704,
+        "sha256": "50803b84c10f5322917a67f13e800339d75d43cf7c87bbb5606c9d4ab4eafc2e"
+      }
+    ],
     "tags": [
       "node",
       "favorite"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:38:17.753Z",
+    "last_updated": "2026-08-17T15:59:19.239Z",
     "source": "manifest"
   },
   {
@@ -304,7 +463,7 @@
       "color"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:38:19.406Z",
+    "last_updated": "2026-08-17T15:59:20.880Z",
     "source": "manifest"
   },
   {
@@ -318,7 +477,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:21.144Z",
+    "last_updated": "2026-08-17T15:59:22.430Z",
     "source": "manifest"
   },
   {
@@ -332,7 +491,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:22.795Z",
+    "last_updated": "2026-08-17T15:59:23.951Z",
     "source": "manifest"
   },
   {
@@ -354,7 +513,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:38:24.517Z",
+    "last_updated": "2026-08-17T15:59:25.490Z",
     "source": "manifest"
   },
   {
@@ -368,7 +527,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:26.328Z",
+    "last_updated": "2026-08-17T15:59:27.063Z",
     "source": "manifest"
   },
   {
@@ -384,7 +543,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:38:27.935Z",
+    "last_updated": "2026-08-17T15:59:32.347Z",
     "source": "manifest"
   },
   {
@@ -398,7 +557,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:29.749Z",
+    "last_updated": "2026-08-17T15:59:33.832Z",
     "source": "manifest"
   },
   {
@@ -412,7 +571,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:31.380Z",
+    "last_updated": "2026-08-17T15:59:35.456Z",
     "source": "manifest"
   },
   {
@@ -426,7 +585,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:34.367Z",
+    "last_updated": "2026-08-17T15:59:37.256Z",
     "source": "manifest"
   },
   {
@@ -444,7 +603,7 @@
       "link"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:38:40.490Z",
+    "last_updated": "2026-08-17T15:59:40.030Z",
     "source": "manifest"
   },
   {
@@ -458,7 +617,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:42.247Z",
+    "last_updated": "2026-08-17T15:59:43.024Z",
     "source": "manifest"
   },
   {
@@ -472,7 +631,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:45.046Z",
+    "last_updated": "2026-08-17T15:59:44.676Z",
     "source": "manifest"
   },
   {
@@ -486,7 +645,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:46.626Z",
+    "last_updated": "2026-08-17T15:59:46.228Z",
     "source": "manifest"
   },
   {
@@ -500,7 +659,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:50.446Z",
+    "last_updated": "2026-08-17T15:59:47.867Z",
     "source": "manifest"
   },
   {
@@ -516,7 +675,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:38:52.017Z",
+    "last_updated": "2026-08-17T15:59:49.398Z",
     "source": "manifest"
   },
   {
@@ -532,7 +691,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:38:53.768Z",
+    "last_updated": "2026-08-17T15:59:52.262Z",
     "source": "manifest"
   },
   {
@@ -546,7 +705,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:55.370Z",
+    "last_updated": "2026-08-17T15:59:53.934Z",
     "source": "manifest"
   },
   {
@@ -560,7 +719,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:56.991Z",
+    "last_updated": "2026-08-17T15:59:55.648Z",
     "source": "manifest"
   },
   {
@@ -574,7 +733,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:38:59.499Z",
+    "last_updated": "2026-08-17T15:59:57.305Z",
     "source": "manifest"
   },
   {
@@ -590,7 +749,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:39:01.113Z",
+    "last_updated": "2026-08-17T15:59:58.901Z",
     "source": "manifest"
   },
   {
@@ -604,7 +763,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:39:04.822Z",
+    "last_updated": "2026-08-17T16:00:00.432Z",
     "source": "manifest"
   },
   {
@@ -618,7 +777,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:39:08.307Z",
+    "last_updated": "2026-08-17T16:00:02.092Z",
     "source": "manifest"
   },
   {
@@ -634,7 +793,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:39:09.855Z",
+    "last_updated": "2026-08-17T16:00:03.761Z",
     "source": "manifest"
   },
   {
@@ -643,25 +802,12 @@
     "category": "Dashboard",
     "source_location": "https://github.com/nalathethird/IDontNeedHelp",
     "author": "nalathethird",
-    "latest_version": "1.0.0",
-    "latest_download_url": "https://github.com/nalathethird/IDontNeedHelp/releases/download/1.0.0/IDontNeedHelp.dll",
-    "releases": [
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/nalathethird/IDontNeedHelp/releases/download/1.0.0/IDontNeedHelp.dll",
-        "release_url": "https://github.com/nalathethird/IDontNeedHelp/releases/tag/1.0.0",
-        "published_at": "2025-08-21T07:31:46Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Made a mod to patch out the Help Section, it got in my way, maybe it got in yours too. \r\n(This mod is for \"experienced\" Resonite uses that don't really need the help section, as its meant to educate new users)\r\n### Due to how the patch is made, If you change the config value, you NEED to restart your entire game in order for the UI to refresh properly. Please keep that in mind if you want to see the help menu again (Or just, ya know, delete/rename/move the mod from 'rml_mods' folder)\r\n\r\n## Installation\r\n1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).\r\n2. Place [IDontNeedHelp.dll](https://github.com/nalathethird/Fck-HelpSection/releases/latest/download/IDontNeedHelp.dll) into your `rml_mods` folder. This folder should be at `C:\\Program Files (x86)\\Steam\\steamapps\\common\\Resonite\\rml_mods` for a default install. You can create it if it's missing, or if you launch the game once with ResoniteModLoader installed it will create this folder for you.\r\n3. Start the game. If you want to verify that the mod is working you can check your Resonite logs.\r\n",
-        "file_name": "IDontNeedHelp.dll",
-        "file_size": 15360,
-        "sha256": "cb5c1b47e85e2f94e2897ba34d21d1866b20e2f1b2c97f081450e1c3f1398783"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:39:12.999Z",
+    "last_updated": "2026-08-17T16:00:05.388Z",
     "source": "manifest"
   },
   {
@@ -670,70 +816,9 @@
     "category": "Technical Tweaks",
     "source_location": "https://github.com/nalathethird/SessionCaptureBlocker",
     "author": "nalathethird",
-    "latest_version": "1.1.0",
-    "latest_download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.1.0/SessionCaptureBlocker.dll",
-    "releases": [
-      {
-        "version": "1.1.0",
-        "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.1.0/SessionCaptureBlocker.dll",
-        "release_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.1.0",
-        "published_at": "2025-11-25T01:11:10Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "This release changes a few things about the mod:\r\n\r\nFirstly, we update for .NET10\r\nSecond, we actually added 2 new Harmony patches for Session Captures, in which both of them ACTUALLY stop session capture from generating on your PC ENTIRELY (Patch 1.0.3 did not fix this, Im sorry for holding up to that low of a standard)\r\n\r\nAnd lastly, I moved CaptureInLAN config value up in the chain, to properly reflect Session Level Hierarchy.\r\n(it shouldent mess with config values, but it might, so just be careful!)\r\n\r\nStay safe Resonite!\r\n-Nala\r\n\r\nPS: Unless this bug STILL is not fully patched, I will do my best to keep this mod updated. If anything unexpected happens, please create an [Issue](https://github.com/nalathethird/SessionCaptureBlocker/issues/new/choose)",
-        "file_name": "SessionCaptureBlocker.dll",
-        "file_size": 15360,
-        "sha256": "73d2b49dc66c3045a0197ecc78350dbe23603beedaaef1be4874f968787232d1"
-      },
-      {
-        "version": "1.0.3",
-        "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.3/SessionCaptureBlocker.dll",
-        "release_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.0.3",
-        "published_at": "2025-09-26T21:56:57Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# 1.0.3 - Compile for Pull Request (https://github.com/nalathethird/Fck-SessionCapture/pull/1)\r\nFixes some oversights I had on this mod, and has @Raidriar796 's first commit - Thanks!\r\n\r\nHopefully in time, my mod will become obsolete in fixing my security request, but this version fixes some issues I have overlooked in the first few iterations of it.\r\nAgain, feel free to contribute if anyone sees issues!\r\n\r\n## Fixes: \r\n- Logging is reduced: Only to show that the mod is patching and working and logs only for an unusual situation or error in the method.\r\n- Session Capture is no longer captured and stored in the data folder: it used to be captured and written to the assets folder the user allocates; it no longer does this with a config option. Additionally, \"There is also a new config option to always capture thumbnails anyway even when they're never uploaded or shared, in-case a user wants to still see their thumbnails locally.\" - Raidriar's PR.",
-        "file_name": "SessionCaptureBlocker.dll",
-        "file_size": 20992,
-        "sha256": "29e4eeb9a98dcd289b44aefe7f06610a672c2b5b20e8b39ac2124d9ff07c7a2d"
-      },
-      {
-        "version": "1.0.2",
-        "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.2/FckSessionCapture.dll",
-        "release_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.0.2",
-        "published_at": "2025-08-21T05:28:41Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "Recomplie of mod for .NET9, nothing changed in the code from this release, prior to last patch.",
-        "file_name": "FckSessionCapture.dll",
-        "file_size": 19968,
-        "sha256": "fbf8c3f33f6974c5fb09cc5b391023f1502e8d0befbf8d68a548fd813389dc71"
-      },
-      {
-        "version": "1.0.1",
-        "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.1/FckSessionCapture.dll",
-        "release_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.0.1",
-        "published_at": "2025-08-03T21:48:29Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# FckSessionCapture v1.0.1 (Hotfix)\r\n\r\n- Checks if the world is focused and then run the blocker.\r\n- Now respects the config for each world type.\r\n- Added config toggles for ContactsPlus and RegisteredUsers.\r\n\r\nNot much else this hotfix, let me know if theres issues, or feel free to commit it yourself if you find anything broken.",
-        "file_name": "FckSessionCapture.dll",
-        "file_size": 18432,
-        "sha256": "f2142e65272871db50bbe4e10202d1f9e2bf1af1a4dd9ddc790c67b69d03d4c8"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.0/FckSessionCapture.dll",
-        "release_url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.0.0",
-        "published_at": "2025-08-03T19:04:37Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# FckSessionCapture v1.0.0\r\n\r\n- Initial release.\r\n- Block session capture uploads in Private, Contacts-Only, LAN, and Public sessions.\r\n- Optionally block local session capture generation for maximum privacy.\r\n- Extensive logging for debugging and transparency.\r\n\r\nNot much else here, and I'm not entirely sure if there will be a new patch or not. I considered adding OBS/Live Stream Support for Streamers, but let me know in a Issues if you want to see that, or feel free to commit it yourself!\r\n",
-        "file_name": "FckSessionCapture.dll",
-        "file_size": 17920,
-        "sha256": "cffeab5a1fdcd933f2e5cddd687ce77a256c0bd7e4021305b8b065817e70c597"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": [
       "image",
       "world",
@@ -742,7 +827,7 @@
       "photo"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:39:22.787Z",
+    "last_updated": "2026-08-17T16:00:08.176Z",
     "source": "manifest"
   },
   {
@@ -756,7 +841,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:39:25.365Z",
+    "last_updated": "2026-08-17T16:00:09.837Z",
     "source": "manifest"
   },
   {
@@ -770,7 +855,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:39:26.997Z",
+    "last_updated": "2026-08-17T16:00:11.403Z",
     "source": "manifest"
   },
   {
@@ -779,16 +864,113 @@
     "category": "Technical Tweaks",
     "source_location": "https://github.com/esnya/ResoniteEsnyaTweaks",
     "author": "esnya",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v1.0.0",
+    "latest_download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0/EsnyaTweaks.FluxLoopTweaks.dll",
+    "releases": [
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0/EsnyaTweaks.FluxLoopTweaks.dll",
+        "release_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v1.0.0",
+        "published_at": "2025-08-21T01:38:33Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.0 -->\r\n🎉 Build for THE SPLITTENING 🎉\r\n\r\n**Full Changelog**: https://github.com/esnya/ResoniteEsnyaTweaks/compare/v0.2.0...v1.0.0",
+        "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+        "file_size": 11264,
+        "sha256": "c2fd09becc7f49528eb7d0ce1d41c399d301a8fe31c8f93cd5ece34082f43b1d"
+      },
+      {
+        "version": "v1.0.0-beta.1",
+        "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0-beta.1/EsnyaTweaks.FluxLoopTweaks.dll",
+        "release_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v1.0.0-beta.1",
+        "published_at": "2025-08-21T01:27:51Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "<!-- Release notes generated using configuration in .github/release.yml at v1.0.0-beta.1 -->\r\n\r\n\r\n\r\n**Full Changelog**: https://github.com/esnya/ResoniteEsnyaTweaks/compare/v0.2.0...v1.0.0-beta.1",
+        "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+        "file_size": 11264,
+        "sha256": "b32d900866522e9c9f19e1b01398a22a7a0c11a431fedb552d386fc69ec10a25"
+      },
+      {
+        "version": "v0.2.0",
+        "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.FluxLoopTweaks.dll",
+        "release_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.2.0",
+        "published_at": "2025-06-09T11:27:11Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "<!-- Release notes generated using configuration in .github/release.yml at v0.2.0 -->\n\n## What's Changed\n### ✨️ New Features\n* Asset Optimization Tweaks by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/40\n### 🐛 Bug Fixes\n* Fix patch return flow by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/21\n### Other Changes\n* Fix BOM characters in cs files by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/20\n* Fix release category typos by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/19\n* Fix incorrect UniLog namespace by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/22\n* Fix copylight typo and steam deck path by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/24\n* Update license metadata by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/25\n* Fix PhotonDustTweaks extension class typo by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/27\n* ci: 🚀 Modernize GitHub Actions workflow with setup-rml-env@v2 and enh… by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/29\n* Clean and reorganize build configs by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/30\n* Expand FluxLoopTweaks tests by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/31\n* Add minimal tests for all mods by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/32\n* Add UniLog patch behavior tests by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/34\n* Add more LODGroup patch tests by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/35\n* Add runtime loop tests with stubs by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/36\n* Rename AssetOptimization patch file by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/39\n* Test by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/37\n\n\n**Full Changelog**: https://github.com/esnya/ResoniteEsnyaTweaks/compare/v0.1.1...v0.2.0",
+        "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+        "file_size": 11776,
+        "sha256": "9089516dab5131f39e7fe19f03f3568822481ecec3ce7989caa151818bee5920"
+      },
+      {
+        "version": "v0.1.1",
+        "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.FluxLoopTweaks.dll",
+        "release_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.1.1",
+        "published_at": "2025-05-29T08:13:17Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "<!-- Release notes generated using configuration in .github/release.yml at v0.1.1 -->\n\n## What's Changed\n### Othre Changes\n* fix: 🐛 add merge option for artifact download and enhance debug output by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/18\n\n\n**Full Changelog**: https://github.com/esnya/ResoniteEsnyaTweaks/compare/v0.1.0...v0.1.1",
+        "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+        "file_size": 11264,
+        "sha256": "a07493477c6138e880c2204401164b053b6deb86f240b7573c6812734fc2f709"
+      },
+      {
+        "version": "v0.1.0",
+        "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0/EsnyaTweaks.FluxLoopTweaks.dll",
+        "release_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.1.0",
+        "published_at": "2025-05-29T07:40:39Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "<!-- Release notes generated using configuration in .github/release.yml at v0.1.0 -->\r\n\r\n## What's Changed\r\n### ✨️ New Features\r\n* feat: ⏲️ Add timeout and restart functionality to SystemHelper ctor by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/6\r\n* feat: 💄 Add buttons to manage parent from ParticleStyle in PhotonDust inspector by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/7\r\n### Othre Changes\r\n* ci: 👷 Refactor GitHub Actions workflow for improved build process by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/5\r\n* feat: ✨️ Enhance LODGroup inspector and add versioning workflow by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/8\r\n* feat: ✨ Supress stacktarace from unilog by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/9\r\n* feat: ✨ Add patch for SystemHelper.GetClipboardData method by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/10\r\n* Fix leftover build artifacts by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/11\r\n* Update CI for multi project structure by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/15\r\n* Fix vtag step for multi-project setup by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/16\r\n* Restructuring and improvements to the build workflows and project configuration by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/esnya/ResoniteEsnyaTweaks/compare/v0.1.0.0...v0.1.0",
+        "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+        "file_size": 11264,
+        "sha256": "c40458969278de59e60645373ed3b26bea971259945b29e5a7294c8a80d88d1d"
+      },
+      {
+        "version": "v0.1.0.0",
+        "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0.0/EsnyaTweaks.dll",
+        "release_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.1.0.0",
+        "published_at": "2024-12-20T07:02:28Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "<!-- Release notes generated using configuration in .github/release.yml at v0.1.0.0 -->\n\n## What's Changed\n### ✨️ New Features\n* feat: ✨ Add PhotonDust integration with buttons for managing ParticleStyle modules by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/3\n* feat: ✨ Patch startup process of SystemHelper to prevent hang by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/4\n\n\n**Full Changelog**: https://github.com/esnya/ResoniteEsnyaTweaks/compare/v0.0.1.0...v0.1.0.0",
+        "file_name": "EsnyaTweaks.dll",
+        "file_size": 33792,
+        "sha256": "54634a157f809dd1b690794e536adf8e4c9613b0d80bd580eaa844e17a0f2fa0"
+      },
+      {
+        "version": "v0.0.1.0",
+        "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.1.0/EsnyaTweaks.dll",
+        "release_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.0.1.0",
+        "published_at": "2024-12-15T00:14:44Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "<!-- Release notes generated using configuration in .github/release.yml at v0.0.1.0 -->\n\n## What's Changed\n### ✨️ New Features\n* feat: ✨ Add a config system to toggle patches in game by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/1\n* feat: ✨️ Async While timeout by @esnya in https://github.com/esnya/ResoniteEsnyaTweaks/pull/2\n\n## New Contributors\n* @esnya made their first contribution in https://github.com/esnya/ResoniteEsnyaTweaks/pull/1\n\n**Full Changelog**: https://github.com/esnya/ResoniteEsnyaTweaks/compare/v0.0.0.2...v0.0.1.0",
+        "file_name": "EsnyaTweaks.dll",
+        "file_size": 23552,
+        "sha256": "2118994148863950294cae7b361496919b1819ddb8446fbffbc448033d0e1d7a"
+      },
+      {
+        "version": "v0.0.0.2",
+        "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.0.2/EsnyaTweaks.dll",
+        "release_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.0.0.2",
+        "published_at": "2024-12-13T10:44:09Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "<!-- Release notes generated using configuration in .github/release.yml at v0.0.0.2 -->\r\n\r\nFirst release.\r\n\r\n**Full Changelog**: https://github.com/esnya/ResoniteEsnyaTweaks/commits/v0.0.0.2/",
+        "file_name": "EsnyaTweaks.dll",
+        "file_size": 21504,
+        "sha256": "697ce764fafb8d5bea22cbab2b76e39f7292ed186f07530dbb39582c8c344875"
+      }
+    ],
     "tags": [
       "PhotonDust",
       "LOD",
       "SystemHelper"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:39:29.783Z",
+    "last_updated": "2026-08-17T16:00:23.829Z",
     "source": "manifest"
   },
   {
@@ -807,7 +989,7 @@
       "diagnostic"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:39:31.348Z",
+    "last_updated": "2026-08-17T16:00:29.176Z",
     "source": "manifest"
   },
   {
@@ -823,7 +1005,7 @@
     "flags": [
       "plugin"
     ],
-    "last_updated": "2026-08-17T15:39:36.811Z",
+    "last_updated": "2026-08-17T16:00:30.732Z",
     "source": "manifest"
   },
   {
@@ -841,7 +1023,7 @@
       "dash"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:39:42.071Z",
+    "last_updated": "2026-08-17T16:00:32.301Z",
     "source": "manifest"
   },
   {
@@ -859,7 +1041,7 @@
       "tracking"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:39:43.820Z",
+    "last_updated": "2026-08-17T16:00:37.562Z",
     "source": "manifest"
   },
   {
@@ -873,7 +1055,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:39:45.437Z",
+    "last_updated": "2026-08-17T16:00:39.163Z",
     "source": "manifest"
   },
   {
@@ -887,7 +1069,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:39:46.997Z",
+    "last_updated": "2026-08-17T16:00:40.724Z",
     "source": "manifest"
   },
   {
@@ -905,7 +1087,7 @@
       "Grabbable"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:39:48.568Z",
+    "last_updated": "2026-08-17T16:00:45.931Z",
     "source": "manifest"
   },
   {
@@ -923,7 +1105,7 @@
       "manager"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:39:51.136Z",
+    "last_updated": "2026-08-17T16:00:47.466Z",
     "source": "manifest"
   },
   {
@@ -942,7 +1124,7 @@
       "rgb"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:39:53.515Z",
+    "last_updated": "2026-08-17T16:00:48.974Z",
     "source": "manifest"
   },
   {
@@ -960,7 +1142,7 @@
       "Bug"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:39:55.084Z",
+    "last_updated": "2026-08-17T16:00:50.608Z",
     "source": "manifest"
   },
   {
@@ -979,7 +1161,7 @@
       "Vive"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:39:56.656Z",
+    "last_updated": "2026-08-17T16:00:52.141Z",
     "source": "manifest"
   },
   {
@@ -993,7 +1175,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:39:58.333Z",
+    "last_updated": "2026-08-17T16:00:53.801Z",
     "source": "manifest"
   },
   {
@@ -1007,7 +1189,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:02.088Z",
+    "last_updated": "2026-08-17T16:00:55.341Z",
     "source": "manifest"
   },
   {
@@ -1021,7 +1203,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:04.578Z",
+    "last_updated": "2026-08-17T16:00:56.867Z",
     "source": "manifest"
   },
   {
@@ -1035,7 +1217,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:06.385Z",
+    "last_updated": "2026-08-17T16:00:58.614Z",
     "source": "manifest"
   },
   {
@@ -1049,7 +1231,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:08.060Z",
+    "last_updated": "2026-08-17T16:01:00.399Z",
     "source": "manifest"
   },
   {
@@ -1063,7 +1245,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:10.601Z",
+    "last_updated": "2026-08-17T16:01:02.119Z",
     "source": "manifest"
   },
   {
@@ -1081,7 +1263,7 @@
       "network"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:40:13.462Z",
+    "last_updated": "2026-08-17T16:01:03.736Z",
     "source": "manifest"
   },
   {
@@ -1100,7 +1282,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:40:15.078Z",
+    "last_updated": "2026-08-17T16:01:05.442Z",
     "source": "manifest"
   },
   {
@@ -1120,7 +1302,7 @@
       "WiVRn"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:40:16.761Z",
+    "last_updated": "2026-08-17T16:01:07.076Z",
     "source": "manifest"
   },
   {
@@ -1134,7 +1316,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:18.481Z",
+    "last_updated": "2026-08-17T16:01:08.662Z",
     "source": "manifest"
   },
   {
@@ -1148,7 +1330,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:20.087Z",
+    "last_updated": "2026-08-17T16:01:10.239Z",
     "source": "manifest"
   },
   {
@@ -1162,7 +1344,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:22.465Z",
+    "last_updated": "2026-08-17T16:01:11.889Z",
     "source": "manifest"
   },
   {
@@ -1176,7 +1358,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:24.957Z",
+    "last_updated": "2026-08-17T16:01:14.986Z",
     "source": "manifest"
   },
   {
@@ -1190,7 +1372,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:26.605Z",
+    "last_updated": "2026-08-17T16:01:16.605Z",
     "source": "manifest"
   },
   {
@@ -1204,7 +1386,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:28.285Z",
+    "last_updated": "2026-08-17T16:01:18.159Z",
     "source": "manifest"
   },
   {
@@ -1224,7 +1406,7 @@
       "job"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:40:28.285Z",
+    "last_updated": "2026-08-17T16:01:18.160Z",
     "source": "manifest"
   },
   {
@@ -1240,7 +1422,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:40:29.897Z",
+    "last_updated": "2026-08-17T16:01:19.734Z",
     "source": "manifest"
   },
   {
@@ -1261,7 +1443,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:40:32.782Z",
+    "last_updated": "2026-08-17T16:01:21.510Z",
     "source": "manifest"
   },
   {
@@ -1279,7 +1461,7 @@
       "lookatuser"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:40:32.782Z",
+    "last_updated": "2026-08-17T16:01:21.510Z",
     "source": "manifest"
   },
   {
@@ -1293,7 +1475,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:32.783Z",
+    "last_updated": "2026-08-17T16:01:21.510Z",
     "source": "manifest"
   },
   {
@@ -1307,7 +1489,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:34.437Z",
+    "last_updated": "2026-08-17T16:01:23.083Z",
     "source": "manifest"
   },
   {
@@ -1321,7 +1503,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:36.914Z",
+    "last_updated": "2026-08-17T16:01:24.735Z",
     "source": "manifest"
   },
   {
@@ -1335,7 +1517,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:38.705Z",
+    "last_updated": "2026-08-17T16:01:26.349Z",
     "source": "manifest"
   },
   {
@@ -1349,7 +1531,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:40.348Z",
+    "last_updated": "2026-08-17T16:01:28.115Z",
     "source": "manifest"
   },
   {
@@ -1363,7 +1545,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:40.348Z",
+    "last_updated": "2026-08-17T16:01:28.115Z",
     "source": "manifest"
   },
   {
@@ -1377,7 +1559,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:41.937Z",
+    "last_updated": "2026-08-17T16:01:29.652Z",
     "source": "manifest"
   },
   {
@@ -1391,7 +1573,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:43.558Z",
+    "last_updated": "2026-08-17T16:01:31.333Z",
     "source": "manifest"
   },
   {
@@ -1405,7 +1587,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:49.801Z",
+    "last_updated": "2026-08-17T16:01:32.943Z",
     "source": "manifest"
   },
   {
@@ -1419,7 +1601,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:51.389Z",
+    "last_updated": "2026-08-17T16:01:34.584Z",
     "source": "manifest"
   },
   {
@@ -1433,7 +1615,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:53.103Z",
+    "last_updated": "2026-08-17T16:01:36.122Z",
     "source": "manifest"
   },
   {
@@ -1447,7 +1629,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:55.436Z",
+    "last_updated": "2026-08-17T16:01:40.154Z",
     "source": "manifest"
   },
   {
@@ -1461,7 +1643,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:40:57.808Z",
+    "last_updated": "2026-08-17T16:01:41.700Z",
     "source": "manifest"
   },
   {
@@ -1475,7 +1657,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:03.856Z",
+    "last_updated": "2026-08-17T16:01:43.301Z",
     "source": "manifest"
   },
   {
@@ -1489,7 +1671,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:08.799Z",
+    "last_updated": "2026-08-17T16:01:45.093Z",
     "source": "manifest"
   },
   {
@@ -1505,7 +1687,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:41:11.782Z",
+    "last_updated": "2026-08-17T16:01:46.624Z",
     "source": "manifest"
   },
   {
@@ -1514,85 +1696,12 @@
     "category": "Bug Workaround",
     "source_location": "https://github.com/art0007i/DuplicateFix",
     "author": "art0007i",
-    "latest_version": "1.0.5",
-    "latest_download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.5/DuplicateFix.dll",
-    "releases": [
-      {
-        "version": "1.0.5",
-        "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.5/DuplicateFix.dll",
-        "release_url": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.5",
-        "published_at": "2025-08-22T23:29:41Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "# DuplicateFix.dll = RML\r\n# art0007i-DuplicateFix-1.0.5.zip = BepisLoader\r\n\r\nfix for latest version",
-        "file_name": "DuplicateFix.dll",
-        "file_size": 14848,
-        "sha256": "a96983e66866be51e61d5d6ae2050ec02dcbaf73dfbeb76721aca4a3f8854cd1"
-      },
-      {
-        "version": "1.0.4",
-        "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.4/DuplicateFix.dll",
-        "release_url": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.4",
-        "published_at": "2025-05-09T11:08:43Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": null,
-        "file_name": "DuplicateFix.dll",
-        "file_size": 14848,
-        "sha256": "c420496d3a25e1ccf1dab84f338de136fc17507c1e68776f83845561d3f17f01"
-      },
-      {
-        "version": "1.0.3",
-        "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.3/DuplicateFix.dll",
-        "release_url": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.3",
-        "published_at": "2025-03-04T16:46:01Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "fix bug with duplicating dynamic bones (if you tried to duplicate a dynamic bone it would parent it to your hand)\r\nfix bug with duplicating sliders/joins (you simply could not duplicate them before)",
-        "file_name": "DuplicateFix.dll",
-        "file_size": 14848,
-        "sha256": "d349f3aae8d5488733a1b7392b277c4d68e69f4857296bc674c8e077214ef65c"
-      },
-      {
-        "version": "1.0.2",
-        "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.2/DuplicateFix.dll",
-        "release_url": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.2",
-        "published_at": "2025-02-23T07:27:24Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "fix some bug found by banane9 at some point and also compilation errors (even though the mod was working despite the compiler errors??)",
-        "file_name": "DuplicateFix.dll",
-        "file_size": 13312,
-        "sha256": "9036cc5a4a927a944626c0cc8a1f1c7d97845bf9505f3f30895f4398712301a9"
-      },
-      {
-        "version": "1.0.1",
-        "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.1/DuplicateFix.dll",
-        "release_url": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.1",
-        "published_at": "2024-04-18T16:45:51Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "fix for latest resonite version",
-        "file_name": "DuplicateFix.dll",
-        "file_size": 13312,
-        "sha256": "f34eeacaeed4129eb300adefd79ebdcd559dbfe582ee004e7adac44428c69ddb"
-      },
-      {
-        "version": "1.0.0",
-        "download_url": "https://github.com/art0007i/DuplicateFix/releases/download/1.0.0/DuplicateFix.dll",
-        "release_url": "https://github.com/art0007i/DuplicateFix/releases/tag/1.0.0",
-        "published_at": "2024-01-20T12:09:46Z",
-        "prerelease": false,
-        "draft": false,
-        "changelog": "initial release",
-        "file_name": "DuplicateFix.dll",
-        "file_size": 13312,
-        "sha256": "3f6b2f63367fedcabc0d1358dd35594bf413f8f1e141c5fb7fae5ad0c958e29c"
-      }
-    ],
+    "latest_version": null,
+    "latest_download_url": null,
+    "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:21.535Z",
+    "last_updated": "2026-08-17T16:01:49.416Z",
     "source": "manifest"
   },
   {
@@ -1606,7 +1715,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:23.183Z",
+    "last_updated": "2026-08-17T16:01:51.052Z",
     "source": "manifest"
   },
   {
@@ -1620,7 +1729,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:25.651Z",
+    "last_updated": "2026-08-17T16:01:52.607Z",
     "source": "manifest"
   },
   {
@@ -1634,7 +1743,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:27.422Z",
+    "last_updated": "2026-08-17T16:01:54.115Z",
     "source": "manifest"
   },
   {
@@ -1650,7 +1759,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:41:29.886Z",
+    "last_updated": "2026-08-17T16:01:55.744Z",
     "source": "manifest"
   },
   {
@@ -1664,7 +1773,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:31.529Z",
+    "last_updated": "2026-08-17T16:01:57.424Z",
     "source": "manifest"
   },
   {
@@ -1678,7 +1787,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:33.977Z",
+    "last_updated": "2026-08-17T16:01:59.132Z",
     "source": "manifest"
   },
   {
@@ -1692,7 +1801,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:36.444Z",
+    "last_updated": "2026-08-17T16:02:00.840Z",
     "source": "manifest"
   },
   {
@@ -1706,7 +1815,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:38.914Z",
+    "last_updated": "2026-08-17T16:02:02.402Z",
     "source": "manifest"
   },
   {
@@ -1720,7 +1829,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:41.809Z",
+    "last_updated": "2026-08-17T16:02:03.966Z",
     "source": "manifest"
   },
   {
@@ -1734,7 +1843,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:45.498Z",
+    "last_updated": "2026-08-17T16:02:05.674Z",
     "source": "manifest"
   },
   {
@@ -1748,7 +1857,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:47.957Z",
+    "last_updated": "2026-08-17T16:02:07.368Z",
     "source": "manifest"
   },
   {
@@ -1762,7 +1871,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:50.414Z",
+    "last_updated": "2026-08-17T16:02:08.976Z",
     "source": "manifest"
   },
   {
@@ -1776,7 +1885,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:52.857Z",
+    "last_updated": "2026-08-17T16:02:10.546Z",
     "source": "manifest"
   },
   {
@@ -1790,7 +1899,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:54.446Z",
+    "last_updated": "2026-08-17T16:02:12.265Z",
     "source": "manifest"
   },
   {
@@ -1804,7 +1913,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:56.917Z",
+    "last_updated": "2026-08-17T16:02:13.842Z",
     "source": "manifest"
   },
   {
@@ -1818,7 +1927,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:41:59.385Z",
+    "last_updated": "2026-08-17T16:02:15.422Z",
     "source": "manifest"
   },
   {
@@ -1832,7 +1941,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:01.033Z",
+    "last_updated": "2026-08-17T16:02:17.003Z",
     "source": "manifest"
   },
   {
@@ -1846,7 +1955,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:03.698Z",
+    "last_updated": "2026-08-17T16:02:18.519Z",
     "source": "manifest"
   },
   {
@@ -1862,7 +1971,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:42:07.790Z",
+    "last_updated": "2026-08-17T16:02:20.044Z",
     "source": "manifest"
   },
   {
@@ -1876,7 +1985,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:10.271Z",
+    "last_updated": "2026-08-17T16:02:21.708Z",
     "source": "manifest"
   },
   {
@@ -1890,7 +1999,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:11.890Z",
+    "last_updated": "2026-08-17T16:02:23.485Z",
     "source": "manifest"
   },
   {
@@ -1904,7 +2013,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:13.466Z",
+    "last_updated": "2026-08-17T16:02:25.007Z",
     "source": "manifest"
   },
   {
@@ -1918,7 +2027,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:15.026Z",
+    "last_updated": "2026-08-17T16:02:26.593Z",
     "source": "manifest"
   },
   {
@@ -1934,7 +2043,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:42:16.658Z",
+    "last_updated": "2026-08-17T16:02:29.470Z",
     "source": "manifest"
   },
   {
@@ -1950,7 +2059,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:42:18.408Z",
+    "last_updated": "2026-08-17T16:02:31.053Z",
     "source": "manifest"
   },
   {
@@ -1964,7 +2073,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:22.173Z",
+    "last_updated": "2026-08-17T16:02:32.613Z",
     "source": "manifest"
   },
   {
@@ -1978,7 +2087,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:23.931Z",
+    "last_updated": "2026-08-17T16:02:34.175Z",
     "source": "manifest"
   },
   {
@@ -1992,7 +2101,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:25.568Z",
+    "last_updated": "2026-08-17T16:02:35.694Z",
     "source": "manifest"
   },
   {
@@ -2006,7 +2115,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:28.073Z",
+    "last_updated": "2026-08-17T16:02:37.255Z",
     "source": "manifest"
   },
   {
@@ -2020,7 +2129,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:29.749Z",
+    "last_updated": "2026-08-17T16:02:38.832Z",
     "source": "manifest"
   },
   {
@@ -2034,7 +2143,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:31.346Z",
+    "last_updated": "2026-08-17T16:02:43.017Z",
     "source": "manifest"
   },
   {
@@ -2048,7 +2157,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:33.045Z",
+    "last_updated": "2026-08-17T16:02:44.563Z",
     "source": "manifest"
   },
   {
@@ -2064,7 +2173,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:42:37.171Z",
+    "last_updated": "2026-08-17T16:02:46.152Z",
     "source": "manifest"
   },
   {
@@ -2078,7 +2187,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:42.445Z",
+    "last_updated": "2026-08-17T16:02:47.717Z",
     "source": "manifest"
   },
   {
@@ -2092,7 +2201,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:44.189Z",
+    "last_updated": "2026-08-17T16:02:49.433Z",
     "source": "manifest"
   },
   {
@@ -2108,7 +2217,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:42:48.146Z",
+    "last_updated": "2026-08-17T16:02:51.008Z",
     "source": "manifest"
   },
   {
@@ -2122,7 +2231,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:49.835Z",
+    "last_updated": "2026-08-17T16:02:52.545Z",
     "source": "manifest"
   },
   {
@@ -2138,7 +2247,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:42:51.519Z",
+    "last_updated": "2026-08-17T16:02:54.235Z",
     "source": "manifest"
   },
   {
@@ -2154,7 +2263,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:42:53.127Z",
+    "last_updated": "2026-08-17T16:02:55.822Z",
     "source": "manifest"
   },
   {
@@ -2168,7 +2277,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:55.640Z",
+    "last_updated": "2026-08-17T16:02:57.535Z",
     "source": "manifest"
   },
   {
@@ -2182,7 +2291,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:42:57.294Z",
+    "last_updated": "2026-08-17T16:02:59.110Z",
     "source": "manifest"
   },
   {
@@ -2196,7 +2305,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:01.037Z",
+    "last_updated": "2026-08-17T16:03:00.685Z",
     "source": "manifest"
   },
   {
@@ -2210,7 +2319,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:03.495Z",
+    "last_updated": "2026-08-17T16:03:02.230Z",
     "source": "manifest"
   },
   {
@@ -2219,14 +2328,63 @@
     "category": "Dashboard",
     "source_location": "https://github.com/NepuShiro/ResoniteFixContactIcons",
     "author": "NepuShiro",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.2.0",
+    "latest_download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.2.0/ResoniteFixContactIcons.dll",
+    "releases": [
+      {
+        "version": "1.2.0",
+        "download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.2.0/ResoniteFixContactIcons.dll",
+        "release_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/tag/1.2.0",
+        "published_at": "2025-07-02T06:39:24Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* Bump version to 1.2.0, update copyright year, and enhance notification logic by @NepuShiro in https://github.com/NepuShiro/ResoniteFixContactIcons/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/NepuShiro/ResoniteFixContactIcons/compare/1.1.0...1.2.0",
+        "file_name": "ResoniteFixContactIcons.dll",
+        "file_size": 10752,
+        "sha256": "93c30ea4c388700559aa05d18e4ee08eb34a85eb4f8fa555593caf1f3291a329"
+      },
+      {
+        "version": "1.1.0",
+        "download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.1.0/ResoniteFixContactIcons.dll",
+        "release_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/tag/1.1.0",
+        "published_at": "2025-06-29T12:52:17Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "This Release completely reworks how the mod Functions and *Should* work fine for the most part\r\n\r\n## What's Changed\r\n* Rework to actually fix the underlying issue by @NepuShiro in https://github.com/NepuShiro/ResoniteFixContactIcons/pull/3\r\n* Bump version to 1.1.0 and adjust method modifiers for consistency by @NepuShiro in https://github.com/NepuShiro/ResoniteFixContactIcons/pull/4\r\n\r\n## New Contributors\r\n* @NepuShiro made their first contribution in https://github.com/NepuShiro/ResoniteFixContactIcons/pull/3\r\n\r\n**Full Changelog**: https://github.com/NepuShiro/ResoniteFixContactIcons/compare/1.0.1...1.1.0",
+        "file_name": "ResoniteFixContactIcons.dll",
+        "file_size": 8704,
+        "sha256": "57257b9cb9fd10cdeb05c265c2649f5896769d64ff05615140a811d9e37b30b9"
+      },
+      {
+        "version": "1.0.1",
+        "download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.0.1/ResoniteFixContactIcons.dll",
+        "release_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/tag/1.0.1",
+        "published_at": "2024-11-26T11:59:52Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that Fixes the Contact PFP's in the Contacts Tab, and Notifications.\r\n\r\n**Full Changelog**: https://github.com/NepuShiro/ResoniteFixContactIcons/compare/1.0.0...1.0.1",
+        "file_name": "ResoniteFixContactIcons.dll",
+        "file_size": 11776,
+        "sha256": "94a6202c95edbf43a54ca2b114392679120bae4a4559b50aea8722d94c344dc1"
+      },
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/download/1.0.0/ResoniteFixContactIcons.dll",
+        "release_url": "https://github.com/NepuShiro/ResoniteFixContactIcons/releases/tag/1.0.0",
+        "published_at": "2024-10-07T01:21:50Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that Fixes the Contact PFP's in the Contacts Tab, and Notifications.\r\n",
+        "file_name": "ResoniteFixContactIcons.dll",
+        "file_size": 16896,
+        "sha256": "41f988254313b48f28f6b8c2a96ad3f3551919c58fb23dc68d4bfeadb37a8234"
+      }
+    ],
     "tags": null,
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:43:05.867Z",
+    "last_updated": "2026-08-17T16:03:09.104Z",
     "source": "manifest"
   },
   {
@@ -2240,7 +2398,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:07.458Z",
+    "last_updated": "2026-08-17T16:03:10.834Z",
     "source": "manifest"
   },
   {
@@ -2254,7 +2412,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:10.470Z",
+    "last_updated": "2026-08-17T16:03:12.420Z",
     "source": "manifest"
   },
   {
@@ -2268,7 +2426,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:12.172Z",
+    "last_updated": "2026-08-17T16:03:14.008Z",
     "source": "manifest"
   },
   {
@@ -2282,7 +2440,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:15.105Z",
+    "last_updated": "2026-08-17T16:03:15.608Z",
     "source": "manifest"
   },
   {
@@ -2296,7 +2454,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:17.542Z",
+    "last_updated": "2026-08-17T16:03:17.172Z",
     "source": "manifest"
   },
   {
@@ -2314,7 +2472,7 @@
       "tracking"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:43:19.938Z",
+    "last_updated": "2026-08-17T16:03:18.788Z",
     "source": "manifest"
   },
   {
@@ -2328,7 +2486,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:21.572Z",
+    "last_updated": "2026-08-17T16:03:20.574Z",
     "source": "manifest"
   },
   {
@@ -2342,7 +2500,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:23.254Z",
+    "last_updated": "2026-08-17T16:03:22.257Z",
     "source": "manifest"
   },
   {
@@ -2351,12 +2509,25 @@
     "category": "Dashboard",
     "source_location": "https://github.com/XDelta/ImNotAsking",
     "author": "Delta",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.0.0",
+    "latest_download_url": "https://github.com/XDelta/ImNotAsking/releases/download/1.0.0/ImNotAsking.dll",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/XDelta/ImNotAsking/releases/download/1.0.0/ImNotAsking.dll",
+        "release_url": "https://github.com/XDelta/ImNotAsking/releases/tag/1.0.0",
+        "published_at": "2025-02-22T14:04:40Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Hides the 'Ask to join' button on the contacts list. \r\n\r\nYou can still request an invite with a contact selected.",
+        "file_name": "ImNotAsking.dll",
+        "file_size": 7680,
+        "sha256": "224a4690f4e204fd3f24dd4e5281fd9eea71fb408dd52834d0eb35b0e6719fe0"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:24.921Z",
+    "last_updated": "2026-08-17T16:03:25.304Z",
     "source": "manifest"
   },
   {
@@ -2370,7 +2541,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:26.521Z",
+    "last_updated": "2026-08-17T16:03:26.841Z",
     "source": "manifest"
   },
   {
@@ -2379,12 +2550,49 @@
     "category": "Technical Tweaks",
     "source_location": "https://github.com/XDelta/LogAutoFlush",
     "author": "Delta",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "1.0.2",
+    "latest_download_url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.2/LogAutoFlush.dll",
+    "releases": [
+      {
+        "version": "1.0.2",
+        "download_url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.2/LogAutoFlush.dll",
+        "release_url": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.2",
+        "published_at": "2026-03-03T06:25:33Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "LogAutoFlush.dll",
+        "file_size": 6144,
+        "sha256": "9e2efa220a31667a3c9a36bf0ea6d84eb809067aa9d0471569c62c8ad3fdc6b1"
+      },
+      {
+        "version": "1.0.1",
+        "download_url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.1/LogAutoFlush.dll",
+        "release_url": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.1",
+        "published_at": "2025-08-20T23:30:30Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Changes\r\n- Sets `UniLog.FlushEveryMessage` instead of `LogStream.AutoFlush`\r\n\r\n**Full Changelog**: https://github.com/XDelta/LogAutoFlush/compare/1.0.0...1.0.1",
+        "file_name": "LogAutoFlush.dll",
+        "file_size": 6144,
+        "sha256": "ea81299fd63243a78c85e9e69e96813926661d5ef3fbd2dde1f2db27ab7c9217"
+      },
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/XDelta/LogAutoFlush/releases/download/1.0.0/LogAutoFlush.dll",
+        "release_url": "https://github.com/XDelta/LogAutoFlush/releases/tag/1.0.0",
+        "published_at": "2024-09-12T22:23:34Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Initial Release. \r\n\r\nEnable `AutoFlush` setting to use, disable when not needed.",
+        "file_name": "LogAutoFlush.dll",
+        "file_size": 6144,
+        "sha256": "06266d513836e77d285057fef4495e39107b08e4ec122bea068d16a7a5a7f8c0"
+      }
+    ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:28.175Z",
+    "last_updated": "2026-08-17T16:03:32.765Z",
     "source": "manifest"
   },
   {
@@ -2398,7 +2606,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:29.890Z",
+    "last_updated": "2026-08-17T16:03:38.223Z",
     "source": "manifest"
   },
   {
@@ -2412,7 +2620,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:31.476Z",
+    "last_updated": "2026-08-17T16:03:39.794Z",
     "source": "manifest"
   },
   {
@@ -2426,7 +2634,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:33.091Z",
+    "last_updated": "2026-08-17T16:03:41.370Z",
     "source": "manifest"
   },
   {
@@ -2440,7 +2648,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:34.879Z",
+    "last_updated": "2026-08-17T16:03:42.946Z",
     "source": "manifest"
   },
   {
@@ -2454,7 +2662,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:40.172Z",
+    "last_updated": "2026-08-17T16:03:44.551Z",
     "source": "manifest"
   },
   {
@@ -2468,7 +2676,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:41.838Z",
+    "last_updated": "2026-08-17T16:03:46.124Z",
     "source": "manifest"
   },
   {
@@ -2482,7 +2690,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:43.580Z",
+    "last_updated": "2026-08-17T16:03:49.301Z",
     "source": "manifest"
   },
   {
@@ -2498,7 +2706,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:43:45.125Z",
+    "last_updated": "2026-08-17T16:03:50.951Z",
     "source": "manifest"
   },
   {
@@ -2512,7 +2720,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:47.232Z",
+    "last_updated": "2026-08-17T16:03:52.566Z",
     "source": "manifest"
   },
   {
@@ -2530,7 +2738,7 @@
       "dynamicvariablespace"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:43:50.155Z",
+    "last_updated": "2026-08-17T16:03:54.272Z",
     "source": "manifest"
   },
   {
@@ -2544,7 +2752,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:51.866Z",
+    "last_updated": "2026-08-17T16:03:59.664Z",
     "source": "manifest"
   },
   {
@@ -2558,7 +2766,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:53.598Z",
+    "last_updated": "2026-08-17T16:04:04.911Z",
     "source": "manifest"
   },
   {
@@ -2572,7 +2780,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:55.311Z",
+    "last_updated": "2026-08-17T16:04:06.462Z",
     "source": "manifest"
   },
   {
@@ -2586,7 +2794,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:56.865Z",
+    "last_updated": "2026-08-17T16:04:08.079Z",
     "source": "manifest"
   },
   {
@@ -2600,7 +2808,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:58.433Z",
+    "last_updated": "2026-08-17T16:04:09.695Z",
     "source": "manifest"
   },
   {
@@ -2614,7 +2822,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:43:59.995Z",
+    "last_updated": "2026-08-17T16:04:11.341Z",
     "source": "manifest"
   },
   {
@@ -2628,7 +2836,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:01.591Z",
+    "last_updated": "2026-08-17T16:04:12.875Z",
     "source": "manifest"
   },
   {
@@ -2642,7 +2850,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:03.237Z",
+    "last_updated": "2026-08-17T16:04:14.457Z",
     "source": "manifest"
   },
   {
@@ -2656,7 +2864,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:04.795Z",
+    "last_updated": "2026-08-17T16:04:16.077Z",
     "source": "manifest"
   },
   {
@@ -2670,7 +2878,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:06.476Z",
+    "last_updated": "2026-08-17T16:04:18.155Z",
     "source": "manifest"
   },
   {
@@ -2690,7 +2898,7 @@
       "cheese"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:44:08.015Z",
+    "last_updated": "2026-08-17T16:04:21.055Z",
     "source": "manifest"
   },
   {
@@ -2704,7 +2912,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:12.025Z",
+    "last_updated": "2026-08-17T16:04:22.815Z",
     "source": "manifest"
   },
   {
@@ -2728,7 +2936,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:44:13.664Z",
+    "last_updated": "2026-08-17T16:04:24.517Z",
     "source": "manifest"
   },
   {
@@ -2742,7 +2950,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:15.330Z",
+    "last_updated": "2026-08-17T16:04:26.087Z",
     "source": "manifest"
   },
   {
@@ -2760,7 +2968,7 @@
       "gaze"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:44:17.020Z",
+    "last_updated": "2026-08-17T16:04:29.086Z",
     "source": "manifest"
   },
   {
@@ -2776,7 +2984,7 @@
       "world"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:44:18.597Z",
+    "last_updated": "2026-08-17T16:04:30.639Z",
     "source": "manifest"
   },
   {
@@ -2790,7 +2998,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:20.355Z",
+    "last_updated": "2026-08-17T16:04:32.242Z",
     "source": "manifest"
   },
   {
@@ -2804,7 +3012,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:21.947Z",
+    "last_updated": "2026-08-17T16:04:33.832Z",
     "source": "manifest"
   },
   {
@@ -2818,7 +3026,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:23.630Z",
+    "last_updated": "2026-08-17T16:04:39.124Z",
     "source": "manifest"
   },
   {
@@ -2832,7 +3040,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:23.630Z",
+    "last_updated": "2026-08-17T16:04:39.125Z",
     "source": "manifest"
   },
   {
@@ -2846,7 +3054,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:23.630Z",
+    "last_updated": "2026-08-17T16:04:39.125Z",
     "source": "manifest"
   },
   {
@@ -2860,7 +3068,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:23.630Z",
+    "last_updated": "2026-08-17T16:04:39.125Z",
     "source": "manifest"
   },
   {
@@ -2874,7 +3082,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:23.630Z",
+    "last_updated": "2026-08-17T16:04:39.125Z",
     "source": "manifest"
   },
   {
@@ -2888,7 +3096,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:23.631Z",
+    "last_updated": "2026-08-17T16:04:39.125Z",
     "source": "manifest"
   },
   {
@@ -2902,7 +3110,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:23.631Z",
+    "last_updated": "2026-08-17T16:04:39.125Z",
     "source": "manifest"
   },
   {
@@ -2916,7 +3124,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:23.631Z",
+    "last_updated": "2026-08-17T16:04:39.125Z",
     "source": "manifest"
   },
   {
@@ -2932,7 +3140,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:44:23.631Z",
+    "last_updated": "2026-08-17T16:04:39.125Z",
     "source": "manifest"
   },
   {
@@ -2946,7 +3154,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:23.631Z",
+    "last_updated": "2026-08-17T16:04:39.125Z",
     "source": "manifest"
   },
   {
@@ -2960,7 +3168,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:23.631Z",
+    "last_updated": "2026-08-17T16:04:39.125Z",
     "source": "manifest"
   },
   {
@@ -2974,7 +3182,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:23.631Z",
+    "last_updated": "2026-08-17T16:04:39.125Z",
     "source": "manifest"
   },
   {
@@ -2990,7 +3198,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:44:23.631Z",
+    "last_updated": "2026-08-17T16:04:39.125Z",
     "source": "manifest"
   },
   {
@@ -3004,7 +3212,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:25.351Z",
+    "last_updated": "2026-08-17T16:04:40.680Z",
     "source": "manifest"
   },
   {
@@ -3018,7 +3226,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:25.351Z",
+    "last_updated": "2026-08-17T16:04:40.680Z",
     "source": "manifest"
   },
   {
@@ -3032,7 +3240,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:25.351Z",
+    "last_updated": "2026-08-17T16:04:40.680Z",
     "source": "manifest"
   },
   {
@@ -3046,7 +3254,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:26.929Z",
+    "last_updated": "2026-08-17T16:04:42.361Z",
     "source": "manifest"
   },
   {
@@ -3060,7 +3268,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:28.493Z",
+    "last_updated": "2026-08-17T16:04:44.030Z",
     "source": "manifest"
   },
   {
@@ -3074,7 +3282,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:30.050Z",
+    "last_updated": "2026-08-17T16:04:45.581Z",
     "source": "manifest"
   },
   {
@@ -3088,7 +3296,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:32.814Z",
+    "last_updated": "2026-08-17T16:04:47.328Z",
     "source": "manifest"
   },
   {
@@ -3097,9 +3305,34 @@
     "category": "Misc",
     "source_location": "https://github.com/badhaloninja/FixSelectionRadiusScale",
     "author": "badhaloninja",
-    "latest_version": null,
-    "latest_download_url": null,
-    "releases": [],
+    "latest_version": "v1.0.1",
+    "latest_download_url": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/download/v1.0.1/FixSelectionRadiusScale.dll",
+    "releases": [
+      {
+        "version": "v1.0.1",
+        "download_url": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/download/v1.0.1/FixSelectionRadiusScale.dll",
+        "release_url": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/tag/v1.0.1",
+        "published_at": "2025-08-23T10:10:30Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- Remove leftover HarmonyDebug, which was causing `harmony.log.txt` to generate",
+        "file_name": "FixSelectionRadiusScale.dll",
+        "file_size": 10752,
+        "sha256": "567566428e3e91000a6dcd4281e6260fd37b0d1c5a88753044a1670b008e9a33"
+      },
+      {
+        "version": "v1.0.0",
+        "download_url": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/download/v1.0.0/FixSelectionRadiusScale.dll",
+        "release_url": "https://github.com/badhaloninja/FixSelectionRadiusScale/releases/tag/v1.0.0",
+        "published_at": "2025-08-21T16:26:45Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Initial release\r\n - Scales the on select nearest slot detection with the user's scale\r\n - Scales the on select in collider detection with the user's scale",
+        "file_name": "FixSelectionRadiusScale.dll",
+        "file_size": 11264,
+        "sha256": "b0c60f89aa653b26d954260b76fe847af72f5efdcc0148daff46e852b44a5b20"
+      }
+    ],
     "tags": [
       "dev",
       "developer",
@@ -3108,7 +3341,7 @@
       "scale"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:44:34.341Z",
+    "last_updated": "2026-08-17T16:04:52.607Z",
     "source": "manifest"
   },
   {
@@ -3127,7 +3360,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:44:36.191Z",
+    "last_updated": "2026-08-17T16:04:55.484Z",
     "source": "manifest"
   },
   {
@@ -3141,7 +3374,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:39.137Z",
+    "last_updated": "2026-08-17T16:04:57.138Z",
     "source": "manifest"
   },
   {
@@ -3155,7 +3388,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:40.881Z",
+    "last_updated": "2026-08-17T16:04:58.673Z",
     "source": "manifest"
   },
   {
@@ -3174,7 +3407,7 @@
       "orb"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:44:42.665Z",
+    "last_updated": "2026-08-17T16:05:00.317Z",
     "source": "manifest"
   },
   {
@@ -3188,7 +3421,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:44.751Z",
+    "last_updated": "2026-08-17T16:05:01.846Z",
     "source": "manifest"
   },
   {
@@ -3202,7 +3435,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:44.751Z",
+    "last_updated": "2026-08-17T16:05:01.847Z",
     "source": "manifest"
   },
   {
@@ -3216,7 +3449,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:44.751Z",
+    "last_updated": "2026-08-17T16:05:01.847Z",
     "source": "manifest"
   },
   {
@@ -3230,7 +3463,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:44.751Z",
+    "last_updated": "2026-08-17T16:05:01.847Z",
     "source": "manifest"
   },
   {
@@ -3244,7 +3477,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:44.752Z",
+    "last_updated": "2026-08-17T16:05:01.847Z",
     "source": "manifest"
   },
   {
@@ -3258,7 +3491,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:44.752Z",
+    "last_updated": "2026-08-17T16:05:01.847Z",
     "source": "manifest"
   },
   {
@@ -3272,7 +3505,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:44.752Z",
+    "last_updated": "2026-08-17T16:05:01.847Z",
     "source": "manifest"
   },
   {
@@ -3286,7 +3519,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:44.752Z",
+    "last_updated": "2026-08-17T16:05:01.847Z",
     "source": "manifest"
   },
   {
@@ -3300,7 +3533,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:44.752Z",
+    "last_updated": "2026-08-17T16:05:01.847Z",
     "source": "manifest"
   },
   {
@@ -3314,7 +3547,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:44.752Z",
+    "last_updated": "2026-08-17T16:05:01.847Z",
     "source": "manifest"
   },
   {
@@ -3328,7 +3561,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:46.393Z",
+    "last_updated": "2026-08-17T16:05:03.430Z",
     "source": "manifest"
   },
   {
@@ -3344,7 +3577,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:44:48.209Z",
+    "last_updated": "2026-08-17T16:05:05.026Z",
     "source": "manifest"
   },
   {
@@ -3358,7 +3591,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:53.516Z",
+    "last_updated": "2026-08-17T16:05:06.670Z",
     "source": "manifest"
   },
   {
@@ -3372,7 +3605,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:55.198Z",
+    "last_updated": "2026-08-17T16:05:08.243Z",
     "source": "manifest"
   },
   {
@@ -3386,7 +3619,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:56.847Z",
+    "last_updated": "2026-08-17T16:05:09.925Z",
     "source": "manifest"
   },
   {
@@ -3400,7 +3633,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:44:58.403Z",
+    "last_updated": "2026-08-17T16:05:11.491Z",
     "source": "manifest"
   },
   {
@@ -3414,7 +3647,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:00.031Z",
+    "last_updated": "2026-08-17T16:05:12.988Z",
     "source": "manifest"
   },
   {
@@ -3428,7 +3661,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:05.380Z",
+    "last_updated": "2026-08-17T16:05:14.517Z",
     "source": "manifest"
   },
   {
@@ -3444,7 +3677,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-17T15:45:07.086Z",
+    "last_updated": "2026-08-17T16:05:18.690Z",
     "source": "manifest"
   },
   {
@@ -3458,7 +3691,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:08.667Z",
+    "last_updated": "2026-08-17T16:05:20.404Z",
     "source": "manifest"
   },
   {
@@ -3472,7 +3705,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:10.337Z",
+    "last_updated": "2026-08-17T16:05:22.012Z",
     "source": "manifest"
   },
   {
@@ -3486,7 +3719,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:15.726Z",
+    "last_updated": "2026-08-17T16:05:23.529Z",
     "source": "manifest"
   },
   {
@@ -3500,7 +3733,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:17.465Z",
+    "last_updated": "2026-08-17T16:05:28.869Z",
     "source": "manifest"
   },
   {
@@ -3514,7 +3747,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:22.829Z",
+    "last_updated": "2026-08-17T16:05:30.450Z",
     "source": "manifest"
   },
   {
@@ -3528,7 +3761,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:24.483Z",
+    "last_updated": "2026-08-17T16:05:35.780Z",
     "source": "manifest"
   },
   {
@@ -3542,7 +3775,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:26.149Z",
+    "last_updated": "2026-08-17T16:05:37.337Z",
     "source": "manifest"
   },
   {
@@ -3556,7 +3789,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:27.927Z",
+    "last_updated": "2026-08-17T16:05:38.883Z",
     "source": "manifest"
   },
   {
@@ -3570,7 +3803,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:29.666Z",
+    "last_updated": "2026-08-17T16:05:40.444Z",
     "source": "manifest"
   },
   {
@@ -3584,7 +3817,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:31.362Z",
+    "last_updated": "2026-08-17T16:05:42.022Z",
     "source": "manifest"
   },
   {
@@ -3598,7 +3831,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:33.024Z",
+    "last_updated": "2026-08-17T16:05:43.690Z",
     "source": "manifest"
   },
   {
@@ -3612,7 +3845,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:34.694Z",
+    "last_updated": "2026-08-17T16:05:45.493Z",
     "source": "manifest"
   },
   {
@@ -3626,7 +3859,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:36.336Z",
+    "last_updated": "2026-08-17T16:05:47.151Z",
     "source": "manifest"
   },
   {
@@ -3640,7 +3873,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:37.907Z",
+    "last_updated": "2026-08-17T16:05:48.670Z",
     "source": "manifest"
   },
   {
@@ -3654,7 +3887,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:39.602Z",
+    "last_updated": "2026-08-17T16:05:50.275Z",
     "source": "manifest"
   },
   {
@@ -3668,7 +3901,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-17T15:45:41.185Z",
+    "last_updated": "2026-08-17T16:05:51.950Z",
     "source": "manifest"
   },
   {
@@ -3685,7 +3918,7 @@
       "v0.2.0"
     ],
     "flags": null,
-    "last_updated": "2026-08-17T15:45:42.350Z",
+    "last_updated": "2026-08-17T16:05:53.084Z",
     "source": "additional"
   }
 ]
