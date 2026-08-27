@@ -776,6 +776,13 @@
     "file_name": "ProtoWireScroll.dll",
     "file_size": 21504
   },
+  "2f34e5f1cab92143094a5dc038d94a324a4a9796d8c1132bb9bd190e925921eb": {
+    "mod_name": "MoreReferenceProxies",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/GrandtheUK/MoreReferenceProxies/releases/download/v1.1.0/MoreReferenceProxies.dll",
+    "file_name": "MoreReferenceProxies.dll",
+    "file_size": 7168
+  },
   "736a2016413f3b2f4c2db1d2d26468c7c0b8e2c34dffca61b5ee4f02f1adf54e": {
     "mod_name": "MoreReferenceProxies",
     "version": "v1.0.1",
@@ -4199,6 +4206,13 @@
     "file_name": "ImNotAsking.dll",
     "file_size": 7680
   },
+  "6407ad92ea449e437fb921723202903582bcac70de717a168fa2f9b4e224aaf5": {
+    "mod_name": "InspectorImprovements",
+    "version": "1.0.2",
+    "download_url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.2/InspectorImprovements.dll",
+    "file_name": "InspectorImprovements.dll",
+    "file_size": 7680
+  },
   "0173e778efa8dd9b5d3a1bd93aaae8139dd162930594d2f950b591609ff4ba81": {
     "mod_name": "InspectorImprovements",
     "version": "1.0.0",
@@ -4415,6 +4429,13 @@
     "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.1/ResoniteShowSourceLocation.dll",
     "file_name": "ResoniteShowSourceLocation.dll",
     "file_size": 10240
+  },
+  "ea86c1e3ef8e86134c96cdb2dd09c2e53975e95a50751607d53c48f45f1ef818": {
+    "mod_name": "WorldOrbDynVars",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.1.0/WorldOrbDynVars.dll",
+    "file_name": "WorldOrbDynVars.dll",
+    "file_size": 11264
   },
   "dc38bd8b75ba5772f7da0d0970efe38b182ae1ba8495512cd062103129c24737": {
     "mod_name": "WorldOrbDynVars",
@@ -4666,6 +4687,13 @@
     "version": "v1.0.0",
     "download_url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v1.0.0/Unzipper.dll",
     "file_name": "Unzipper.dll",
+    "file_size": 11776
+  },
+  "42b56a2c591f244c2f23dc0a19cdf4b97479b2a32fcda00bb82e30ab8d067185": {
+    "mod_name": "GetItemLink",
+    "version": "1.4.10",
+    "download_url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.10/GetItemLink.dll",
+    "file_name": "GetItemLink.dll",
     "file_size": 11776
   },
   "6830fdcfe03010066de424a4340cbebc1c5af23a3864a12481a9729e81b40e7a": {
@@ -5416,6 +5444,13 @@
     "download_url": "https://github.com/Nytra/ResoniteAccessibleFullBodyCalibrator/releases/download/v1.0.0/AccessibleFullBodyCalibrator.dll",
     "file_name": "AccessibleFullBodyCalibrator.dll",
     "file_size": 7680
+  },
+  "1fccd70bee710ea526cc7582d1851e3facaa4451df9685b6127ac26d62c1f845": {
+    "mod_name": "ColorMyProtoFlux",
+    "version": "v1.2.2",
+    "download_url": "https://github.com/Nytra/ResoniteColorMyProtoFlux/releases/download/v1.2.2/ColorMyProtoFlux.dll",
+    "file_name": "ColorMyProtoFlux.dll",
+    "file_size": 57344
   },
   "c5c4de1f10097132e763a4b316399b1220be9940213453b14e39910631da9904": {
     "mod_name": "ColorMyProtoFlux",
