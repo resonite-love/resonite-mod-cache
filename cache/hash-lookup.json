@@ -1,4 +1,11 @@
 {
+  "420c144df2b879fb25ce3976a8b8f7609f2b66cad566c9135905f2a2bebf4663": {
+    "mod_name": "BoundedUIX",
+    "version": "v2.1.2",
+    "download_url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.1.2/BoundedUIX.nupkg",
+    "file_name": "BoundedUIX.nupkg",
+    "file_size": 48341
+  },
   "dfb74a2d7e0ac06113a7a311b6fc9a4c4aa66dcec20486323100462b064f8be0": {
     "mod_name": "BoundedUIX",
     "version": "v2.1.1",
@@ -551,6 +558,139 @@
     "download_url": "https://github.com/furrz/NoTankControls/releases/download/1.0.0/NoTankControls.dll",
     "file_name": "NoTankControls.dll",
     "file_size": 5120
+  },
+  "10cda1bff5ae05bd3d84c3fda593c54cdfbd03a3e29fe16727481aefe8bb1ca9": {
+    "mod_name": "Restonite",
+    "version": "v1.7.4",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.4/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 123904
+  },
+  "f48cf1f64eaea06ad9aa3088eee0edd6fc58c980b7111e570e17ae2273005976": {
+    "mod_name": "Restonite",
+    "version": "v1.7.3",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.3/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 123904
+  },
+  "a25a7613f1a2fd63c2f92a6fe6233007ab93127917dafb2f0d8f14a2bf33a62e": {
+    "mod_name": "Restonite",
+    "version": "v1.7.2",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.2/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 123392
+  },
+  "2ada9249d9b22cc84d97152d14b13ab5749c69edb9376053269414ced76c077f": {
+    "mod_name": "Restonite",
+    "version": "v1.7.1",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.1/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 123392
+  },
+  "c0054efa7084f131a63e4c6bf47b30998f2f2403f47cf83bf35565d865678561": {
+    "mod_name": "Restonite",
+    "version": "v1.7.0",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.0/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 123392
+  },
+  "d511b3ca02eee528816260071342aca32aabc33ffb203a03fcca39baeee44f3c": {
+    "mod_name": "Restonite",
+    "version": "v1.6.0",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.6.0/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 113152
+  },
+  "a6aacd51454c2b25d7b03374180dddddb8528599a0b290270d53a2f556e27d9d": {
+    "mod_name": "Restonite",
+    "version": "v1.5.0",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.5.0/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 110080
+  },
+  "95816b55f75452952a6b0e6ae54e4fc4304eb18db6124f36d30c95f8931cbf2d": {
+    "mod_name": "Restonite",
+    "version": "v1.4.4",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.4.4/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 115712
+  },
+  "ac300f1559319816de7d7425ae1e1f8d3b5e63063688687a2e60dafe549a1ff3": {
+    "mod_name": "Restonite",
+    "version": "v1.4.3",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.4.3/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 115200
+  },
+  "a428f954a6f664a6e7c074230f307d0ff44d180a9f1ecf71ec67c0ca201eb4a1": {
+    "mod_name": "Restonite",
+    "version": "v1.4.2",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.4.2/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 115200
+  },
+  "717ae09fc8bc1ea460a3ca616c0f33ee8ccdfa539b4ad92307dff1a50c25ff9a": {
+    "mod_name": "Restonite",
+    "version": "v1.4.1",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.4.1/Restonite.nupkg",
+    "file_name": "Restonite.nupkg",
+    "file_size": 115161
+  },
+  "076fbf656a0e4b643ba77060bea28248c4b1f1c843d044741e1c8e3cc011b2ae": {
+    "mod_name": "Restonite",
+    "version": "v1.4.0",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.4.0/Restonite.nupkg",
+    "file_name": "Restonite.nupkg",
+    "file_size": 115020
+  },
+  "822dd85410a2ce447ccb64320ee72d8ea2d863329444865cce9ef9ad62aaafa1": {
+    "mod_name": "Restonite",
+    "version": "v1.3.2",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.3.2/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 97280
+  },
+  "bbf78ffdbde06ad8093a757e4b6c4f9141e78c3d9dff917cadce0ee05d2147dc": {
+    "mod_name": "Restonite",
+    "version": "v1.3.1",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.3.1/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 97280
+  },
+  "385b67dbb31b9f7d92677a2eba81315240b23ed1f520bb543cae7e3804bd218b": {
+    "mod_name": "Restonite",
+    "version": "v1.3.0",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.3.0/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 96768
+  },
+  "1dcc201156d2c3d295038a993c6ae1b0b6ec83edce66d2ea212c432487ac28a8": {
+    "mod_name": "Restonite",
+    "version": "v1.2.1",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.2.1/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 93696
+  },
+  "1915b2c5934cc8d6183865b4e4b2bf2ceac89f96dd8c69f5383839e2e3d5c88d": {
+    "mod_name": "Restonite",
+    "version": "v1.2.0",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.2.0/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 87040
+  },
+  "5e473e6746a805a4d2b832cc0936c861c402c41e910fabcd01f3232ddce69407": {
+    "mod_name": "Restonite",
+    "version": "v1.1.1",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.1.1/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 41984
+  },
+  "514d61816fa558bae67537ddb82f4b012f173d1ea84c4c6fe6743154839aab6a": {
+    "mod_name": "Restonite",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.1.0/Restonite.dll",
+    "file_name": "Restonite.dll",
+    "file_size": 41984
   },
   "66e3df17d17d59ccae878950a9b0ddda7aac072737e5dc7628813c2868ec7385": {
     "mod_name": "DynBoneWrangler",
@@ -2190,12 +2330,26 @@
     "file_name": "RemoveThatKinkFromSteamLinkCS.dll",
     "file_size": 6144
   },
+  "9a6247ae7ccc691e6c43e1ebf307b4c2fb34321cb48dee36f9d43af595a239e5": {
+    "mod_name": "BetterDynBoneVisualizer",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/download/v1.0.1/BetterDynBoneVisualizer.dll",
+    "file_name": "BetterDynBoneVisualizer.dll",
+    "file_size": 14848
+  },
   "5c2e8ff58b078f6d2b7d4f03625f25e9d7f04b0d73a25becf13c0b3a5793cadd": {
     "mod_name": "BetterDynBoneVisualizer",
     "version": "v1.0.0",
     "download_url": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/download/v1.0.0/BetterDynBoneVisualizer.dll",
     "file_name": "BetterDynBoneVisualizer.dll",
     "file_size": 14848
+  },
+  "16ec7ae67017f9bb9d46c525195cf6e66eeef3e21e6ee570125b229b4e58f23a": {
+    "mod_name": "ContextMenuBackOption",
+    "version": "v4.0.1",
+    "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v4.0.1/ContextMenuBackOption.dll",
+    "file_name": "ContextMenuBackOption.dll",
+    "file_size": 40448
   },
   "4399a5ac5d8bec18e7f434ac298dc6ec4fcde387dd83960943abd4529c365e97": {
     "mod_name": "ContextMenuBackOption",
@@ -5550,6 +5704,13 @@
     "file_name": "ExpandedMemberEditors.dll",
     "file_size": 9728
   },
+  "8223fea83a169edb8342ae7f320f69de83c3c1d61c149d0850303c7c360e1c06": {
+    "mod_name": "ExposePatchedMethods",
+    "version": "v5.1.2",
+    "download_url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.1.2/ExposePatchedMethods.dll",
+    "file_name": "ExposePatchedMethods.dll",
+    "file_size": 12800
+  },
   "6910e3707b5666690788317e8308efdd0f07575c4ebb1a0c3e507933988bf30f": {
     "mod_name": "ExposePatchedMethods",
     "version": "v5.1.1",
@@ -5816,6 +5977,13 @@
     "file_name": "NoTankControls.dll",
     "file_size": 6656
   },
+  "984e2281b5dac29967a0ba5aabc2e25cb83e406150bb486bd64487eef7c9980a": {
+    "mod_name": "PluginSelect",
+    "version": "v1.0.2",
+    "download_url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.2/PluginSelect.dll",
+    "file_name": "PluginSelect.dll",
+    "file_size": 13312
+  },
   "a8d2b95c9950e3d08595573bb52aa5d307536aab13bac23cd1ba61f923b149f1": {
     "mod_name": "PluginSelect",
     "version": "v1.0.1",
@@ -5829,6 +5997,13 @@
     "download_url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.0/PluginSelect.dll",
     "file_name": "PluginSelect.dll",
     "file_size": 13312
+  },
+  "e9306832b7c8680db407a28dae584a0614a7b26ef7f1cecb5bb5942fb320a0d5": {
+    "mod_name": "ReferenceFinderWizard",
+    "version": "v1.2.1",
+    "download_url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.2.1/ReferenceFinderWizard.dll",
+    "file_name": "ReferenceFinderWizard.dll",
+    "file_size": 28672
   },
   "c4dfdff70de2694d0f8d2452944e9ed387598fea339a5c8e995cb2118aa415f5": {
     "mod_name": "ReferenceFinderWizard",

@@ -5,9 +5,21 @@
     "category": "Inspectors",
     "source_location": "https://github.com/Banane9/ResoniteBoundedUIX",
     "author": "Banane9",
-    "latest_version": "v2.1.1",
-    "latest_download_url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.1.1/BoundedUIX.nupkg",
+    "latest_version": "v2.1.2",
+    "latest_download_url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.1.2/BoundedUIX.nupkg",
     "releases": [
+      {
+        "version": "v2.1.2",
+        "download_url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.1.2/BoundedUIX.nupkg",
+        "release_url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/tag/v2.1.2",
+        "published_at": "2026-08-27T21:13:19Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* Retarget for Resonite v2026.8.27.1059 by @Banane9 in https://github.com/ResoniteModdingGroup/BoundedUIX/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/ResoniteModdingGroup/BoundedUIX/compare/v2.1.1...v2.1.2\r\n\r\n\r\n## Install\r\nPlace the provided `.nupkg` file into your `Resonite/MonkeyLoader/Mods/` folder.",
+        "file_name": "BoundedUIX.nupkg",
+        "file_size": 48341,
+        "sha256": "420c144df2b879fb25ce3976a8b8f7609f2b66cad566c9135905f2a2bebf4663"
+      },
       {
         "version": "v2.1.1",
         "download_url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.1.1/BoundedUIX.nupkg",
@@ -61,7 +73,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:02:04.701Z",
+    "last_updated": "2026-08-28T05:23:15.818Z",
     "source": "manifest"
   },
   {
@@ -90,7 +102,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:02:05.503Z",
+    "last_updated": "2026-08-28T05:23:16.566Z",
     "source": "manifest"
   },
   {
@@ -129,7 +141,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:06.252Z",
+    "last_updated": "2026-08-28T05:23:17.317Z",
     "source": "manifest"
   },
   {
@@ -180,7 +192,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:07.032Z",
+    "last_updated": "2026-08-28T05:23:18.087Z",
     "source": "manifest"
   },
   {
@@ -233,7 +245,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:02:07.853Z",
+    "last_updated": "2026-08-28T05:23:18.873Z",
     "source": "manifest"
   },
   {
@@ -284,7 +296,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:08.638Z",
+    "last_updated": "2026-08-28T05:23:19.626Z",
     "source": "manifest"
   },
   {
@@ -323,7 +335,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:09.460Z",
+    "last_updated": "2026-08-28T05:23:20.384Z",
     "source": "manifest"
   },
   {
@@ -362,7 +374,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:10.260Z",
+    "last_updated": "2026-08-28T05:23:21.167Z",
     "source": "manifest"
   },
   {
@@ -413,7 +425,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:11.073Z",
+    "last_updated": "2026-08-28T05:23:21.916Z",
     "source": "manifest"
   },
   {
@@ -1052,7 +1064,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:11.980Z",
+    "last_updated": "2026-08-28T05:23:22.863Z",
     "source": "manifest"
   },
   {
@@ -1093,7 +1105,7 @@
       "list"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:12.785Z",
+    "last_updated": "2026-08-28T05:23:23.616Z",
     "source": "manifest"
   },
   {
@@ -1132,7 +1144,250 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:13.592Z",
+    "last_updated": "2026-08-28T05:23:24.382Z",
+    "source": "manifest"
+  },
+  {
+    "name": "Restonite",
+    "description": "Adds a wizard to allow easy installation of the Statufication Remaster system for your avatar.",
+    "category": "Wizards",
+    "source_location": "https://github.com/Uruloke/Restonite",
+    "author": "Uruloke",
+    "latest_version": "v1.7.4",
+    "latest_download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.4/Restonite.dll",
+    "releases": [
+      {
+        "version": "v1.7.4",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.4/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.7.4",
+        "published_at": "2026-08-01T15:09:52Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Added support for the latest statue system 1.14.\r\n- Allow materials to be skipped from statue system installation by nulling the statue material\r\n- Attempt to copy all driven values from original materials and statue materials\r\n- Save and recall last used configuration so you don't have to redo configuration on update\r\n- Add bone reference dynvar to each collider of the limb tracker system\r\n- Added mod version number to the help text as well as to the log when installing\r\n- Updated cloud variable path\r\n\r\n**Full Changelog**: https://github.com/Uruloke/Restonite/compare/v1.6.0...v1.7.4\r\n\r\n## Migrating to the new saved configuration\r\n\r\nWhen updating an avatar using this version it will migrate your previous configuration to the new format. This will entail trying to fetch your original materials used for the statue install which is referenced from each generated material. If you've made changes to the generated materials after the installation you'll need to copy those changes over to your original materials. With this version the original materials can now be placed anywhere on your avatar or even just referenced from the assets folder and the mod will no longer create copies of them in the Statue slot.\r\n\r\n## Driving material properties\r\n\r\nThe mod now supports copying driven properties from the materials used to install the statue system. Keeping a copy of your original materials on your avatar and then driving properties of them is the best way to handle this. Any driven properties will be automatically copied across to the generated materials when installing using the mod.",
+        "file_name": "Restonite.dll",
+        "file_size": 123904,
+        "sha256": "10cda1bff5ae05bd3d84c3fda593c54cdfbd03a3e29fe16727481aefe8bb1ca9"
+      },
+      {
+        "version": "v1.7.3",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.3/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.7.3",
+        "published_at": "2026-07-30T00:37:09Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Updated for latest statue system\r\n- Added mod version number to the help text as well as to the log when installing\r\n\r\n**Full Changelog**: https://github.com/Uruloke/Restonite/compare/v1.7.2...v1.7.3",
+        "file_name": "Restonite.dll",
+        "file_size": 123904,
+        "sha256": "f48cf1f64eaea06ad9aa3088eee0edd6fc58c980b7111e570e17ae2273005976"
+      },
+      {
+        "version": "v1.7.2",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.2/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.7.2",
+        "published_at": "2026-07-14T14:24:27Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Fixed drive copying when material types differ\r\n- Extend copying drives for statue materials as well\r\n- Skip material verification if a material slot's statue material is null\r\n\r\n**Full Changelog**: https://github.com/Uruloke/Restonite/compare/v1.7.1...v1.7.2",
+        "file_name": "Restonite.dll",
+        "file_size": 123392,
+        "sha256": "a25a7613f1a2fd63c2f92a6fe6233007ab93127917dafb2f0d8f14a2bf33a62e"
+      },
+      {
+        "version": "v1.7.1",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.1/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.7.1",
+        "published_at": "2026-07-11T12:57:07Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Add bone reference dynvar to each collider of the limb tracker system\r\n\r\n**Full Changelog**: https://github.com/Uruloke/Restonite/compare/v1.7.0...v1.7.1",
+        "file_name": "Restonite.dll",
+        "file_size": 123392,
+        "sha256": "2ada9249d9b22cc84d97152d14b13ab5749c69edb9376053269414ced76c077f"
+      },
+      {
+        "version": "v1.7.0",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.7.0/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.7.0",
+        "published_at": "2026-07-08T17:46:27Z",
+        "prerelease": true,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Added support for the latest statue system 1.14.0\r\n- Allow materials to be skipped from statue system installation by nulling the statue material\r\n- Attempt to copy all driven values from original material\r\n- Save and recall last used configuration so you don't have to redo configuration on update\r\n\r\n**Full Changelog**: https://github.com/Uruloke/Restonite/compare/v1.6.0...v1.7.0",
+        "file_name": "Restonite.dll",
+        "file_size": 123392,
+        "sha256": "c0054efa7084f131a63e4c6bf47b30998f2f2403f47cf83bf35565d865678561"
+      },
+      {
+        "version": "v1.6.0",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.6.0/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.6.0",
+        "published_at": "2026-01-08T17:40:59Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Updated for Resonite 2026.1.8.6\r\n- Added support for a few more PBS material variants such as the MultiUV for the alpha fade and cutout transition types",
+        "file_name": "Restonite.dll",
+        "file_size": 113152,
+        "sha256": "d511b3ca02eee528816260071342aca32aabc33ffb203a03fcca39baeee44f3c"
+      },
+      {
+        "version": "v1.5.0",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.5.0/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.5.0",
+        "published_at": "2025-08-23T13:26:34Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Updated for Splittening!\r\n- Added support to both install do full install on avatar or minimal setup on snappable objects",
+        "file_name": "Restonite.dll",
+        "file_size": 110080,
+        "sha256": "a6aacd51454c2b25d7b03374180dddddb8528599a0b290270d53a2f556e27d9d"
+      },
+      {
+        "version": "v1.4.4",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.4.4/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.4.4",
+        "published_at": "2025-07-11T13:01:26Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Added fix for race condition on init preventing the mod from adding itself to the \"Create new\" menu",
+        "file_name": "Restonite.dll",
+        "file_size": 115712,
+        "sha256": "95816b55f75452952a6b0e6ae54e4fc4304eb18db6124f36d30c95f8931cbf2d"
+      },
+      {
+        "version": "v1.4.3",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.4.3/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.4.3",
+        "published_at": "2025-05-10T12:09:38Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Recompiled for Resonite 2025.5.9.1143\r\n\r\n### File hashes\r\n\r\n**MD5:** 6b52253c782e6e8ebe7947bd425d1026\r\n**SHA256:** ac300f1559319816de7d7425ae1e1f8d3b5e63063688687a2e60dafe549a1ff3",
+        "file_name": "Restonite.dll",
+        "file_size": 115200,
+        "sha256": "ac300f1559319816de7d7425ae1e1f8d3b5e63063688687a2e60dafe549a1ff3"
+      },
+      {
+        "version": "v1.4.2",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.4.2/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.4.2",
+        "published_at": "2025-04-05T18:30:27Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Recompiled for Resonite 2025.4.3.1346\r\n- Converted back to ResoniteModLoader because I couldn't get the MonkeyLoader version to use the latest Resonite binaries\r\n\r\n**Be sure to remove the old Restonite.nupkg from MonkeyLoader\\Mods!!**\r\n\r\n### File hashes\r\n\r\n**MD5:** dee83d38ad5e174e96199b35fc6c400f\r\n**SHA256:** a428f954a6f664a6e7c074230f307d0ff44d180a9f1ecf71ec67c0ca201eb4a1",
+        "file_name": "Restonite.dll",
+        "file_size": 115200,
+        "sha256": "a428f954a6f664a6e7c074230f307d0ff44d180a9f1ecf71ec67c0ca201eb4a1"
+      },
+      {
+        "version": "v1.4.1",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.4.1/Restonite.nupkg",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.4.1",
+        "published_at": "2024-09-08T19:22:51Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Recompiled for Resonite 2024.9.7.1189\r\n- Fixes inspector not opening after successful installation\r\n\r\n### File hashes\r\n\r\n**MD5:** ac6e56a4894fc011e0623a74dc6766f2\r\n**SHA256:** 717ae09fc8bc1ea460a3ca616c0f33ee8ccdfa539b4ad92307dff1a50c25ff9a",
+        "file_name": "Restonite.nupkg",
+        "file_size": 115161,
+        "sha256": "717ae09fc8bc1ea460a3ca616c0f33ee8ccdfa539b4ad92307dff1a50c25ff9a"
+      },
+      {
+        "version": "v1.4.0",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.4.0/Restonite.nupkg",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.4.0",
+        "published_at": "2024-07-21T16:06:20Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- **Migrated mod over to use MonkeyLoader instead of ResoniteModLoader. See README on how to install.**\r\n- Recompiled for latest Resonite version.\r\n- Ensure materials are set as persistent when installing to prevent them disappearing when saving the avatar.\r\n- Added support for the new clothes module in the latest Statue Remaster system. Materials can now be marked as clothes in the advanced mode view.\r\n- Added Spinners to the disable on freeze list.\r\n- Disables EyeManager, EyeRotationDriver and EyeLinearDriver on freeze directly now instead of disabling the slot they're inside of.\r\n- Support added for UnlitMaterial.\r\n- Materials added on installation are now named according to the first slot they appear in.\r\n\r\n### File hashes\r\n\r\n**MD5:** bfc35e3453fd8ae69a4ff6a2b02b0977\r\n**SHA256:** 076fbf656a0e4b643ba77060bea28248c4b1f1c843d044741e1c8e3cc011b2ae",
+        "file_name": "Restonite.nupkg",
+        "file_size": 115020,
+        "sha256": "076fbf656a0e4b643ba77060bea28248c4b1f1c843d044741e1c8e3cc011b2ae"
+      },
+      {
+        "version": "v1.3.2",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.3.2/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.3.2",
+        "published_at": "2024-05-30T17:24:16Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Recompiled for Resonite version 2024.5.30.68.\r\n\r\n### File hashes\r\n\r\n**MD5:** e5594c5e5afedcd1f27329356073dfa8\r\n**SHA256:** 822dd85410a2ce447ccb64320ee72d8ea2d863329444865cce9ef9ad62aaafa1",
+        "file_name": "Restonite.dll",
+        "file_size": 97280,
+        "sha256": "822dd85410a2ce447ccb64320ee72d8ea2d863329444865cce9ef9ad62aaafa1"
+      },
+      {
+        "version": "v1.3.1",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.3.1/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.3.1",
+        "published_at": "2024-04-16T16:44:32Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Recompiled for Resonite version 2024.4.16.520.\r\n\r\n### File hashes\r\n\r\n**MD5:** de678527c834051e97ab45126560d7a6\r\n**SHA256:** bbf78ffdbde06ad8093a757e4b6c4f9141e78c3d9dff917cadce0ee05d2147dc",
+        "file_name": "Restonite.dll",
+        "file_size": 97280,
+        "sha256": "bbf78ffdbde06ad8093a757e4b6c4f9141e78c3d9dff917cadce0ee05d2147dc"
+      },
+      {
+        "version": "v1.3.0",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.3.0/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.3.0",
+        "published_at": "2024-03-09T13:45:57Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Fixed issue with user configs not getting updated correctly on installation.\r\n- Updated to support latest 1.12.x Statue Remaster system with new configs for radial slicer and avatar bounding box.\r\n- Installation will now add a list of the original materials used when setting up the system.\r\n\r\n### File hashes\r\n\r\n**MD5:** 5f4535b5231e795d8f1cef49f3bcbb92\r\n**SHA256:** 385b67dbb31b9f7d92677a2eba81315240b23ed1f520bb543cae7e3804bd218b",
+        "file_name": "Restonite.dll",
+        "file_size": 96768,
+        "sha256": "385b67dbb31b9f7d92677a2eba81315240b23ed1f520bb543cae7e3804bd218b"
+      },
+      {
+        "version": "v1.2.1",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.2.1/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.2.1",
+        "published_at": "2024-01-01T16:38:37Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Remove AvatarExpressionDrivers from duplicated statue slots as these will be driven by the blend shape sync anyway.\r\n- Fixed error message when a material type is unsupported for a given transition type. It should now show which material type it was instead of MaterialMap.\r\n- Improved handling of regular MeshRenderers with procedural meshes such as BoxMesh etc. It will now remove the duplicated procedural mesh and use the one in the normal slot.\r\n- Fixed exception when trying to generate statue materials if one of the normal material slots was null.\r\n- Improvements in how the mod detects matching statue MeshRenderers to normal MeshRenderers.\r\n- Added a button to remove new MeshRenderers from the installation and only keep previously set up ones. This is helpful when you only want to tweaks settings on an already set up avatar.\r\n- Added help text to the wizard which tries to explain what each option does and what it's used for.\r\n\r\n### Known issues\r\n\r\n- User configuration variable Avatar/Statue.AvatarRoot does not get set correctly on first install. On subsequent installs it should work fine. Workaround for now is to set it manually after installing the system.\r\n\r\n### File hashes\r\n\r\n**MD5:** 5fa63311e14d5af7472802372691ca0c\r\n**SHA256:** 1dcc201156d2c3d295038a993c6ae1b0b6ec83edce66d2ea212c432487ac28a8",
+        "file_name": "Restonite.dll",
+        "file_size": 93696,
+        "sha256": "1dcc201156d2c3d295038a993c6ae1b0b6ec83edce66d2ea212c432487ac28a8"
+      },
+      {
+        "version": "v1.2.0",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.2.0/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.2.0",
+        "published_at": "2023-12-17T21:37:24Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Mod can now be used on an avatar which has previously been set up using the mod. This allows to change materials or transition types etc without having to remove the existing setup prior.\r\n- Added support for updating an avatar from legacy to remaster. This will try to keep some of the setup from the legacy such as Disable on Statue over to the remaster setup.\r\n- Added an Advanced Mode where you can now configure each material slot found individually with statue material, transition type etc.\r\n- Added support for MaterialSet components attached to MeshRenderers. MaterialSets are often used for avatars where you want to be able to change materials of an entire MeshRenderer. All sets found for a MeshRenderer will show up in the Advanced Mode view allowing for individually configuring each one.\r\n- Added support for setting where the remaster will be installed on your avatar. By default it will install itself in the avatar root slot.\r\n- Added support for setting where the context menu will be installed on your avatar. By default it will install itself in the same slot as the remaster system itself.\r\n- Added support for the new user configuration slot in remaster version 1.11. The mod will attempt to migrate any defaults previously set to the new system. After installation an inspector will open up allowing you to tweak the settings yourself.\r\n- Updated defaults settings for Radial Slicer. These are a good starting point for the Radial Slicer transition type but will require tweaking for each avatar to look correct. The settings can be found in the Statue User Config slot.\r\n- Improved log messages to allow users to see what went wrong and what they need to do to fix it.\r\n- Many fixes which previously prevented the mod from installing the system.\r\n- Installer will now run through a pre-install checklist before installation to check for unsupported materials or configurations.\r\n\r\n### Known issues\r\n\r\n- User configuration variable Avatar/Statue.AvatarRoot does not get set correctly on first install. On subsequent installs it should work fine. Workaround for now is to set it manually after installing the system.\r\n\r\n### File hashes\r\n\r\n**MD5:** 04541da9c7b126e869d521bcef3f6867\r\n**SHA256:** 1915b2c5934cc8d6183865b4e4b2bf2ceac89f96dd8c69f5383839e2e3d5c88d",
+        "file_name": "Restonite.dll",
+        "file_size": 87040,
+        "sha256": "1915b2c5934cc8d6183865b4e4b2bf2ceac89f96dd8c69f5383839e2e3d5c88d"
+      },
+      {
+        "version": "v1.1.1",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.1.1/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.1.1",
+        "published_at": "2023-11-25T13:02:23Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Updated to work with Resonite version 2023.11.24.1379 and onwards\r\n\r\n### File hashes\r\n\r\n**MD5:** 42c6ea836bda1748cfacb4f9a362cc02\r\n**SHA256:** 5e473e6746a805a4d2b832cc0936c861c402c41e910fabcd01f3232ddce69407",
+        "file_name": "Restonite.dll",
+        "file_size": 41984,
+        "sha256": "5e473e6746a805a4d2b832cc0936c861c402c41e910fabcd01f3232ddce69407"
+      },
+      {
+        "version": "v1.1.0",
+        "download_url": "https://github.com/Uruloke/Restonite/releases/download/v1.1.0/Restonite.dll",
+        "release_url": "https://github.com/Uruloke/Restonite/releases/tag/v1.1.0",
+        "published_at": "2023-11-14T00:15:22Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's changed\r\n\r\n- Changed UI to use the Resonite Radiant UI and made the log viewable.\r\n- The mod will now create drivers to sync the active state of the meshes and the blend shapes of normal meshes to statue meshes.\r\n- When selecting a default material it is possible to choose to use the material as-is meaning no changes will be made to it.\r\n- Fixed issue with the materials not respecting the Avatar/Statue.BodyNormal.Persist variable.\r\n\r\n### File hashes\r\n\r\n**MD5:** 999c2b11e73b81707680ccb0ad18cdd3\r\n**SHA256:** 514d61816fa558bae67537ddb82f4b012f173d1ea84c4c6fe6743154839aab6a",
+        "file_name": "Restonite.dll",
+        "file_size": 41984,
+        "sha256": "514d61816fa558bae67537ddb82f4b012f173d1ea84c4c6fe6743154839aab6a"
+      }
+    ],
+    "tags": null,
+    "flags": null,
+    "last_updated": "2026-08-28T05:23:49.330Z",
     "source": "manifest"
   },
   {
@@ -1152,7 +1407,7 @@
       "ProtoFlux"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:13.593Z",
+    "last_updated": "2026-08-28T05:23:49.331Z",
     "source": "manifest"
   },
   {
@@ -1171,7 +1426,7 @@
       "cloud"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:13.593Z",
+    "last_updated": "2026-08-28T05:23:49.331Z",
     "source": "manifest"
   },
   {
@@ -1212,7 +1467,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:02:14.394Z",
+    "last_updated": "2026-08-28T05:23:50.173Z",
     "source": "manifest"
   },
   {
@@ -1251,7 +1506,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:15.203Z",
+    "last_updated": "2026-08-28T05:23:50.898Z",
     "source": "manifest"
   },
   {
@@ -1302,7 +1557,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:15.994Z",
+    "last_updated": "2026-08-28T05:23:51.700Z",
     "source": "manifest"
   },
   {
@@ -1341,7 +1596,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:16.752Z",
+    "last_updated": "2026-08-28T05:23:52.419Z",
     "source": "manifest"
   },
   {
@@ -1455,7 +1710,7 @@
       "favorite"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:17.530Z",
+    "last_updated": "2026-08-28T05:23:53.224Z",
     "source": "manifest"
   },
   {
@@ -1510,7 +1765,7 @@
       "color"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:18.299Z",
+    "last_updated": "2026-08-28T05:23:53.983Z",
     "source": "manifest"
   },
   {
@@ -1681,7 +1936,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:19.188Z",
+    "last_updated": "2026-08-28T05:23:54.730Z",
     "source": "manifest"
   },
   {
@@ -1732,7 +1987,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:21.343Z",
+    "last_updated": "2026-08-28T05:23:55.515Z",
     "source": "manifest"
   },
   {
@@ -1767,7 +2022,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:02:22.109Z",
+    "last_updated": "2026-08-28T05:23:56.250Z",
     "source": "manifest"
   },
   {
@@ -1806,7 +2061,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:22.909Z",
+    "last_updated": "2026-08-28T05:23:57.032Z",
     "source": "manifest"
   },
   {
@@ -1847,7 +2102,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:02:23.733Z",
+    "last_updated": "2026-08-28T05:23:57.814Z",
     "source": "manifest"
   },
   {
@@ -1874,7 +2129,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:24.510Z",
+    "last_updated": "2026-08-28T05:23:58.611Z",
     "source": "manifest"
   },
   {
@@ -1913,7 +2168,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:25.294Z",
+    "last_updated": "2026-08-28T05:23:59.359Z",
     "source": "manifest"
   },
   {
@@ -1976,7 +2231,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:26.050Z",
+    "last_updated": "2026-08-28T05:24:00.156Z",
     "source": "manifest"
   },
   {
@@ -2139,7 +2394,7 @@
       "link"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:26.898Z",
+    "last_updated": "2026-08-28T05:24:00.970Z",
     "source": "manifest"
   },
   {
@@ -2226,7 +2481,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:27.712Z",
+    "last_updated": "2026-08-28T05:24:01.727Z",
     "source": "manifest"
   },
   {
@@ -2265,7 +2520,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:28.520Z",
+    "last_updated": "2026-08-28T05:24:02.480Z",
     "source": "manifest"
   },
   {
@@ -2412,7 +2667,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:29.341Z",
+    "last_updated": "2026-08-28T05:24:03.258Z",
     "source": "manifest"
   },
   {
@@ -2559,7 +2814,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:30.144Z",
+    "last_updated": "2026-08-28T05:24:04.075Z",
     "source": "manifest"
   },
   {
@@ -2600,7 +2855,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:02:30.927Z",
+    "last_updated": "2026-08-28T05:24:04.826Z",
     "source": "manifest"
   },
   {
@@ -2689,7 +2944,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:02:31.676Z",
+    "last_updated": "2026-08-28T05:24:05.565Z",
     "source": "manifest"
   },
   {
@@ -2752,7 +3007,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:32.485Z",
+    "last_updated": "2026-08-28T05:24:06.335Z",
     "source": "manifest"
   },
   {
@@ -2863,7 +3118,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:33.299Z",
+    "last_updated": "2026-08-28T05:24:07.133Z",
     "source": "manifest"
   },
   {
@@ -2902,7 +3157,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:34.086Z",
+    "last_updated": "2026-08-28T05:24:07.930Z",
     "source": "manifest"
   },
   {
@@ -2967,7 +3222,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:02:34.840Z",
+    "last_updated": "2026-08-28T05:24:08.722Z",
     "source": "manifest"
   },
   {
@@ -2994,7 +3249,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:35.610Z",
+    "last_updated": "2026-08-28T05:24:09.463Z",
     "source": "manifest"
   },
   {
@@ -3008,7 +3263,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:36.371Z",
+    "last_updated": "2026-08-28T05:24:10.212Z",
     "source": "manifest"
   },
   {
@@ -3133,7 +3388,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:02:37.168Z",
+    "last_updated": "2026-08-28T05:24:10.971Z",
     "source": "manifest"
   },
   {
@@ -3160,7 +3415,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:37.915Z",
+    "last_updated": "2026-08-28T05:24:11.734Z",
     "source": "manifest"
   },
   {
@@ -3241,7 +3496,7 @@
       "photo"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:38.761Z",
+    "last_updated": "2026-08-28T05:24:12.480Z",
     "source": "manifest"
   },
   {
@@ -3280,7 +3535,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:39.597Z",
+    "last_updated": "2026-08-28T05:24:13.273Z",
     "source": "manifest"
   },
   {
@@ -3331,7 +3586,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:40.417Z",
+    "last_updated": "2026-08-28T05:24:14.021Z",
     "source": "manifest"
   },
   {
@@ -3446,7 +3701,7 @@
       "SystemHelper"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:41.252Z",
+    "last_updated": "2026-08-28T05:24:14.731Z",
     "source": "manifest"
   },
   {
@@ -3622,7 +3877,7 @@
       "diagnostic"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:42.076Z",
+    "last_updated": "2026-08-28T05:24:15.535Z",
     "source": "manifest"
   },
   {
@@ -3771,7 +4026,7 @@
     "flags": [
       "plugin"
     ],
-    "last_updated": "2026-08-27T21:02:42.896Z",
+    "last_updated": "2026-08-28T05:24:16.323Z",
     "source": "manifest"
   },
   {
@@ -3802,7 +4057,7 @@
       "dash"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:43.641Z",
+    "last_updated": "2026-08-28T05:24:17.087Z",
     "source": "manifest"
   },
   {
@@ -3917,7 +4172,7 @@
       "tracking"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:44.502Z",
+    "last_updated": "2026-08-28T05:24:17.864Z",
     "source": "manifest"
   },
   {
@@ -3992,7 +4247,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:45.306Z",
+    "last_updated": "2026-08-28T05:24:18.572Z",
     "source": "manifest"
   },
   {
@@ -4043,7 +4298,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:46.069Z",
+    "last_updated": "2026-08-28T05:24:19.420Z",
     "source": "manifest"
   },
   {
@@ -4086,7 +4341,7 @@
       "Grabbable"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:46.870Z",
+    "last_updated": "2026-08-28T05:24:20.183Z",
     "source": "manifest"
   },
   {
@@ -4213,7 +4468,7 @@
       "manager"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:47.658Z",
+    "last_updated": "2026-08-28T05:24:20.996Z",
     "source": "manifest"
   },
   {
@@ -4257,7 +4512,7 @@
       "rgb"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:48.464Z",
+    "last_updated": "2026-08-28T05:24:21.781Z",
     "source": "manifest"
   },
   {
@@ -4312,7 +4567,7 @@
       "Bug"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:49.313Z",
+    "last_updated": "2026-08-28T05:24:22.553Z",
     "source": "manifest"
   },
   {
@@ -4344,7 +4599,7 @@
       "Vive"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:50.104Z",
+    "last_updated": "2026-08-28T05:24:23.300Z",
     "source": "manifest"
   },
   {
@@ -4539,7 +4794,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:50.932Z",
+    "last_updated": "2026-08-28T05:24:24.091Z",
     "source": "manifest"
   },
   {
@@ -4590,7 +4845,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:51.724Z",
+    "last_updated": "2026-08-28T05:24:24.804Z",
     "source": "manifest"
   },
   {
@@ -4785,7 +5040,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:52.495Z",
+    "last_updated": "2026-08-28T05:24:25.662Z",
     "source": "manifest"
   },
   {
@@ -4799,7 +5054,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:53.401Z",
+    "last_updated": "2026-08-28T05:24:26.476Z",
     "source": "manifest"
   },
   {
@@ -4813,7 +5068,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:54.306Z",
+    "last_updated": "2026-08-28T05:24:27.293Z",
     "source": "manifest"
   },
   {
@@ -4827,7 +5082,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:55.189Z",
+    "last_updated": "2026-08-28T05:24:28.096Z",
     "source": "manifest"
   },
   {
@@ -4894,7 +5149,7 @@
       "network"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:56.030Z",
+    "last_updated": "2026-08-28T05:24:28.829Z",
     "source": "manifest"
   },
   {
@@ -4986,7 +5241,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:56.785Z",
+    "last_updated": "2026-08-28T05:24:29.558Z",
     "source": "manifest"
   },
   {
@@ -5019,7 +5274,7 @@
       "WiVRn"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:02:57.567Z",
+    "last_updated": "2026-08-28T05:24:30.305Z",
     "source": "manifest"
   },
   {
@@ -5028,9 +5283,21 @@
     "category": "Visual Tweaks",
     "source_location": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer",
     "author": "Noble",
-    "latest_version": "v1.0.0",
-    "latest_download_url": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/download/v1.0.0/BetterDynBoneVisualizer.dll",
+    "latest_version": "v1.0.1",
+    "latest_download_url": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/download/v1.0.1/BetterDynBoneVisualizer.dll",
     "releases": [
+      {
+        "version": "v1.0.1",
+        "download_url": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/download/v1.0.1/BetterDynBoneVisualizer.dll",
+        "release_url": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/tag/v1.0.1",
+        "published_at": "2026-08-28T03:14:44Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Rebuilt for Resonite 2026.8.27.1094",
+        "file_name": "BetterDynBoneVisualizer.dll",
+        "file_size": 14848,
+        "sha256": "9a6247ae7ccc691e6c43e1ebf307b4c2fb34321cb48dee36f9d43af595a239e5"
+      },
       {
         "version": "v1.0.0",
         "download_url": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/download/v1.0.0/BetterDynBoneVisualizer.dll",
@@ -5046,7 +5313,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:58.335Z",
+    "last_updated": "2026-08-28T05:24:32.384Z",
     "source": "manifest"
   },
   {
@@ -5055,9 +5322,21 @@
     "category": "Context Menu",
     "source_location": "https://github.com/noblereign/ResoniteContextMenuBackOption",
     "author": "Noble",
-    "latest_version": "v4.0.0",
-    "latest_download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v4.0.0/ContextMenuBackOption.dll",
+    "latest_version": "v4.0.1",
+    "latest_download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v4.0.1/ContextMenuBackOption.dll",
     "releases": [
+      {
+        "version": "v4.0.1",
+        "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v4.0.1/ContextMenuBackOption.dll",
+        "release_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v4.0.1",
+        "published_at": "2026-08-28T03:19:48Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "Rebuilt for Resonite 2026.8.27.1094",
+        "file_name": "ContextMenuBackOption.dll",
+        "file_size": 40448,
+        "sha256": "16ec7ae67017f9bb9d46c525195cf6e66eeef3e21e6ee570125b229b4e58f23a"
+      },
       {
         "version": "v4.0.0",
         "download_url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v4.0.0/ContextMenuBackOption.dll",
@@ -5229,7 +5508,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:59.168Z",
+    "last_updated": "2026-08-28T05:24:34.369Z",
     "source": "manifest"
   },
   {
@@ -5268,7 +5547,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:02:59.893Z",
+    "last_updated": "2026-08-28T05:24:35.157Z",
     "source": "manifest"
   },
   {
@@ -5307,7 +5586,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:00.644Z",
+    "last_updated": "2026-08-28T05:24:35.889Z",
     "source": "manifest"
   },
   {
@@ -5358,7 +5637,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:01.461Z",
+    "last_updated": "2026-08-28T05:24:36.664Z",
     "source": "manifest"
   },
   {
@@ -5385,7 +5664,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:02.319Z",
+    "last_updated": "2026-08-28T05:24:37.465Z",
     "source": "manifest"
   },
   {
@@ -5405,7 +5684,7 @@
       "job"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:03:02.319Z",
+    "last_updated": "2026-08-28T05:24:37.465Z",
     "source": "manifest"
   },
   {
@@ -5434,7 +5713,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:03:03.108Z",
+    "last_updated": "2026-08-28T05:24:38.214Z",
     "source": "manifest"
   },
   {
@@ -5516,7 +5795,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:03:03.953Z",
+    "last_updated": "2026-08-28T05:24:39.030Z",
     "source": "manifest"
   },
   {
@@ -5534,7 +5813,7 @@
       "lookatuser"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:03:03.954Z",
+    "last_updated": "2026-08-28T05:24:39.030Z",
     "source": "manifest"
   },
   {
@@ -5548,7 +5827,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:03.954Z",
+    "last_updated": "2026-08-28T05:24:39.030Z",
     "source": "manifest"
   },
   {
@@ -5611,7 +5890,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:04.787Z",
+    "last_updated": "2026-08-28T05:24:39.788Z",
     "source": "manifest"
   },
   {
@@ -5662,7 +5941,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:05.558Z",
+    "last_updated": "2026-08-28T05:24:40.531Z",
     "source": "manifest"
   },
   {
@@ -5725,7 +6004,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:06.331Z",
+    "last_updated": "2026-08-28T05:24:41.311Z",
     "source": "manifest"
   },
   {
@@ -5764,7 +6043,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:07.102Z",
+    "last_updated": "2026-08-28T05:24:42.063Z",
     "source": "manifest"
   },
   {
@@ -5778,7 +6057,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:07.102Z",
+    "last_updated": "2026-08-28T05:24:42.063Z",
     "source": "manifest"
   },
   {
@@ -5805,7 +6084,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:07.954Z",
+    "last_updated": "2026-08-28T05:24:42.788Z",
     "source": "manifest"
   },
   {
@@ -5856,7 +6135,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:08.777Z",
+    "last_updated": "2026-08-28T05:24:43.533Z",
     "source": "manifest"
   },
   {
@@ -5943,7 +6222,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:09.593Z",
+    "last_updated": "2026-08-28T05:24:44.357Z",
     "source": "manifest"
   },
   {
@@ -5970,7 +6249,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:10.411Z",
+    "last_updated": "2026-08-28T05:24:45.089Z",
     "source": "manifest"
   },
   {
@@ -6021,7 +6300,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:11.266Z",
+    "last_updated": "2026-08-28T05:24:45.855Z",
     "source": "manifest"
   },
   {
@@ -6180,7 +6459,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:12.039Z",
+    "last_updated": "2026-08-28T05:24:46.573Z",
     "source": "manifest"
   },
   {
@@ -6207,7 +6486,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:12.788Z",
+    "last_updated": "2026-08-28T05:24:47.290Z",
     "source": "manifest"
   },
   {
@@ -6270,7 +6549,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:13.584Z",
+    "last_updated": "2026-08-28T05:24:48.063Z",
     "source": "manifest"
   },
   {
@@ -6369,7 +6648,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:14.388Z",
+    "last_updated": "2026-08-28T05:24:48.818Z",
     "source": "manifest"
   },
   {
@@ -6410,7 +6689,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:03:15.089Z",
+    "last_updated": "2026-08-28T05:24:49.558Z",
     "source": "manifest"
   },
   {
@@ -6497,7 +6776,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:15.848Z",
+    "last_updated": "2026-08-28T05:24:50.305Z",
     "source": "manifest"
   },
   {
@@ -6548,7 +6827,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:16.630Z",
+    "last_updated": "2026-08-28T05:24:51.073Z",
     "source": "manifest"
   },
   {
@@ -6587,7 +6866,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:17.401Z",
+    "last_updated": "2026-08-28T05:24:51.804Z",
     "source": "manifest"
   },
   {
@@ -6614,7 +6893,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:18.180Z",
+    "last_updated": "2026-08-28T05:24:52.518Z",
     "source": "manifest"
   },
   {
@@ -6643,7 +6922,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:03:18.937Z",
+    "last_updated": "2026-08-28T05:24:53.252Z",
     "source": "manifest"
   },
   {
@@ -6694,7 +6973,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:19.746Z",
+    "last_updated": "2026-08-28T05:24:54.005Z",
     "source": "manifest"
   },
   {
@@ -6733,7 +7012,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:20.516Z",
+    "last_updated": "2026-08-28T05:24:54.750Z",
     "source": "manifest"
   },
   {
@@ -6856,7 +7135,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:21.326Z",
+    "last_updated": "2026-08-28T05:24:55.533Z",
     "source": "manifest"
   },
   {
@@ -6919,7 +7198,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:22.080Z",
+    "last_updated": "2026-08-28T05:24:56.248Z",
     "source": "manifest"
   },
   {
@@ -6946,7 +7225,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:22.851Z",
+    "last_updated": "2026-08-28T05:24:56.998Z",
     "source": "manifest"
   },
   {
@@ -6985,7 +7264,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:23.655Z",
+    "last_updated": "2026-08-28T05:24:57.838Z",
     "source": "manifest"
   },
   {
@@ -7108,7 +7387,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:24.430Z",
+    "last_updated": "2026-08-28T05:24:58.617Z",
     "source": "manifest"
   },
   {
@@ -7183,7 +7462,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:25.192Z",
+    "last_updated": "2026-08-28T05:24:59.416Z",
     "source": "manifest"
   },
   {
@@ -7234,7 +7513,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:25.969Z",
+    "last_updated": "2026-08-28T05:25:00.184Z",
     "source": "manifest"
   },
   {
@@ -7381,7 +7660,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:26.762Z",
+    "last_updated": "2026-08-28T05:25:00.987Z",
     "source": "manifest"
   },
   {
@@ -7420,7 +7699,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:27.543Z",
+    "last_updated": "2026-08-28T05:25:01.742Z",
     "source": "manifest"
   },
   {
@@ -7447,7 +7726,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:28.347Z",
+    "last_updated": "2026-08-28T05:25:02.511Z",
     "source": "manifest"
   },
   {
@@ -7474,7 +7753,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:29.125Z",
+    "last_updated": "2026-08-28T05:25:03.252Z",
     "source": "manifest"
   },
   {
@@ -7525,7 +7804,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:29.887Z",
+    "last_updated": "2026-08-28T05:25:04.011Z",
     "source": "manifest"
   },
   {
@@ -7578,7 +7857,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:03:30.662Z",
+    "last_updated": "2026-08-28T05:25:04.728Z",
     "source": "manifest"
   },
   {
@@ -7641,7 +7920,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:31.496Z",
+    "last_updated": "2026-08-28T05:25:05.479Z",
     "source": "manifest"
   },
   {
@@ -7668,7 +7947,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:32.262Z",
+    "last_updated": "2026-08-28T05:25:06.247Z",
     "source": "manifest"
   },
   {
@@ -7707,7 +7986,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:33.035Z",
+    "last_updated": "2026-08-28T05:25:07.125Z",
     "source": "manifest"
   },
   {
@@ -7746,7 +8025,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:33.804Z",
+    "last_updated": "2026-08-28T05:25:07.867Z",
     "source": "manifest"
   },
   {
@@ -7787,7 +8066,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:03:34.621Z",
+    "last_updated": "2026-08-28T05:25:08.647Z",
     "source": "manifest"
   },
   {
@@ -7828,7 +8107,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:03:35.383Z",
+    "last_updated": "2026-08-28T05:25:09.417Z",
     "source": "manifest"
   },
   {
@@ -8083,7 +8362,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:36.220Z",
+    "last_updated": "2026-08-28T05:25:10.287Z",
     "source": "manifest"
   },
   {
@@ -8170,7 +8449,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:37.051Z",
+    "last_updated": "2026-08-28T05:25:11.054Z",
     "source": "manifest"
   },
   {
@@ -8209,7 +8488,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:37.798Z",
+    "last_updated": "2026-08-28T05:25:11.828Z",
     "source": "manifest"
   },
   {
@@ -8260,7 +8539,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:38.577Z",
+    "last_updated": "2026-08-28T05:25:12.583Z",
     "source": "manifest"
   },
   {
@@ -8347,7 +8626,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:39.368Z",
+    "last_updated": "2026-08-28T05:25:13.412Z",
     "source": "manifest"
   },
   {
@@ -8386,7 +8665,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:40.112Z",
+    "last_updated": "2026-08-28T05:25:14.166Z",
     "source": "manifest"
   },
   {
@@ -8425,7 +8704,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:40.953Z",
+    "last_updated": "2026-08-28T05:25:14.900Z",
     "source": "manifest"
   },
   {
@@ -8454,7 +8733,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:03:41.751Z",
+    "last_updated": "2026-08-28T05:25:15.634Z",
     "source": "manifest"
   },
   {
@@ -8589,7 +8868,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:42.571Z",
+    "last_updated": "2026-08-28T05:25:16.423Z",
     "source": "manifest"
   },
   {
@@ -8628,7 +8907,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:43.316Z",
+    "last_updated": "2026-08-28T05:25:17.199Z",
     "source": "manifest"
   },
   {
@@ -8644,7 +8923,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:03:44.108Z",
+    "last_updated": "2026-08-28T05:25:17.975Z",
     "source": "manifest"
   },
   {
@@ -8791,7 +9070,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:44.935Z",
+    "last_updated": "2026-08-28T05:25:18.723Z",
     "source": "manifest"
   },
   {
@@ -8820,7 +9099,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:03:45.711Z",
+    "last_updated": "2026-08-28T05:25:19.447Z",
     "source": "manifest"
   },
   {
@@ -8897,7 +9176,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:03:46.536Z",
+    "last_updated": "2026-08-28T05:25:20.241Z",
     "source": "manifest"
   },
   {
@@ -8984,7 +9263,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:47.303Z",
+    "last_updated": "2026-08-28T05:25:21.043Z",
     "source": "manifest"
   },
   {
@@ -9035,7 +9314,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:48.048Z",
+    "last_updated": "2026-08-28T05:25:21.807Z",
     "source": "manifest"
   },
   {
@@ -9074,7 +9353,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:48.840Z",
+    "last_updated": "2026-08-28T05:25:22.553Z",
     "source": "manifest"
   },
   {
@@ -9137,7 +9416,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:49.638Z",
+    "last_updated": "2026-08-28T05:25:23.326Z",
     "source": "manifest"
   },
   {
@@ -9202,7 +9481,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:03:50.377Z",
+    "last_updated": "2026-08-28T05:25:24.192Z",
     "source": "manifest"
   },
   {
@@ -9385,7 +9664,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:51.205Z",
+    "last_updated": "2026-08-28T05:25:24.962Z",
     "source": "manifest"
   },
   {
@@ -9436,7 +9715,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:51.986Z",
+    "last_updated": "2026-08-28T05:25:25.739Z",
     "source": "manifest"
   },
   {
@@ -9463,7 +9742,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:52.806Z",
+    "last_updated": "2026-08-28T05:25:26.514Z",
     "source": "manifest"
   },
   {
@@ -9586,7 +9865,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:53.639Z",
+    "last_updated": "2026-08-28T05:25:27.274Z",
     "source": "manifest"
   },
   {
@@ -9625,7 +9904,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:54.429Z",
+    "last_updated": "2026-08-28T05:25:27.997Z",
     "source": "manifest"
   },
   {
@@ -9680,7 +9959,7 @@
       "tracking"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:03:55.165Z",
+    "last_updated": "2026-08-28T05:25:28.738Z",
     "source": "manifest"
   },
   {
@@ -9719,7 +9998,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:55.953Z",
+    "last_updated": "2026-08-28T05:25:29.490Z",
     "source": "manifest"
   },
   {
@@ -9746,7 +10025,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:56.666Z",
+    "last_updated": "2026-08-28T05:25:30.212Z",
     "source": "manifest"
   },
   {
@@ -9773,7 +10052,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:57.475Z",
+    "last_updated": "2026-08-28T05:25:30.955Z",
     "source": "manifest"
   },
   {
@@ -9812,7 +10091,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:03:59.589Z",
+    "last_updated": "2026-08-28T05:25:31.794Z",
     "source": "manifest"
   },
   {
@@ -9863,7 +10142,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:00.328Z",
+    "last_updated": "2026-08-28T05:25:32.571Z",
     "source": "manifest"
   },
   {
@@ -9890,7 +10169,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:01.093Z",
+    "last_updated": "2026-08-28T05:25:33.288Z",
     "source": "manifest"
   },
   {
@@ -9941,7 +10220,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:01.901Z",
+    "last_updated": "2026-08-28T05:25:34.058Z",
     "source": "manifest"
   },
   {
@@ -9968,7 +10247,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:02.651Z",
+    "last_updated": "2026-08-28T05:25:34.859Z",
     "source": "manifest"
   },
   {
@@ -10031,7 +10310,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:03.430Z",
+    "last_updated": "2026-08-28T05:25:35.644Z",
     "source": "manifest"
   },
   {
@@ -10058,7 +10337,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:04.213Z",
+    "last_updated": "2026-08-28T05:25:36.369Z",
     "source": "manifest"
   },
   {
@@ -10133,7 +10412,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:04.976Z",
+    "last_updated": "2026-08-28T05:25:37.126Z",
     "source": "manifest"
   },
   {
@@ -10172,7 +10451,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:05.788Z",
+    "last_updated": "2026-08-28T05:25:37.936Z",
     "source": "manifest"
   },
   {
@@ -10237,7 +10516,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:04:06.564Z",
+    "last_updated": "2026-08-28T05:25:38.666Z",
     "source": "manifest"
   },
   {
@@ -10324,7 +10603,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:07.306Z",
+    "last_updated": "2026-08-28T05:25:39.408Z",
     "source": "manifest"
   },
   {
@@ -10367,7 +10646,7 @@
       "dynamicvariablespace"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:04:09.360Z",
+    "last_updated": "2026-08-28T05:25:40.157Z",
     "source": "manifest"
   },
   {
@@ -10454,7 +10733,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:10.184Z",
+    "last_updated": "2026-08-28T05:25:40.955Z",
     "source": "manifest"
   },
   {
@@ -10553,7 +10832,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:10.932Z",
+    "last_updated": "2026-08-28T05:25:41.761Z",
     "source": "manifest"
   },
   {
@@ -10592,7 +10871,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:11.707Z",
+    "last_updated": "2026-08-28T05:25:42.506Z",
     "source": "manifest"
   },
   {
@@ -10631,7 +10910,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:12.482Z",
+    "last_updated": "2026-08-28T05:25:43.251Z",
     "source": "manifest"
   },
   {
@@ -10694,7 +10973,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:13.272Z",
+    "last_updated": "2026-08-28T05:25:43.991Z",
     "source": "manifest"
   },
   {
@@ -10745,7 +11024,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:14.033Z",
+    "last_updated": "2026-08-28T05:25:44.708Z",
     "source": "manifest"
   },
   {
@@ -10796,7 +11075,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:14.773Z",
+    "last_updated": "2026-08-28T05:25:45.443Z",
     "source": "manifest"
   },
   {
@@ -10835,7 +11114,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:15.568Z",
+    "last_updated": "2026-08-28T05:25:46.276Z",
     "source": "manifest"
   },
   {
@@ -10862,7 +11141,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:16.394Z",
+    "last_updated": "2026-08-28T05:25:46.993Z",
     "source": "manifest"
   },
   {
@@ -10949,7 +11228,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:17.217Z",
+    "last_updated": "2026-08-28T05:25:47.748Z",
     "source": "manifest"
   },
   {
@@ -11126,7 +11405,7 @@
       "cheese"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:04:19.380Z",
+    "last_updated": "2026-08-28T05:25:48.535Z",
     "source": "manifest"
   },
   {
@@ -11189,7 +11468,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:20.192Z",
+    "last_updated": "2026-08-28T05:25:49.254Z",
     "source": "manifest"
   },
   {
@@ -11262,7 +11541,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:04:20.989Z",
+    "last_updated": "2026-08-28T05:25:49.967Z",
     "source": "manifest"
   },
   {
@@ -11349,7 +11628,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:21.791Z",
+    "last_updated": "2026-08-28T05:25:50.711Z",
     "source": "manifest"
   },
   {
@@ -11416,7 +11695,7 @@
       "gaze"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:04:22.590Z",
+    "last_updated": "2026-08-28T05:25:51.495Z",
     "source": "manifest"
   },
   {
@@ -11541,7 +11820,7 @@
       "world"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:04:23.391Z",
+    "last_updated": "2026-08-28T05:25:52.259Z",
     "source": "manifest"
   },
   {
@@ -11568,7 +11847,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:24.158Z",
+    "last_updated": "2026-08-28T05:25:53.050Z",
     "source": "manifest"
   },
   {
@@ -11595,7 +11874,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:24.972Z",
+    "last_updated": "2026-08-28T05:25:53.755Z",
     "source": "manifest"
   },
   {
@@ -11622,7 +11901,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.602Z",
     "source": "manifest"
   },
   {
@@ -11636,7 +11915,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.603Z",
     "source": "manifest"
   },
   {
@@ -11650,7 +11929,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.603Z",
     "source": "manifest"
   },
   {
@@ -11664,7 +11943,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.603Z",
     "source": "manifest"
   },
   {
@@ -11678,7 +11957,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.603Z",
     "source": "manifest"
   },
   {
@@ -11692,7 +11971,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.603Z",
     "source": "manifest"
   },
   {
@@ -11706,7 +11985,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.603Z",
     "source": "manifest"
   },
   {
@@ -11720,7 +11999,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.603Z",
     "source": "manifest"
   },
   {
@@ -11736,7 +12015,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.603Z",
     "source": "manifest"
   },
   {
@@ -11750,7 +12029,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.603Z",
     "source": "manifest"
   },
   {
@@ -11764,7 +12043,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.603Z",
     "source": "manifest"
   },
   {
@@ -11778,7 +12057,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.603Z",
     "source": "manifest"
   },
   {
@@ -11794,7 +12073,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:04:25.898Z",
+    "last_updated": "2026-08-28T05:25:54.603Z",
     "source": "manifest"
   },
   {
@@ -11845,7 +12124,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:26.737Z",
+    "last_updated": "2026-08-28T05:25:55.344Z",
     "source": "manifest"
   },
   {
@@ -11859,7 +12138,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:26.737Z",
+    "last_updated": "2026-08-28T05:25:55.344Z",
     "source": "manifest"
   },
   {
@@ -11873,7 +12152,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:26.737Z",
+    "last_updated": "2026-08-28T05:25:55.344Z",
     "source": "manifest"
   },
   {
@@ -11924,7 +12203,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:27.523Z",
+    "last_updated": "2026-08-28T05:25:56.103Z",
     "source": "manifest"
   },
   {
@@ -11987,7 +12266,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:28.308Z",
+    "last_updated": "2026-08-28T05:25:56.859Z",
     "source": "manifest"
   },
   {
@@ -12086,7 +12365,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:29.094Z",
+    "last_updated": "2026-08-28T05:25:57.623Z",
     "source": "manifest"
   },
   {
@@ -12125,7 +12404,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:29.910Z",
+    "last_updated": "2026-08-28T05:25:58.364Z",
     "source": "manifest"
   },
   {
@@ -12170,7 +12449,7 @@
       "scale"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:04:30.656Z",
+    "last_updated": "2026-08-28T05:25:59.105Z",
     "source": "manifest"
   },
   {
@@ -12214,7 +12493,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:04:31.562Z",
+    "last_updated": "2026-08-28T05:25:59.992Z",
     "source": "manifest"
   },
   {
@@ -12409,7 +12688,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:32.403Z",
+    "last_updated": "2026-08-28T05:26:00.803Z",
     "source": "manifest"
   },
   {
@@ -12532,7 +12811,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:33.248Z",
+    "last_updated": "2026-08-28T05:26:01.578Z",
     "source": "manifest"
   },
   {
@@ -12624,7 +12903,7 @@
       "orb"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:04:34.054Z",
+    "last_updated": "2026-08-28T05:26:02.366Z",
     "source": "manifest"
   },
   {
@@ -12651,7 +12930,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:34.834Z",
+    "last_updated": "2026-08-28T05:26:03.142Z",
     "source": "manifest"
   },
   {
@@ -12665,7 +12944,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:34.834Z",
+    "last_updated": "2026-08-28T05:26:03.142Z",
     "source": "manifest"
   },
   {
@@ -12679,7 +12958,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:34.834Z",
+    "last_updated": "2026-08-28T05:26:03.142Z",
     "source": "manifest"
   },
   {
@@ -12693,7 +12972,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:34.834Z",
+    "last_updated": "2026-08-28T05:26:03.142Z",
     "source": "manifest"
   },
   {
@@ -12707,7 +12986,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:34.834Z",
+    "last_updated": "2026-08-28T05:26:03.142Z",
     "source": "manifest"
   },
   {
@@ -12721,7 +13000,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:34.834Z",
+    "last_updated": "2026-08-28T05:26:03.142Z",
     "source": "manifest"
   },
   {
@@ -12735,7 +13014,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:34.834Z",
+    "last_updated": "2026-08-28T05:26:03.142Z",
     "source": "manifest"
   },
   {
@@ -12749,7 +13028,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:34.834Z",
+    "last_updated": "2026-08-28T05:26:03.142Z",
     "source": "manifest"
   },
   {
@@ -12763,7 +13042,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:34.834Z",
+    "last_updated": "2026-08-28T05:26:03.142Z",
     "source": "manifest"
   },
   {
@@ -12777,7 +13056,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:34.834Z",
+    "last_updated": "2026-08-28T05:26:03.142Z",
     "source": "manifest"
   },
   {
@@ -12900,7 +13179,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:35.635Z",
+    "last_updated": "2026-08-28T05:26:03.921Z",
     "source": "manifest"
   },
   {
@@ -12929,7 +13208,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:04:36.524Z",
+    "last_updated": "2026-08-28T05:26:04.651Z",
     "source": "manifest"
   },
   {
@@ -12956,7 +13235,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:37.297Z",
+    "last_updated": "2026-08-28T05:26:05.363Z",
     "source": "manifest"
   },
   {
@@ -13055,7 +13334,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:39.297Z",
+    "last_updated": "2026-08-28T05:26:06.123Z",
     "source": "manifest"
   },
   {
@@ -13082,7 +13361,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:40.096Z",
+    "last_updated": "2026-08-28T05:26:06.894Z",
     "source": "manifest"
   },
   {
@@ -13169,7 +13448,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:40.931Z",
+    "last_updated": "2026-08-28T05:26:07.628Z",
     "source": "manifest"
   },
   {
@@ -13196,7 +13475,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:41.725Z",
+    "last_updated": "2026-08-28T05:26:08.387Z",
     "source": "manifest"
   },
   {
@@ -13205,9 +13484,21 @@
     "category": "Misc",
     "source_location": "https://github.com/Nytra/ResoniteExposePatchedMethods",
     "author": "Nytra",
-    "latest_version": "v5.1.1",
-    "latest_download_url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.1.1/ExposePatchedMethods.dll",
+    "latest_version": "v5.1.2",
+    "latest_download_url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.1.2/ExposePatchedMethods.dll",
     "releases": [
+      {
+        "version": "v5.1.2",
+        "download_url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.1.2/ExposePatchedMethods.dll",
+        "release_url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/tag/v5.1.2",
+        "published_at": "2026-08-28T04:51:18Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* Fix for slot children return type change (recompile) by @Nytra in https://github.com/Nytra/ResoniteExposePatchedMethods/pull/3\r\n\r\n**Full Changelog**: https://github.com/Nytra/ResoniteExposePatchedMethods/compare/v5.1.1...v5.1.2",
+        "file_name": "ExposePatchedMethods.dll",
+        "file_size": 12800,
+        "sha256": "8223fea83a169edb8342ae7f320f69de83c3c1d61c149d0850303c7c360e1c06"
+      },
       {
         "version": "v5.1.1",
         "download_url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.1.1/ExposePatchedMethods.dll",
@@ -13247,7 +13538,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:42.458Z",
+    "last_updated": "2026-08-28T05:26:10.322Z",
     "source": "manifest"
   },
   {
@@ -13360,7 +13651,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-08-27T21:04:43.290Z",
+    "last_updated": "2026-08-28T05:26:11.103Z",
     "source": "manifest"
   },
   {
@@ -13447,7 +13738,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:44.088Z",
+    "last_updated": "2026-08-28T05:26:11.887Z",
     "source": "manifest"
   },
   {
@@ -13534,7 +13825,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:44.865Z",
+    "last_updated": "2026-08-28T05:26:12.635Z",
     "source": "manifest"
   },
   {
@@ -13597,7 +13888,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:45.681Z",
+    "last_updated": "2026-08-28T05:26:13.418Z",
     "source": "manifest"
   },
   {
@@ -13672,7 +13963,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:46.468Z",
+    "last_updated": "2026-08-28T05:26:14.217Z",
     "source": "manifest"
   },
   {
@@ -13723,7 +14014,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:47.306Z",
+    "last_updated": "2026-08-28T05:26:14.952Z",
     "source": "manifest"
   },
   {
@@ -13774,7 +14065,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:48.142Z",
+    "last_updated": "2026-08-28T05:26:15.731Z",
     "source": "manifest"
   },
   {
@@ -13783,9 +14074,21 @@
     "category": "Plugins",
     "source_location": "https://github.com/Nytra/ResonitePluginSelect",
     "author": "Nytra",
-    "latest_version": "v1.0.1",
-    "latest_download_url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.1/PluginSelect.dll",
+    "latest_version": "v1.0.2",
+    "latest_download_url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.2/PluginSelect.dll",
     "releases": [
+      {
+        "version": "v1.0.2",
+        "download_url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.2/PluginSelect.dll",
+        "release_url": "https://github.com/Nytra/ResonitePluginSelect/releases/tag/v1.0.2",
+        "published_at": "2026-08-27T21:55:08Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* Fix for ports change by @Nytra in https://github.com/Nytra/ResonitePluginSelect/pull/3\r\n\r\n**Full Changelog**: https://github.com/Nytra/ResonitePluginSelect/compare/v1.0.1...v1.0.2",
+        "file_name": "PluginSelect.dll",
+        "file_size": 13312,
+        "sha256": "984e2281b5dac29967a0ba5aabc2e25cb83e406150bb486bd64487eef7c9980a"
+      },
       {
         "version": "v1.0.1",
         "download_url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.1/PluginSelect.dll",
@@ -13813,7 +14116,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:48.888Z",
+    "last_updated": "2026-08-28T05:26:17.763Z",
     "source": "manifest"
   },
   {
@@ -13822,9 +14125,21 @@
     "category": "Wizards",
     "source_location": "https://github.com/Nytra/ResoniteReferenceFinderWizard",
     "author": "Nytra",
-    "latest_version": "v1.2.0",
-    "latest_download_url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.2.0/ReferenceFinderWizard.dll",
+    "latest_version": "v1.2.1",
+    "latest_download_url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.2.1/ReferenceFinderWizard.dll",
     "releases": [
+      {
+        "version": "v1.2.1",
+        "download_url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.2.1/ReferenceFinderWizard.dll",
+        "release_url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.2.1",
+        "published_at": "2026-08-27T21:35:24Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "## What's Changed\r\n* Fix for slot children return type change (Just a recompile, version bump) by @Nytra in https://github.com/Nytra/ResoniteReferenceFinderWizard/pull/7\r\n\r\n**Full Changelog**: https://github.com/Nytra/ResoniteReferenceFinderWizard/compare/v1.2.0...v1.2.1",
+        "file_name": "ReferenceFinderWizard.dll",
+        "file_size": 28672,
+        "sha256": "e9306832b7c8680db407a28dae584a0614a7b26ef7f1cecb5bb5942fb320a0d5"
+      },
       {
         "version": "v1.2.0",
         "download_url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.2.0/ReferenceFinderWizard.dll",
@@ -13924,7 +14239,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:49.633Z",
+    "last_updated": "2026-08-28T05:26:19.750Z",
     "source": "manifest"
   },
   {
@@ -13963,7 +14278,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:50.416Z",
+    "last_updated": "2026-08-28T05:26:20.486Z",
     "source": "manifest"
   },
   {
@@ -14026,7 +14341,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:51.204Z",
+    "last_updated": "2026-08-28T05:26:21.264Z",
     "source": "manifest"
   },
   {
@@ -14257,7 +14572,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:52.028Z",
+    "last_updated": "2026-08-28T05:26:22.077Z",
     "source": "manifest"
   },
   {
@@ -14320,7 +14635,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:52.836Z",
+    "last_updated": "2026-08-28T05:26:22.817Z",
     "source": "manifest"
   },
   {
@@ -14359,7 +14674,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:53.588Z",
+    "last_updated": "2026-08-28T05:26:23.526Z",
     "source": "manifest"
   },
   {
@@ -14398,7 +14713,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:54.395Z",
+    "last_updated": "2026-08-28T05:26:24.270Z",
     "source": "manifest"
   },
   {
@@ -14425,7 +14740,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:55.185Z",
+    "last_updated": "2026-08-28T05:26:25.061Z",
     "source": "manifest"
   },
   {
@@ -14464,7 +14779,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-08-27T21:04:55.961Z",
+    "last_updated": "2026-08-28T05:26:25.793Z",
     "source": "manifest"
   },
   {
@@ -14638,7 +14953,7 @@
       "v0.2.0"
     ],
     "flags": null,
-    "last_updated": "2026-08-27T21:04:56.318Z",
+    "last_updated": "2026-08-28T05:26:26.085Z",
     "source": "additional"
   }
 ]
