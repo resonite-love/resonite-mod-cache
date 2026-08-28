@@ -1609,6 +1609,20 @@
     "file_name": "EsnyaResoniteModTemplate.dll",
     "file_size": 7168
   },
+  "fc0aaa54c02519233448cf5f75d9490b0166b4aecf01c3ed43d0e09427783fb7": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v2.0.1",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_name": "EsnyaTweaks.FluxLoopTweaks.dll",
+    "file_size": 16384
+  },
+  "7b004b34e9a423daa85519b22f2b68ab4e8c354b364c5ffb0ac6c072db43606f": {
+    "mod_name": "EsnyaTweaks",
+    "version": "v2.0.0",
+    "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.Common.PureTests.dll",
+    "file_name": "EsnyaTweaks.Common.PureTests.dll",
+    "file_size": 11776
+  },
   "c2fd09becc7f49528eb7d0ce1d41c399d301a8fe31c8f93cd5ece34082f43b1d": {
     "mod_name": "EsnyaTweaks",
     "version": "v1.0.0",
@@ -1664,6 +1678,13 @@
     "download_url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.0.2/EsnyaTweaks.dll",
     "file_name": "EsnyaTweaks.dll",
     "file_size": 21504
+  },
+  "094a0ca8f3c380dc36de7eb3a0f93ccb6d80b63bdfe8d220a551d455a6154e64": {
+    "mod_name": "Resonite Metrics Counter",
+    "version": "v0.8.1",
+    "download_url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.8.1/ResoniteMetricsCounter.dll",
+    "file_name": "ResoniteMetricsCounter.dll",
+    "file_size": 60416
   },
   "cb0b3c883de4ab417fb8da0e4f5bd09dd32fea201d0405732077e9fa3e2cf381": {
     "mod_name": "Resonite Metrics Counter",
@@ -4583,6 +4604,13 @@
     "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.1/ResoniteShowSourceLocation.dll",
     "file_name": "ResoniteShowSourceLocation.dll",
     "file_size": 10240
+  },
+  "f4d9f97695cf8f005b59f0de59b26ce0817398410ae51a5d895f3ac21f306599": {
+    "mod_name": "WorldOrbDynVars",
+    "version": "v1.1.1",
+    "download_url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.1.1/WorldOrbDynVars.dll",
+    "file_name": "WorldOrbDynVars.dll",
+    "file_size": 11264
   },
   "ea86c1e3ef8e86134c96cdb2dd09c2e53975e95a50751607d53c48f45f1ef818": {
     "mod_name": "WorldOrbDynVars",
