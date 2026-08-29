@@ -6306,6 +6306,13 @@
     "file_name": "QuickPick.dll",
     "file_size": 18944
   },
+  "b85b132af14f6b2bf1db3a1a5ccfcaba2bedc3c2b366e00f44a34c9767d5e91d": {
+    "mod_name": "AvatarModuleInjector",
+    "version": "v0.12.2",
+    "download_url": "https://github.com/lill-la/AvatarModuleInjector/releases/download/v0.12.2/AvatarModuleInjector.dll",
+    "file_name": "AvatarModuleInjector.dll",
+    "file_size": 19968
+  },
   "818e20a872e536cba22cb0345cd8776634641c25b45bc9f671adb93600a25b3f": {
     "mod_name": "AvatarModuleInjector",
     "version": "v0.12.1",
