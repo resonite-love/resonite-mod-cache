@@ -2547,6 +2547,13 @@
     "file_name": "DiscordRPC.dll",
     "file_size": 94208
   },
+  "a81f637d3dc52637918a02fab9379149f1a686814e5e8d51c05cbede72983f32": {
+    "mod_name": "BoundedUIX (djsime1's fork)",
+    "version": "1.1.4",
+    "download_url": "https://github.com/djsime1/BoundedUIX/releases/download/1.1.4/BoundedUIX.dll",
+    "file_name": "BoundedUIX.dll",
+    "file_size": 35328
+  },
   "a195b75bf23d4f9dd1a2fff140da06d653d5cc2269cbdffabedd833f476bd55f": {
     "mod_name": "BoundedUIX (djsime1's fork)",
     "version": "1.1.3",
