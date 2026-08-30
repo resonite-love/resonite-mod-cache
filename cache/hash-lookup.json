@@ -1147,6 +1147,13 @@
     "file_name": "SlotInspectorHighlighter.dll",
     "file_size": 7168
   },
+  "8f4123bdee972a44b358803c07880687a182a56ddb6a724fc9954ee86f4eca89": {
+    "mod_name": "BoneReferenceHelper",
+    "version": "v2.2.2",
+    "download_url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.2.2/BoneReferenceHelper.dll",
+    "file_name": "BoneReferenceHelper.dll",
+    "file_size": 24576
+  },
   "17c6afc906042ac31df8d9e4e18684b01eaf804316141850172bbcca30331afb": {
     "mod_name": "BoneReferenceHelper",
     "version": "v2.2.1",
@@ -1223,6 +1230,13 @@
     "download_url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v1.0.0/BoneReferenceHelper.dll",
     "file_name": "BoneReferenceHelper.dll",
     "file_size": 11776
+  },
+  "f60f3591dfb889a5460489525496b31b7c58ab2811002ccbb0d9de8f16c6f2b6": {
+    "mod_name": "DynVarGenerator",
+    "version": "1.3.5",
+    "download_url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.5/DynVarGenerator.dll",
+    "file_name": "DynVarGenerator.dll",
+    "file_size": 22016
   },
   "837b436da5f72fe493fbd4ac12febbdc4ef1c0290315afca517e841efb7b8317": {
     "mod_name": "DynVarGenerator",
@@ -4520,6 +4534,13 @@
     "download_url": "https://github.com/XDelta/ResoniteOpenInSteamOverlay/releases/download/1.0.0/OpenInSteamOverlay.dll",
     "file_name": "OpenInSteamOverlay.dll",
     "file_size": 8192
+  },
+  "ef4084905c54cb13793ac98f07da899cc0167ce60742f86ac88a7c0a5cd4d6cb": {
+    "mod_name": "PermissionControl",
+    "version": "2.0.3",
+    "download_url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.3/PermissionControl.dll",
+    "file_name": "PermissionControl.dll",
+    "file_size": 13824
   },
   "86a8a549ed6d01715474337df575292fde94b594bb64b20cdad10eaea8858074": {
     "mod_name": "PermissionControl",
