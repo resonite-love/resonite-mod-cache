@@ -146,6 +146,20 @@
     "file_name": "TypePicker.dll",
     "file_size": 13312
   },
+  "8ba32b3bc1d4bec7f9fd9332eb357d6d87809788aef5f7020acabf668dce4510": {
+    "mod_name": "FBTCalibratorFollowHead",
+    "version": "v1.0.2",
+    "download_url": "https://github.com/ModernBalloonie/FBTCalibratorFollowHead/releases/download/v1.0.2/FBTCalibratorFollowHead.dll",
+    "file_name": "FBTCalibratorFollowHead.dll",
+    "file_size": 8192
+  },
+  "df75db14ca49d96fad6d0d6237e34e9c8559d0621a9ebd2b5a040b86c952a80d": {
+    "mod_name": "FBTCalibratorFollowHead",
+    "version": "Release",
+    "download_url": "https://github.com/ModernBalloonie/FBTCalibratorFollowHead/releases/download/Release/FBTCalibratorFollowHead.dll",
+    "file_name": "FBTCalibratorFollowHead.dll",
+    "file_size": 7168
+  },
   "090dec10c91d044d65de2b9ac8c72393148d066950ef0ee36745989c00b58016": {
     "mod_name": "AutoAcceptInvite",
     "version": "v2.0.4",
@@ -530,6 +544,13 @@
     "download_url": "https://github.com/Restrainite/Restrainite/releases/download/v0.3.5/Restrainite.dll",
     "file_name": "Restrainite.dll",
     "file_size": 49152
+  },
+  "3a5edbb7b12a8fd5c2b4cebd3336be105f37153a8f3a9b3829f496e9478689ad": {
+    "mod_name": "ArrayEditing",
+    "version": "1.0.2",
+    "download_url": "https://github.com/RyanVittore/ArrayEditing/releases/download/1.0.2/ArrayEditing.dll",
+    "file_name": "ArrayEditing.dll",
+    "file_size": 27648
   },
   "46d5a612c81e5bdcf1a728d71cea0d0c11945406a1839f5d142797f6225a04c8": {
     "mod_name": "ArrayEditing",
