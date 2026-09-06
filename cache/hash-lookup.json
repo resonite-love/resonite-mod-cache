@@ -4703,6 +4703,13 @@
     "file_name": "SettingsRedux.dll",
     "file_size": 27136
   },
+  "47798ff9bae8f02627b3d6c4ca289d604b9be05f58c21bb0454fcf9bd8bac1a2": {
+    "mod_name": "ShowHiddenComponents",
+    "version": "1.0.0",
+    "download_url": "https://github.com/XDelta/ShowHiddenComponents/releases/download/1.0.0/ShowHiddenComponents.dll",
+    "file_name": "ShowHiddenComponents.dll",
+    "file_size": 6656
+  },
   "c01295d424734b6e2f3531e3bd2ee0ee8915e77d231a2bbfcad7c29c8fc6a3bd": {
     "mod_name": "ShowSourceLocation",
     "version": "1.2.3",
