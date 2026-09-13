@@ -4766,12 +4766,40 @@
     "file_name": "ResoniteShowSourceLocation.dll",
     "file_size": 10240
   },
+  "14c17c99293288eda8a6e70451ae88b1d7079d5b89e935effd08db72093095c9": {
+    "mod_name": "CustomJoinVerifierWhitelist",
+    "version": "v1.1.1",
+    "download_url": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/download/v1.1.1/CustomJoinVerifierWhitelist.dll",
+    "file_name": "CustomJoinVerifierWhitelist.dll",
+    "file_size": 9216
+  },
+  "6bc8041832155cad7f9f6cf2e64571d9b53051dd9f05a78bd48896326496fc2d": {
+    "mod_name": "CustomJoinVerifierWhitelist",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/download/v1.1.0/CustomJoinVerifierWhitelist.dll",
+    "file_name": "CustomJoinVerifierWhitelist.dll",
+    "file_size": 9216
+  },
+  "11c2b8711f0ad8bfd8b84fbb97c387ec9e5eaa86e0f48c4397f938cecdf7e2f7": {
+    "mod_name": "CustomJoinVerifierWhitelist",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/download/v1.0.0/CustomJoinVerifierWhitelist.dll",
+    "file_name": "CustomJoinVerifierWhitelist.dll",
+    "file_size": 7680
+  },
   "cd2e3c9cdff2b498aa2e16614f4f5d0814a0d12722c00d84708a10c81e455697": {
     "mod_name": "GetItemLink",
     "version": "v2.0.0",
     "download_url": "https://github.com/Cyberboss/ResoniteGetItemLink/releases/download/v2.0.0/GetItemLink.dll",
     "file_name": "GetItemLink.dll",
     "file_size": 12800
+  },
+  "930b60b421f94417370d15d927472a534f6788d114882481e1b79d577dc5d41e": {
+    "mod_name": "OpenReferenceProxyAtHand",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Cyberboss/OpenReferenceProxyAtHand/releases/download/v1.0.0/OpenReferenceProxyAtHand.dll",
+    "file_name": "OpenReferenceProxyAtHand.dll",
+    "file_size": 7680
   },
   "f4d9f97695cf8f005b59f0de59b26ce0817398410ae51a5d895f3ac21f306599": {
     "mod_name": "WorldOrbDynVars",
