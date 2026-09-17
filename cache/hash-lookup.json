@@ -2589,6 +2589,41 @@
     "file_name": "GrabbersGalore.dll",
     "file_size": 8704
   },
+  "3803b8cb6671d05eb9d445a88d2a925ad31bcea93da068621a506c2a7218f92e": {
+    "mod_name": "UnifiedExpressionMapper",
+    "version": "v1.1.2",
+    "download_url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.1.2/UnifiedExpressionMapper.dll",
+    "file_name": "UnifiedExpressionMapper.dll",
+    "file_size": 35840
+  },
+  "189978ab51fc79fdc453a8149e03c240ade69d6e1e7fd55a94fb665a92853279": {
+    "mod_name": "UnifiedExpressionMapper",
+    "version": "v1.1.1",
+    "download_url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.1.1/UnifiedExpressionMapper.dll",
+    "file_name": "UnifiedExpressionMapper.dll",
+    "file_size": 35840
+  },
+  "0484dd67ddd441adc599ea95f17732ea822acc22fd1bc4b27e2fc4877950c501": {
+    "mod_name": "UnifiedExpressionMapper",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.1.0/UnifiedExpressionMapper.dll",
+    "file_name": "UnifiedExpressionMapper.dll",
+    "file_size": 35840
+  },
+  "441d670eda20eb08fe71e5595146f9f689ba13b9f29a29727dea554a17fe167a": {
+    "mod_name": "UnifiedExpressionMapper",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.0.1/UnifiedExpressionMapper.dll",
+    "file_name": "UnifiedExpressionMapper.dll",
+    "file_size": 32768
+  },
+  "d3a9b1623c2c7d5decc770fd89025b76ba456613b0bfc07513c5d8a8b142acdf": {
+    "mod_name": "UnifiedExpressionMapper",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.0.0/UnifiedExpressionMapper.dll",
+    "file_name": "UnifiedExpressionMapper.dll",
+    "file_size": 33280
+  },
   "7eeb01cffaad1a8e2179ac873877beceea3c4e9e9d72cd9545374e86f58cc8af": {
     "mod_name": "SteamRecentUsers",
     "version": "1.0.2",
