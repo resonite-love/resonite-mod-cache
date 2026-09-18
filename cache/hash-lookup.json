@@ -4500,6 +4500,13 @@
     "file_name": "ReArmature.dll",
     "file_size": 8192
   },
+  "dd0e4f0e826e841d8fe9ec442e9afc4e6dc495385ee53d2e8dc77414289ac560": {
+    "mod_name": "ComponentRunUpgrade",
+    "version": "1.0.0",
+    "download_url": "https://github.com/XDelta/ComponentRunUpgrade/releases/download/1.0.0/ComponentRunUpgrade.dll",
+    "file_name": "ComponentRunUpgrade.dll",
+    "file_size": 6656
+  },
   "dfcef674ddc65bb70778860cda9aabb3b5a5fe934284491472ac56c4f1ae589b": {
     "mod_name": "ContextMenuControl",
     "version": "1.0.1",
@@ -4828,6 +4835,27 @@
     "download_url": "https://github.com/Cyberboss/ResoniteGetItemLink/releases/download/v2.0.0/GetItemLink.dll",
     "file_name": "GetItemLink.dll",
     "file_size": 12800
+  },
+  "d1d8c059ee131299f5edc59a41dfdacae8be22bdc18f81fc52d5c6f7125518d5": {
+    "mod_name": "LetMeIn",
+    "version": "v1.1.0",
+    "download_url": "https://github.com/Cyberboss/LetMeIn/releases/download/v1.1.0/LetMeIn.dll",
+    "file_name": "LetMeIn.dll",
+    "file_size": 10240
+  },
+  "2f53a354953c07cf9d9ce3f321047977521fb1efb1b0173b0f30d2c0c9be521d": {
+    "mod_name": "LetMeIn",
+    "version": "v1.0.1",
+    "download_url": "https://github.com/Cyberboss/LetMeIn/releases/download/v1.0.1/LetMeIn.dll",
+    "file_name": "LetMeIn.dll",
+    "file_size": 7680
+  },
+  "e5dd3ff431fced710257d980ecd700a665b47c5a7fc1709b69a83841cb8a5845": {
+    "mod_name": "LetMeIn",
+    "version": "v1.0.0.0",
+    "download_url": "https://github.com/Cyberboss/LetMeIn/releases/download/v1.0.0.0/LetMeIn.dll",
+    "file_name": "LetMeIn.dll",
+    "file_size": 7680
   },
   "930b60b421f94417370d15d927472a534f6788d114882481e1b79d577dc5d41e": {
     "mod_name": "OpenReferenceProxyAtHand",
