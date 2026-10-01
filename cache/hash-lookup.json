@@ -1609,6 +1609,48 @@
     "file_name": "IDontNeedHelp.dll",
     "file_size": 15360
   },
+  "93b44bdae9fda6486f9b4bce1606a46159134394f38b6d0698c73deef6d81d3f": {
+    "mod_name": "Numantics",
+    "version": "1.0.3f",
+    "download_url": "https://github.com/nalathethird/Numantics/releases/download/1.0.3f/Numantics.dll",
+    "file_name": "Numantics.dll",
+    "file_size": 16384
+  },
+  "595088934d0dd838b3997087cfafc015b96a2d27093aeaeb64bd007eb1c3b4f0": {
+    "mod_name": "Numantics",
+    "version": "1.0.3",
+    "download_url": "https://github.com/nalathethird/Numantics/releases/download/1.0.3/Numantics.dll",
+    "file_name": "Numantics.dll",
+    "file_size": 14336
+  },
+  "2386b8ce5aebfc4935b15ad89f56b35fca74b4c4c22958a213cf2cf051233817": {
+    "mod_name": "Numantics",
+    "version": "1.0.2f",
+    "download_url": "https://github.com/nalathethird/Numantics/releases/download/1.0.2f/Numantics.dll",
+    "file_name": "Numantics.dll",
+    "file_size": 29184
+  },
+  "27649e29a2d4311f987cf5a87ee6768b2046ccfb40188608724b980d5a519044": {
+    "mod_name": "Numantics",
+    "version": "1.0.2",
+    "download_url": "https://github.com/nalathethird/Numantics/releases/download/1.0.2/Numantics.dll",
+    "file_name": "Numantics.dll",
+    "file_size": 26624
+  },
+  "4ce1b5f27f339f81f2f271f831a56ac1fa7e7c0042abc31735e4c6b139ec1cb6": {
+    "mod_name": "Numantics",
+    "version": "1.0.1",
+    "download_url": "https://github.com/nalathethird/Numantics/releases/download/1.0.1/Numantics.dll",
+    "file_name": "Numantics.dll",
+    "file_size": 29184
+  },
+  "72b8a65dedc58f5698bbfbab2825d18ecab64d454def326033c798a5ba3211a3": {
+    "mod_name": "Numantics",
+    "version": "1.0.0",
+    "download_url": "https://github.com/nalathethird/Numantics/releases/download/1.0.0/Numantics.dll",
+    "file_name": "Numantics.dll",
+    "file_size": 16896
+  },
   "73d2b49dc66c3045a0197ecc78350dbe23603beedaaef1be4874f968787232d1": {
     "mod_name": "SessionCaptureBlocker",
     "version": "1.1.0",
