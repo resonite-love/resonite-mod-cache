@@ -4570,6 +4570,27 @@
     "file_name": "ContextMenuControl.dll",
     "file_size": 8704
   },
+  "b5cd3da42f98136104e5300107d263ffc13ef8a85ed9c31a63c6c2642c06ca3e": {
+    "mod_name": "DisableSRAnipal",
+    "version": "1.0.2",
+    "download_url": "https://github.com/XDelta/DisableSRAnipal/releases/download/1.0.2/DisableSRAnipal.dll",
+    "file_name": "DisableSRAnipal.dll",
+    "file_size": 6144
+  },
+  "ee3fb4a58176469a774eb5bde82d40eff6791e13199563eafb9110c7a5ca3d44": {
+    "mod_name": "DisableSRAnipal",
+    "version": "1.0.1",
+    "download_url": "https://github.com/XDelta/DisableSRAnipal/releases/download/1.0.1/DisableSRAnipal.dll",
+    "file_name": "DisableSRAnipal.dll",
+    "file_size": 6656
+  },
+  "c30b49b2be0c708cc4260c035b5821ed24676a57c237e15d033a9ab428ea393d": {
+    "mod_name": "DisableSRAnipal",
+    "version": "1.0.0",
+    "download_url": "https://github.com/XDelta/DisableSRAnipal/releases/download/1.0.0/DisableSRAnipal.dll",
+    "file_name": "DisableSRAnipal.dll",
+    "file_size": 6656
+  },
   "04163aa28f5a9254019c45afe424d1ba950c86fcc65e6d724b2e7f70541c868d": {
     "mod_name": "Fish",
     "version": "1.1.0",
@@ -4842,6 +4863,13 @@
     "download_url": "https://github.com/XDelta/ResoniteShowSourceLocation/releases/download/1.1.1/ResoniteShowSourceLocation.dll",
     "file_name": "ResoniteShowSourceLocation.dll",
     "file_size": 10240
+  },
+  "387e803d0e0f1afc830c478a3ea0cda4b50f61c8b7e3073739d294456ff2f062": {
+    "mod_name": "AnimatorTrackReference",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Cyberboss/AnimatorTrackReference/releases/download/v1.0.0/AnimatorTrackReference.dll",
+    "file_name": "AnimatorTrackReference.dll",
+    "file_size": 9728
   },
   "14c17c99293288eda8a6e70451ae88b1d7079d5b89e935effd08db72093095c9": {
     "mod_name": "CustomJoinVerifierWhitelist",
