@@ -727,6 +727,13 @@
     "file_name": "Restonite.dll",
     "file_size": 41984
   },
+  "3656014a0e92a0bc4abf10b341bb0da9e5b2ad02a13274a29774fa9cc0b5b111": {
+    "mod_name": "AutoResoLink",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/XekriRedmane/AutoResoLink/releases/download/v1.0.0/AutoResoLink.dll",
+    "file_name": "AutoResoLink.dll",
+    "file_size": 33792
+  },
   "66e3df17d17d59ccae878950a9b0ddda7aac072737e5dc7628813c2868ec7385": {
     "mod_name": "DynBoneWrangler",
     "version": "v1.0.1",
@@ -4695,6 +4702,13 @@
     "download_url": "https://github.com/XDelta/ResoniteOpenInSteamOverlay/releases/download/1.0.0/OpenInSteamOverlay.dll",
     "file_name": "OpenInSteamOverlay.dll",
     "file_size": 8192
+  },
+  "2fb7330f38faf1b563af4b77a15493efd0bad9efc6c85d6b23fc3eb29bd86d0b": {
+    "mod_name": "PermissionControl",
+    "version": "2.1.0",
+    "download_url": "https://github.com/XDelta/PermissionControl/releases/download/2.1.0/PermissionControl.dll",
+    "file_name": "PermissionControl.dll",
+    "file_size": 14336
   },
   "ef4084905c54cb13793ac98f07da899cc0167ce60742f86ac88a7c0a5cd4d6cb": {
     "mod_name": "PermissionControl",
