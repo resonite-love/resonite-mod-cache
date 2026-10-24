@@ -73,7 +73,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:11:46.478Z",
+    "last_updated": "2026-10-24T23:14:54.526Z",
     "source": "manifest"
   },
   {
@@ -102,7 +102,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:11:47.249Z",
+    "last_updated": "2026-10-24T23:14:55.316Z",
     "source": "manifest"
   },
   {
@@ -141,7 +141,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:11:48.032Z",
+    "last_updated": "2026-10-24T23:14:56.124Z",
     "source": "manifest"
   },
   {
@@ -192,7 +192,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:11:48.833Z",
+    "last_updated": "2026-10-24T23:14:56.924Z",
     "source": "manifest"
   },
   {
@@ -245,7 +245,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:11:49.685Z",
+    "last_updated": "2026-10-24T23:14:57.679Z",
     "source": "manifest"
   },
   {
@@ -296,7 +296,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:11:50.436Z",
+    "last_updated": "2026-10-24T23:14:58.486Z",
     "source": "manifest"
   },
   {
@@ -335,7 +335,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:11:51.209Z",
+    "last_updated": "2026-10-24T23:14:59.273Z",
     "source": "manifest"
   },
   {
@@ -374,7 +374,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:11:52.001Z",
+    "last_updated": "2026-10-24T23:15:00.063Z",
     "source": "manifest"
   },
   {
@@ -413,7 +413,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:11:52.779Z",
+    "last_updated": "2026-10-24T23:15:00.894Z",
     "source": "manifest"
   },
   {
@@ -464,7 +464,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:11:53.539Z",
+    "last_updated": "2026-10-24T23:15:01.703Z",
     "source": "manifest"
   },
   {
@@ -1103,7 +1103,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:11:54.475Z",
+    "last_updated": "2026-10-24T23:15:02.691Z",
     "source": "manifest"
   },
   {
@@ -1172,7 +1172,7 @@
       "point"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:11:55.309Z",
+    "last_updated": "2026-10-24T23:15:03.552Z",
     "source": "manifest"
   },
   {
@@ -1211,7 +1211,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:11:56.086Z",
+    "last_updated": "2026-10-24T23:15:04.400Z",
     "source": "manifest"
   },
   {
@@ -1466,7 +1466,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:11:56.915Z",
+    "last_updated": "2026-10-24T23:15:05.265Z",
     "source": "manifest"
   },
   {
@@ -1505,7 +1505,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:11:57.716Z",
+    "last_updated": "2026-10-24T23:15:06.163Z",
     "source": "manifest"
   },
   {
@@ -1525,7 +1525,7 @@
       "ProtoFlux"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:11:57.716Z",
+    "last_updated": "2026-10-24T23:15:06.163Z",
     "source": "manifest"
   },
   {
@@ -1544,7 +1544,7 @@
       "cloud"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:11:57.716Z",
+    "last_updated": "2026-10-24T23:15:06.163Z",
     "source": "manifest"
   },
   {
@@ -1585,7 +1585,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:11:58.568Z",
+    "last_updated": "2026-10-24T23:15:06.982Z",
     "source": "manifest"
   },
   {
@@ -1624,7 +1624,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:11:59.375Z",
+    "last_updated": "2026-10-24T23:15:07.864Z",
     "source": "manifest"
   },
   {
@@ -1675,7 +1675,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:00.131Z",
+    "last_updated": "2026-10-24T23:15:08.627Z",
     "source": "manifest"
   },
   {
@@ -1714,7 +1714,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:00.909Z",
+    "last_updated": "2026-10-24T23:15:09.429Z",
     "source": "manifest"
   },
   {
@@ -1828,7 +1828,7 @@
       "favorite"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:01.751Z",
+    "last_updated": "2026-10-24T23:15:10.230Z",
     "source": "manifest"
   },
   {
@@ -1885,7 +1885,7 @@
     "flags": [
       "broken"
     ],
-    "last_updated": "2026-10-24T21:12:02.547Z",
+    "last_updated": "2026-10-24T23:15:11.067Z",
     "source": "manifest"
   },
   {
@@ -2080,7 +2080,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:03.355Z",
+    "last_updated": "2026-10-24T23:15:11.878Z",
     "source": "manifest"
   },
   {
@@ -2131,7 +2131,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:04.130Z",
+    "last_updated": "2026-10-24T23:15:12.625Z",
     "source": "manifest"
   },
   {
@@ -2166,7 +2166,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:12:04.923Z",
+    "last_updated": "2026-10-24T23:15:13.449Z",
     "source": "manifest"
   },
   {
@@ -2205,7 +2205,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:05.713Z",
+    "last_updated": "2026-10-24T23:15:14.288Z",
     "source": "manifest"
   },
   {
@@ -2246,7 +2246,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:12:06.465Z",
+    "last_updated": "2026-10-24T23:15:15.076Z",
     "source": "manifest"
   },
   {
@@ -2273,7 +2273,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:07.211Z",
+    "last_updated": "2026-10-24T23:15:15.901Z",
     "source": "manifest"
   },
   {
@@ -2312,7 +2312,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:07.983Z",
+    "last_updated": "2026-10-24T23:15:16.667Z",
     "source": "manifest"
   },
   {
@@ -2375,7 +2375,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:08.734Z",
+    "last_updated": "2026-10-24T23:15:17.464Z",
     "source": "manifest"
   },
   {
@@ -2538,7 +2538,7 @@
       "link"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:09.536Z",
+    "last_updated": "2026-10-24T23:15:18.264Z",
     "source": "manifest"
   },
   {
@@ -2625,7 +2625,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:10.287Z",
+    "last_updated": "2026-10-24T23:15:19.042Z",
     "source": "manifest"
   },
   {
@@ -2664,7 +2664,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:11.072Z",
+    "last_updated": "2026-10-24T23:15:19.808Z",
     "source": "manifest"
   },
   {
@@ -2823,7 +2823,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:11.893Z",
+    "last_updated": "2026-10-24T23:15:20.646Z",
     "source": "manifest"
   },
   {
@@ -2994,7 +2994,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:12.656Z",
+    "last_updated": "2026-10-24T23:15:21.465Z",
     "source": "manifest"
   },
   {
@@ -3035,7 +3035,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:12:13.531Z",
+    "last_updated": "2026-10-24T23:15:22.256Z",
     "source": "manifest"
   },
   {
@@ -3124,7 +3124,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:12:14.344Z",
+    "last_updated": "2026-10-24T23:15:23.089Z",
     "source": "manifest"
   },
   {
@@ -3187,7 +3187,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:15.156Z",
+    "last_updated": "2026-10-24T23:15:23.854Z",
     "source": "manifest"
   },
   {
@@ -3298,7 +3298,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:16.015Z",
+    "last_updated": "2026-10-24T23:15:24.721Z",
     "source": "manifest"
   },
   {
@@ -3337,7 +3337,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:16.758Z",
+    "last_updated": "2026-10-24T23:15:25.506Z",
     "source": "manifest"
   },
   {
@@ -3402,7 +3402,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:12:17.542Z",
+    "last_updated": "2026-10-24T23:15:26.316Z",
     "source": "manifest"
   },
   {
@@ -3429,7 +3429,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:18.317Z",
+    "last_updated": "2026-10-24T23:15:27.103Z",
     "source": "manifest"
   },
   {
@@ -3443,7 +3443,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:19.068Z",
+    "last_updated": "2026-10-24T23:15:27.822Z",
     "source": "manifest"
   },
   {
@@ -3568,7 +3568,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:12:19.862Z",
+    "last_updated": "2026-10-24T23:15:28.622Z",
     "source": "manifest"
   },
   {
@@ -3595,7 +3595,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:20.631Z",
+    "last_updated": "2026-10-24T23:15:29.353Z",
     "source": "manifest"
   },
   {
@@ -3685,7 +3685,7 @@
       "input"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:21.415Z",
+    "last_updated": "2026-10-24T23:15:30.118Z",
     "source": "manifest"
   },
   {
@@ -3766,7 +3766,7 @@
       "photo"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:22.245Z",
+    "last_updated": "2026-10-24T23:15:30.942Z",
     "source": "manifest"
   },
   {
@@ -3805,7 +3805,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:23.035Z",
+    "last_updated": "2026-10-24T23:15:31.764Z",
     "source": "manifest"
   },
   {
@@ -3858,7 +3858,7 @@
     "flags": [
       "broken"
     ],
-    "last_updated": "2026-10-24T21:12:23.803Z",
+    "last_updated": "2026-10-24T23:15:32.491Z",
     "source": "manifest"
   },
   {
@@ -3999,7 +3999,7 @@
     "flags": [
       "broken"
     ],
-    "last_updated": "2026-10-24T21:12:24.454Z",
+    "last_updated": "2026-10-24T23:15:33.216Z",
     "source": "manifest"
   },
   {
@@ -4201,7 +4201,7 @@
     "flags": [
       "broken"
     ],
-    "last_updated": "2026-10-24T21:12:25.099Z",
+    "last_updated": "2026-10-24T23:15:33.888Z",
     "source": "manifest"
   },
   {
@@ -4350,7 +4350,7 @@
     "flags": [
       "plugin"
     ],
-    "last_updated": "2026-10-24T21:12:25.930Z",
+    "last_updated": "2026-10-24T23:15:34.773Z",
     "source": "manifest"
   },
   {
@@ -4381,7 +4381,7 @@
       "dash"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:26.688Z",
+    "last_updated": "2026-10-24T23:15:35.711Z",
     "source": "manifest"
   },
   {
@@ -4496,7 +4496,7 @@
       "tracking"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:27.477Z",
+    "last_updated": "2026-10-24T23:15:36.479Z",
     "source": "manifest"
   },
   {
@@ -4571,7 +4571,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:28.229Z",
+    "last_updated": "2026-10-24T23:15:37.346Z",
     "source": "manifest"
   },
   {
@@ -4622,7 +4622,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:29.030Z",
+    "last_updated": "2026-10-24T23:15:38.163Z",
     "source": "manifest"
   },
   {
@@ -4665,7 +4665,7 @@
       "Grabbable"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:29.787Z",
+    "last_updated": "2026-10-24T23:15:38.924Z",
     "source": "manifest"
   },
   {
@@ -4792,7 +4792,7 @@
       "manager"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:30.548Z",
+    "last_updated": "2026-10-24T23:15:39.811Z",
     "source": "manifest"
   },
   {
@@ -4836,7 +4836,7 @@
       "rgb"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:31.299Z",
+    "last_updated": "2026-10-24T23:15:40.599Z",
     "source": "manifest"
   },
   {
@@ -4891,7 +4891,7 @@
       "Bug"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:32.012Z",
+    "last_updated": "2026-10-24T23:15:41.429Z",
     "source": "manifest"
   },
   {
@@ -4923,7 +4923,7 @@
       "Vive"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:32.847Z",
+    "last_updated": "2026-10-24T23:15:42.292Z",
     "source": "manifest"
   },
   {
@@ -5142,7 +5142,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:33.624Z",
+    "last_updated": "2026-10-24T23:15:43.161Z",
     "source": "manifest"
   },
   {
@@ -5193,7 +5193,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:34.387Z",
+    "last_updated": "2026-10-24T23:15:43.957Z",
     "source": "manifest"
   },
   {
@@ -5388,7 +5388,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:35.166Z",
+    "last_updated": "2026-10-24T23:15:44.777Z",
     "source": "manifest"
   },
   {
@@ -5402,7 +5402,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:36.069Z",
+    "last_updated": "2026-10-24T23:15:45.741Z",
     "source": "manifest"
   },
   {
@@ -5416,7 +5416,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:36.948Z",
+    "last_updated": "2026-10-24T23:15:46.673Z",
     "source": "manifest"
   },
   {
@@ -5430,7 +5430,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:37.929Z",
+    "last_updated": "2026-10-24T23:15:47.576Z",
     "source": "manifest"
   },
   {
@@ -5497,7 +5497,7 @@
       "network"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:38.703Z",
+    "last_updated": "2026-10-24T23:15:48.329Z",
     "source": "manifest"
   },
   {
@@ -5589,7 +5589,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:39.478Z",
+    "last_updated": "2026-10-24T23:15:49.082Z",
     "source": "manifest"
   },
   {
@@ -5622,7 +5622,7 @@
       "WiVRn"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:40.235Z",
+    "last_updated": "2026-10-24T23:15:49.853Z",
     "source": "manifest"
   },
   {
@@ -5661,7 +5661,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:40.997Z",
+    "last_updated": "2026-10-24T23:15:50.623Z",
     "source": "manifest"
   },
   {
@@ -5856,7 +5856,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:41.823Z",
+    "last_updated": "2026-10-24T23:15:51.415Z",
     "source": "manifest"
   },
   {
@@ -5907,7 +5907,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:42.572Z",
+    "last_updated": "2026-10-24T23:15:52.176Z",
     "source": "manifest"
   },
   {
@@ -5946,7 +5946,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:43.320Z",
+    "last_updated": "2026-10-24T23:15:52.933Z",
     "source": "manifest"
   },
   {
@@ -6027,7 +6027,7 @@
       "blendshapes"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:44.079Z",
+    "last_updated": "2026-10-24T23:15:53.737Z",
     "source": "manifest"
   },
   {
@@ -6078,7 +6078,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:44.845Z",
+    "last_updated": "2026-10-24T23:15:54.555Z",
     "source": "manifest"
   },
   {
@@ -6105,7 +6105,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:45.580Z",
+    "last_updated": "2026-10-24T23:15:55.345Z",
     "source": "manifest"
   },
   {
@@ -6125,7 +6125,7 @@
       "job"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:45.580Z",
+    "last_updated": "2026-10-24T23:15:55.345Z",
     "source": "manifest"
   },
   {
@@ -6154,7 +6154,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:12:46.369Z",
+    "last_updated": "2026-10-24T23:15:56.118Z",
     "source": "manifest"
   },
   {
@@ -6236,7 +6236,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:12:47.149Z",
+    "last_updated": "2026-10-24T23:15:56.935Z",
     "source": "manifest"
   },
   {
@@ -6254,7 +6254,7 @@
       "lookatuser"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:47.149Z",
+    "last_updated": "2026-10-24T23:15:56.935Z",
     "source": "manifest"
   },
   {
@@ -6268,7 +6268,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:47.149Z",
+    "last_updated": "2026-10-24T23:15:56.936Z",
     "source": "manifest"
   },
   {
@@ -6343,7 +6343,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:47.937Z",
+    "last_updated": "2026-10-24T23:15:57.704Z",
     "source": "manifest"
   },
   {
@@ -6406,7 +6406,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:48.696Z",
+    "last_updated": "2026-10-24T23:15:58.526Z",
     "source": "manifest"
   },
   {
@@ -6487,7 +6487,7 @@
       "sine"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:12:49.470Z",
+    "last_updated": "2026-10-24T23:15:59.299Z",
     "source": "manifest"
   },
   {
@@ -6538,7 +6538,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:50.230Z",
+    "last_updated": "2026-10-24T23:16:00.076Z",
     "source": "manifest"
   },
   {
@@ -6552,7 +6552,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:50.230Z",
+    "last_updated": "2026-10-24T23:16:00.076Z",
     "source": "manifest"
   },
   {
@@ -6579,7 +6579,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:50.970Z",
+    "last_updated": "2026-10-24T23:16:00.870Z",
     "source": "manifest"
   },
   {
@@ -6630,7 +6630,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:51.719Z",
+    "last_updated": "2026-10-24T23:16:01.674Z",
     "source": "manifest"
   },
   {
@@ -6717,7 +6717,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:52.483Z",
+    "last_updated": "2026-10-24T23:16:02.447Z",
     "source": "manifest"
   },
   {
@@ -6744,7 +6744,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:53.354Z",
+    "last_updated": "2026-10-24T23:16:03.275Z",
     "source": "manifest"
   },
   {
@@ -6795,7 +6795,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:54.136Z",
+    "last_updated": "2026-10-24T23:16:04.137Z",
     "source": "manifest"
   },
   {
@@ -6954,7 +6954,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:54.975Z",
+    "last_updated": "2026-10-24T23:16:04.964Z",
     "source": "manifest"
   },
   {
@@ -6981,7 +6981,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:55.777Z",
+    "last_updated": "2026-10-24T23:16:05.788Z",
     "source": "manifest"
   },
   {
@@ -7044,7 +7044,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:56.508Z",
+    "last_updated": "2026-10-24T23:16:06.571Z",
     "source": "manifest"
   },
   {
@@ -7143,7 +7143,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:57.226Z",
+    "last_updated": "2026-10-24T23:16:07.383Z",
     "source": "manifest"
   },
   {
@@ -7184,7 +7184,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:12:57.987Z",
+    "last_updated": "2026-10-24T23:16:08.245Z",
     "source": "manifest"
   },
   {
@@ -7283,7 +7283,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:58.789Z",
+    "last_updated": "2026-10-24T23:16:09.091Z",
     "source": "manifest"
   },
   {
@@ -7334,7 +7334,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:12:59.536Z",
+    "last_updated": "2026-10-24T23:16:09.861Z",
     "source": "manifest"
   },
   {
@@ -7373,7 +7373,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:00.292Z",
+    "last_updated": "2026-10-24T23:16:10.659Z",
     "source": "manifest"
   },
   {
@@ -7400,7 +7400,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:01.068Z",
+    "last_updated": "2026-10-24T23:16:11.519Z",
     "source": "manifest"
   },
   {
@@ -7429,7 +7429,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:13:01.809Z",
+    "last_updated": "2026-10-24T23:16:12.332Z",
     "source": "manifest"
   },
   {
@@ -7480,7 +7480,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:02.544Z",
+    "last_updated": "2026-10-24T23:16:13.124Z",
     "source": "manifest"
   },
   {
@@ -7519,7 +7519,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:03.287Z",
+    "last_updated": "2026-10-24T23:16:13.904Z",
     "source": "manifest"
   },
   {
@@ -7642,7 +7642,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:04.042Z",
+    "last_updated": "2026-10-24T23:16:14.686Z",
     "source": "manifest"
   },
   {
@@ -7705,7 +7705,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:04.813Z",
+    "last_updated": "2026-10-24T23:16:15.500Z",
     "source": "manifest"
   },
   {
@@ -7732,7 +7732,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:05.555Z",
+    "last_updated": "2026-10-24T23:16:16.250Z",
     "source": "manifest"
   },
   {
@@ -7771,7 +7771,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:06.295Z",
+    "last_updated": "2026-10-24T23:16:17.019Z",
     "source": "manifest"
   },
   {
@@ -7894,7 +7894,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:07.107Z",
+    "last_updated": "2026-10-24T23:16:17.839Z",
     "source": "manifest"
   },
   {
@@ -7969,7 +7969,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:07.899Z",
+    "last_updated": "2026-10-24T23:16:18.710Z",
     "source": "manifest"
   },
   {
@@ -8032,7 +8032,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:08.680Z",
+    "last_updated": "2026-10-24T23:16:19.529Z",
     "source": "manifest"
   },
   {
@@ -8191,7 +8191,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:09.477Z",
+    "last_updated": "2026-10-24T23:16:20.367Z",
     "source": "manifest"
   },
   {
@@ -8230,7 +8230,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:10.265Z",
+    "last_updated": "2026-10-24T23:16:21.180Z",
     "source": "manifest"
   },
   {
@@ -8257,7 +8257,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:11.071Z",
+    "last_updated": "2026-10-24T23:16:21.981Z",
     "source": "manifest"
   },
   {
@@ -8284,7 +8284,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:11.803Z",
+    "last_updated": "2026-10-24T23:16:22.765Z",
     "source": "manifest"
   },
   {
@@ -8335,7 +8335,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:12.554Z",
+    "last_updated": "2026-10-24T23:16:23.551Z",
     "source": "manifest"
   },
   {
@@ -8388,7 +8388,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:13:13.338Z",
+    "last_updated": "2026-10-24T23:16:24.354Z",
     "source": "manifest"
   },
   {
@@ -8451,7 +8451,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:14.079Z",
+    "last_updated": "2026-10-24T23:16:25.117Z",
     "source": "manifest"
   },
   {
@@ -8478,7 +8478,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:14.774Z",
+    "last_updated": "2026-10-24T23:16:25.950Z",
     "source": "manifest"
   },
   {
@@ -8517,7 +8517,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:15.564Z",
+    "last_updated": "2026-10-24T23:16:26.791Z",
     "source": "manifest"
   },
   {
@@ -8556,7 +8556,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:16.338Z",
+    "last_updated": "2026-10-24T23:16:27.654Z",
     "source": "manifest"
   },
   {
@@ -8597,7 +8597,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:13:17.052Z",
+    "last_updated": "2026-10-24T23:16:28.448Z",
     "source": "manifest"
   },
   {
@@ -8638,7 +8638,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:13:17.833Z",
+    "last_updated": "2026-10-24T23:16:29.237Z",
     "source": "manifest"
   },
   {
@@ -8893,7 +8893,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:18.645Z",
+    "last_updated": "2026-10-24T23:16:30.076Z",
     "source": "manifest"
   },
   {
@@ -8980,7 +8980,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:19.395Z",
+    "last_updated": "2026-10-24T23:16:30.922Z",
     "source": "manifest"
   },
   {
@@ -9031,7 +9031,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:20.164Z",
+    "last_updated": "2026-10-24T23:16:31.786Z",
     "source": "manifest"
   },
   {
@@ -9082,7 +9082,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:20.916Z",
+    "last_updated": "2026-10-24T23:16:32.596Z",
     "source": "manifest"
   },
   {
@@ -9169,7 +9169,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:21.763Z",
+    "last_updated": "2026-10-24T23:16:33.407Z",
     "source": "manifest"
   },
   {
@@ -9208,7 +9208,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:22.526Z",
+    "last_updated": "2026-10-24T23:16:34.251Z",
     "source": "manifest"
   },
   {
@@ -9247,7 +9247,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:23.359Z",
+    "last_updated": "2026-10-24T23:16:35.088Z",
     "source": "manifest"
   },
   {
@@ -9276,7 +9276,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:13:24.137Z",
+    "last_updated": "2026-10-24T23:16:35.839Z",
     "source": "manifest"
   },
   {
@@ -9411,7 +9411,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:24.900Z",
+    "last_updated": "2026-10-24T23:16:36.618Z",
     "source": "manifest"
   },
   {
@@ -9450,7 +9450,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:25.639Z",
+    "last_updated": "2026-10-24T23:16:37.389Z",
     "source": "manifest"
   },
   {
@@ -9466,7 +9466,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:13:26.391Z",
+    "last_updated": "2026-10-24T23:16:38.153Z",
     "source": "manifest"
   },
   {
@@ -9615,7 +9615,7 @@
       "filter"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:13:27.200Z",
+    "last_updated": "2026-10-24T23:16:38.973Z",
     "source": "manifest"
   },
   {
@@ -9644,7 +9644,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:13:27.959Z",
+    "last_updated": "2026-10-24T23:16:39.773Z",
     "source": "manifest"
   },
   {
@@ -9721,7 +9721,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:13:28.703Z",
+    "last_updated": "2026-10-24T23:16:40.567Z",
     "source": "manifest"
   },
   {
@@ -9808,7 +9808,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:29.491Z",
+    "last_updated": "2026-10-24T23:16:41.324Z",
     "source": "manifest"
   },
   {
@@ -9859,7 +9859,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:30.295Z",
+    "last_updated": "2026-10-24T23:16:42.141Z",
     "source": "manifest"
   },
   {
@@ -9898,7 +9898,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:31.060Z",
+    "last_updated": "2026-10-24T23:16:43.008Z",
     "source": "manifest"
   },
   {
@@ -9961,7 +9961,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:31.801Z",
+    "last_updated": "2026-10-24T23:16:43.772Z",
     "source": "manifest"
   },
   {
@@ -10026,7 +10026,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:13:33.576Z",
+    "last_updated": "2026-10-24T23:16:44.597Z",
     "source": "manifest"
   },
   {
@@ -10209,7 +10209,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:35.320Z",
+    "last_updated": "2026-10-24T23:16:45.434Z",
     "source": "manifest"
   },
   {
@@ -10260,7 +10260,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:36.117Z",
+    "last_updated": "2026-10-24T23:16:46.261Z",
     "source": "manifest"
   },
   {
@@ -10287,7 +10287,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:36.923Z",
+    "last_updated": "2026-10-24T23:16:47.067Z",
     "source": "manifest"
   },
   {
@@ -10410,7 +10410,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:37.698Z",
+    "last_updated": "2026-10-24T23:16:47.909Z",
     "source": "manifest"
   },
   {
@@ -10441,7 +10441,7 @@
       "dash"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:13:38.433Z",
+    "last_updated": "2026-10-24T23:16:48.648Z",
     "source": "manifest"
   },
   {
@@ -10480,7 +10480,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:39.196Z",
+    "last_updated": "2026-10-24T23:16:49.404Z",
     "source": "manifest"
   },
   {
@@ -10535,7 +10535,7 @@
       "tracking"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:13:39.943Z",
+    "last_updated": "2026-10-24T23:16:50.175Z",
     "source": "manifest"
   },
   {
@@ -10574,7 +10574,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:40.705Z",
+    "last_updated": "2026-10-24T23:16:50.960Z",
     "source": "manifest"
   },
   {
@@ -10601,7 +10601,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:41.401Z",
+    "last_updated": "2026-10-24T23:16:51.743Z",
     "source": "manifest"
   },
   {
@@ -10628,7 +10628,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:42.150Z",
+    "last_updated": "2026-10-24T23:16:52.520Z",
     "source": "manifest"
   },
   {
@@ -10679,7 +10679,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:42.922Z",
+    "last_updated": "2026-10-24T23:16:53.278Z",
     "source": "manifest"
   },
   {
@@ -10730,7 +10730,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:43.712Z",
+    "last_updated": "2026-10-24T23:16:54.186Z",
     "source": "manifest"
   },
   {
@@ -10757,7 +10757,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:44.556Z",
+    "last_updated": "2026-10-24T23:16:54.946Z",
     "source": "manifest"
   },
   {
@@ -10808,7 +10808,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:45.341Z",
+    "last_updated": "2026-10-24T23:16:55.823Z",
     "source": "manifest"
   },
   {
@@ -10835,7 +10835,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:46.251Z",
+    "last_updated": "2026-10-24T23:16:56.617Z",
     "source": "manifest"
   },
   {
@@ -10922,7 +10922,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:47.072Z",
+    "last_updated": "2026-10-24T23:16:57.451Z",
     "source": "manifest"
   },
   {
@@ -10949,7 +10949,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:47.831Z",
+    "last_updated": "2026-10-24T23:16:58.235Z",
     "source": "manifest"
   },
   {
@@ -11024,7 +11024,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:48.624Z",
+    "last_updated": "2026-10-24T23:16:59.010Z",
     "source": "manifest"
   },
   {
@@ -11063,7 +11063,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:49.394Z",
+    "last_updated": "2026-10-24T23:16:59.814Z",
     "source": "manifest"
   },
   {
@@ -11128,7 +11128,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:13:50.182Z",
+    "last_updated": "2026-10-24T23:17:00.584Z",
     "source": "manifest"
   },
   {
@@ -11155,7 +11155,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:50.922Z",
+    "last_updated": "2026-10-24T23:17:01.429Z",
     "source": "manifest"
   },
   {
@@ -11242,7 +11242,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:51.710Z",
+    "last_updated": "2026-10-24T23:17:02.197Z",
     "source": "manifest"
   },
   {
@@ -11283,7 +11283,7 @@
       "animx"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:13:52.469Z",
+    "last_updated": "2026-10-24T23:17:03.006Z",
     "source": "manifest"
   },
   {
@@ -11338,7 +11338,7 @@
       "allowlist"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:13:53.239Z",
+    "last_updated": "2026-10-24T23:17:03.809Z",
     "source": "manifest"
   },
   {
@@ -11381,7 +11381,7 @@
       "OnSaving"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:13:54.084Z",
+    "last_updated": "2026-10-24T23:17:04.629Z",
     "source": "manifest"
   },
   {
@@ -11414,7 +11414,7 @@
       "cheese"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:13:54.843Z",
+    "last_updated": "2026-10-24T23:17:05.512Z",
     "source": "manifest"
   },
   {
@@ -11469,7 +11469,7 @@
       "sessions"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:13:55.654Z",
+    "last_updated": "2026-10-24T23:17:06.343Z",
     "source": "manifest"
   },
   {
@@ -11500,7 +11500,7 @@
       "alignment"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:13:56.397Z",
+    "last_updated": "2026-10-24T23:17:07.092Z",
     "source": "manifest"
   },
   {
@@ -11579,7 +11579,7 @@
       "dynamicvariablespace"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:13:57.184Z",
+    "last_updated": "2026-10-24T23:17:07.885Z",
     "source": "manifest"
   },
   {
@@ -11666,7 +11666,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:57.959Z",
+    "last_updated": "2026-10-24T23:17:08.693Z",
     "source": "manifest"
   },
   {
@@ -11765,7 +11765,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:58.728Z",
+    "last_updated": "2026-10-24T23:17:09.554Z",
     "source": "manifest"
   },
   {
@@ -11804,7 +11804,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:13:59.483Z",
+    "last_updated": "2026-10-24T23:17:10.351Z",
     "source": "manifest"
   },
   {
@@ -11843,7 +11843,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:00.245Z",
+    "last_updated": "2026-10-24T23:17:11.100Z",
     "source": "manifest"
   },
   {
@@ -11906,7 +11906,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:00.974Z",
+    "last_updated": "2026-10-24T23:17:11.854Z",
     "source": "manifest"
   },
   {
@@ -11957,7 +11957,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:01.702Z",
+    "last_updated": "2026-10-24T23:17:12.645Z",
     "source": "manifest"
   },
   {
@@ -12008,7 +12008,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:02.470Z",
+    "last_updated": "2026-10-24T23:17:13.414Z",
     "source": "manifest"
   },
   {
@@ -12047,7 +12047,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:03.240Z",
+    "last_updated": "2026-10-24T23:17:14.210Z",
     "source": "manifest"
   },
   {
@@ -12074,7 +12074,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:04.095Z",
+    "last_updated": "2026-10-24T23:17:14.989Z",
     "source": "manifest"
   },
   {
@@ -12161,7 +12161,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:04.883Z",
+    "last_updated": "2026-10-24T23:17:15.771Z",
     "source": "manifest"
   },
   {
@@ -12340,7 +12340,51 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:14:05.630Z",
+    "last_updated": "2026-10-24T23:17:16.706Z",
+    "source": "manifest"
+  },
+  {
+    "name": "BabbleFrameRuntime",
+    "description": "Adds native support for the Babble Frame Runtime BabbleLink protocol. No VRCFT required.",
+    "category": "Hardware Integration",
+    "source_location": "https://github.com/eth0fox/resonite-babblelink",
+    "author": "eth0fox",
+    "latest_version": "1.1.0",
+    "latest_download_url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.1.0/BabbleLinkMod.dll",
+    "releases": [
+      {
+        "version": "1.1.0",
+        "download_url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.1.0/BabbleLinkMod.dll",
+        "release_url": "https://github.com/eth0fox/resonite-babblelink/releases/tag/1.1.0",
+        "published_at": "2026-10-23T11:44:28Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": "- add config to enable/disable, bypass headset detection & port number\r\n- fix noisy logging\r\n- build on GitHub actions",
+        "file_name": "BabbleLinkMod.dll",
+        "file_size": 24576,
+        "sha256": "081652b9e265ddd04a4864313a227dc03af9c2e0c4eec08a9df42765094c5437"
+      },
+      {
+        "version": "1.0.0",
+        "download_url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.0.0/BabbleLinkMod.dll",
+        "release_url": "https://github.com/eth0fox/resonite-babblelink/releases/tag/1.0.0",
+        "published_at": "2026-10-22T15:13:55Z",
+        "prerelease": false,
+        "draft": false,
+        "changelog": null,
+        "file_name": "BabbleLinkMod.dll",
+        "file_size": 21504,
+        "sha256": "0a5c861627d15e45c336e4e83c85299bb7b8d97b6477c705302535086bb32955"
+      }
+    ],
+    "tags": [
+      "steamframe",
+      "facetracking",
+      "eyetracking",
+      "babble"
+    ],
+    "flags": null,
+    "last_updated": "2026-10-24T23:17:20.206Z",
     "source": "manifest"
   },
   {
@@ -12403,7 +12447,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:06.411Z",
+    "last_updated": "2026-10-24T23:17:21.036Z",
     "source": "manifest"
   },
   {
@@ -12476,7 +12520,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:14:07.176Z",
+    "last_updated": "2026-10-24T23:17:21.785Z",
     "source": "manifest"
   },
   {
@@ -12563,7 +12607,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:07.912Z",
+    "last_updated": "2026-10-24T23:17:22.898Z",
     "source": "manifest"
   },
   {
@@ -12630,7 +12674,7 @@
       "gaze"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:14:08.694Z",
+    "last_updated": "2026-10-24T23:17:23.752Z",
     "source": "manifest"
   },
   {
@@ -12755,7 +12799,7 @@
       "world"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:14:09.526Z",
+    "last_updated": "2026-10-24T23:17:24.504Z",
     "source": "manifest"
   },
   {
@@ -12782,7 +12826,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:10.242Z",
+    "last_updated": "2026-10-24T23:17:25.357Z",
     "source": "manifest"
   },
   {
@@ -12809,7 +12853,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:10.996Z",
+    "last_updated": "2026-10-24T23:17:26.120Z",
     "source": "manifest"
   },
   {
@@ -12836,7 +12880,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:11.867Z",
+    "last_updated": "2026-10-24T23:17:27.038Z",
     "source": "manifest"
   },
   {
@@ -12850,7 +12894,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:11.867Z",
+    "last_updated": "2026-10-24T23:17:27.039Z",
     "source": "manifest"
   },
   {
@@ -12864,7 +12908,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:11.867Z",
+    "last_updated": "2026-10-24T23:17:27.039Z",
     "source": "manifest"
   },
   {
@@ -12878,7 +12922,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:11.867Z",
+    "last_updated": "2026-10-24T23:17:27.039Z",
     "source": "manifest"
   },
   {
@@ -12892,7 +12936,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:11.867Z",
+    "last_updated": "2026-10-24T23:17:27.039Z",
     "source": "manifest"
   },
   {
@@ -12906,7 +12950,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:11.867Z",
+    "last_updated": "2026-10-24T23:17:27.039Z",
     "source": "manifest"
   },
   {
@@ -12920,7 +12964,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:11.867Z",
+    "last_updated": "2026-10-24T23:17:27.039Z",
     "source": "manifest"
   },
   {
@@ -12934,7 +12978,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:11.867Z",
+    "last_updated": "2026-10-24T23:17:27.039Z",
     "source": "manifest"
   },
   {
@@ -12950,7 +12994,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:14:11.867Z",
+    "last_updated": "2026-10-24T23:17:27.039Z",
     "source": "manifest"
   },
   {
@@ -12964,7 +13008,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:11.867Z",
+    "last_updated": "2026-10-24T23:17:27.039Z",
     "source": "manifest"
   },
   {
@@ -12978,7 +13022,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:11.868Z",
+    "last_updated": "2026-10-24T23:17:27.039Z",
     "source": "manifest"
   },
   {
@@ -12992,7 +13036,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:11.868Z",
+    "last_updated": "2026-10-24T23:17:27.039Z",
     "source": "manifest"
   },
   {
@@ -13008,7 +13052,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:14:11.868Z",
+    "last_updated": "2026-10-24T23:17:27.039Z",
     "source": "manifest"
   },
   {
@@ -13059,7 +13103,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:12.620Z",
+    "last_updated": "2026-10-24T23:17:28.340Z",
     "source": "manifest"
   },
   {
@@ -13073,7 +13117,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:12.620Z",
+    "last_updated": "2026-10-24T23:17:28.340Z",
     "source": "manifest"
   },
   {
@@ -13087,7 +13131,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:12.620Z",
+    "last_updated": "2026-10-24T23:17:28.340Z",
     "source": "manifest"
   },
   {
@@ -13138,7 +13182,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:13.384Z",
+    "last_updated": "2026-10-24T23:17:29.113Z",
     "source": "manifest"
   },
   {
@@ -13201,7 +13245,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:14.153Z",
+    "last_updated": "2026-10-24T23:17:29.915Z",
     "source": "manifest"
   },
   {
@@ -13300,7 +13344,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:14.935Z",
+    "last_updated": "2026-10-24T23:17:30.768Z",
     "source": "manifest"
   },
   {
@@ -13339,7 +13383,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:15.767Z",
+    "last_updated": "2026-10-24T23:17:31.542Z",
     "source": "manifest"
   },
   {
@@ -13384,7 +13428,7 @@
       "scale"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:14:16.532Z",
+    "last_updated": "2026-10-24T23:17:32.308Z",
     "source": "manifest"
   },
   {
@@ -13428,7 +13472,7 @@
       "avatar"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:14:17.274Z",
+    "last_updated": "2026-10-24T23:17:33.117Z",
     "source": "manifest"
   },
   {
@@ -13623,7 +13667,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:18.033Z",
+    "last_updated": "2026-10-24T23:17:33.899Z",
     "source": "manifest"
   },
   {
@@ -13746,7 +13790,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:18.812Z",
+    "last_updated": "2026-10-24T23:17:34.686Z",
     "source": "manifest"
   },
   {
@@ -13838,7 +13882,7 @@
       "orb"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:14:19.576Z",
+    "last_updated": "2026-10-24T23:17:35.504Z",
     "source": "manifest"
   },
   {
@@ -13865,7 +13909,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:20.354Z",
+    "last_updated": "2026-10-24T23:17:36.348Z",
     "source": "manifest"
   },
   {
@@ -13879,7 +13923,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:20.355Z",
+    "last_updated": "2026-10-24T23:17:36.348Z",
     "source": "manifest"
   },
   {
@@ -13893,7 +13937,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:20.355Z",
+    "last_updated": "2026-10-24T23:17:36.348Z",
     "source": "manifest"
   },
   {
@@ -13907,7 +13951,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:20.355Z",
+    "last_updated": "2026-10-24T23:17:36.348Z",
     "source": "manifest"
   },
   {
@@ -13921,7 +13965,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:20.355Z",
+    "last_updated": "2026-10-24T23:17:36.348Z",
     "source": "manifest"
   },
   {
@@ -13935,7 +13979,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:20.355Z",
+    "last_updated": "2026-10-24T23:17:36.348Z",
     "source": "manifest"
   },
   {
@@ -13949,7 +13993,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:20.355Z",
+    "last_updated": "2026-10-24T23:17:36.348Z",
     "source": "manifest"
   },
   {
@@ -13963,7 +14007,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:20.355Z",
+    "last_updated": "2026-10-24T23:17:36.348Z",
     "source": "manifest"
   },
   {
@@ -13977,7 +14021,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:20.355Z",
+    "last_updated": "2026-10-24T23:17:36.348Z",
     "source": "manifest"
   },
   {
@@ -13991,7 +14035,7 @@
     "releases": [],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:20.355Z",
+    "last_updated": "2026-10-24T23:17:36.348Z",
     "source": "manifest"
   },
   {
@@ -14114,7 +14158,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:21.209Z",
+    "last_updated": "2026-10-24T23:17:37.214Z",
     "source": "manifest"
   },
   {
@@ -14143,7 +14187,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:14:22.028Z",
+    "last_updated": "2026-10-24T23:17:38.063Z",
     "source": "manifest"
   },
   {
@@ -14170,7 +14214,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:22.795Z",
+    "last_updated": "2026-10-24T23:17:38.851Z",
     "source": "manifest"
   },
   {
@@ -14269,7 +14313,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:23.580Z",
+    "last_updated": "2026-10-24T23:17:39.618Z",
     "source": "manifest"
   },
   {
@@ -14296,7 +14340,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:24.380Z",
+    "last_updated": "2026-10-24T23:17:40.419Z",
     "source": "manifest"
   },
   {
@@ -14383,7 +14427,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:25.137Z",
+    "last_updated": "2026-10-24T23:17:41.312Z",
     "source": "manifest"
   },
   {
@@ -14422,7 +14466,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:25.907Z",
+    "last_updated": "2026-10-24T23:17:42.068Z",
     "source": "manifest"
   },
   {
@@ -14485,7 +14529,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:26.633Z",
+    "last_updated": "2026-10-24T23:17:42.869Z",
     "source": "manifest"
   },
   {
@@ -14598,7 +14642,7 @@
     "flags": [
       "deprecated"
     ],
-    "last_updated": "2026-10-24T21:14:27.468Z",
+    "last_updated": "2026-10-24T23:17:43.665Z",
     "source": "manifest"
   },
   {
@@ -14685,7 +14729,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:28.225Z",
+    "last_updated": "2026-10-24T23:17:44.474Z",
     "source": "manifest"
   },
   {
@@ -14772,7 +14816,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:29.018Z",
+    "last_updated": "2026-10-24T23:17:45.244Z",
     "source": "manifest"
   },
   {
@@ -14835,7 +14879,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:29.836Z",
+    "last_updated": "2026-10-24T23:17:46.022Z",
     "source": "manifest"
   },
   {
@@ -14910,7 +14954,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:30.626Z",
+    "last_updated": "2026-10-24T23:17:46.884Z",
     "source": "manifest"
   },
   {
@@ -14961,7 +15005,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:31.378Z",
+    "last_updated": "2026-10-24T23:17:47.701Z",
     "source": "manifest"
   },
   {
@@ -15012,7 +15056,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:32.208Z",
+    "last_updated": "2026-10-24T23:17:48.505Z",
     "source": "manifest"
   },
   {
@@ -15063,7 +15107,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:33.007Z",
+    "last_updated": "2026-10-24T23:17:49.308Z",
     "source": "manifest"
   },
   {
@@ -15186,7 +15230,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:33.766Z",
+    "last_updated": "2026-10-24T23:17:50.171Z",
     "source": "manifest"
   },
   {
@@ -15225,7 +15269,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:34.612Z",
+    "last_updated": "2026-10-24T23:17:50.946Z",
     "source": "manifest"
   },
   {
@@ -15288,7 +15332,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:35.360Z",
+    "last_updated": "2026-10-24T23:17:51.744Z",
     "source": "manifest"
   },
   {
@@ -15519,7 +15563,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:36.187Z",
+    "last_updated": "2026-10-24T23:17:52.600Z",
     "source": "manifest"
   },
   {
@@ -15582,7 +15626,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:37.055Z",
+    "last_updated": "2026-10-24T23:17:53.437Z",
     "source": "manifest"
   },
   {
@@ -15621,7 +15665,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:37.799Z",
+    "last_updated": "2026-10-24T23:17:54.196Z",
     "source": "manifest"
   },
   {
@@ -15660,7 +15704,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:38.555Z",
+    "last_updated": "2026-10-24T23:17:55.009Z",
     "source": "manifest"
   },
   {
@@ -15687,7 +15731,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:39.297Z",
+    "last_updated": "2026-10-24T23:17:55.748Z",
     "source": "manifest"
   },
   {
@@ -15726,7 +15770,7 @@
     ],
     "tags": null,
     "flags": null,
-    "last_updated": "2026-10-24T21:14:40.053Z",
+    "last_updated": "2026-10-24T23:17:56.545Z",
     "source": "manifest"
   },
   {
@@ -15912,7 +15956,7 @@
       "v0.2.0"
     ],
     "flags": null,
-    "last_updated": "2026-10-24T21:14:40.689Z",
+    "last_updated": "2026-10-24T23:17:56.877Z",
     "source": "additional"
   }
 ]

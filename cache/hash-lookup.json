@@ -5340,6 +5340,20 @@
     "file_name": "GetItemLink.dll",
     "file_size": 8192
   },
+  "081652b9e265ddd04a4864313a227dc03af9c2e0c4eec08a9df42765094c5437": {
+    "mod_name": "BabbleFrameRuntime",
+    "version": "1.1.0",
+    "download_url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.1.0/BabbleLinkMod.dll",
+    "file_name": "BabbleLinkMod.dll",
+    "file_size": 24576
+  },
+  "0a5c861627d15e45c336e4e83c85299bb7b8d97b6477c705302535086bb32955": {
+    "mod_name": "BabbleFrameRuntime",
+    "version": "1.0.0",
+    "download_url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.0.0/BabbleLinkMod.dll",
+    "file_name": "BabbleLinkMod.dll",
+    "file_size": 21504
+  },
   "d621b87e4bec4806cfd164ee56f8b44f9c972adecba70561cb7a48e08b77ddc8": {
     "mod_name": "HeadCullingMask",
     "version": "v2.0.0",
