@@ -1007,6 +1007,20 @@
     "file_name": "ResoniteLinuxClipboard.dll",
     "file_size": 15360
   },
+  "fd1404863eb6525ee3e5fca0fa467f24b6ffc51200e6c88c8d42022e675e1584": {
+    "mod_name": "Console",
+    "version": "1.0.1",
+    "download_url": "https://github.com/KannyaResonite/Console/releases/download/1.0.1/Console.dll",
+    "file_name": "Console.dll",
+    "file_size": 10240
+  },
+  "f2ba3f0b61664cfb07eff6cfbc04e5f996094a40760f93c08fa6d1e55a305c53": {
+    "mod_name": "Console",
+    "version": "1.0.0",
+    "download_url": "https://github.com/KannyaResonite/Console/releases/download/1.0.0/Console.dll",
+    "file_name": "Console.dll",
+    "file_size": 7168
+  },
   "9774cd4f834f85031c9192a3b5adffd3561a9d2f83c0a49defdb0670cba0d6d6": {
     "mod_name": "ColourMyFiles",
     "version": "1.0.1",
