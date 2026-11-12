@@ -2323,6 +2323,13 @@
     "file_name": "NeosBetterIMESupport.dll",
     "file_size": 10240
   },
+  "63cea00dc72d5aebfe71ca93f68b0179de3af9a561761996e16e2d90d51e4ff0": {
+    "mod_name": "ResoniteScreenshotExtensions",
+    "version": "v2.2.1",
+    "download_url": "https://github.com/hantabaru1014/ResoniteScreenshotExtensions/releases/download/v2.2.1/ResoniteScreenshotExtensions.dll",
+    "file_name": "ResoniteScreenshotExtensions.dll",
+    "file_size": 59904
+  },
   "f2ab9c0c3871f0b09dfe61a093ad95c759e7511e8f9035f67d9fe20eabf62382": {
     "mod_name": "ResoniteScreenshotExtensions",
     "version": "v2.2.0",
@@ -2658,6 +2665,20 @@
     "download_url": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/download/v1.0.0/GrabbersGalore.dll",
     "file_name": "GrabbersGalore.dll",
     "file_size": 8704
+  },
+  "faa375aa914c25250d0cfb78b82673a0e9d220c621cb86221942881b2b7e36df": {
+    "mod_name": "HandsUpFingerPhoto",
+    "version": "v1.1.1",
+    "download_url": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/download/v1.1.1/HandsUpFingerPhoto.dll",
+    "file_name": "HandsUpFingerPhoto.dll",
+    "file_size": 12800
+  },
+  "4167341626af63df3fea3b7a0bb8cbbfa8408fd3fd89201d57afd3c6df318c46": {
+    "mod_name": "HandsUpFingerPhoto",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/download/v1.0.0/HandsUpFingerPhoto.dll",
+    "file_name": "HandsUpFingerPhoto.dll",
+    "file_size": 12288
   },
   "46eeddbdd84eb4801b8f16b6d5981955577593254494d6e4ce0ad9fb9de2eb08": {
     "mod_name": "UnifiedExpressionMapper",
