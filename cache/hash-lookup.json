@@ -6460,6 +6460,13 @@
     "file_name": "LeftHandedProtoFlux.dll",
     "file_size": 9216
   },
+  "f5d5365f6092f9440fb7c4b2b07fa6b1cd9e5aeff7f0184def402d2c8e641b6e": {
+    "mod_name": "LinuxNativeDesktop",
+    "version": "v1.0.0",
+    "download_url": "https://github.com/Nytra/ResoniteLinuxNativeDesktop/releases/download/v1.0.0/LinuxNativeDesktop.dll",
+    "file_name": "LinuxNativeDesktop.dll",
+    "file_size": 94720
+  },
   "02918b19775a27d04cedbf9f4b894770086c1c86bbd3b932eb3c0830b8ba563b": {
     "mod_name": "LogFlush",
     "version": "v1.1.1",
